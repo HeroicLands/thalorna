@@ -62,7 +62,7 @@ sohl: {system: {commonSkills: [tantsoulng]}}
 
 Doulwen Province is the western province of the [[affiliation-tantsouempr|Empire of Tantsou]], with about 22 million people. It holds the basins below the western mountains and the passes toward the [[place-khzryndsrtrgn|Khazrin]], where [[lore-celestialroad|the Celestial Road]] comes down into the empire, and its Prince rules from the city of [[place-doulwen|Doulwen]], where the caravans unload.
 
-Its Prince, of the [[lore-zhazho|Zhazho]], is a younger Prince, rising fast. He stands for reform, and he has the ear of the young Emperor. The other three Princes watch him in the [[lore-weizhairui|Wei Zhai Rwi]], since the court's favor shifts with every reading of the stars, and a Prince who rises quickly is the one they work hardest to bring down.
+Its Prince, [[being-chengzhodlwn|Chengzho]], of the [[lore-zhazho|Zhazho]], is a younger Prince, rising fast. He stands for reform, and he has the ear of the young Emperor. The other three Princes watch him in the [[lore-weizhairui|Wei Zhai Rwi]], since the court's favor shifts with every reading of the stars, and a Prince who rises quickly is the one they work hardest to bring down.
 
 The mountain villages above the passes and the soldier families of their garrisons are of the [[lore-tantsoumrchclt|Tantsou Frontier Peoples]].
 

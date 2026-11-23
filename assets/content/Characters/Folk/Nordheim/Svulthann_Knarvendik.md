@@ -1,15 +1,15 @@
 ---
 shortcode: svulthannkna
-name: {full: Svulthann Knarvendik, en: [Magistrate-Commander Svulthann Knarvendik]}
+name: {full: Svulthann Knarvendik}
 type: being
 subType: npc
-description: Magistrate-Commander and military quartermaster of the Nordheim garrison, who places annual orders for campaign tents, named in Braldthann Veturdomur.
+description: An officer of the king's muster who places annual orders for campaign tents, named in Braldthann Veturdomur.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior]
-  occupation: Magistrate-Commander
+  occupation: Muster Officer
   lore: []
   culture: nordheimnclt
   homes: []
@@ -42,4 +42,4 @@ Svulthann Knarvendik is a 52-year-old man who stands 6'1" tall with a light buil
 
 # Dossier {#dossier}
 
-Svulthann Knarvendik is the magistrate-commander and military quartermaster of the [[affiliation-kngdmnrdhm|Nordheim garrison]], who places annual orders for campaign tents. He values [[being-brldthnvtrdmr|Braldthann Veturdomur]]'s work so highly that he has never sought alternatives. Svulthann Knarvendik is named in Braldthann Veturdomur.
+Svulthann Knarvendik is an officer of the king's muster in [[affiliation-kngdmnrdhm|Nordheim]], who places annual orders for campaign tents. He values [[being-brldthnvtrdmr|Braldthann Veturdomur]]'s work so highly that he has never sought alternatives. Svulthann Knarvendik is named in Braldthann Veturdomur.

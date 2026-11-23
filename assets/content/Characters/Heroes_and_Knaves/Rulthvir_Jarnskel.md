@@ -3,6 +3,7 @@ shortcode: rlthvrjrnskl
 name: {full: Rulthvir Jarnskel, given: Rulthvir, clan: Jarnskel}
 type: being
 subType: character
+description: "A herder of Norgaad whose high-valley flocks feed the garrison and raider crews of Vrathavan, a traditionalist adviser to dozens of herding families and a keeper of old herding wisdom."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -456,7 +457,7 @@ By his late teens, Rulthvir had proven himself a fine herder, commanding respect
 
 ### The Current Era
 
-Now, at forty-five, Rulthvir has become something of a byword in Norgaad's pastoral communities. His herds are the healthiest, his livestock the strongest, and farmers from three regions seek his counsel on animal husbandry, disease prevention, and grazing strategies. He's watched the world change around him—new kingdoms rise, trade routes shift, younger herders adopt new techniques—and he's remained largely unmoved, maintaining methods that his grandfather used because those methods still work. There is a stability to Rulthvir Jarnskel; he seems as immovable as the mountains.
+Now, at forty-five, Rulthvir sends young stock to the garrison and the raider crews of [[place-vrathavan|Vrathavan]] and has become something of a byword in Norgaad's pastoral communities. His herds are the healthiest, his livestock the strongest, and farmers from three regions seek his counsel on animal husbandry, disease prevention, and grazing strategies. He's watched the world change around him—new kingdoms rise, trade routes shift, younger herders adopt new techniques—and he's remained largely unmoved, maintaining methods that his grandfather used because those methods still work. There is a stability to Rulthvir Jarnskel; he seems as immovable as the mountains.
 
 ## Psyche
 
@@ -494,7 +495,7 @@ Rulthvir is motivated by a desire that extends beyond human ambition—he wants 
 
 ### Patrons
 
-Lord [[being-skrldmylstrmbrn|Skrilmil Stormborn]]
+[[being-skrldmylstrmbrn|Skrilmil Stormborn]]
 : A powerful regional noble who depends on Rulthvir's knowledge to maintain the livestock that supplies his household and feeds his warriors. Skrilmil has significant respect for Rulthvir's judgment and occasionally seeks his counsel on matters beyond herding.
 
 The Pastoral Families of Norgaad
@@ -509,22 +510,23 @@ None formally, though there are subtle tensions with younger herders who view Ru
 The Jarnskel Clan
 : - He remains bound to his family, though his primary emotional investment is in his herds rather than in clan politics.
 
-[The Norgaad Pastoral Association]{.name data-type="affiliation"}
+The Herders of Norgaad
 : - An informal network of herders across the region who gather seasonally to share knowledge and address common challenges. Rulthvir is a respected elder and keeper of traditional wisdom.
 
 ## Plot Hooks
 
-The Plague Among the Herds
-: - A mysterious illness begins spreading among livestock across Norgaad, affecting cattle, sheep, and goats indiscriminately. Rulthvir's herds are among the first infected, and his ability to contain the spread becomes critical to regional survival. The disease appears to have no natural cause, leading to talk of magical corruption or divine punishment. Rulthvir must work with healers, nobles, and possibly adventurers to identify the source while watching his beloved herds sicken and die. The crisis tests whether traditional knowledge is enough or whether new approaches are needed.
+The Sick Herds
+: A mysterious illness spreads through the cattle, sheep and goats of Norgaad, and Rulthvir's herds are among the first it reaches. The garrison and raider crews at [[place-vrathavan|Vrathavan]], who recruit for the summer raids, expect meat. Talk of magical corruption or divine punishment begins. He can work with healers and nobles to find the cause and let his own herds suffer, quarantine them and refuse the garrison, or slaughter the sick to feed the crews.
 
-The Herder's Choice
-: - Rulthvir's son, **Snilthann the Younger**, seeks permission to leave the herding life to train as a warrior in a distant kingdom. Rulthvir, who has always assumed his son would continue the family tradition, is devastated and refuses to grant permission. Snilthann goes anyway, creating a rift that forces Rulthvir to ask whether tradition can be preserved by compulsion or only by willing choice.
+Snilthann's Leaving
+: His son, Snilthann the Younger, asks leave to train as a warrior in a distant kingdom. Rulthvir has always assumed his son would carry the herd on, and refuses. Snilthann goes anyway, and the family's rift deepens. Rulthvir can send for him and ask him back, or let him go and accept that tradition survives only by choice.
 
-The Ecological Shift
-: - Over successive seasons, Rulthvir notices that the climate of his traditional pasturing regions is changing in subtle but concerning ways. The mountains that have reliably provided water sources are producing less runoff. Plant growth patterns are shifting. The understanding of his environment that has guided him for decades is becoming unreliable. He can abandon centuries of family tradition and move his herds to new territories, or keep his holding going in increasingly hard conditions.
+The Shrinking Streams
+: Over several seasons the mountains that give his pastures water give less runoff, and plant growth shifts. The understanding of the land that has guided him for decades becomes unreliable. He can move the herds to new ground and abandon the family's valleys, or hold his holding through ever harder years.
 
-The Mysterious Stranger's Request
-: - A wealthy, mysterious traveler arrives requesting that Rulthvir provide her with a specific animal from his herds—not a young breeding animal or a prized specimen, but a particular ordinary sheep or goat that seems unremarkable. When Rulthvir refuses without explanation, the stranger becomes insistent, offering sums of money far exceeding the animal's value. The implication is that something is unusual about this particular creature, and Rulthvir is forced to investigate while under mounting pressure from this stranger.
+The Plowman's Plan
+: Regional lords discuss converting traditional pastoral land to formal farmland. The project would enrich the region and end the pastoral way of life Rulthvir has spent his life preserving. His standing among herders makes him their natural leader against it, though he has never opposed powerful men. He can organize the herders at the ting, accept the plan and sell, or rely on Skrilmil Stormborn to protect his holding.
 
-The Alliance Against the Encroachment
-: - Regional lords begin discussing grand plans to expand agricultural development, which would involve converting Rulthvir's traditional pastoral lands into formal farmland. While the project would theoretically benefit the broader region economically, it would destroy the pastoral way of life that Rulthvir has devoted his entire existence to preserving. He must organize political opposition to the project. His wisdom and the respect he commands in the region make him a natural leader of resistance, though he has never before set himself against powerful forces.
+:::secret {title="What the referee knows"}
+A wealthy stranger demands a particular, ordinary-looking sheep or goat from Rulthvir's herd and offers far more than it is worth. When he refuses she becomes insistent. Something about the animal is unusual, and he must find out what while the stranger presses him.
+:::

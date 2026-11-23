@@ -3,6 +3,7 @@ shortcode: hlrthsldhrngsdtr
 name: {full: Hlirthselda Hringsdottir, given: Hlirthselda, en: [the Shield-Maiden of Vrathavan]}
 type: being
 subType: character
+description: "A huscarl of Vrathavan in Norgaad, a spear-and-shield warrior from a warrior clan who travels with the seid Tvarninda to defend her homeland."
 tags: [heroes-and-knaves, hero, soldiery]
 data:
   icon: icon-person
@@ -455,7 +456,7 @@ Hlirthselda is 5’10" with a strong, athletic build, weighing about 180 pounds.
 
 # Dossier {#dossier}
 
-Hlirthselda is a fierce warrior from the trading town of [[place-vrathavan|Vrathavan]], a town known for its warlike traditions and its ships of raiders. Born into a warrior clan, Hlirthselda was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Hlirthselda first encountered [[being-grosdrnrgd|Groa]] during a battle with raiders from the [[affiliation-kingdmtrgd|Kingdom of Targud]]. [[being-grosdrnrgd|Groa]]’s strange powers and ability to foresee the movements of the enemy saved Hlirthselda’s warband and won her respect.
+Hlirthselda is a fierce warrior from [[place-vrathavan|Vrathavan]], Norgaad's principal port, a fortified town known for its warlike traditions, its garrison and its ships of raiders. Born into a warrior clan, Hlirthselda was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Hlirthselda first encountered [[being-grosdrnrgd|Tvarninda]] during a battle with raiders from the [[affiliation-kingdmtrgd|Kingdom of Targud]]. [[being-grosdrnrgd|Tvarninda]]’s strange powers and ability to foresee the movements of the enemy saved Hlirthselda’s warband and won her respect.
 
 ## Background
 
@@ -507,11 +508,11 @@ Voice
 
 ### Personality
 
-Hlirthselda is practical, courageous, and fiercely loyal. While she does not fully understand [[being-grosdrnrgd|Groa]]’s magic, she respects the Seid’s abilities and trusts her wisdom. She is also deeply protective of [[being-grosdrnrgd|Groa]], seeing her as a vulnerable ally in need of a strong sword-arm.
+Hlirthselda is practical, courageous, and fiercely loyal. While she does not fully understand [[being-grosdrnrgd|Tvarninda]]’s magic, she respects the Seid’s abilities and trusts her wisdom. She is also deeply protective of [[being-grosdrnrgd|Tvarninda]], seeing her as a vulnerable ally in need of a strong sword-arm.
 
 ### Motivation
 
-Hlirthselda joins [[being-grosdrnrgd|Groa]] because she believes in the Seid’s vision of the coming dangers. She knows that her skills as a warrior will be needed to defend Norgaad, and she sees herself as a protector of both her homeland and [[being-grosdrnrgd|Groa]].
+Hlirthselda joins [[being-grosdrnrgd|Tvarninda]] because she believes in the Seid’s vision of the coming dangers. She knows that her skills as a warrior will be needed to defend Norgaad, and she sees herself as a protector of both her homeland and [[being-grosdrnrgd|Tvarninda]].
 
 ### Strengths
 
@@ -532,14 +533,15 @@ raiders
 
 ## Plot Hooks
 
-The Oathkeeper’s Trial
-: Hlirthselda discovers an ancient shield buried beneath her family’s longhouse, marked with runes of protection and strength. Her clan elders reveal it once belonged to her ancestor, a famed oathkeeper who made a vow never to raise arms unjustly. To wield it, Hlirthselda must undertake trials to prove her honor and strength, culminating in a confrontation with an ancient foe of her family.
-
-Waves of Betrayal
-: During a routine patrol, Hlirthselda intercepts raiders bearing symbols of Targud, a tribe her warband thought defeated. Investigation reveals that a nearby clan has secretly allied with the raiders to weaken Norgaad’s defenses. Hlirthselda must expose their treachery and rally her people, risking open conflict between the clans.
+Raiders Under Foreign Marks
+: On patrol, Hlirthselda stops raiders carrying the symbols of a clan her warband thought defeated. Questioning shows a nearby clan has secretly allied with them to weaken Norgaad's defenses. The garrison at [[place-vrathavan|Vrathavan]] holds the proof that she needs and the clan's chief has friends at the ting. She can expose the treachery and risk open feud between the clans, or deliver the raiders and keep quiet about who armed them.
 
 The Crimson Banner
-: A rival shield-maiden challenges Hlirthselda to lead a raid into contested territory to recover a sacred relic—a crimson banner said to bring victory in battle. The mission forces Hlirthselda to handle treacherous terrain, hostile enemies, and the tension of competing loyalties within her own warband.
+: A rival shield-maiden challenges Hlirthselda to lead a raid into contested ground to recover a sacred banner said to bring victory. The way is hard, the enemies are hostile and her own warband is divided over which of them it follows. She can lead the raid and answer to both sides, or refuse and give the rival the standing.
 
-The Ghosts of Vrathavan
-: After a fierce storm, the spirits of fallen warriors are seen wandering the outskirts of Vrathavan, lamenting their unfulfilled oaths. Hlirthselda learns that these warriors fought under her family’s banner but were betrayed by a forgotten ally. To lay their spirits to rest, she must uncover the truth of their betrayal and bring justice to those responsible, even if it means facing powerful enemies.
+The Unquiet Oaths
+: After a storm, the spirits of fallen warriors are seen at the edge of [[place-vrathavan|Vrathavan]], lamenting oaths they never fulfilled. They fought under her family's banner and were betrayed by an ally the family has forgotten. She can seek out the ally's descendants and ask for the truth, or leave the dead at the edge of the town.
+
+:::secret {title="What the referee knows"}
+Beneath her family's longhouse Hlirthselda finds an ancient shield marked with runes of protection and strength. It belonged to an ancestor, a famed oathkeeper who vowed never to raise arms unjustly. To wield it she must pass trials that prove her honor and strength and end with a confrontation with an old foe of her family.
+:::

@@ -7,6 +7,7 @@ name:
   en: [Firehair, the Shipwright's Son]
 type: being
 subType: character
+description: "A shipwright of Thraskvík in Norgaad, a yard family's son with a latent talent for fire magic, who travels with the seid Tvarninda and learns to control his gift."
 tags: [heroes-and-knaves, hero, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -15,7 +16,7 @@ data:
   occupation: Shipwright
   lore: []
   culture: nordheimnclt
-  homes: [tvarnmark]
+  homes: [thraskvik]
   affiliations: {kingdmnrgd: {rank: 3}, svartbrandur: {rank: 1}}
   gender: male
   species: humanflk
@@ -456,7 +457,7 @@ Vrathmil Firehair stands 6'1" tall with a light build. He has weather-roughened 
 
 Vrathmil is the son of a shipwright family in the port town of [[place-thraskvik|Thraskvík]], one of the most vital coastal towns in [[place-norgaad|Norgaad]]. From a young age, Vrathmil was trained in the art of shipbuilding, mastering the craft of creating the sleek and deadly longships that Norgaad is famous for. However, despite his family’s pride in their trade, Vrathmil felt a strong pull toward the arcane. As a child, he witnessed a mysterious fire spirit in the shipyard, sparking a lifelong fascination with magic and the spirit world.
 
-Vrathmil’s striking red hair and fiery temper earned him the nickname “Firehair,” but it was his latent magical talent—an affinity for fire magic—that truly set him apart. He met [[being-grosdrnrgd|Groa the Seid of Norgaad]] when she sought passage across the fjords, and he was immediately intrigued by her connection to the spirit world. Over time, Vrathmil became one of Groa’s trusted companions, eager to learn more about his mystical inclinations and to explore the deeper mysteries of magic.
+Vrathmil’s striking red hair and fiery temper earned him the nickname “Firehair,” but it was his latent magical talent—an affinity for fire magic—that truly set him apart. He met [[being-grosdrnrgd|Tvarninda the Seid of Norgaad]] when she sought passage across the fjords, and he was immediately intrigued by her connection to the spirit world. Over time, Vrathmil became one of Tvarninda’s trusted companions, eager to learn more about his mystical inclinations and to explore the deeper mysteries of magic.
 
 ## Skills and Abilities
 
@@ -506,7 +507,7 @@ Shipbuilding and Navigation
 : Vrathmil is a master shipwright, skilled in constructing and maintaining longships. His deep knowledge of ships and the sea makes him useful when traveling across the fjords and open waters of [[place-nordheim|Nordheim]].
 
 Fire Magic
-: Vrathmil has a latent talent for fire magic, though he is still learning to control it. Under Groa’s guidance, he has begun to harness this power, using it in both combat and rituals.
+: Vrathmil has a latent talent for fire magic, though he is still learning to control it. Under Tvarninda’s guidance, he has begun to harness this power, using it in both combat and rituals.
 
 Combat Skills
 : Though not as battle-hardened as a warrior, Vrathmil is capable in a fight, wielding a **short sword** and using his fire magic to enhance his strikes.
@@ -515,7 +516,7 @@ Combat Skills
 
 ### Personality
 
-Vrathmil is bold, curious, and quick to action. His fiery temper can lead to rash decisions, but his heart is in the right place. He is deeply fascinated by magic and the unseen world, seeing Groa as both a mentor and a gateway to unlocking his own potential. Vrathmil’s natural curiosity makes him a constant student of the arcane, though his impetuous nature sometimes puts him at odds with Groa’s more measured approach.
+Vrathmil is bold, curious, and quick to action. His fiery temper can lead to rash decisions, but his heart is in the right place. He is deeply fascinated by magic and the unseen world, seeing Tvarninda as both a mentor and a gateway to unlocking his own potential. Vrathmil’s natural curiosity makes him a constant student of the arcane, though his impetuous nature sometimes puts him at odds with Tvarninda’s more measured approach.
 
 ### Strengths
 
@@ -532,14 +533,15 @@ Combat
 
 ## Plot Hooks
 
-The Calling of the Flame
-: During a village gathering, Vrathmil witnesses a strange fire burning in the distance, but when others investigate, no one else sees it. Drawn to its location, he discovers an ancient cairn inscribed with runes that seem familiar. The discovery hints at a connection between his family and a forgotten guardian role tied to the region’s safety, forcing Vrathmil to question his future as more than a craftsman.
+The Hull Left Unfinished
+: His family's yard at [[place-thraskvik|Thraskvík]] has a longship half built for a jarl's fleet, and his father asks him home to finish it. The yard measures its pride in the hulls it has built that are still sailing. Vrathmil's fire has scorched a strake once already, and Tvarninda needs him on the road. He can go home and finish the hull and lose the seid's company, stay with Tvarninda and leave the yard's name at risk, or bring Tvarninda to the yard.
 
 The Pact of the Drowned
-: A local Hersvald seeks Vrathmil’s help in recovering artifacts from a recently unearthed shipwreck in a nearby fjord. The artifacts, said to belong to an ancient maritime cult, appear harmless at first but soon bring mistrust and fear among the villagers. As tensions rise, Vrathmil finds himself caught between returning the items to the fjord or uncovering their true origin—and purpose.
+: A hersvald asks for Vrathmil's help recovering artifacts from a shipwreck unearthed in a nearby fjord. The artifacts, said to belong to an old maritime cult, look harmless but bring mistrust and fear among the villagers. As he works, the fear grows. He can finish the recovery and be blamed for it, give the artifacts back to the water, or leave the hersvald with the work half done.
 
-The Stranger with No Shadow
-: While traveling with companions, Vrathmil encounters a lone wanderer who claims to know the path to a hidden stronghold of lost knowledge. The stranger’s eerie knowledge of Vrathmil’s past, and their refusal to cast a shadow, raise suspicions. Yet the promise of understanding his growing sense of destiny pushes Vrathmil to follow—though the journey may cost him more than answers.
+The Fjord's Silent Guardian
+: Travelers vanish on a remote stretch of Norgaad's fjords. When Vrathmil and his companions pass, they find warning totems carved with great care. The yards of [[place-thraskvik|Thraskvík]] know the water and the stories, and the carvings do not match any of them. He can push on through the fjord, turn back along the coast, or follow the totems to what made them.
 
-The Fjord’s Silent Guardian
-: Stories surface of travelers disappearing in a remote stretch of Norgaad’s fjords. When Vrathmil and his companions pass through the region, they find a series of warning totems carved with unsettling precision. Investigating further reveals an ancient, unseen guardian bound to the fjord, one whose purpose seems tied to Vrathmil’s journey—and whose intentions may not be benign.
+:::secret {title="What the referee knows"}
+At a village gathering Vrathmil sees a strange fire burn in the distance that no one else sees. It leads him to an ancient cairn inscribed with runes that seem familiar. Later a wanderer with no shadow offers a path to a hidden stronghold of lost knowledge and knows more of Vrathmil's past than anyone should. The promise is strong and the stranger is untrustworthy.
+:::

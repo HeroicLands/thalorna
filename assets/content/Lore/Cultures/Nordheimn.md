@@ -132,7 +132,7 @@ Vraldorv belongs to the [[doc-heroessgrd|Heroes of Asguard]], figures the skalds
 
 ## The Healer's Cost
 
-[[being-grosdrnrgd|Groa the Seid of Norgaad]] is a living female ideal. She heals a sick child at cost to her own strength, wanders between clans in service, and brings warnings her people may fear to hear. Her authority rests on knowledge, resolve and what she gives of herself. She does not need a husband's office or a warrior's victory to make that service worthy.
+[[being-grosdrnrgd|Tvarninda the Seid of Norgaad]] is a living female ideal. She heals a sick child at cost to her own strength, wanders between clans in service, and brings warnings her people may fear to hear. Her authority rests on knowledge, resolve and what she gives of herself. She does not need a husband's office or a warrior's victory to make that service worthy.
 
 The epic repertoire praises other forms of care. Tales of [[being-mrvrnhrvstblsd|Mirvrinna Harvest-Blessed]] celebrate feeding and teaching through famine; those of [[being-krldthnshldbr|Krildthann Shieldbearer]] praise defense of the infirm. Like Vraldorv, they are figures of song, and the songs make feeding and protecting people count as courage.
 
@@ -142,7 +142,7 @@ An oath-ring gives a spoken bond a visible form. A ring from a lord marks servic
 
 The Skalds' Circle trains singers to keep genealogies, judgments and debts in formal verse. Its truth-of-the-recital oath requires an accurate account even against the skald's employer. Under [[lore-kinhalcrdt|kin and hall credit]], an exchange announced at a feast enters the hall's standing obligations. Later recitals acknowledge the debt and eventually its settlement. A claim survives a death and matters at marriages, funeral feasts and divisions of an estate.
 
-[[being-dagmrskaald|Dagmar the Skaald]] shows the storyteller's power and weakness in a living person. His songs carry heroic tales from clan to clan, and his wit earns a hearing. He also bends truth for advantage. Admiration for his craft does not make that dishonesty admirable; the gift that preserves a name can also distort it.
+[[being-dagmrskaald|Ralthvir the Skald]] shows the storyteller's power and weakness in a living person. His songs carry heroic tales from clan to clan, and his wit earns a hearing. He also bends truth for advantage. Admiration for his craft does not make that dishonesty admirable; the gift that preserves a name can also distort it.
 
 ## The Songs a Hall Knows
 
@@ -164,7 +164,7 @@ The gods of the [[affiliation-asguardian|Asguardian Pantheon]] are held to be ne
 
 The central act is the blet: an offering and meal shared by gods, living people and the dead. Small household offerings fit daily work; the great communal blets mark the seasons. At a hov, a shrine-house or hall, the local gudi or gudja keeps the rites and witnesses public oaths. Domestic rune-staves guide small choices, while trained rune-priests interpret deeper currents of fate.
 
-Wandering velvur offer _seid_, dream-reading and contact with spirits outside a single hov's service. Groa's wandering belongs to this wider religious life. The [[affiliation-ordoarcanis|Thordimalon]] has little reach in the north, where local magical traditions and distrust of foreign rule shape whom people consult.
+Wandering velvur offer _seid_, dream-reading and contact with spirits outside a single hov's service. Tvarninda's wandering belongs to this wider religious life. The [[affiliation-ordoarcanis|Thordimalon]] has little reach in the north, where local magical traditions and distrust of foreign rule shape whom people consult.
 
 ## The Year at the Hall
 

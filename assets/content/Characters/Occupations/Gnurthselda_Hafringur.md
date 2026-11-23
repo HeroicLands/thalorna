@@ -3,6 +3,7 @@ shortcode: gnrthsldhfrngr
 name: {full: Gnurthselda Hafringur}
 type: being
 subType: npc
+description: "A man-at-arms of the hill fort at Skraldborg on the Nordheim coast, a shield-maiden's daughter who has served the fort's hersvald for twenty-five years as guard and scout and teaches the warrior's path to younger women."
 tags: [draft, soldiery]
 data:
   icon: icon-person
@@ -11,7 +12,7 @@ data:
   occupation: Man-at-Arms
   lore: []
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [skraldborg]
   affiliations: {kngdmnrdhm: {rank: 3}, eidgar: {rank: 1}}
   gender: female
   species: humanflk
@@ -377,13 +378,13 @@ Gnurthselda stands 5'3" with a lean, weathered frame that has been carved down t
 
 # Dossier {#dossier}
 
-Gnurthselda Hafringur was born to a shield-maiden lineage in [[place-nordheim|Nordheim]]'s frozen northern coast. Her mother, [Alfa Stormborn]{.name data-type="being/npc"}, was famous along the [Thraldfjord]{.name data-type="place/feature"}: a warrior who commanded a crew of twenty raiders and died defending her hold against an Ibeerian incursion when Gnurthselda was barely four winters old. Gnurthselda has no memory of her mother, only the stories—how Alfa stood alone in a mountain pass, holding back thirty soldiers until the rest of her crew escaped. Those stories became a weight.
+Gnurthselda Hafringur was born to a shield-maiden lineage in [[place-nordheim|Nordheim]]'s frozen northern coast. Her mother, [Mirvinda Stormborn]{.name data-type="being/npc"}, was famous along the fjord at [[place-thraldfjord|Thraldfjord]]: a warrior who commanded a crew of twenty raiders and died defending her hold against an Ibeerian incursion when Gnurthselda was barely four winters old. Gnurthselda has no memory of her mother, only the stories—how Mirvinda stood alone in a mountain pass, holding back thirty soldiers until the rest of her crew escaped. Those stories became a weight.
 
-Her father, [Garón the Smith]{.name data-type="being/npc"}, remarried quickly to a merchant woman and wanted Gnurthselda to abandon the warrior's path. He built her a life in trade, away from fighting. But at fourteen, Gnurthselda watched her father's new wife's nephew push a merchant off a dock during a dispute, and nobody moved to stop him. Something in her broke. She took up her mother's spear, left her father's house without farewell, and presented herself to the [Thraldfjord fortress]{.name data-type="place/structure"} commander demanding service as a shield-maiden in the traditional way.
+Her father, [Gnirthmil the Smith]{.name data-type="being/npc"}, remarried quickly to a merchant woman and wanted Gnurthselda to abandon the warrior's path. He built her a life in trade, away from fighting. But at fourteen, Gnurthselda watched her father's new wife's nephew push a merchant off a dock during a dispute, and nobody moved to stop him. Something in her broke. She took up her mother's spear, left her father's house without farewell, and presented herself to the [Skraldborg fort]{.name data-type="place/structure"} commander demanding service as a shield-maiden in the traditional way.
 
-Fortress commander **Jarl [[being-vruthvirhrun|Vruthvir Hrundendik]]** laughed at her—a girl, barely taller than his adolescent son, claiming warrior status. He gave her a job mucking stalls and said she could train if she kept working. Gnurthselda never asked for easier treatment. For twenty-five years, she has served the fortress: first as an unpaid trainee, then as irregular cavalry, eventually as professional soldier-for-hire during the Taruzelian independence conflicts. She has killed seventeen people in direct combat—a modest number, but each one documented in the fortress records. The younger soldiers claim her spear moves like water flowing around stone.
+The fort's hersvald **[[being-vruthvirhrun|Vruthvir Hrundendik]]** laughed at her—a girl, barely taller than his adolescent son, claiming warrior status. He gave her a job mucking stalls and said she could train if she kept working. Gnurthselda never asked for easier treatment. For twenty-five years, she has served the fortress: first as an unpaid trainee, then as irregular cavalry, eventually as professional soldier-for-hire during the Taruzelian independence conflicts. She has killed seventeen people in direct combat—a modest number, but each one documented in the fortress records. The younger soldiers claim her spear moves like water flowing around stone.
 
-Now at forty years old, she is graying, scarred, and the only woman in Thraldfjord fortress command who has never been forced into a marriage-alliance. She has become indispensable to Jarl Vruthvir as his personal guard and occasional scout. The work is steady if brutal.
+Now at forty years old, she is graying, scarred, and the only woman in Skraldborg fort command who has never been forced into a marriage-alliance. She has become indispensable to Hersvald Vruthvir as his personal guard and occasional scout. The work is steady if brutal.
 
 ## Psyche
 
@@ -407,22 +408,28 @@ Gnurthselda occupies a liminal space in Nordheim society: respected by warriors,
 
 ### Patrons
 
-**Jarl Vruthvir Hrundendik**—The Thraldfjord fortress commander. Vruthvir is in his sixties and increasingly aware that his time is ending. He has come to rely on Gnurthselda absolutely—she is the only person in his court he trusts completely. In his will, he has made arrangements for her to receive a small pension and permanent fortress residence, though he cannot guarantee his successor will honor it.
+**Hersvald Vruthvir Hrundendik**—The commander of the hill fort at Skraldborg. Vruthvir is in his sixties and increasingly aware that his time is ending. He has come to rely on Gnurthselda absolutely—she is the only person in his court he trusts completely. In his will, he has made arrangements for her to receive a small pension and permanent fortress residence, though he cannot guarantee his successor will honor it.
 
 ### Enemies
 
-**Merchant-Lord [[being-knarvmylkral|Knarvmil Kraldendik]]**—A coastal merchant prince who wanted to hire Gnurthselda's services for a private war against a rival merchant. When she refused (the rival was protecting a village from his exploitation), Knarvmil circulated rumors that she was aging out of combat ability and was taking refuge in the fortress as charity. The rumor is untrue and infuriates her, but he is powerful enough that she cannot safely kill him.
+**The merchant [[being-knarvmylkral|Knarvmil Kraldendik]]**—A coastal merchant prince who wanted to hire Gnurthselda's services for a private war against a rival merchant. When she refused (the rival was protecting a village from his exploitation), Knarvmil circulated rumors that she was aging out of combat ability and was taking refuge in the fortress as charity. The rumor is untrue and infuriates her, but he is powerful enough that she cannot safely kill him.
 
 ## Plot Hooks
 
-The Succession Crisis
-: Jarl Vruthvir dies. His chosen heir is a pragmatist who sees the old warrior traditions as expensive sentimentality. Gnurthselda learns that her fortress pension will be terminated and her position eliminated. Worse, the new Jarl intends to offer the fortress as a mercenary stronghold to foreign employers—specifically, [[affiliation-vylarinmpr|Vilérian imperial agents]] seeking to establish a presence in Nordheim. Gnurthselda must choose between watching Thraldfjord become a foreign military base or attempting to rally the traditional warrior families to prevent the succession.
+The Hersvald's Heir
+: Hersvald Vruthvir dies, and his chosen heir sees the old warrior ways as an expensive sentiment. Gnurthselda's pension and her post at [[place-skraldborg|Skraldborg]] go with him. The new hersvald means to hire the fort's watch out to foreign employers, among them Vilérian imperial agents who want a presence on the Nordheim coast. She can serve the new hersvald, rally the old warrior families against the succession at the ting, or leave the fort that raised her.
 
-The Desperate Student
-: A young woman, [Kess Broken-Spoke]{.name data-type="being/npc"}, arrives at [[place-thraldfjord|Thraldfjord]] claiming she wants to become a shield-maiden. She is desperate, haunted, and fleeing something she refuses to name. Gnurthselda recognizes a kindred spirit and takes her under her wing, teaching her combat and fortress discipline. Weeks later, assassins arrive looking for Kess. Gnurthselda learns her student is the illegitimate daughter of a [[lore-taruzelianclt|Taruzelian]] guild-lord who fears her father's rise to power and wants her eliminated. Protecting Kess means war against Taruzelian commercial interests—and Taruzelian merchants have money.
+The Cry Raised Too Often
+: Younger watchmen at the fort raise the alarm for every sail. A hersvald whose cries prove false loses his hearing when it matters, and the fort has begun to ignore the horn. Gnurthselda knows an alarm raised too late is not survived. She can silence the young watchmen and risk a late cry, or let them shout and let the fort tire of its own alarm.
 
 The Aging Blade
-: Gnurthselda's body is beginning to fail in ways she cannot openly acknowledge. Her left knee pain is worsening; she is sometimes struck with chest pain when climbing stairs. Younger soldiers are noticing. **Fortress-Physician [Morvain]{.name data-type="being/npc"}** privately tells her she has perhaps five more years of active combat before serious injury becomes inevitable. She is offered a choice: accept a position as fortress training-master (safe, respected, but soul-destroying) or take one final commission—a suicide-level operation that will likely kill her but ensure she dies as a warrior, not withering away teaching others.
+: Gnurthselda's left knee is worsening, and chest pain strikes when she climbs stairs. The fort's physician, Morvain, tells her in private that she has perhaps five years of fighting left. She can take the post of training-master, which is safe and respected, or accept a last commission that will likely kill her and let her die as a warrior. The younger soldiers are already watching her.
 
-The Betrayed Oath
-: Gnurthselda realizes that Merchant-Lord Knarvmil is not acting alone. Someone inside Thraldfjord fortress is feeding him information—fortress schedules, patrol routes, security details. She begins investigating and discovers the traitor is **[[being-hnarvir|Hnarvir]]**, a promising young warrior who was raised in the fortress and treated as her unofficial successor. Hnarvir is being blackmailed; Knarvmil holds his younger sister's debt-contract and is using it to extort information. Gnurthselda must confront Hnarvir, knowing that revealing this betrayal will destroy a young warrior she was beginning to care for as a daughter.
+The Informer in the Fort
+: Someone inside Skraldborg is feeding the merchant [[being-knarvmylkral|Knarvmil Kraldendik]] the fort's patrol routes and schedules. Gnurthselda starts to look for the informer among the watch, and every name she weighs is someone she trusts. She can search quietly and risk missing him, or tell the hersvald and have the whole watch questioned.
+
+:::secret {title="What the referee knows"}
+The informer is [[being-hnarvir|Hnarvir]], the young warrior raised in the fort and treated as her unofficial successor, and Knarvmil holds his younger sister's debt-contract and uses it to extort him. Revealing it destroys a young warrior she was beginning to love as a daughter.
+
+A young woman named Thraskinda arrives at Skraldborg, wants to become a shield-maiden, and will not say what she flees. Gnurthselda takes her in and trains her. Weeks later assassins come for her. Thraskinda is the illegitimate daughter of a Nordwoman and a Taruzelian merchant lord, and her mother named her. The merchant lord fears that she could expose him as he rises to power, and wants her dead. Protecting her means war with Taruzelian commercial interests, and Taruzelian merchants have money.
+:::

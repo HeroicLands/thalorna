@@ -1,18 +1,18 @@
 ---
 shortcode: snalthseldag
-name: {full: Snalthselda Gnarthidrok, en: [Jarl Snalthselda Gnarthidrok]}
+name: {full: Snalthselda Gnarthidrok}
 type: being
 subType: npc
-description: A rival warrior within the guild who views Vruldorv Drottgar's success as a personal affront.
+description: A watchwoman of Nalthmark and a rival warrior within the watch who views Vruldorv Drottgar's success as a personal affront.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior]
-  occupation: Jarl
+  occupation: Warrior
   lore: []
   culture: nordheimnclt
-  homes: []
+  homes: [nalthmark]
   affiliations: {}
   gender: female
   species: humanflk
@@ -42,4 +42,4 @@ Snalthselda Gnarthidrok is a 43-year-old woman who stands 5'4" tall with a massi
 
 # Dossier {#dossier}
 
-Snalthselda Gnarthidrok is a rival warrior within the guild who views [[being-vrldrvdrtgr|Vruldorv Drottgar]]'s success as a personal affront. She spreads rumors that Vruldorv's reputation is exaggerated; the two have not yet come to open conflict.
+Snalthselda Gnarthidrok is a watchwoman of [[place-nalthmark|Nalthmark]] and a rival warrior within the watch who views [[being-vrldrvdrtgr|Vruldorv Drottgar]]'s success as a personal affront. She spreads rumors that Vruldorv's reputation is exaggerated; the two have not yet come to open conflict.

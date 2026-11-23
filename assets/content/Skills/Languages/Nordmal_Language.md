@@ -6047,6 +6047,42 @@ data:
     - {form: -vík, position: closing, kind: place, sense: an inlet, joining: -víkar}
   tongues: [{tag: nordmal, meaning: "a Nordmal name", language: skill-nordmalng}]
   register:
+    - {name: mirvinda, tongue: nordmal}
+    - {name: gnirthmil, tongue: nordmal}
+    - {name: glirvthann, tongue: nordmal}
+    - {name: hvalgorv veturdomur, tongue: nordmal}
+    - {name: tingverdir, tongue: nordmal}
+    - {name: tvarninda nalthendik, tongue: nordmal}
+    - {name: ralthvir, tongue: nordmal}
+    - {name: knulthrinna, tongue: nordmal}
+    - {name: hvarnmil skalfendik, tongue: nordmal}
+    - {name: skraldmil, tongue: nordmal}
+    - {name: dvalgidrok, tongue: nordmal}
+    - {name: althendik, tongue: nordmal}
+    - {name: dvarnumak, tongue: nordmal}
+    - {name: skipvin, tongue: nordmal}
+    - {name: hvarnvir hvarnumak, tongue: nordmal}
+    - {name: hvilgthira askeldur, tongue: nordmal}
+    - {name: glarvselda, tongue: nordmal}
+    - {name: skrildvir tvalgumak, tongue: nordmal}
+    - {name: thraskinda, tongue: nordmal}
+    - {name: flarninda, tongue: nordmal}
+    - {name: snalthorv, tongue: nordmal}
+    - {name: snilthorv solvargur, tongue: nordmal}
+    - {name: hlurthorv knalthumak, tongue: nordmal}
+    - {name: dvalgorv, tongue: nordmal}
+    - {name: knirvorv, tongue: nordmal}
+    - {name: marvthira anthidrok, tongue: nordmal}
+    - {name: driskorv, tongue: nordmal}
+    - {name: skruldorv, tongue: nordmal}
+    - {name: knalthvir, tongue: nordmal}
+    - {name: hnarvinda, tongue: nordmal}
+    - {name: hvurnthira, tongue: nordmal}
+    - {name: dvurnorv stormrót, tongue: nordmal}
+    - {name: rulthorv kraldumak, tongue: nordmal}
+    - {name: hrindumak, tongue: nordmal}
+    - {name: hlarthumak, tongue: nordmal}
+    - {name: jarnvald, tongue: nordmal}
     - {name: ralthann rultharuk, tongue: nordmal}
     - {name: marvinda naltharuk, tongue: nordmal}
     - {name: ralthira naltharuk, tongue: nordmal}

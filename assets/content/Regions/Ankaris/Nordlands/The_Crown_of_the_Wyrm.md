@@ -2,13 +2,13 @@
 shortcode: crwnwyrm
 name: {full: The Crown of the Wyrm}
 type: miscgear
-description: "One of the three regalia of Groa's quest—a crown of the wyrm, required with the Horn and the Spear to work the Ritual of Binding against Njorven."
+description: "One of the three regalia of Tvarninda's quest—a crown of the wyrm, required with the Horn and the Spear to work the Ritual of Binding against Njorven."
 tags: [artifact, regalia, nordlands]
 data: {kind: miscgear, templatePriority: null, packFolder: nordlands}
 sohl: {system: {weightBase: 3, valueBase: 0, durabilityBase: 15}}
 ---
 
-The Crown of the Wyrm is one of the **three regalia** that [[being-grosdrnrgd|Groa the Seid of Norgaad]]'s visions name as necessary to seal away
+The Crown of the Wyrm is one of the **three regalia** that [[being-grosdrnrgd|Tvarninda the Seid of Norgaad]]'s visions name as necessary to seal away
 [[being-njorven|Njorven]], alongside [[miscgear-hornnjordur|the Horn of Hafvald]] and
 [[miscgear-sprsigrid|the Spear of Skraldthira]]. None of the three is sufficient alone, and
 [[lore-njordurritlbinding|the Ritual of Binding]] cannot be worked without all of them.
@@ -30,5 +30,5 @@ whatever the carrier intends by it.
 
 ## See Also
 
-- [[scenario-groascmpgn|Groa's Campaign]] · [[lore-njordurritlbinding|the Ritual of Binding]]
+- [[scenario-groascmpgn|Tvarninda's Campaign]] · [[lore-njordurritlbinding|the Ritual of Binding]]
 - [[miscgear-hornnjordur|The Horn of Hafvald]] · [[miscgear-sprsigrid|the Spear of Skraldthira]]

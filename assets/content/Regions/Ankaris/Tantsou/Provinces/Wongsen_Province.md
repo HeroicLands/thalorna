@@ -66,7 +66,7 @@ data:
 sohl: {system: {commonSkills: [tantsoulng]}}
 ---
 
-Wongsen Province is the richest of the four provinces of the [[affiliation-tantsouempr|Empire of Tantsou]]. It holds the delta where the great rivers reach the sea, the rice country behind it and the coasts to the east and the south, with about 34 million people. Its Prince, of the [[lore-zhazho|Zhazho]], rules from the port city of [[place-wongsen|Wongsen]] and is the most feared of the four.
+Wongsen Province is the richest of the four provinces of the [[affiliation-tantsouempr|Empire of Tantsou]]. It holds the delta where the great rivers reach the sea, the rice country behind it and the coasts to the east and the south, with about 34 million people. Its Prince, [[being-rinzhowngsn|Rinzho]], of the [[lore-zhazho|Zhazho]], rules from the port city of [[place-wongsen|Wongsen]] and is the most feared of the four.
 
 The province's strength is water. Among the Prince's [[lore-wanduo|Wandwo]] is a gifted set with an affinity for water, and the rain they call falls on the delta and its coast and has raised his harvests while other provinces go dry. The other Princes come to his granaries to buy rice, and some at court say his sorcerers are behind the drought elsewhere. Nobody has proven it.
 

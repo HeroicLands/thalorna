@@ -1,15 +1,15 @@
 ---
 shortcode: driskthyrasn
-name: {full: Driskthira Snurvaruk, en: [Magistrate Driskthira Snurvaruk]}
+name: {full: Driskthira Snurvaruk, en: [Landvordur Driskthira Snurvaruk]}
 type: being
 subType: npc
-description: A widowed magistrate who has quietly helped Ralthira Drekanótt survive.
+description: A widowed landvordur who has quietly helped Ralthira Drekanótt survive.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Magistrate
+  occupation: Landvordur
   lore: []
   culture: nordheimnclt
   homes: []
@@ -42,4 +42,4 @@ Driskthira Snurvaruk is a 42-year-old woman who stands 5'5" tall with a medium b
 
 # Dossier {#dossier}
 
-Driskthira Snurvaruk is a widowed magistrate who has quietly helped [[being-rlthyrdrknt|Ralthira Drekanótt]] survive. She fell in love with Ralthira's voice years ago.
+Driskthira Snurvaruk is a widowed landvordur who has quietly helped [[being-rlthyrdrknt|Ralthira Drekanótt]] survive. She fell in love with Ralthira's voice years ago.

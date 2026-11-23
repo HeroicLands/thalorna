@@ -3,6 +3,7 @@ shortcode: gnrthrvsnrvrkh
 name: {full: Gnarthorv Snarvaruk}
 type: being
 subType: npc
+description: "The chief huntsman of Wildwood Manor above Thraldfjord in Nordheim, a fisherman's son who keeps the manor's forest, its game and the hunting quarrels of the fjord."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -401,7 +402,7 @@ Gnarthorv Snarvaruk is a 36-year-old man who stands 6'0" tall and is broad and s
 
 # Dossier {#dossier}
 
-Gnarthorv Snarvaruk is chief huntsman to Lady [[being-nulthyra|Nulthira]] of [[place-wildwoodmnr|Wildwood Manor]], above the fishing village of [[place-thraldfjord|Thraldfjord]] in [[place-nordheim|Nordheim]], a [[lore-nordheimnclt|Nordman]] freeman who has kept the manor's forest and settled the hunting quarrels of the fjord for fifteen years.
+Gnarthorv Snarvaruk is chief huntsman to [[being-nulthyra|Nulthira]] of [[place-wildwoodmnr|Wildwood Manor]], above the fishing village of [[place-thraldfjord|Thraldfjord]] in [[place-nordheim|Nordheim]], a [[lore-nordheimnclt|Nordman]] freeman who has kept the manor's forest and settled the hunting quarrels of the fjord for fifteen years.
 
 Gnarthorv keeps the forest that climbs behind Thraldfjord from the manor to the high ground; the village lives on fish, and the forest lives on him. He was a fisherman's son who preferred the wood, and took service at the manor as a boy. He knows which valleys the elk winter in, how many wolves the high ridge will carry, and which stands can be hunted this year and which must be left. He keeps the manor's table in game and its guests in sport. The clans of the fjord bring him their disputes over hunting rights and grazing at the wood's edge; he rules against his own lady's guests when the season requires, and she has never once overruled him.
 
@@ -413,7 +414,7 @@ Gnarthorv is steady, cautious and deliberate, slow to change a method that works
 
 ### Motivation
 
-Gnarthorv wants the forest kept—its game, its ground and its balance—for the manor after him. He serves Lady Nulthira because she lets him keep it that way.
+Gnarthorv wants the forest kept—its game, its ground and its balance—for the manor after him. He serves Nulthira because she lets him keep it that way.
 
 ### Strengths
 
@@ -421,13 +422,13 @@ Experienced, knowledgeable about the land and its game, a natural leader of hunt
 
 ## Social
 
-Gnarthorv belongs to Lady Nulthira's retinue and ranks in it just below her steward.
+Gnarthorv belongs to Nulthira's retinue and ranks in it just below her steward.
 
 ## Companions
 
 ### Patrons
 
-Gnarthorv's patrons are Lady Nulthira and the guests she brings to Wildwood Manor to hunt, whom he guides, outfits and—when the season or the ground demands it—refuses.
+Gnarthorv's patrons are Nulthira and the guests she brings to Wildwood Manor to hunt, whom he guides, outfits and—when the season or the ground demands it—refuses.
 
 ### Enemies
 
@@ -435,14 +436,14 @@ Nobody open, but a fjord is a small place, and the men he has ruled against over
 
 ## Plot Hooks
 
-The Guest
-: A jarl's kinsman, guesting at the manor, wants to take a stag the season forbids, and will take a refusal as an insult to his house. Lady Nulthira has left the answer to Gnarthorv.
+The Forbidden Stag
+: A jarl's kinsman guesting at [[place-wildwoodmnr|Wildwood Manor]] wants to take a stag the season forbids and will take a refusal as an insult to his house. Nulthira has left the answer to Gnarthorv. He can refuse the kinsman and risk the manor's standing with the jarl, give him a lesser beast, or let the forbidden stag fall and answer to the forest.
 
-The Boundary
-: Two clans of the fjord have brought Gnarthorv a dispute over a stretch of the wood's edge that both have grazed for a century.
+The Grazed Edge
+: Two clans of the fjord bring Gnarthorv a dispute over a stretch of the wood's edge that both have grazed for a century. [[place-thraldfjord|Thraldfjord]] settles such matters at [[place-raltholm|Raltholm]] when its own elders cannot. He can rule for one clan and carry the other's grudge, divide the stretch and please neither, or send both to the hersvald and lose what authority he has at the fjord.
 
-The Manor's Fortunes
-: Lady Nulthira's income has failed and she is under pressure to sell the timber rights to the forest. Gnarthorv has been asked what the wood is worth, and the truth is not what she wants to hear.
+The Price of the Wood
+: Nulthira's income has failed and she is under pressure to sell the timber rights to the forest. Gnarthorv has been asked what the wood is worth, and the truth is not what she wants to hear. He can name the number that saves the forest and risks his place, or name the number she wants.
 
-The Hard Winter
-: The wolves have come down from the high ridge early and taken three of the village's cattle, and the fjord wants the pack hunted out. Gnarthorv knows the ridge cannot spare it and the village cannot spare the cattle.
+The Hard Winter Wolves
+: The wolves come down from the high ridge early and take three of the village's cattle, and the fjord wants the pack hunted out. Gnarthorv knows the ridge cannot spare it and the village cannot spare the cattle. He can hunt the pack and unbalance the ridge, take one wolf and leave the rest, or pay for the cattle from the manor's table.

@@ -3,6 +3,7 @@ shortcode: thlmslddrknt
 name: {full: Thilmselda Drekanótt, given: Thilmselda, clan: Drekanótt}
 type: being
 subType: character
+description: "An innkeeper of Tvalgard in Targud, a landowner's third daughter who rose from scullery to run the Drekanótt Inn, whose hall feeds the bundi on their weeks at the wall."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -456,7 +457,7 @@ Thilmselda stands 5'10" tall with a medium build. She has light weathered skin, 
 
 Thilmselda was born the third daughter of a minor landowner in the [[affiliation-kingdmtrgd|Kingdom of Targud]], in those borderlands where the [[affiliation-asguardian|Asguardian Pantheon]]'s influence mingles with older, earthier traditions. Her childhood was spent largely in the kitchens of her father's modest estate, where she learned not merely to cook but to understand the chemistry of flavor, the rhythm of seasons, and the satisfaction of feeding people well. When her father died under circumstances never fully explained—some say in a dispute over land rights—her mother struggled to maintain the household, and Thilmselda, then barely twenty, was apprenticed to the kitchens of a great inn on the trade road.
 
-For thirty years, she served that inn faithfully, rising from scullery to head cook, until she had saved enough coin and earned enough reputation to purchase her own establishment. The [Drekanótt Inn]{.name data-type="place/structure"}, which bears her family name, has stood for two decades now as a place of warmth and outstanding hospitality in an often harsh world. She has weathered everything—poor harvests, bandit raids, the vagaries of trade wars—with an iron will and an unflinching commitment to maintaining the highest standards for her guests.
+For thirty years, she served that inn faithfully, rising from scullery to head cook, until she had saved enough coin and earned enough reputation to purchase her own establishment. The [Drekanótt Inn]{.name data-type="place/structure"} stands at [[place-tvalgard|Tvalgard]], where the bundi of the kingdom stand their weeks on the wall, and it feeds and houses whichever shift is on duty. It bears her family name, has stood for two decades now as a place of warmth and outstanding hospitality in an often harsh world. She has weathered everything—poor harvests, bandit raids, the vagaries of trade wars—with an iron will and an unflinching commitment to maintaining the highest standards for her guests.
 
 ## Psyche
 
@@ -509,44 +510,45 @@ Stress-Related Ailments
 Jarl [[being-knalthannhra|Knalthann Hrandidrok]]
 : The regional noble whose lands surround her inn depends on her for hospitality during his frequent hunting expeditions; he has granted her a charter protecting her establishment.
 
-[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]] of Targud
+The Merchant Families of Targud
 : Several wealthy merchant families use her inn as a neutral meeting ground for negotiations; they value both her discretion and her excellent wine cellars.
 
 [Braldvir Thalmumak]{.name data-type="being/npc"}
-: The head of the regional brewers' guild maintains a close relationship with Thilmselda, supplying her with the finest ales and meads, and relying on her recommendations to advance his reputation.
+: The foremost brewer of the region maintains a close relationship with Thilmselda, supplying her with the finest ales and meads, and relying on her recommendations to advance his reputation.
 
 ### Enemies
 
-[Halgar Stonefist]{.name data-type="being/npc"}
+[Dvalgorv Stonefist]{.name data-type="being/npc"}
 : A rival innkeeper who runs a disreputable establishment nearby and views Thilmselda's success as a personal affront; he spreads rumors about her business and occasionally orchestrates minor sabotage.
 
-[The Crimson Road Bandits]{.name data-type="affiliation/criminal"}
+Brigands of the Borderlands
 : A loose confederation of brigands operating in the borderlands sees her well-stocked inn as both a target and a gathering place; they have robbed her twice in past years.
 
-Lord [[being-marvorv|Marvorv]]'s Agent
+The Agent of [[being-marvorv|Marvorv]]
 : A nobleman's representative who attempted to purchase her inn by any means necessary, including coercion; they harbor considerable resentment over her refusal.
 
 ### Affiliations
 
-[Innkeepers' Guild of Targud]{.name data-type="affiliation/guild"}
-: Thilmselda maintains an active, respected position within this association and serves on its council, advocating for fair trade practices and safe roads.
+The Innkeepers of Targud
+: Thilmselda holds an active, respected position among them, advocating for fair trade practices and safe roads.
 
-[The Brewers' Circle]{.name data-type="affiliation"}
+The Brewers' Circle
 : She networks with master brewers and vintners across the region, helping to establish quality standards and fair pricing.
 
 ## Plot Hooks
 
-The Poisoned Guest
-: A prominent merchant patron dies under suspicious circumstances while staying at the Drekanótt Inn, and suspicion falls on Thilmselda herself. Though her reputation is sterling, the dead man's wealthy family demands justice, and the party must help prove her innocence while uncovering who truly poisoned the guest—perhaps revealing dangerous enemies the merchant had made.
+The Dead Guest
+: A prominent merchant dies at the Drekanótt Inn under suspicious circumstances, and suspicion falls on Thilmselda. His wealthy family demands justice from the Lawspeaker on his circuit through [[place-tvalgard|Tvalgard]]. Her name is good, but a death at her table gives her rivals a reason to speak. She can open her kitchen and cellar to the Lawspeaker, find the poisoner herself, or let the family's claim stand and pay wergild.
 
-The Hidden Cache
-: While renovating her cellar, Thilmselda's workers discover a sealed chamber containing artifacts and documents from an era long past—possibly religious relics, forbidden knowledge, or evidence of a historical secret. She must decide whether to report the discovery or investigate its implications, and powerful interests emerge to claim or suppress what was found.
+The Shift Without Beds
+: A late muster fills the inn with the bundi of two shifts at once, and the stores cannot feed both. Jarl Knalthann Hrandidrok, whose charter protects the inn, expects the levy fed. The merchants who use her hall as neutral ground are due the same week. She can feed the wall and lose the merchants, put the merchants first and shortchange the levy, or buy at ruinous cost from Dvalgorv Stonefist.
 
 The Deserter's Daughter
-: A young woman arrives at the inn claiming to be the daughter of a man Thilmselda knew decades ago—a soldier who vanished during a territorial dispute. The woman brings news of her father's fate and a plea for help in retrieving something he left hidden. Thilmselda must grapple with unexpected family connections and the possibility of reopening old wounds.
+: A young woman arrives claiming to be the daughter of a soldier Thilmselda knew decades ago who vanished during a border dispute. She brings word of his fate and asks help retrieving what he hid. Thilmselda can tell the truth about what she knows of the man, go with the daughter, or send her away.
 
 A Sanctuary Request
-: Thilmselda is approached by fugitives—perhaps refugees from persecution, escaped prisoners, or people fleeing dangerous circumstances—seeking shelter. Harboring them would violate laws and risk her livelihood, yet her sense of justice compels her. The party becomes entangled in helping her navigate this moral crossroads while evading authorities.
+: Fugitives ask Thilmselda for shelter, and sheltering them would break the law and risk the inn. Her sense of justice compels her. Marvorv's agent, who has never forgiven her refusal to sell, is among the guests. She can hide the fugitives in the cellar and gamble the inn on a servant's silence, or turn them out and bear it.
 
-The Festival Opportunity
-: When a major regional festival approaches, a prestigious noble or wealthy merchant offers Thilmselda an enormous contract to cater the event, but with impossible demands and an extremely tight timeline. Success could elevate her reputation and fortune permanently, but the undertaking threatens to destroy her by its sheer scope. The party might assist her in an ambitious kitchen campaign while also uncovering hidden agendas behind the event itself.
+:::secret {title="What the referee knows"}
+While workers renovate her cellar they find a sealed chamber holding artifacts and documents from an era long past, perhaps relics, forbidden knowledge or the proof of a historical secret. She can report it, hide it, or sell it, and any of the three can bring the inn's enemies to the door.
+:::

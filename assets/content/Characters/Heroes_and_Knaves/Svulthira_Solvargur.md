@@ -3,6 +3,7 @@ shortcode: svlthyrslvrgr
 name: {full: Svulthira Solvargur, given: Svulthira, clan: Solvargur}
 type: being
 subType: character
+description: "A trapper of Thraldfjord in Nordheim, a trapper's daughter and master of the forest behind the fjord who kills only what she needs and has begun to doubt the trade."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -465,11 +466,11 @@ Svulthira stands 5'11" tall with a light build. She has light fair skin, brown h
 
 ### The Trapper's Daughter
 
-Svulthira was born in [[place-nordheim|Nordheim]]'s northern reaches to [Solvi Solvargur]{.name data-type="being/npc"}, a trapper of wide fame whose knowledge of wilderness survival and animal behavior had no equal in three kingdoms. Her mother died bringing her into the world, and Solvi raised his daughter in a solitary trapping settlement far from the comforts of civilization. He taught her not through formal instruction but through living—showing her how to read animal signs in snow and mud, how to construct traps that worked through understanding prey rather than brute force, how to harvest the creatures she caught with respect for the gift of their bodies.
+Svulthira, who traps the forest behind [[place-thraldfjord|Thraldfjord]], was born in [[place-nordheim|Nordheim]]'s northern reaches to [Snilthorv Solvargur]{.name data-type="being/npc"}, a trapper of wide fame whose knowledge of wilderness survival and animal behavior had no equal in three kingdoms. Her mother died bringing her into the world, and Snilthorv raised his daughter in a solitary trapping settlement far from the comforts of civilization. He taught her not through formal instruction but through living—showing her how to read animal signs in snow and mud, how to construct traps that worked through understanding prey rather than brute force, how to harvest the creatures she caught with respect for the gift of their bodies.
 
 ### The Inheritance of Knowledge
 
-At her twentieth year, during a harsh winter, Solvi attempted to cross a frozen river while pursuing unusual game tracks and fell through ice that should have held his weight. Svulthira found his body downstream, and that same day inherited his trapping territory and the deep isolation that came with it. For the next decade, she became what her father had been—a solitary genius of the wilderness, a master whose traps and snares were sought by fur traders across three kingdoms. Her work stood apart because it was effective and because it showed a true knowledge of animal behavior. She never trapped more than necessary, never wasted what she took, and grew increasingly troubled by the ease with which she could kill.
+At her twentieth year, during a harsh winter, Snilthorv attempted to cross a frozen river while pursuing unusual game tracks and fell through ice that should have held his weight. Svulthira found his body downstream, and that same day inherited his trapping territory and the deep isolation that came with it. For the next decade, she became what her father had been—a solitary genius of the wilderness, a master whose traps and snares were sought by fur traders across three kingdoms. Her work stood apart because it was effective and because it showed a true knowledge of animal behavior. She never trapped more than necessary, never wasted what she took, and grew increasingly troubled by the ease with which she could kill.
 
 ### Present Searching
 
@@ -527,44 +528,45 @@ Isolation Dependency
 
 ### Patrons
 
-[House Nordthorne]{.name data-type="affiliation/lineage"}
+[House Hrindumak]{.name data-type="affiliation/lineage"}
 : A noble family that has maintained standing contracts with Svulthira for the finest furs and wilderness supplies; they pay well and respect her skill
 
-[Harvin's Fur Trading Company]{.name data-type="affiliation/venture"}
-: The primary commercial outlet for Svulthira's work, run by an aging merchant named [Harvin Hvarnumak]{.name data-type="being/npc"} who has worked with her for over a decade and views her as indispensable
+The Hvarnumak Fur-House
+: The primary commercial outlet for Svulthira's work, run by an aging merchant named [Hvarnvir Hvarnumak]{.name data-type="being/npc"} who has worked with her for over a decade and views her as indispensable
 
-Priest [[being-gnuldurthyra|Gnuldurthira]] of the [Frodvin's Temple]{.name data-type="place/structure"}
+Gudja [[being-gnuldurthyra|Gnuldurthira]] of the hov of Frodvin
 : A spiritual authority who has taken interest in Svulthira's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings
 
 ### Enemies
 
-[The Blackpelt Poachers]{.name data-type="affiliation/criminal"}
+A Poaching Gang
 : A criminal organization that kills game indiscriminately for quick profit; Svulthira actively interferes with their operations and has destroyed snares and traps to prevent their predatory harvesting
 
-Duke [[being-skalforv|Skalforv]]
-: A noble of the neighboring realm who believes all wilderness should be exploited for maximum profit; he has openly declared his intention to destroy Svulthira's trapping territories and put hunting in Nordheim on a great and ruinous scale
+Jarl [[being-skalforv|Skalforv]]
+: A jarl of the neighboring kingdom who believes all wilderness should be exploited for maximum profit; he has openly declared his intention to destroy Svulthira's trapping territories and put hunting in Nordheim on a great and ruinous scale
 
-Merchant [Jorvik the Merciless]{.name data-type="being/npc"}
+Merchant [Snalthorv the Merciless]{.name data-type="being/npc"}
 : A fur trader who views Svulthira's recent reluctance to fulfill contracts as betrayal; he has begun spreading rumors that she has gone mad from isolation and is stealing from her patrons
 
 ### Affiliations
 
-[The Frodvin's Circle]{.name data-type="affiliation"}
+The Circle of Frodvin
 : An informal fellowship of individuals devoted to the fertility aspect of [[lore-frodvindty|Frodvin]] and the preservation of natural abundance; Svulthira has recently begun attending their gatherings and exploring deeper spiritual connection
 
 ## Plot Hooks
 
-The Illegal Hunt
-: Svulthira discovers that Duke Skalforv has contracted poachers working under the command of Merchant Jorvik to slaughter entire herds of the rare silver elk—creatures that appear in Nordheim's territories only once per decade—in order to eliminate her competitive advantage and her trapping livelihood simultaneously. The slaughter is beginning, and Svulthira can respond with force, intervene covertly, or accept the loss as part of a changing world.
-
-The Sacred Sanctuary
-: A mysterious priestess of the old faith, representing an ancient order dedicated to preserving wild places, approaches Svulthira with a revelation: she is the reincarnation of the order's founder, a trapper of legend named [Solvi the Wildborn]{.name data-type="being/npc"} (her father's name is no coincidence). The order wishes to recruit her as a guardian of a hidden sanctuary—a place of extraordinary biodiversity and spiritual power that must be protected from exploitation. Accepting means abandoning her current life and dedicating herself entirely to this new purpose.
-
-The Fur Merchant's Fall
-: Harvin Hvarnumak, Svulthira's longtime patron, approaches her with a request born of desperation. His business is failing due to competition from Merchant Jorvik, and he has fallen into debt with dangerous people. He asks Svulthira to deliver an enormous, unsustainable harvest within a short timeframe—a request that directly contradicts her emerging conscience. He promises it will be the last time he asks, and that afterward, he will retire and allow Svulthira to pursue whatever path she chooses. To refuse is to abandon a man who has treated her fairly; to accept is to violate her conscience.
-
-The Wounded Creature
-: Svulthira discovers an injured creature—neither entirely wolf nor entirely human—caught in a trap of her own making in a remote forest valley. The creature possesses human intelligence and can speak, though its language is ancient and nearly forgotten. It bears marks suggesting it has been hunted for generations by those who view it as abomination. Freeing it and nursing it to health makes Svulthira an accomplice to whatever the creature is, but refusing to help the wounded violates everything her conscience has recently settled on.
+The Silver Elk
+: Jarl Skalforv has hired poachers under the merchant Snalthorv to slaughter the herds of silver elk, which come to Nordheim only once in ten years, to ruin her trade. The herds pass the forest above [[place-thraldfjord|Thraldfjord]], where [[being-gnrthrvsnrvrkh|Gnarthorv Snarvaruk]], chief huntsman of [[place-wildwoodmnr|Wildwood Manor]], keeps the game. Svulthira can fight the poachers, work against them without being seen, or accept the loss.
 
 The Winter's Reckoning
-: In the depths of a particularly harsh winter, food becomes scarce and the settlement nearest Svulthira's territory faces starvation. She is approached by the settlement's leaders with a desperate request: trap and kill every large animal she can, creating a meat store sufficient to see them through the remaining season. The request is legitimate, the need real, yet fulfilling it would require unsustainable harvesting that would take years to recover from. Svulthira has to weigh compassion toward her own kind in their need against the long stewardship of the wilderness she has come to revere.
+: In a hard winter the village runs short of food, and its elders ask her to trap every large animal she can and build a meat store to last until spring. Her code forbids killing more than she needs, and the game she would take will not return for years. She can take the elders' request and break her code, refuse and watch the village go hungry, or find another source of meat.
+
+The Fur-House's Fall
+: Hvarnvir Hvarnumak, her patron of ten years, is failing under the competition of Snalthorv and owes dangerous people. He asks her for an enormous harvest in one season. She can give it and gut her territory, refuse and see him ruined, or find another buyer and break with him.
+
+The Rumor of Madness
+: Snalthorv tells the fur traders that Svulthira is mad from isolation and has stolen from her patrons. The gudja of Frodvin's hov, who values her counsel, hears it, and so does House Hrindumak, which pays well and may withdraw. She can answer with a full account of her contracts or let the rumor run.
+
+:::secret {title="What the referee knows"}
+A priestess of an old faith tells Svulthira she is the reincarnation of the founder of an order that guards a hidden sanctuary, a trapper called Snilthorv the Wildborn, her father's name. She asks her to guard it. In a remote valley Svulthira also finds a creature that is neither wolf nor human, caught in one of her own traps, speaking an old language, and marked by those who have hunted it for generations. Helping it makes her its accomplice.
+:::

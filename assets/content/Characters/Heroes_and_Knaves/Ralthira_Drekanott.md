@@ -3,6 +3,7 @@ shortcode: rlthyrdrknt
 name: {full: Ralthira Drekanótt, given: Ralthira, clan: Drekanótt}
 type: being
 subType: character
+description: "A street singer called the Moon Singer, raised in a hov of Thrunvald, who begs at the relief-post of Dvalgheim in Nordheim and keeps the stories of the street folk."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -452,21 +453,21 @@ Ralthira stands 5'3" tall with a light build. She has fair pale skin, dark brown
 
 ### Early Years
 
-Ralthira was born to a fisher's family in the coastal settlements of [[place-nordheim|Nordheim]], where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a monastery dedicated to [[affiliation-thrunvald|Thrunvald]], where the monks recognized in her a gift for song that seemed to go beyond mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
+Ralthira was born to a fisher's family in the coastal settlements of [[place-nordheim|Nordheim]], where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a hov dedicated to [[affiliation-thrunvald|Thrunvald]], where the hov-folk recognized in her a gift for song that seemed to go beyond mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
 
 ### The Breaking
 
-A theological schism within the monastery forced Ralthira to flee when she refused to renounce her personal spiritual experiences in favor of rigid doctrine. Cast out without coin or shelter, she initially despaired—until she discovered that the very gift that had protected her in the monastery could sustain her on the streets. For the past decade, she has survived by her voice and wit, performing in taverns, marketplaces, and shadowed alleyways where coin and coppers fall from purses of those moved by her haunting ballads. She has become something of a ghost, known to street folk as "the Moon Singer," appearing and vanishing like the celestial body marked upon her neck.
+A theological schism within the hov forced Ralthira to flee when she refused to renounce her personal spiritual experiences in favor of rigid doctrine. Cast out without coin or shelter, she initially despaired—until she discovered that the very gift that had protected her in the hov could sustain her on the streets. For the past decade, she has survived by her voice and wit, performing in taverns, marketplaces, and shadowed alleyways where coin and coppers fall from purses of those moved by her haunting ballads. She has become something of a ghost, known to street folk as "the Moon Singer," appearing and vanishing like the celestial body marked upon her neck.
 
 ### Present Condition
 
-Now a fixture of Nordheim's underworld community, Ralthira exists in the liminal spaces between respectability and ruin. She shares her meager earnings with other street folk and has become an unofficial keeper of their stories and secrets. Yet her trusting heart has made her prey to those less scrupulous, and more than once her charity has been exploited. Still, she refuses to harden herself, believing each kindness plants a seed that might one day bloom into redemption—whether for others or herself remains uncertain.
+Now a fixture of Nordheim's underworld community, she begs at the door of the relief-post at [[place-dvalgheim|Dvalgheim]], where travelers stop longer and give more freely than people with somewhere to be. Ralthira exists in the liminal spaces between respectability and ruin. She shares her meager earnings with other street folk and has become an unofficial keeper of their stories and secrets. Yet her trusting heart has made her prey to those less scrupulous, and more than once her charity has been exploited. Still, she refuses to harden herself, believing each kindness plants a seed that might one day bloom into redemption—whether for others or herself remains uncertain.
 
 ## Psyche
 
 ### Personality
 
-Ralthira carries an almost ethereal quality despite her earthly struggles, as though part of her soul still dwells in those monastery halls where her voice once sanctified the air. She speaks with careful deliberation, choosing words as though they were precious gems to be gifted rather than casually scattered. There is a poetic melancholy to her humor, and she laughs rarely but deeply. Those who spend time in her presence often find themselves confessing secrets long buried, for there is something in her bearing that invites vulnerability and promises compassion in return.
+Ralthira carries an almost ethereal quality despite her earthly struggles, as though part of her soul still dwells in the hov's hall where her voice once sanctified the air. She speaks with careful deliberation, choosing words as though they were precious gems to be gifted rather than casually scattered. There is a poetic melancholy to her humor, and she laughs rarely but deeply. Those who spend time in her presence often find themselves confessing secrets long buried, for there is something in her bearing that invites vulnerability and promises compassion in return.
 
 Yet this very openness is both her greatest strength and her fatal weakness. She sees the best in everyone, even those who prey upon her generosity, and she struggles to recognize malice when clothed in flattering words. Her idealism remains unbroken by hardship, stubbornly clinging to the belief that love and understanding can transform even the darkest hearts.
 
@@ -503,7 +504,7 @@ Physical Frailty
 : Her light frame and generally poor nutrition leave her vulnerable to illness and violence. In a direct fight, she would be outmatched.
 
 Attachment to Loss
-: She carries her past—her parents' deaths, her expulsion from the monastery—as an unbridgeable chasm within her soul. This grief sometimes paralyzes her decision-making.
+: She carries her past—her parents' deaths, her expulsion from the hov—as an unbridgeable chasm within her soul. This grief sometimes paralyzes her decision-making.
 
 Conflict Aversion
 : Confrontation causes her distress, and she will often capitulate to avoid conflict, even when standing firm would serve her better.
@@ -512,47 +513,48 @@ Conflict Aversion
 
 ### Patrons
 
-Brother [Nilthorv]{.name data-type="being/npc"}
-: A sympathetic former monk from her monastery who occasionally slips her coin and information, though he himself risks punishment for maintaining the connection.
+[Nilthorv]{.name data-type="being/npc"}
+: A sympathetic former servant of her hov who occasionally slips her coin and information, though he himself risks punishment for maintaining the connection.
 
-Magistrate [[being-driskthyrasn|Driskthira Snurvaruk]]
+Landvordur [[being-driskthyrasn|Driskthira Snurvaruk]]
 : A widow who fell in love with Ralthira's voice years ago and has quietly seen that she survives each harsh winter, though few know of their association.
 
-[The Wayfarers' Council]{.name data-type="affiliation"}
+The Street Folk Who Shelter Her
 : An informal collective of street folk who provide protection and shelter to Ralthira in exchange for her songs, which preserve their histories.
 
 ### Enemies
 
-[The Copper Syndicate]{.name data-type="affiliation/criminal"}
+A Ring of Pickpockets
 : A gang of organized pickpockets and con artists who view Ralthira's easy trust as an exploitable resource. They have repeatedly victimized her, and she has recently begun to recognize the pattern.
 
-Father [[being-unthmyl|Unthmil]]
-: Her former monastery's new priest, a zealot who views her as a heretic whose very existence challenges the theological authority he seeks to establish. He has forbidden anyone from assisting her.
+Gudi [[being-unthmyl|Unthmil]]
+: The new gudi of her former hov, a zealot who views her as a heretic whose very existence challenges the theological authority he seeks to establish. He has forbidden anyone from assisting her.
 
-[Merchant House Drak]{.name data-type="affiliation/lineage"}
+[Merchant House Dvarnumak]{.name data-type="affiliation/lineage"}
 : A trading family whose wayward son she spurned; his wounded pride has translated into a vendetta, spreading lies about her character.
 
 ### Affiliations
 
-[The Street Chorus]{.name data-type="affiliation"}
+The Street Singers
 : An informal network of street performers, buskers, and wandering minstrels who share information, performance spaces, and resources.
 
-[The Devotees of Thrunvald's Storm]{.name data-type="affiliation"}
+The Storm God's Worshippers Outside the Hov
 : Though she no longer affiliates with any formal temple, she maintains loose spiritual bonds with independent worshippers who honor the storm god.
 
 ## Plot Hooks
 
-The Singing Stone
-: A scholar seeking Ralthira claims that ancient texts describe an artifact—the [Singing Stone of Asguard]{.name data-type="miscgear"}—whose power can only be awakened through a voice of perfect purity. He believes Ralthira is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Ralthira must navigate the intersection of faith, greed, and ancient magic.
+The Pattern at the Relief-Post
+: Ralthira has seen that a stranger who asks her for one more song after the watch changes is always followed by a traveler missing a purse. A ring of pickpockets is using her crowd as cover. She can tell the watch and bring suspicion on the street folk who give her shelter, warn the travelers and be known as the one who talks, or stay silent and keep being used.
 
-Memory in Melody
-: A mysterious figure approaches Ralthira, offering substantial coin to help recover a stolen musical score said to contain encrypted messages crucial to a political uprising. The requester claims the oppressed people of a neighboring kingdom depend on her aid. Yet accepting this task would make Ralthira an unwitting pawn in a conflict between nobles, and the true contents of the score—and the true intended use of its decryption—remain obscure and potentially devastating.
+Who Owes the Watch
+: A traveler is found asleep on the road past [[place-dvalgheim|Dvalgheim]] after the relief-post's watch failed, and the settlement answers for such a debt together. The watch looks for someone to blame, and Ralthira sang to the traveler the night before, which makes her the nearest stranger. She can ask the street folk who shelter her to speak for her and show what she knows of their ways, or leave before the ting is called.
 
-The Lost Monastery
-: Word reaches Ralthira that survivors from her monastery have been discovered alive in the mountains after being presumed dead in a catastrophic fire. The monastery's new leadership denies their existence and refuses all inquiries. Ralthira is torn between the possibility of reunion with former brothers and the danger that investigating will draw unwanted attention from those who might benefit from keeping certain truths buried.
+Nilthorv's Warning
+: Nilthorv sends word that the new gudi has learned someone is feeding her and means to find out who. If the gudi learns it was Nilthorv, he loses his place. He asks her to leave [[place-dvalgheim|Dvalgheim]] before the next king's rider passes with the gudi's errand. She can go and lose her one source of news, or stay and let him face what comes.
 
-The Child of Storm
-: A young orphan appears in the streets, displaying an uncanny ability to predict coming storms with disturbing accuracy. The child becomes attached to Ralthira, and soon it becomes apparent the monastery—and perhaps darker forces—are searching for the child with considerable urgency. Ralthira must decide whether protecting this mysterious youth is worth becoming a fugitive herself.
+A Roof for Winter
+: Landvordur [[being-driskthyrasn|Driskthira Snurvaruk]] offers Ralthira a room for the winter on one condition: that she stops singing in the open, where the Landvordur's rank would be linked to a beggar. A roof would keep her alive. Her songs hold the street folk's histories, and without them the street folk who shelter her have no memory.
 
-The Silent Singer's Last Song
-: An elderly bard, one of Nordheim's few remaining living legends, seeks out Ralthira specifically, claiming he has trained his entire life to recognize a specific prophecy written in a long-lost saga. According to his interpretation, a singer marked with the crescent moon of Thrunvald will either be the salvation or the doom of Nordheim in the coming age of darkness. He asks for her help in deciphering which, and whether she has the courage to accept what the answer might demand of her.
+:::secret {title="What the referee knows"}
+A young orphan appears on the streets who can say when a storm is coming, and attaches to Ralthira. The gudi of her old hov is searching for the child with great urgency. Ralthira can hide the child and become a fugitive, or hand the child back to the hov that cast her out.
+:::

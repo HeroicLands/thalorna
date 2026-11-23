@@ -45,7 +45,7 @@ Kwo Gwo Wou Teng
 
 ## Two Names Earned
 
-A Wohou officer known for years as "Second Son of the Shield Bearer of the [Zhowou Clan]{.name data-type="affiliation/lineage"}, near [[place-tengmou|Tengmou]]" led his troops to a victory that saved a province. His liege lord granted him the name [Weng Hen Rau Chai]{.name data-type="being/npc"}, "Wind Tiger Roars Across Thunder Mountain," for the fury of his charge, and he has signed nothing else since.
+A Wohou officer known for years as "Second Son of the Shield Bearer of the [Zhowou Clan]{.name data-type="affiliation/lineage"}, near [[place-tengmou|Tengmou]]" led his troops to a victory that saved a province. His liege lord granted him the name [[being-wenghenrauchai|Weng Hen Rau Chai]], "Wind Tiger Roars Across Thunder Mountain," for the fury of his charge, and he has signed nothing else since.
 
 A Tanchei scholar known as "Third Daughter of the Sage of the [Zhi Zhai Clan]{.name data-type="affiliation/lineage"}, near Weichai" observed and recorded a new star that her seniors had missed. She was granted the name [Zhi Zhai Leng Cheng]{.name data-type="being/npc"}, "Rising Bright Star Bird," for the discovery, and the star carries her name in the court registers.
 

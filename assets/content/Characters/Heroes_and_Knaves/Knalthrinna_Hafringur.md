@@ -3,6 +3,7 @@ shortcode: knlthrnhfrngr
 name: {full: Knalthrinna Hafringur, given: Knalthrinna, clan: Hafringur}
 type: being
 subType: character
+description: "A teamster of Hvarnvík in Norgaad who built her father's two wagons into a fleet of sixteen and hauls the winter harbor's cargo to the inland roads when the frozen rivers cannot."
 tags: [heroes-and-knaves, guilded, common-folk]
 data:
   icon: icon-person
@@ -469,11 +470,11 @@ Knalthrinna was born into the [Hafringur clan]{.name data-type="affiliation/line
 
 ### Building an Empire of Wheels
 
-When her father died of a winter fever at her sixteenth year, her brother inherited the family business with the expectation that Knalthrinna would accept a minor role or find a husband to support her. Instead, she bought out her brother's share through a combination of careful savings, favors called in, and ruthless negotiation. Within five years, she had expanded the family's three wagons into eight, hired trustworthy associates, and established contracts with the city's primary merchant houses and craft guilds. Her reliability became proverbial—if Knalthrinna Hafringur promised delivery on a date, that delivery would manifest with the regularity of sunset, regardless of weather, circumstance, or obstacle.
+When her father died of a winter fever at her sixteenth year, her brother inherited the family business with the expectation that Knalthrinna would accept a minor role or find a husband to support her. Instead, she bought out her brother's share through a combination of careful savings, favors called in, and ruthless negotiation. Within five years, she had expanded the family's two wagons into four, hired trustworthy associates, and established contracts with the primary merchant houses and craftsmen of Norgaad's trade quarters. Her reliability became proverbial—if Knalthrinna Hafringur promised delivery on a date, that delivery would manifest with the regularity of sunset, regardless of weather, circumstance, or obstacle.
 
 ### Current Standing
 
-At twenty-nine years old, Knalthrinna commands a delivery enterprise that rivals those of houses that claim noble heritage. She owns sixteen wagons, employs a core of twelve drivers she trusts implicitly, and maintains contract relationships with virtually every major business in Norgaad's trade quarters. She is wealthy by the standards of her class, respected by merchants both high and low, and increasingly dissatisfied with the ceiling her success has reached. She yearns for growth, challenge, and the kind of legacy that outlasts the practical movement of goods from one place to another.
+She keeps her wagons at [[place-hvarnvik|Hvarnvík]], the harbor that stays open when ice locks every other bay in [[place-norgaad|Norgaad]], and in winter they carry what the harbor lands to the inland roads that frozen rivers cannot serve. At twenty-nine years old, Knalthrinna commands a delivery enterprise that outworks those of houses that claim noble heritage. She owns five wagons, employs three drivers she trusts implicitly, and maintains contract relationships with the harbor's traders and with merchants of Norgaad's trade towns. She is wealthy by the standards of her class, respected by merchants both high and low, and increasingly dissatisfied with the ceiling her success has reached. She yearns for growth, challenge, and the kind of legacy that outlasts the practical movement of goods from one place to another.
 
 ## Psyche
 
@@ -527,47 +528,45 @@ Vulnerability to Debt
 
 ### Patrons
 
-[Merchant House Threnwick]{.name data-type="affiliation/venture"}
+[Merchant House Hlarthumak]{.name data-type="affiliation/venture"}
 : A major trading consortium that has contracted Knalthrinna's services exclusively for three years, providing a steady foundation of income
 
-[The Brewers' Collective of Norgaad]{.name data-type="affiliation/guild"}
-: Guild of brewing operations that rely entirely on Knalthrinna to deliver their product to distant markets; they have become her most vocal advocates
+The Brewers of Norgaad
+: The brewing households that rely entirely on Knalthrinna to deliver their product to distant markets; they have become her most vocal advocates
 
-Lady [Margery Ashford]{.name data-type="being/npc"}
-: A minor noble woman who has contracted Knalthrinna to manage the complex carriage of her rural estates; their relationship has grown into something approaching true friendship
+[Marvthira Anthidrok]{.name data-type="being/npc"}
+: A minor noblewoman who has contracted Knalthrinna to manage the complex carriage of her rural estates; their relationship has grown into something approaching true friendship
 
 ### Enemies
 
-[The Blackwheel Consortium]{.name data-type="affiliation/venture"}
+A Rival Haulage Outfit
 : A rival teamster operation that has begun aggressive price-cutting and sabotage to undermine Knalthrinna's contracts; open warfare between the organizations seems imminent
 
-[Tobias Sallow and Associates]{.name data-type="affiliation/criminal"}
-: A merchant gang that attempted to strongarm Knalthrinna into paying "protection fees"; she refused and has since blocked their access to reliable transport, creating a dangerous enmity
+A Gang of Brigands
+: A gang that attempted to strongarm Knalthrinna into paying "protection fees"; she refused and has since blocked their access to reliable transport, creating a dangerous enmity
 
-The [City Constabulary]{.name data-type="affiliation"} Commander [Darch]{.name data-type="being/npc"}
-: The official responsible for road permits and checkpoint enforcement has taken Knalthrinna's straightforward refusal to accept corruption as a personal offense; he creates official obstacles at every opportunity
+The Landvordur [Driskorv]{.name data-type="being/npc"}
+: The officer responsible for road permits and the winter toll has taken Knalthrinna's straightforward refusal to accept corruption as a personal offense; he creates official obstacles at every opportunity
 
 ### Affiliations
 
-[City Teamsters' Guild]{.name data-type="affiliation/guild"}
-: Trade organization that Knalthrinna participates in reluctantly, viewing most of its traditions as wasteful but recognizing the political value of membership
+The Teamsters of the Winter Road
+: The circle of carters whose customs Knalthrinna follows reluctantly, viewing most of its traditions as wasteful but recognizing the political value of membership
 
-[The Hafringur Company]{.name data-type="affiliation/venture"}
+Her Own Wagon Business
 : Her personal merchant enterprise, the organizational center of her identity and primary focus
 
 ## Plot Hooks
 
-The Impossible Delivery
-: A mysterious patron, paying in advance with coin of unusual purity from a source Knalthrinna cannot identify, contracts her to deliver a sealed cargo to a remote location within an impossibly short time. The patron provides no information about the cargo's contents, origin, or destination beyond a general heading into dangerous, unmapped territory. The payment is enough to triple her annual income, but the conditions are bizarre enough to trigger every instinct warning of danger. Either it is an opportunity or it is a trap.
+The Winter Lane
+: A shipload for the mines lands at [[place-hvarnvik|Hvarnvík]] on the last open day, and the harbor-reeve posted for the cold season needs it moved before the road closes. Her wagons can take part of the cargo through the pass today. A rival haulage outfit has bid to move it all at a lower price. She can take the cargo, risk the pass in bad weather and push her drivers, or leave the cargo to a rival and lose the season's standing at the harbor.
 
-The Blackwheel Rising
-: The Blackwheel Consortium, facing ruin from Knalthrinna's faster and cheaper service, makes a shocking move—they hire [Tobias Sallow]{.name data-type="being/npc"}'s merchant gang to actively sabotage her deliveries, hiring brigands to ambush her wagons and corrupt her clients through false allegations. With her reputation under systematic attack and her contracts threatened, Knalthrinna's choices are to respond with ruthless force, to trust her reputation to withstand the assault, or to seek an alliance with former rivals. Each path carries significant risk.
+The Gang on the Winter Road
+: A rival haulage outfit, ruined by her faster and cheaper service, hires a gang of brigands to ambush her wagons and spread false claims about her loads. Her reputation is attacked in public. She can answer with force, trust her record to hold, or seek an alliance with the rivals she has beaten.
 
-The Lady's Secret
-: Lady Margery Ashford, her closest thing to a true friend, confides in Knalthrinna that she requires immediate, covert transport of a substantial shipment of weapons and provisions to a rebel force building an independent settlement in defiance of the King. Margery asks Knalthrinna to keep the knowledge secret and transport the materials. Accepting means betraying the [[affiliation-kingdmnrgd|Kingdom]] and the law; refusing means abandoning the woman who has shown her real kindness. The decision threatens to shatter Knalthrinna's carefully constructed moral framework.
+The Landvordur's Permit
+: Landvordur Driskorv withholds the permits her wagons need to leave the harbor, because she refused to pay what he asks. A permit costs her a day and a coin, and the winter road does not wait. She can pay and be his, bring his demand to the district's hersvald and risk his anger for the whole winter, or find another road.
 
-The Inherited Claim
-: An elderly merchant from a distant city arrives bearing legal documents proving that Knalthrinna's distant relative—a side branch of the Hafringur line she has never heard of—left her a substantial fleet of wagons and trading rights to an entirely new region. The inheritance is real, the opportunity immense, but accepting it requires Knalthrinna to travel to this foreign city to take possession and establish operations there. It represents everything she has worked toward, yet leaving her established enterprise risks losing it to the Blackwheel Consortium or other competitors.
-
-The Brigand's Recruitment
-: A band of skilled brigands who have been stealing from merchant caravans across the kingdom approaches Knalthrinna with a revelation—they steal not for personal enrichment but to fund an organization opposed to royal taxation they view as unjust. They propose that Knalthrinna could aid their cause by identifying valuable shipments, providing safe houses along her routes, or temporarily disappearing inconvenient deliveries. In exchange, they offer protection, information, and a share of their operations. It is structured as an opportunity to serve a cause larger than commerce, but represents a betrayal of her fundamental code of reliable service.
+:::secret {title="What the referee knows"}
+Marvthira Anthidrok, her closest friend, asks her to carry a large shipment of weapons and provisions in secret to a rebel force that is building an independent settlement in defiance of the king. Knalthrinna can keep the secret and break the law, refuse and abandon the woman who has been kind to her, or tell the landvordur. Separately, a mysterious patron pays in advance in coin of unusual purity for a sealed cargo to be delivered to a remote place in an impossibly short time, with no word of what it holds.
+:::

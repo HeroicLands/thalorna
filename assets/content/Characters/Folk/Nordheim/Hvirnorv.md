@@ -1,18 +1,18 @@
 ---
 shortcode: hvirnorv
-name: {full: Hvirnorv, en: [Alderman Hvirnorv]}
+name: {full: Hvirnorv}
 type: being
 subType: npc
-description: An alderman of the Guildhall and strict moralist who views jesters as dangerous corruptors of virtue, named in Tvalgthann Bletholl.
+description: A bundi of the Marvstead district and strict moralist who views jesters as dangerous corruptors of virtue, named in Tvalgthann Bletholl.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Alderman
+  occupation: Bundi
   lore: []
   culture: nordheimnclt
-  homes: []
+  homes: [marvstead]
   affiliations: {}
   gender: male
   species: humanflk
@@ -42,4 +42,4 @@ Hvirnorv is a 52-year-old man who stands 5'11" tall with a massive build. He has
 
 # Dossier {#dossier}
 
-Hvirnorv is an alderman of the [Guildhall]{.name data-type="affiliation"} and strict moralist who views jesters as dangerous corruptors of virtue. He has publicly questioned Duke [[being-thruldmyl|Thruldmil]]'s patronage of [[being-tvlgthnblthl|Tvalgthann]]. Hvirnorv is named in Tvalgthann Bletholl.
+Hvirnorv is a bundi of the [[place-marvstead|Marvstead]] district and strict moralist who views jesters as dangerous corruptors of virtue. He has publicly questioned Hersvald [[being-thruldmyl|Thruldmil]]'s patronage of [[being-tvlgthnblthl|Tvalgthann]]. Hvirnorv is named in Tvalgthann Bletholl.

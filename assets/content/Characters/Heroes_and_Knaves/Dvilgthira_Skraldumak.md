@@ -3,6 +3,7 @@ shortcode: dvlgthyrskrldmkh
 name: {full: Dvilgthira Skraldumak, given: Dvilgthira, clan: Skraldumak}
 type: being
 subType: character
+description: "An enslaved household servant of a merchant's hall at Málstead in Malagna, who keeps the whole house running and hides a sharper mind behind meek service."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -460,13 +461,13 @@ Dvilgthira does not remember her freedom, though she was born to it. She was sev
 
 ### The Household
 
-For the first five years, Dvilgthira was passed between owners, her worth declining as she grew older and less "valuable" as a house servant. She was purchased at age twelve by the current master, **Lord [[being-anthorvdrisk|Anthorv Driskumak]]**, a cold and exacting nobleman of moderate wealth who preferred competent staff to beautiful ones. In his household, Dvilgthira discovered she had a gift for anticipating needs—she could read a person's mood in their posture and have what they required ready before they asked for it. She became extraordinarily valuable precisely because she was so good at being invisible, at providing service without demanding recognition or sympathy.
+For the first five years, Dvilgthira was passed between owners, her worth declining as she grew older and less "valuable" as a house servant. She was purchased at age twelve by the current master, **[[being-anthorvdrisk|Anthorv Driskumak]]**, a cold and exacting nobleman of moderate wealth who preferred competent staff to beautiful ones. In his household, Dvilgthira discovered she had a gift for anticipating needs—she could read a person's mood in their posture and have what they required ready before they asked for it. She became extraordinarily valuable precisely because she was so good at being invisible, at providing service without demanding recognition or sympathy.
 
-Over the years, she has become the primary household servant, the one person who keeps the entire establishment running. She manages the junior servants, oversees the kitchen, maintains the household accounts, and is the closest thing to a confidante the emotionally distant Lord Anthorv possesses. Her position has afforded her certain minor privileges—a small private room, slightly better food, the trust of her master. And yet it has also marked her as someone above the other servants, creating resentment among those who have not achieved her status.
+Over the years, she has become the primary household servant, the one person who keeps the entire establishment running. She manages the junior servants, oversees the kitchen, maintains the household accounts, and is the closest thing to a confidante the emotionally distant Anthorv possesses. Her position has afforded her certain minor privileges—a small private room, slightly better food, the trust of her master. And yet it has also marked her as someone above the other servants, creating resentment among those who have not achieved her status.
 
 ### Present Circumstance
 
-Now twenty-seven years old, Dvilgthira exists in the peculiar intersection of being valued and entirely disposable. Her master depends on her—more than he might recognize—but she remains slave, property that can be sold or traded at his whim. She has become highly skilled at managing the household, understanding financial matters, negotiating with merchants, and manipulating situations through subtle influence. Yet she remains bound by law and circumstance to absolute obedience. Recently, she has begun to wonder what freedom might look like, and the question itself terrifies her because to even ask it suggests rebellion.
+Now twenty-seven years old and serving in a merchant's hall at [[place-malstead|Málstead]], Dvilgthira exists in the peculiar intersection of being valued and entirely disposable. Her master depends on her—more than he might recognize—but she remains slave, property that can be sold or traded at his whim. She has become highly skilled at managing the household, understanding financial matters, negotiating with merchants, and manipulating situations through subtle influence. Yet she remains bound by law and circumstance to absolute obedience. Recently, she has begun to wonder what freedom might look like, and the question itself terrifies her because to even ask it suggests rebellion.
 
 ## Psyche
 
@@ -518,18 +519,18 @@ Social Isolation
 : Her position as both servant and above-servants means she belongs to neither community. She has no true friends or trusted confidantes who know her whole self.
 
 Dependence on Her Master's Will
-: Everything about her life—her shelter, food, security—depends entirely on Lord Anthorv's continued whim. Without him, she has nothing.
+: Everything about her life—her shelter, food, security—depends entirely on Anthorv's continued whim. Without him, she has nothing.
 
 ## Social
 
 ### Patrons
 
-None in any formal sense. She is dependent entirely on the whim of her master, **Lord Anthorv Driskumak**, who has come to rely on her more than he might acknowledge. In some ways, she serves him more than he serves her, though this is obscured by formal power relationships.
+None in any formal sense. She is dependent entirely on the whim of her master, **Anthorv Driskumak**, who has come to rely on her more than he might acknowledge. In some ways, she serves him more than he serves her, though this is obscured by formal power relationships.
 
 ### Enemies
 
 Other Servants in the Household
-: The junior servants resent what they perceive as her elevated position and favor. They sometimes sabotage her work, speak against her to Lord Anthorv, or deliberately create extra work for her as punishment for her perceived betrayal of servant solidarity.
+: The junior servants resent what they perceive as her elevated position and favor. They sometimes sabotage her work, speak against her to Anthorv, or deliberately create extra work for her as punishment for her perceived betrayal of servant solidarity.
 
 Senior Housemistress [Morvanna]{.name data-type="being/npc"}
 : The elderly servant who would have taken the position Dvilgthira now holds has become her bitter enemy, blaming her for being passed over due to age. Morvanna actively works against Dvilgthira within the servant hierarchy.
@@ -543,17 +544,18 @@ None. As an enslaved person in the Kingdom of Malagna, she is forbidden by law f
 
 ## Plot Hooks
 
-The Hidden Will
-: A traveler comes to the household as a guest and, during his stay, witnesses Dvilgthira's competence and kindness. When he leaves, he leaves behind a carefully hidden letter, written by an old woman who claims to be Dvilgthira's mother. The letter speaks of a legal action, filed decades ago but buried in bureaucratic processes, that could potentially free her. The traveler promises to return to help her pursue this claim. Dvilgthira faces an agonizing dilemma: hope that freedom is possible, or accept her fate and protect herself from the devastating disappointment that could follow. If she pursues this, she may betray her master's trust, placing her in danger.
+The Letter at the Stone
+: A guest of the house leaves behind a hidden letter from an old woman who says she is Dvilgthira's mother. It speaks of a legal action filed decades ago that could free her, and the guest promises to return. A claim like that is heard at the stone in the market square of [[place-malstead|Málstead]] before the Lawspeaker riding circuit. Dvilgthira can hope and pursue it, and risk her master's trust, or put the letter away and spare herself the disappointment.
 
-The Magical Binding
-: Lord Anthorv falls gravely ill and in his delirium reveals to Dvilgthira that her servitude is bound by more than legal contracts—she has been magically bound to the household by a dark ritual performed on her as a child, something designed to prevent her from escaping or even wanting to escape. A mysterious figure, perhaps a mage or a freed slave, contacts her and offers to break the binding, but doing so requires an act of betrayal against her master. More troublingly, she is not certain the binding is truly constraining her, or if she has simply accepted slavery so completely that the magic is no longer necessary—the chains might be entirely in her mind.
+The Housemistress's Tale
+: Morvanna tells [[being-anthorvdrisk|Anthorv Driskumak]] that Dvilgthira has been reading his accounts, which she has, and that she is stealing from them, which she is not. The master depends on her and does not like to be told how much. She can show him the books and let him see how much she knows, or let Morvanna's account stand and lose the keys.
 
-The Secret Pregnancy
-: Dvilgthira discovers she is pregnant, possibly from an assault by a visiting nobleman that she was powerless to prevent. She has no rights as a mother—any child born to a slave becomes property of her master or can be sold away. She desperately seeks help, approaching a sympathetic visitor who might help her escape before the pregnancy becomes apparent. This desperate flight could be the beginning of freedom or could lead to her recapture and terrible punishment if discovered.
+The Master's Illness
+: Anthorv, aging and unwell, begins making decisions about his estate that leave her position uncertain, and she could be sold as part of the settlement. She begins to teach herself the household accounts in secret. If she is found out, she will be called treacherous, and if she does nothing, she has no protection when he dies.
 
-The Household in Decline
-: Lord Anthorv, aging and showing signs of serious illness, begins to make concerning decisions about his estate. Dvilgthira realizes that upon his death, her position is not secure—she might be sold as part of the estate settlement or simply abandoned. She begins secretly educating herself in the household accounts and Lord Anthorv's finances, attempting to position herself somehow to survive his death. Her actions risk appearing treacherous if discovered, but inaction guarantees her vulnerability.
+The Network's Offer
+: A member of a network that has moved dozens of enslaved people to freedom contacts Dvilgthira and asks her to serve as their agent among noble households, gathering information and quietly helping escapes. It means keeping up a pretense of absolute loyalty while working against her master, and it means a community larger than her own survival. She can accept, ask for time, or turn the messenger away.
 
-The Underground Movement
-: A member of an underground network helping enslaved people achieve freedom makes contact with Dvilgthira. The network is apparently well-funded and effective, having successfully moved dozens of people to freedom over recent years. They believe Dvilgthira's skills—her intelligence, her knowledge of the household, her ability to move unsuspected—would be of great value to their cause. They ask her to become an agent within noble households, gathering information or subtly assisting escapes. Helping would be deeply dangerous, requiring her to maintain the pretense of absolute loyalty while actually working against her master. But it would also mean becoming part of something larger than her own survival, connecting her to a community dedicated to liberation.
+:::secret {title="What the referee knows"}
+A ritual performed on Dvilgthira as a child binds her to the household and dulls the wish to leave. When Anthorv is delirious he lets slip that she is bound by more than law, and a figure, perhaps a mage or a freed thrall, offers to break the binding at the price of betraying him. She cannot be certain the binding still holds her or whether she has simply accepted servitude so fully that the magic is no longer needed.
+:::

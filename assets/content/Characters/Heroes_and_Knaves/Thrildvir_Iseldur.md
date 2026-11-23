@@ -3,6 +3,7 @@ shortcode: thrldvrisldr
 name: {full: Thrildvir Iseldur, given: Thrildvir, clan: Iseldur}
 type: being
 subType: character
+description: "A clothier of Hrandstead in Vithgard, a perfectionist master of an atelier and a training workshop who makes ceremonial garments for the jarl's hall and the nobles of the kingdom."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -464,7 +465,7 @@ Upon completing his apprenticeship at twenty-two, Thrildvir took the road as a j
 
 ### Master Craftsman and Merchant
 
-Returning to Vithgard at twenty-seven, Thrildvir established his own atelier in the middle of the cloth district, near his childhood home. His reputation grew rapidly through a combination of superb craftsmanship and an almost mystical ability to understand what his clients truly needed, often creating designs that exceeded their stated desires. Nobility began commissioning pieces from him, then minor royalty, until his schedule became perpetually overbooked. He trained several apprentices, though none matched his own natural gifts—a fact that troubled him deeply, as he recognized his gift might pass from the world with him.
+Returning to Vithgard at twenty-seven, Thrildvir established his own atelier at [[place-hrandstead|Hrandstead]], the jarl's plateau town, in the middle of the cloth district, near his childhood home. His reputation grew rapidly through a combination of superb craftsmanship and an almost mystical ability to understand what his clients truly needed, often creating designs that exceeded their stated desires. Nobility began commissioning pieces from him, then minor royalty, until his schedule became perpetually overbooked. He trained several apprentices, though none matched his own natural gifts—a fact that troubled him deeply, as he recognized his gift might pass from the world with him.
 
 Now in his mid-forties, Thrildvir has achieved considerable financial success and social standing. He maintains a thriving business, a training atelier for promising young craftspeople, and a reputation for perfectionism that sometimes alienates clients but ultimately commands deep respect. Yet this success in trade covers a growing melancholy—the awareness that it has not filled a certain hollowness in his personal life.
 
@@ -518,38 +519,36 @@ Chronic Self-Doubt
 
 ### Patrons
 
-Lord [[being-gnaldurvirvra|Gnaldurvir Vrathumak]]
+[[being-gnaldurvirvra|Gnaldurvir Vrathumak]]
 : A powerful noble and patron of the arts who regularly commissions elaborate ceremonial garments from Thrildvir and has been instrumental in establishing his reputation among the kingdom's elite. Their relationship is cordial in business but personally distant.
 
-The Royal Costume Master
-: An official appointment that requires Thrildvir to produce state garments for royal ceremonies, a prestigious but demanding obligation that commands significant portions of his creative energy.
+The Jarl's Costume-Master
+: An appointment that requires Thrildvir to produce garments for the ceremonies of the jarl's hall, a prestigious but demanding obligation that commands significant portions of his creative energy.
 
 ### Enemies
 
-Merchant-Tailor [Halvin Greye]{.name data-type="being/npc"}
-: A successful clothier who operates a larger, more commercially-focused atelier. Greye views Thrildvir as pretentious and haughty, while Thrildvir considers Greye's work mass-produced mediocrity. They compete fiercely for commissions from the lesser nobility.
+Merchant-Tailor [Skrildvir Tvalgumak]{.name data-type="being/npc"}
+: A successful clothier who operates a larger, more commercially-focused atelier. Tvalgumak views Thrildvir as pretentious and haughty, while Thrildvir considers Tvalgumak's work mass-produced mediocrity. They compete fiercely for commissions from the lesser nobility.
 
-[The Dyers' Consortium]{.name data-type="affiliation/venture"}
-: A commercial organization that controls much of the fabric supply in the region. Thrildvir's insistence on seeking out specific weavers and naturally-dyed fabrics has put him at odds with their pricing and availability demands.
+The Dye Merchants
+: A group of dealers who control much of the fabric supply in the region. Thrildvir's insistence on seeking out specific weavers and naturally-dyed fabrics has put him at odds with their pricing and availability demands.
 
 ### Affiliations
 
-[City Tailors' Guild]{.name data-type="affiliation/guild"}
-: He holds a senior position within the guild and serves on its governing council, though his idealistic standards sometimes put him at odds with the more pragmatic membership.
+The Tailors of Hrandstead
+: He is the senior voice among the town's tailors, though his idealistic standards sometimes put him at odds with the more pragmatic of them.
 
 ## Plot Hooks
 
-The Fabled Loom
-: Thrildvir becomes obsessed with locating a fabled loom said to have belonged to the fabled weaver [Isendra the Colorist]{.name data-type="being/npc"}, a master craftsperson from before the [Collapse]{.name data-type="lore"} whose work is described in near-mystical terms in ancient texts. He hires the party to search for evidence of its location, convinced that working at such a loom would allow him to create his masterwork—a garment that would be the summit of his artistic vision. The search takes them to hidden places where fragments of the old world remain preserved, but also reveals that others seek the loom for reasons less pure than artistic achievement.
+The Jarl's Cloth
+: The jarl of the Bjarnaett orders garments for a ceremony in the hall, with a date set and a fabric Thrildvir does not consider good enough. At [[place-hrandstead|Hrandstead]] a contract is read aloud before signing and enforced by the garrison, so what he agrees to he must deliver. He can promise what he will deliver and accept the cloth, spend weeks he does not have searching for better, or tell the hall a worse cloth must wait.
 
-The Garment of Legends
-: A mysterious client commissions Thrildvir to create a specific garment based on a centuries-old description—a coat said to grant the wearer protection from harm and enhance their natural abilities. Thrildvir initially dismisses this as fantasy, but as he researches the commission, he discovers references to this garment across multiple historical sources and evidence suggesting it was real. Creating it requires materials that are nearly impossible to obtain and techniques he's never before attempted. The party must help him source materials and face dangers as his creation begins to show signs of real supernatural properties.
+The Apprentice Who Vanished
+: His most talented apprentice does not come to the atelier, and word at the town's looms is that she has been copying his designs for Skrildvir Tvalgumak or has been forced to. Thrildvir insists she is blameless. He can search for her himself and leave the jarl's order unfinished, ask the garrison's help and make the matter public, or give her up as lost and refuse to hear any more of it.
 
-The Apprentice's Fall
-: One of Thrildvir's most talented apprentices disappears under mysterious circumstances, and evidence suggests she may have been involved in illicit activities—perhaps copying Thrildvir's designs for a rival, or perhaps being blackmailed or coerced. Thrildvir insists the party help him find her, and has to face what he will do if she betrayed him. The investigation reveals that the apprentice was being blackmailed by someone using her as an unwilling agent in an espionage scheme, and the party must help rescue her while dealing with the larger threat.
+Skrildvir Tvalgumak's Bid
+: Skrildvir Tvalgumak proposes to merge their ateliers: Tvalgumak's volume and Thrildvir's name. The offer would give the training atelier a safe future, and Thrildvir considers Tvalgumak's work mediocrity. The dye merchants will lower their prices to the merged house only. He can take it and make fine cloth in a mass-produced house, or refuse and watch the supply of natural dyes tighten.
 
-The Royal Commission
-: The King himself commissions Thrildvir to create an elaborate state garment for a diplomatic function of extreme importance. The commission is honorable but impossibly demanding—the garment must be finished in an impossibly short timeframe, incorporate elements that prove technically difficult, and satisfy the contradictory demands of multiple royal advisors with competing visions. The party must help Thrildvir manage this tangle of officials, source exotic materials on short notice, and handle court intrigue as various factions attempt to influence the design to their political advantage.
-
-Fabric of Fate
-: Thrildvir discovers that certain rare fabrics—particularly those from specific ancient looms or woven during particular astrological alignments—seem to carry subtle magical properties. A piece of cloth that passed through his hands years ago suddenly reappears with evidence that it has been used in a significant magical working. This discovery opens a door to an entirely new dimension of his craft—the possibility that his work has been more important than he ever realized. However, it also makes him a target for those seeking to turn cloth-magic into a weapon, and he can embrace this new understanding of his craft or try to distance himself from it.
+:::secret {title="What the referee knows"}
+A mysterious client commissions a coat described in a centuries-old source, said to protect its wearer and sharpen the wearer's gifts. Thrildvir at first dismisses it as fancy. As he researches, the references prove real, and the materials are nearly impossible to obtain. The garment begins to show real power, and certain rare fabrics passing through his hands carry subtle properties of their own.
+:::

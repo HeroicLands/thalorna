@@ -3,6 +3,7 @@ shortcode: krldmylvtrdmr
 name: {full: Kralmil Veturdomur, given: Kralmil, clan: Veturdomur}
 type: being
 subType: character
+description: "A master woodcutter of Raltholm in Nordheim, a taciturn forester who supplies the finest timber for the district's longships and builders and holds that taking from the forest carries an obligation."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -459,11 +460,11 @@ Kralmil stands 6'5" tall with a heavy build. He has tanned weathered skin, dark 
 
 # Dossier {#dossier}
 
-Kralmil was born in a small settlement in the wild borderlands of [[place-nordheim|Nordheim]], the fourth son of a farming family with little land and even fewer prospects. At age ten, his family apprenticed him to a master woodcutter named [Forgath the Old]{.name data-type="being/npc"}, a massive man with whom Kralmil seemed to develop an immediate rapport. For six years, Kralmil learned the language of the forest—how to read a tree's character, how to identify the timber best suited to each purpose, how to fell without wasting and how to preserve without damaging.
+Kralmil, who cuts the timber that [[place-raltholm|Raltholm]]'s longships need, was born in a small settlement in the wild borderlands of [[place-nordheim|Nordheim]], the fourth son of a farming family with little land and even fewer prospects. At age ten, his family apprenticed him to a master woodcutter named [Forgath the Old]{.name data-type="being/npc"}, a massive man with whom Kralmil seemed to develop an immediate rapport. For six years, Kralmil learned the language of the forest—how to read a tree's character, how to identify the timber best suited to each purpose, how to fell without wasting and how to preserve without damaging.
 
 At sixteen, Kralmil was working with Forgath in a remote forest when a winter storm brought down a massive oak. Forgath was caught beneath its weight, his legs crushed beyond healing. Rather than abandon his master, Kralmil spent the night beneath the snow, maintaining Forgath's warmth and consciousness while he waited for the morning to bring help. Help came, but too late for Forgath's legs—the old man lived for another decade, crippled and in pain, until a harsh winter finally claimed him. Kralmil was there at the end, holding his dying mentor's hand.
 
-After Forgath's death, Kralmil became the finest woodcutter in all of Nordheim, known for his ability to harvest timber from impossible locations and his uncanny sense for which trees would provide the strongest wood for specific purposes. He joined the [Woodcutters' Guild]{.name data-type="affiliation/guild"} at twenty-one and has never accepted promotion beyond master craftsman, preferring the simple clarity of direct work to any form of authority over others. He received the scar on his jaw at age twenty-four when a carelessly cut tree branch snapped back and nearly severed his face—an accident that terrified him not because of the pain, but because for a moment, death had been real and arbitrary, independent of skill or effort.
+After Forgath's death, Kralmil became the finest woodcutter in all of Nordheim, known for his ability to harvest timber from impossible locations and his uncanny sense for which trees would provide the strongest wood for specific purposes. At twenty-one he was named a master woodcutter and has never accepted promotion beyond master craftsman, preferring the simple clarity of direct work to any form of authority over others. He received the scar on his jaw at age twenty-four when a carelessly cut tree branch snapped back and nearly severed his face—an accident that terrified him not because of the pain, but because for a moment, death had been real and arbitrary, independent of skill or effort.
 
 He married once, in his thirties, to a woman named [Brilda]{.name data-type="being/npc"}, the daughter of a local smith. The marriage lasted five years before Brilda left, unable to endure the isolation and emotional distance that seemed to be Kralmil's fundamental nature. She did not leave in anger but in sadness, and Kralmil has never blamed her. They have no children. Now, at forty-six, Kralmil lives alone in a cabin he built himself at the edge of the great forests of Nordheim, and he asks nothing more of life than the opportunity to continue his work.
 
@@ -517,50 +518,51 @@ Isolation Creates Vulnerability
 
 ### Patrons
 
-Master Carpenter [Gnuldurmil]{.name data-type="being/npc"}
+The carpenter [Gnuldurmil]{.name data-type="being/npc"}
 : The finest carpenter in Nordheim relies entirely on Kralmil's timber and has arranged his entire business around Kralmil's supply schedule, paying a premium for the superior quality of wood that only Kralmil can provide.
 
-[The Builders' Collective]{.name data-type="affiliation"}
-: An informal association of craftsmen engaged in major construction projects in Nordheim's cities depends on Kralmil for special timber that must meet exacting standards; they pay well and do not question his methods.
+The Builders of Nordheim's Towns
+: An informal association of craftsmen engaged in major construction projects in Nordheim's towns and halls depends on Kralmil for special timber that must meet exacting standards; they pay well and do not question his methods.
 
-High Priestess [[being-snarvthyra|Snarvthira]]
-: The priestess of [[affiliation-thrunvald|Thrunvald]] in the nearest settlement views Kralmil as a worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
+Hofgudja [[being-snarvthyra|Snarvthira]]
+: The gudja of the hov of [[affiliation-thrunvald|Thrunvald]] in the nearest settlement views Kralmil as a worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in hov construction.
 
-Alderman [[being-hluskmyl|Hlusmil]]
-: The local administrative leader respects Kralmil's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.
+Hersvald [[being-hluskmyl|Hlusmil]]
+: The leader of the district respects Kralmil's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.
 
 ### Enemies
 
 [[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]] of [[place-vrithholm|Vrithholm]]
 : These ambitious merchants view Kralmil's independent operations as an obstacle to their plans for industrial-scale timber harvesting and have attempted repeatedly to purchase his operation or absorb him into their company—attempts he has always refused.
 
-Warden [Kale]{.name data-type="being/npc"}
+Warden [Knalthvir]{.name data-type="being/npc"}
 : The regional forest warden has clashed with Kralmil multiple times over interpretations of harvesting rights and believes that Kralmil operates outside proper legal authority; this resentment has festered into personal dislike.
 
 The Corrupted Settlement
-: A nearby settlement whose leaders have been bribed by the Merchant Consortium has begun making legal challenges to Kralmil's rights to harvest in traditional territories.
+: A nearby settlement whose leaders have been bribed by Lin'Zuwaret has begun making legal challenges to Kralmil's rights to harvest in traditional territories.
 
 ### Affiliations
 
-The Woodcutters' Guild
-: Kralmil maintains his membership and pays his dues, though he has little involvement in guild politics and routinely skips guild meetings.
+The Woodcutters of Nordheim
+: Kralmil keeps his place among them and pays his share, though he has little involvement in their politics and routinely skips their gatherings.
 
 The Followers of Thrunvald
 : Though not a formal priest or member of any religious institution, Kralmil is widely recognized as a worshipper of the storm god through his commitment to excellence and his acceptance of danger.
 
 ## Plot Hooks
 
-The Stranger in the Forest
-: A figure arrives at Kralmil's cabin in the dead of winter, desperate, wounded, and fleeing from something or someone. Kralmil's honor compels him to shelter the stranger, but the stranger's identity and origins become increasingly mysterious. As winter deepens, Kralmil discovers that the stranger may be involved in something dark—perhaps murder, theft, or worse—and that there are others searching for them. Kralmil must decide whether to shelter the stranger until the danger passes, turn them over to authorities, or discover the truth of the situation himself.
+The Grove Under Claim
+: A stand Kralmil has never cut, protected by an old agreement and sacred to the followers of older gods, is claimed by Lin'Zuwaret of [[place-vrithholm|Vrithholm]], whose agents have won the regional officials' grant to harvest it. The hersvald of [[place-raltholm|Raltholm]] needs keel timber for the muster fleet and the merchants offer it. Kralmil can refuse and be called an obstacle to the levy's ships, take the keel timber from the grove, or take the case to the Lawspeaker on circuit.
 
-The Sacred Grove
-: A section of forest that Kralmil has never harvested—protected by ancient agreement and considered sacred to the followers of older gods—suddenly comes under threat from the Merchant Consortium's expansion plans. The consortium has convinced the regional authorities to grant harvesting permits, arguing that the "superstitious" protection of the grove is archaic and economically wasteful. Kralmil finds himself in an unexpected alliance with the priesthood and with regional druids who have maintained the grove's sacred status. The situation becomes complicated when he discovers that the grove's sacredness is not merely spiritual—it is also ecological, and its destruction would damage the long-term health of all surrounding forests.
-
-The Impossible Timber
-: A noble from a distant land arrives with an unusual request: they need a single piece of timber of very specific dimensions and qualities to craft a sacred item. The timber must come from a particular region, and the specifications suggest knowledge of forestry that should not exist in that context. Kralmil becomes intrigued and commits to finding this timber, but the search leads him into territories he has never explored and brings him into contact with other woodcutters, some of whom seem to have dangerous knowledge and connections to the Merchant Consortium.
+The Stranger in the Cabin
+: A wounded stranger reaches Kralmil's cabin in the dead of winter, fleeing someone. His honor compels him to shelter the stranger, but the stranger's story shifts as the winter deepens, and others are searching. Kralmil can shelter the stranger until the danger passes, turn them over to the hersvald's men, or find the truth himself.
 
 The Rival Master
-: A master woodcutter from another realm arrives in Nordheim and begins systematically challenging Kralmil's reputation by completing supposedly impossible timber harvests with shocking speed. This rival seems to have access to tools and techniques that Kralmil has never encountered, and their work, while technically correct, somehow violates Kralmil's philosophy of craftsmanship and forest stewardship. As Kralmil investigates the rival's methods, he discovers that they may be using harvesting techniques that damage the forest in subtle ways that will not be apparent for decades.
+: A master woodcutter from another realm arrives in Nordheim and begins completing supposedly impossible harvests with shocking speed, and the builders talk of nothing else. The work is technically correct. Kralmil sees that the methods may harm the forest in ways that will not show for decades. He can challenge the rival's work and be called jealous, or watch the forest suffer for a reputation.
 
-The Final Debt
-: An aging member of the Woodcutters' Guild approaches Kralmil with a dying request: to complete a final harvesting project in a remote and dangerous territory that is beyond the skill of any other living woodcutter. The request suggests that Kralmil owes this favor due to ancient guild obligations. The project is not merely difficult but dangerous, requiring Kralmil to travel into territories rumored to be haunted or cursed. As he investigates the request, Kralmil discovers that the project may have been deliberately designed to require his specific skills, and that someone knows him far better than he realized.
+The Dying Woodcutter's Request
+: An aging woodcutter asks Kralmil, as a dying favor, to finish a last harvest in a remote and dangerous territory that no other living woodcutter can manage. The territory is rumored to be haunted. The request may owe something to old obligations, and Kralmil may owe it. He can refuse and break a debt of honor, or go.
+
+:::secret {title="What the referee knows"}
+A noble from a distant land asks for a single piece of timber of exact dimensions and qualities for a sacred object, specified with knowledge of forestry that should not exist there. The search draws Kralmil into territories he has never seen and toward woodcutters with dangerous connections to Lin'Zuwaret. The last harvest of the dying woodcutter was designed to need his skill, and someone knows him far better than he realized.
+:::

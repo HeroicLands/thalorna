@@ -3,6 +3,7 @@ shortcode: knlthnskrldmkh
 name: {full: Knilthann Skraldumak, given: Knilthann, clan: Skraldumak}
 type: being
 subType: character
+description: "A traditional skald of Tvalgard in Targud, Stóraldstjori of the Skalds' Circle, whose sagas the king and the frontier levy rely on and who is wary of new ways."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -454,15 +455,15 @@ Knilthann stands 5'10" tall with a medium build. He has light fair skin, dark bl
 
 **The Wandering Years**
 
-Knilthann was born into the [Skraldumak clan]{.name data-type="affiliation/lineage"} during an age when the old ways still held dominion over the hearts of the northern peoples. His father, a respected warrior-poet, recognized early the boy's gift for memorization and the peculiar cadence of his voice—a voice that could carry across mead-halls and mountainous valleys alike. At seven years, Knilthann was apprenticed to the Master Skald [Hvarnmil Hrafansbane]{.name data-type="being/npc"}, a famed storyteller whose repertoire encompassed the entire history of the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the exploits of its greatest heroes. For thirty years, he learned the words of the ancient sagas and their spirit—the pauses that make hearts quicken, the inflections that bring tears to hardened warriors' eyes, the rhythms that echo in memory long after the final verse.
+Knilthann was born into the [Skraldumak clan]{.name data-type="affiliation/lineage"} during an age when the old ways still held dominion over the hearts of the northern peoples. His father, a respected warrior-poet, recognized early the boy's gift for memorization and the peculiar cadence of his voice—a voice that could carry across mead-halls and mountainous valleys alike. At seven years, Knilthann was apprenticed to the Stóraldstjori [Hvarnmil Skalfendik]{.name data-type="being/npc"}, a famed storyteller whose repertoire encompassed the entire history of the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the exploits of its greatest heroes. For thirty years, he learned the words of the ancient sagas and their spirit—the pauses that make hearts quicken, the inflections that bring tears to hardened warriors' eyes, the rhythms that echo in memory long after the final verse.
 
 **The Skald's Mastery**
 
-As a young man, Knilthann earned his scar defending the honor of [[affiliation-skaldscrcl|the Skalds' Guild]] against a rival skald who sought to corrupt the ancient stories with borrowed foreign tales. That duel of hands—before the duel of voices could commence—left him marked but victorious, and his reputation thereafter was unassailable. He rose through the ranks of the Nordland Skalds' Guild with steady determination, eventually becoming the Guild's Master of Lore and keeper of the most sacred sagas. For the past twenty years, his performances have been commissioned by the greatest noble houses of Targud, his voice commanding fees that secure his comfort in the winter of his life.
+As a young man, Knilthann earned his scar defending the honor of [[affiliation-skaldscrcl|the Skalds' Circle]] against a rival skald who sought to corrupt the ancient stories with borrowed foreign tales. That duel of hands—before the duel of voices could commence—left him marked but victorious, and his reputation thereafter was unassailable. He rose through the ranks of the Skalds' Circle with steady determination, eventually becoming a Stóraldstjori and keeper of the most sacred sagas. For the past twenty years, his performances have been commissioned by the greatest noble houses of Targud, his voice commanding fees that secure his comfort in the winter of his life.
 
 **The Current Twilight**
 
-Now at forty-three winters, Knilthann maintains an almost religious adherence to the traditional methods of his craft. His vast wealth and position allow him to be selective in his commissions, accepting only those performances that align with the authentic traditions he has spent a lifetime perfecting. Yet the world around him shifts in ways both subtle and deep. Younger skalds arrive in the great halls with new compositions, introducing foreign melodies and new tales that draw the applause of lords and ladies alike. Where once his voice alone could command silence and rapt attention, he now finds himself competing with spectacle and novelty. This reality sits uneasily with him, though he masks it beneath layers of gravitas and nostalgic wisdom.
+Now at forty-three winters, Knilthann, who sings the sagas that keep the levy at [[place-tvalgard|Tvalgard]] from forgetting what it is fighting for, maintains an almost religious adherence to the traditional methods of his craft. His vast wealth and position allow him to be selective in his commissions, accepting only those performances that align with the authentic traditions he has spent a lifetime perfecting. Yet the world around him shifts in ways both subtle and deep. Younger skalds arrive in the great halls with new compositions, introducing foreign melodies and new tales that draw the applause of lords and ladies alike. Where once his voice alone could command silence and rapt attention, he now finds himself competing with spectacle and novelty. This reality sits uneasily with him, though he masks it beneath layers of gravitas and nostalgic wisdom.
 
 ## Psyche
 
@@ -485,7 +486,7 @@ Encyclopedic Memory
 : He has committed to perfect recollection the vast corpus of northern sagas, genealogies, historical chronicles, and mythological narratives—a living library of accumulated cultural knowledge.
 
 Unquestionable Authority
-: His thirty-year reputation and position within the Skalds' Guild grant him unequaled credibility when authenticating tales, resolving disputes about proper traditions, and influencing cultural opinion among the nobility.
+: His thirty-year reputation and position within the Skalds' Circle grant him unequaled credibility when authenticating tales, resolving disputes about proper traditions, and influencing cultural opinion among the nobility.
 
 Seasoned Warrior's Discipline
 : Though he has long abandoned combat, his youth spent among fighters has given him understanding of warfare, strategy, and the warrior's code that lends authenticity to his martial narratives.
@@ -508,7 +509,7 @@ Vulnerability to Irrelevance
 
 ### Patrons
 
-[House of Bergvorn]{.name data-type="affiliation/lineage"}
+[House of Dvalgidrok]{.name data-type="affiliation/lineage"}
 : A noble family of great conservatism and wealth who commission Knilthann annually for their great winter festival, honoring the deeds of their ancestors as recounted through his voice.
 
 The King of [[affiliation-kingdmtrgd|Targud]]
@@ -519,33 +520,34 @@ Jarl [[being-vrithorvtheu|Vrithorv the Unyielding]]
 
 ### Enemies
 
-[Sindri the Innovator]{.name data-type="being/npc"}
+[Glirvthann the Innovator]{.name data-type="being/npc"}
 : A young skald of real talent who has begun introducing foreign musical traditions into traditional sagas, attracting patronage from forward-looking nobles and earning Knilthann's bitter enmity.
 
-[The Modern Skalds' Collective]{.name data-type="affiliation"}
+The Younger Skalds
 : A loose association of younger performers who view traditional methods as restrictive and seek to establish alternative traditions based on individual creativity rather than historical accuracy.
 
-[Kveld of the Eastern Reaches]{.name data-type="being/npc"}
+[Knulthrinna of the Eastern Reaches]{.name data-type="being/npc"}
 : A rival skald who publicly challenged Knilthann's interpretations of certain sagas, claiming the elder has distorted ancient stories to suit noble patrons—a wound that has never fully healed.
 
 ### Affiliations
 
-Nordland Skalds' Guild
-: As the Guild's Master of Lore and most celebrated active member, Knilthann holds substantial influence over certification, dispute resolution, and the maintenance of traditional standards.
+The Skalds' Circle
+: As a Stóraldstjori and the Circle's most celebrated active member, Knilthann holds substantial influence over the swearing in of apprentices, the judging of recitals at the Skaldating, and the maintenance of traditional standards.
 
 ## Plot Hooks
 
-The Forgotten Saga
-: A traveling scholar approaches Knilthann with an ancient, partially damaged manuscript claiming to contain a saga he has never encountered—one that contradicts several key elements of the narratives he has spent decades perfecting. The scholar offers significant coin for Knilthann to authenticate and learn the tale, but authenticity would require him to publicly acknowledge gaps in his own knowledge and potentially revise his understanding of northern history. Other parties have an interest in certain histories remaining unchallenged, and may complicate matters.
+The Saga That Disagrees
+: A traveling scholar brings Knilthann a damaged manuscript of a saga he has never heard, one that contradicts parts of the telling of [[lore-burningeast|the Burning of the East]] that he has perfected over decades. The levy at [[place-tvalgard|Tvalgard]] hears his version at each rotation. He can verify the manuscript and risk his life's work, buy it and bury it, or leave it unread.
 
-The Succession Crisis
-: Upon the death of a prominent noble patron, Knilthann is contracted to perform at the funeral rites and publicly validate the new heir's legitimacy through recitation of the family genealogy. However, adventurers discover evidence that the new heir is not of true blood, and they can expose this before Knilthann's performance—which will make the succession fact in the eyes of the kingdom—or allow the false heir to take power. Knilthann himself becomes entangled, torn between his role as authenticator and his growing suspicion that something is amiss.
+The Heir's Genealogy
+: A prominent patron dies, and Knilthann is asked to confirm the new heir's descent by reciting the family's genealogy at the funeral. Evidence reaches him that the heir is not of the line. The family has paid him for many winters. He can recite the line as given, name the doubt in front of the ting, or refuse to speak at the funeral and say why only to the king.
 
-The Challenge of the Gifted Youth
-: A prodigiously talented young skald, barely twenty winters old, publicly challenges Knilthann to a performance contest, claiming that traditional methods are beautiful but obsolete, and that her new approach will move the hearts of audiences more deeply. Knilthann is desperate to prove himself but increasingly aware of his own limitations as age creeps upon him. The party becomes involved as the contest escalates, potentially serving as judges or mediators as both skalds push themselves to their limits.
+The Youth's Challenge
+: A skald barely twenty challenges him to a performance contest and claims that traditional ways are beautiful but dead and that hers will move more hearts. The Skalds' Circle will judge. Knilthann can accept and risk losing to the youth in the hall, decline and be accused of fearing her, or answer her by inviting her to sing at the wall to the levy.
 
-The Lost Archive
-: Knilthann receives word that a destroyed monastery once housed an archive of ancient sagas that predates his own understanding, and the fragments have been discovered in the possession of a reclusive scholar in the mountains. Despite his assertions that he possesses all authentic tales, his hunger for knowledge and fear that significant narratives may have been lost drives him to hire adventurers to locate and retrieve these fragments. The journey becomes complicated when they discover that the "lost sagas" tell stories that contradict the great houses' official histories, and multiple factions begin hunting the archive to either preserve or destroy it.
+The False Cousin
+: A skilled performer in a distant city sings "ancient sagas" that are Knilthann's own compositions and claims to be his unrecorded cousin. The false cousin gathers fame and patronage. Knilthann can expose him before the Skalds' Circle and show how he has bent the sagas, or let him be and be known by his imitation.
 
-The Imposter's Gambit
-: A skilled performer emerges in a distant city, performing "ancient sagas" that are actually Knilthann's own compositions and interpretations, claiming to be an unrecorded cousin of the famous skald. The imposter gathers significant fame and patronage, and Knilthann's attempts to expose the fraud are thwarted when the imposter produces documents suggesting Knilthann himself may be the false claimant to the Skraldumak name. Caught in a web of authentication and identity, Knilthann must work with the party to uncover the truth, all while his reputation hangs by a thread and younger skalds circle like vultures, sensing weakness in their elder.
+:::secret {title="What the referee knows"}
+A burned hall once held an archive of sagas older than any Knilthann knows, and fragments of it are in the hands of a reclusive scholar in the mountains. He insists he has no need of them. The archive's sagas show that the telling of the Burning of the East that has served kings and levies was shaped to suit the court, and that Knilthann has helped shape it.
+:::
