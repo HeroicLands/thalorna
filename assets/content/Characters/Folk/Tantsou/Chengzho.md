@@ -88,6 +88,6 @@ He rises quickly, which makes him every other Prince's first target, and his hol
 
 ## Plot Hooks
 
-1. **The papers.** Chengzho's officers need the embassy's papers filed in the right office of the chancellery ahead of the cross-referencing that would hold them for a year, and three other households want them misfiled.
+1. **The papers.** Chengzho's officers need the embassy's papers filed in the right office of the chancellery ahead of the cross-referencing that would hold them for a year, and three other households want them misfiled ([[scenario-flngnwrgn|A Filing in the New Reign]]).
 2. **The reading.** A reading of the stars could raise his family or destroy it, and his officers want a party to learn which Tanchei is to give the next reading before the other Princes reach him.
 3. **The foreign weight.** He wants the embassy seen with him and not without him, and asks a party to keep an embassy servant from carrying a message to another Prince's officers.

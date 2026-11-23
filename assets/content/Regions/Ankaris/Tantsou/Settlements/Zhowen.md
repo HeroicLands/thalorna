@@ -94,7 +94,7 @@ Zhowen is the capital of the present dynasty. The court reckons the city's years
 
 ## Hooks {#hooks}
 
-- **The petition.** When the Dúnavarre embassy arrives, the Prince of Doulwen's officers need its papers filed in the right office ahead of the cross-referencing that would hold them for a year. Three other households want the papers misfiled, and the clerks of the chancellery are for sale.
+- **The petition.** When the Dúnavarre embassy arrives, the Prince of Doulwen's officers need its papers filed in the right office ahead of the cross-referencing that would hold them for a year. Three other households want the papers misfiled, and the clerks of the chancellery are for sale ([[scenario-flngnwrgn|A Filing in the New Reign]]).
 - **The list.** A servant of a foreign merchant has vanished from the traders' compound, and the merchant believes he was sent to the bridge with a forged permission to be shot. The officers at the bridge foot keep the list.
 - **The rice.** A string of rice barges from Wongsen lies at a canal lock above the city, held by the Governor's officers on a question of seals while the price of rice rises on both shores. Wongsen's factor wants the barges released; a grain merchant who stands to gain from every day they wait wants them held.
 
@@ -123,3 +123,6 @@ Zhowen is the capital of the present dynasty. The court reckons the city's years
 
 [[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]
 : a scenario whose embassy seeks direct relations with the court
+
+[[scenario-flngnwrgn|A Filing in the New Reign]]
+: a scenario in which the embassy's papers must reach the right hall of the chancellery before the Speaker's roll closes

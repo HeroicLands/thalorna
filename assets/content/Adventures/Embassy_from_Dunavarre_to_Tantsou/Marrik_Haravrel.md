@@ -386,6 +386,9 @@ Marrik Háravrel is Sergeant-at-Arms of the embassy from [[place-dunavarre|Dúna
 The boundary report
 : The embassy needs a reliable account of the [[affiliation-alndnwrdns|Áelendan Wardens]]’ position before its guards accompany an expedition into [[place-ukuaraelwen|Úkua-Araelwen]]. Marrik asks travelers to bring back their exact words and compare them with the advice already reaching the ambassador.
 
+The walk to the bridge
+: At [[place-zhowen|Zhowen]], Marrik wants the embassy's walk from its compound to the bridge foot planned before its hearing, and every member to know the archers' rule ([[scenario-flngnwrgn|A Filing in the New Reign]]).
+
 :::secret {title="Further hooks"}
 He secretly gathers intelligence. The retinue knows him as Sergeant-at-Arms; he deliberately confides his office as Spymaster only to [[being-arancelavren|Aran Kélavren]].
 

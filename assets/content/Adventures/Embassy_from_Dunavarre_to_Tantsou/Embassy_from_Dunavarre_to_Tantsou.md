@@ -175,3 +175,4 @@ Give the next leg of the campaign the consequences earned here: a damaged relati
 - [[place-ukuaraelwen|Úkua-Araelwen]] · [[place-mazeofechos|Maze of Echoes]]
 - [[miscgear-heartofdhirikri|Heart of Dirikri]] · [[miscgear-temprlcmpss|Temporal Compass]]
 - [[affiliation-alndnwrdns|Áelendan Wardens]] · [[affiliation-dunavarsynod|Dúnavarre Synod]]
+- [[scenario-flngnwrgn|A Filing in the New Reign]]
