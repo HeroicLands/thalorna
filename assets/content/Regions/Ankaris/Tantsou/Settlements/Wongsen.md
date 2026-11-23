@@ -20,7 +20,13 @@ data:
 
 Wongsen, the Sea Gate, is the seat of [[affiliation-wongsenprv|Wongsen Province]], a port of about 80,000 people on the southeastern coast of the [[place-tantsouregin|Tantsou Region]], where the delta of the great rivers meets the sea. Its Prince, the strongest of the four, rules from here.
 
-The foreign merchants who trade at Wongsen live in a walled quarter of their own, [[place-wongsenfrgnqrtr|the Foreign Quarter of Wongsen]], watched and taxed, and the coast's [[lore-tantsoutribclt|Tantsou Tributary Peoples]] deal with them more readily than the court does. The rice of the delta feeds the city, and the Prince's granaries hold the rice the other provinces come to buy.
+## Politics {#present}
+
+The foreign merchants who trade at Wongsen live in a walled quarter of their own, [[place-wongsenfrgnqrtr|the Foreign Quarter of Wongsen]], watched and taxed, and the coast's [[lore-tantsoutribclt|Tantsou Tributary Peoples]] deal with them more readily than the court does. The rice of the delta feeds the city, and the Prince's granaries hold the rice the other provinces come to buy. The delta has rain while the other provinces go dry, and their Princes buy rice from these granaries at the price the Prince of Wongsen names; the rice goes up the rivers from the port in barges. On the eastern coast the fleets of the Jenchai houses of the [[affiliation-shuiwojaidmn|Shuiwojai Domain]] and the [[affiliation-rinjaidmn|Rinjai Domain]] take tolls and ransoms on [[place-easternstrt|the Eastern Strait]] and plunder the mainland shore.
+
+## History {#history}
+
+The records give the city's past no year. Since the drought of the young Emperor's first years ([[lore-southfamine|The Famine in the South]]), the rain the Prince's Wandwo call has kept the delta green, and the dry provinces have come to the granaries of Wongsen for rice.
 
 ## See Also {#see-also}
 

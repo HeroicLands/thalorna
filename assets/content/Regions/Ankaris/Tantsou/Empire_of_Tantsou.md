@@ -126,19 +126,23 @@ Power sits in three places. The Emperor and his household hold the ritual center
 
 ## Current Situation {#present}
 
-The Emperor on the throne, [[being-tengrauemp|Tengrau]], is young and newly crowned, and he is still finding the reach of his own power. The Retired Emperor, [[being-yanzhortrd|Yanzho]], lives in the background of the court. The Caste-Registrar is the young Emperor's chief counselor, and the [[lore-weizhairui|Wei Zhai Rwi]] is played hard around him, because each of the four Princes means to be the one who shapes him.
+The Emperor on the throne, [[being-tengrauemp|Tengrau]], is young and newly crowned, and he is still finding the reach of his own power. The Retired Emperor, [[being-yanzhortrd|Yanzho]], lives in the background of the court. The Caste-Registrar, [[being-cstrgstrtnts|Third Son of the Archivist of the Clan of Lanterns Along the Bank]], is the young Emperor's chief counselor, and every Prince courts him for that reason. The [[lore-weizhairui|Wei Zhai Rwi]] is played hard around the young Emperor, because each of the four Princes means to be the one who shapes him.
 
 The Princes stand in no fixed order. The Prince of [[affiliation-wongsenprv|Wongsen Province]], [[being-rinzhowngsn|Rinzho]], is the strongest and the most feared: his water-gifted [[lore-wanduo|Wandwo]] bring rain to the delta while the rain fails elsewhere, and his granaries sell rice to the Princes whose provinces have gone dry. Some at court say his sorcerers are behind the drought, and nobody has proven it. The Prince of [[affiliation-doulwenprv|Doulwen Province]], [[being-chengzhodlwn|Chengzho]], is younger, rising fast, a reformer with the young Emperor's ear. The Prince of [[affiliation-mwonouprv|Mwonou Province]], [[being-hozhomwnou|Hozho]], and the Prince of [[affiliation-kwozhengprv|Kwozheng Province]], [[being-tuizhokwzng|Tuizho]], are bitter rivals, and each takes the other's loss as his own gain.
 
 The south is hungry. Its rice harvests have failed several years running, smaller rivers are dry in their beds, and in some districts the [[lore-nouwen|Nouwen]] have risen against their lords and the magistrates who collect the tribute. The [[lore-tanchei|Tanchei]] are divided over the cause, between a breakdown of classification in the domains of Earth and Water and a weakening of the [[lore-mandatehvn|Mandate of Heaven]], a reading no scholar puts in writing. In some corners of the court the quiet question is whether the Emperor's filing is still in order.
 
-Every frontier is pressed at once. The steppe warlord [[being-wogenhenzhuo|Wogen Henzhwo]] holds the tribes of [[place-blackwilds|the Black Wilds]] together under one banner, and his riders are in the northern districts. The general [[being-tuijawengyan|Tuija Wengyan]] is in open revolt with disaffected soldiers and minor Zhazho nobles behind him, and his forces hold real gains in the border provinces while the alliance that carried them there begins to crack. The house of [[affiliation-yanchaizhao|Yanchai Zhau]] has staked what is left of its standing on a secret alliance with the [[affiliation-haluozhao|Ha Lwo Zhau]], the Black Lotus Society. In the remote northwest the [[lore-chaizho|Chaizho]] range through the country the great earthquake broke, and the [[lore-flksenali|Senali]] and [[lore-flkkhazar|Khazari]] hold them there at heavy cost. Across the eastern strait [[affiliation-jenchaiempr|Jenchai]], in practice a sovereign kingdom, raids the eastern and southern coasts and chokes the coastal trade.
+Every frontier is pressed at once. The steppe warlord [[being-wogenhenzhuo|Wogen Henzhwo]] holds the tribes of [[place-blackwilds|the Black Wilds]] together under one banner, and his riders are in the northern districts. The general [[being-tuijawengyan|Tuija Wengyan]] is in open revolt with disaffected soldiers and minor Zhazho nobles behind him, and his forces hold real gains in the border provinces while the alliance that carried them there begins to crack. The house of [[affiliation-yanchaizhao|Yanchai Zhau]], brought low in the court's game, has a new head who has vowed to restore it by any means that work. In the remote northwest the [[lore-chaizho|Chaizho]] range through the country the great earthquake broke, and the [[lore-flksenali|Senali]] and [[lore-flkkhazar|Khazari]] hold them there at heavy cost. Across the eastern strait [[affiliation-jenchaiempr|Jenchai]], in practice a sovereign kingdom, raids the eastern and southern coasts and chokes the coastal trade.
+
+:::secret {title="Yanchai Zhau and the Black Lotus"}
+The new head of Yanchai Zhau has staked what is left of the house's standing on a secret alliance with the [[affiliation-haluozhao|Ha Lwo Zhau]], the Black Lotus Society, and most of his own council does not know of it.
+:::
 
 The embassy of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] asks for direct relations with the Empire. The court reads the request as a breach of the Speaker's protocol, since a foreigner reaches the Emperor only through the Speaker; the Prince of Doulwen takes it up, and the game, not the Emperor, decides it ([[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]).
 
 ## The Capital and the Provinces {#holdings}
 
-The Emperor reigns from [[place-zhowen|Zhowen]], the capital, and holds the central river basins around it through his own officers. Its Governor keeps the city for the throne, and the Speaker carries every question put to the Emperor by anyone but his attendants and the Princes, hearing it in a gate-court outside the wall of the Emperor's enclave, whispering it to him and speaking his answer aloud. The rest of the empire is four provinces, each held by a Prince from a seat of his own:
+The Emperor reigns from [[place-zhowen|Zhowen]], the capital, and holds the central river basins around it through his own officers. Its Governor, [[being-gvrnrzhowen|Eldest Son of the Gate Captain of the Clan of the Heron on the Wall]], keeps the city for the throne, and the Speaker carries every question put to the Emperor by anyone but his attendants and the Princes, hearing it in a gate-court outside the wall of the Emperor's enclave, whispering it to him and speaking his answer aloud. The rest of the empire is four provinces, each held by a Prince from a seat of his own:
 
 [[affiliation-wongsenprv|Wongsen Province]]
 : the delta of the great rivers and the eastern and southern coasts, about 34 million people, ruled from the port city of [[place-wongsen|Wongsen]]
@@ -283,7 +287,7 @@ The newest entries are the Retired Emperor's withdrawal from the throne and the 
 : the condemned general and his revolt
 
 [[affiliation-yanchaizhao|Yanchai Zhau]]
-: the noble house gambling on the Black Lotus
+: the fallen noble house and its new head's gamble
 
 [[affiliation-haluozhao|Black Lotus Society]]
 : forged tablets, bought omens and starved ancestors
