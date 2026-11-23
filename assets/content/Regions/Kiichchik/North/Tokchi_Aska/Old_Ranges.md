@@ -39,6 +39,10 @@ The hill towns take the coal at every New Fire and send their tribute in salt, m
 
 The ranges are crossed along their valleys, never over the ridges when a stream will do. Salt, mica and soapstone go west down the streams to the great river. Copper and furs come south from Ha'nal Shi'lan along the northern valleys, and war parties of the [[affiliation-osetakona|Maple People]] come the same way. South and east, the valleys fall away into the swamps of the [[place-wikopihirgn|Dark Water]], and a few traders go down through them toward the eastern ocean, which the One Fire does not sail.
 
+## What Is Happening Now {#present}
+
+The hill towns take the coal at every New Fire, and they remember the Scattering and the Eastern Sun who fed them better than Hayo Pokta did. War parties of the Maple People come down the northern valleys, and at the end of this summer one caught three hunters of a hill town at the salt lick below [[place-stonedoor|The Stone Door]] and took one of them north. The town expects it back before the chestnuts fall, and its Mound Chief and its clan mothers are divided over whether to take refuge in the cave.
+
 ## See Also {#see-also}
 
 [[affiliation-tokchiaska|Tokchi Aska]]
@@ -58,3 +62,6 @@ The ranges are crossed along their valleys, never over the ridges when a stream 
 
 [[place-hanalxilanrgn|Ha'nal Shi'lan]]
 : the contested frontier to the north
+
+[[place-stonedoor|The Stone Door]]
+: a cave over a hill town's salt lick, shut by a door of stone
