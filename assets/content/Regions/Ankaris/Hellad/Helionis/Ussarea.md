@@ -53,3 +53,9 @@ Mounted bands from the steppe test the road each spring, and the garrison's ride
 
 [[place-bittersea|The Bitter Sea]]
 : the inland sea at the end of the road
+
+[[being-wllwrdnhntrlnd|Wall-Warden of the Hinterland Towns]]
+: the officer who commands the garrison and keeps the gate
+
+[[being-crvnmstrstprd|Caravan-Master of the Steppe Road]]
+: a member of the caravan-masters' council

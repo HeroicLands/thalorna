@@ -50,3 +50,6 @@ The grain trains are the town's weak point. A narrow stretch of the pass road ru
 
 [[place-tumaron|Tumaron]]
 : the tin town that supplies the other half of the bronze
+
+[[being-wllwrdnhntrlnd|Wall-Warden of the Hinterland Towns]]
+: the officer who commands the garrison and keeps the gate

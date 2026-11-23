@@ -12,7 +12,7 @@ data:
   occupation: Mining Overseer
   lore: []
   culture: byzarianclt
-  homes: []
+  homes: [zalvarion]
   affiliations: {}
   gender: female
   species: humanflk
@@ -42,4 +42,4 @@ Karvashena Halikot is a 58-year-old woman who stands 5'7" tall with a medium bui
 
 # Dossier {#dossier}
 
-Karvashena Halikot is a veteran of thirty years in the Bizarian mines. The overseer took [[being-agapevrzns|Agápeia Varzanes]] as an informal apprentice around age sixteen, and remains a mentor who refers her specialized prospecting jobs.
+Karvashena Halikot is a veteran of thirty years in the Bizarian mines and the overseer of one of the great adits of [[place-zalvarion|Zalvarion]], who answers to the guild council of Órashion. The overseer took [[being-agapevrzns|Agápeia Varzanes]] as an informal apprentice around age sixteen, and remains a mentor who refers her specialized prospecting jobs.

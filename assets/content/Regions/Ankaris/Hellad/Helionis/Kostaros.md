@@ -54,3 +54,6 @@ Kostaros joined the Games later than the other six city-states, and its place in
 
 [[place-kostaros|Kostaros]]
 : the daughter-port on the Bizarian coast
+
+[[being-grnptrnkstrs|Grain Patron of Kostaros]]
+: a patron of a family that charters the grain ships

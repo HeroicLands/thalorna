@@ -52,3 +52,5 @@ From the road, nothing but a fern-grown bank under oaks, and a smell on a still 
 
 [[place-thornwold|The Thornwold]]
 : the oak and thorn country around it
+
+- [[scenario-lampswenlorne|Pale Lamps on the Crown Road]]

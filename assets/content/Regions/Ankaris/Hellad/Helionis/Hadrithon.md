@@ -50,3 +50,6 @@ Marauders cannot carry marble, and they leave the blocks alone. They do take the
 
 [[place-korinthea2|Korinthea]]
 : the town of law whose temples and courts are built in Hadrithon's stone
+
+[[being-wllwrdnhntrlnd|Wall-Warden of the Hinterland Towns]]
+: the officer who commands the garrison and keeps the gate

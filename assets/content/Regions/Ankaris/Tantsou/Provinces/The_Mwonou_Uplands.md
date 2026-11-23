@@ -33,7 +33,7 @@ The Prince of Mwonou, of the [[lore-zhazho|Zhazho]], holds the uplands for the E
 
 [[place-mwonou|Mwonou]], the Green Field, is the seat: a city of about 160,000 people in an upland basin where the passes toward Vedyara come down. The terraces and paddies of the basin feed it in an ordinary year.
 
-[[place-jenshou|Jenshou]], Nine Waters, is a river town of about 7,000 people downriver of the seat, where a great river breaks into nine channels as it leaves the uplands; its district hall keeps the register and feeds the tablets of [[place-rinnou|Rinnou]], a terrace village of the district whose people are Nwitsou.
+[[place-jenshou|Jenshou]], Nine Waters, is a river town of about 7,000 people downriver of the seat, where a great river breaks into nine channels as it leaves the uplands; its district hall keeps the register and feeds the tablets of [[place-rinnou|Rinnou]], a terrace village of the district whose people are Nwitsou. Above the town [[place-tabletbank|the Tablet Bank]], the dike that carries the boundary-stones of the three upper villages, holds the river off the upper town.
 
 [[place-weichai|Weichai]], the Jade Peak, is a market town of about 4,800 people at the foot of a terraced hill, with the terrace village of [[place-zhengnou|Zhengnou]] above it. [[place-tengmou|Tengmou]], Heaven's Wood, is a town of about 3,500 above a valley of terraces and ditches. [[place-jaunou|Jaunou]], the Yellow Field, is a market town of about 4,200 in the south, at the heart of the famine.
 
@@ -69,6 +69,9 @@ Hunger, and the risings of the Nouwen in the districts where the tribute is coll
 
 [[place-jenshou|Jenshou]], [[place-rinnou|Rinnou]], [[place-weichai|Weichai]], [[place-zhengnou|Zhengnou]], [[place-tengmou|Tengmou]], [[place-jaunou|Jaunou]], [[place-kwisen|Kwisen]]
 : the towns, villages and way-station of the uplands
+
+[[place-tabletbank|The Tablet Bank]]
+: the dike above Jenshou and the boundary-stones of its upper villages
 
 [[place-graznmntns|The Grazian Mountains]]
 : the range and its passes

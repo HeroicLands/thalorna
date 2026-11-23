@@ -22,7 +22,7 @@ Nothing from the east reaches the western sea without passing through **Krusteik
 
 ## Who Governs
 
-A council of merchant-princes governs [[affiliation-khryshteikhos|Krusteikhos]], and the ruling families have held their seats for generations. Politics here is a long exchange of alliances, marriages and financial maneuvers. The League council meets in the [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and the city's representatives have dominated League policy through the plain weight of their money.
+A council of merchant-princes governs [[affiliation-khryshteikhos|Krusteikhos]], and the ruling families have held their seats for generations. Politics here is a long exchange of alliances, marriages and financial maneuvers. [[being-selvazhikonz|Selvazhikon Zigakit]], whose fortune comes from the spice routes, is one of the city's merchant-princes. The League council meets in the [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and the city's representatives have dominated League policy through the plain weight of their money.
 
 ## Character
 
@@ -51,3 +51,6 @@ The League council meets in the Merchant Hall on the forts' pay, the common toll
 
 [[place-nesthiros2|Nesthiros]]
 : the port that ships what Krusteikhos banks
+
+[[being-selvazhikonz|Selvazhikon Zigakit]]
+: a merchant-prince of the city

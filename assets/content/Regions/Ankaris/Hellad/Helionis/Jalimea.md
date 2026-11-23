@@ -50,3 +50,6 @@ The town is a quiet one, and its walls are old and not high. Marauders prefer th
 
 [[affiliation-slvrvlacdmy|Academy of the Silver Veil]]
 : the largest buyer of Jalimea's colors
+
+[[being-wllwrdnhntrlnd|Wall-Warden of the Hinterland Towns]]
+: the officer who commands the garrison and keeps the gate

@@ -54,3 +54,6 @@ The founders' guild keeps a guest hall for buyers, and a bell-maker's widow lets
 
 [[place-byzariargn|Bizaria Region]]
 : the region the town lies in
+
+[[being-bllfndrbrzsh|Bell-Founder of Bruzash]]
+: a master of the founders' guild
