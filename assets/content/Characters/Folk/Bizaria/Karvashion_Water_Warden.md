@@ -383,9 +383,9 @@ A Karvashion Water-Warden is sent by the caravansary masters of [[affiliation-ka
 
 ## Background
 
-**The water.** Both towns live by what a caravan needs to drink, and the fee he sets is most of what they earn.
+**The water.** Both towns live by the caravans, and at Krenel the water fee is most of what the town earns.
 
-**The masters.** He answers to the caravansary masters of Karvashion, and the garrison or the League detachment that guards the road has no say over the water.
+**The masters.** He answers to the caravansary masters of Karvashion.
 
 **Now.** At Halzikos the salt-masters want a wall around their pans, and the warden says that the cistern is the one thing he must guard first. At Krenel the Dunhari caravan masters complain that the fee has risen, and the warden answers that the spring is the town's only income.
 
