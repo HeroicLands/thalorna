@@ -66,6 +66,13 @@ archetypeAbsences:
         commoner: "No commoner is cast in a Grukarholm scenario; the villages inside the region belong to Velanthia and Vristwald and are counted there."
         entertainer: "The frontier has no audience; a singer or storyteller would be a guest in a Velanthian or Skathwald village."
         guildsperson: "No house or guild keeps an agent inside the country, where only pelts and the river-trader's salt and iron change hands."
+    jenchai:
+        skirmisher: "No skirmisher is cast in a Jenchai scenario; the domains fight with retainers, common soldiers and raiding crews, whom the land's warriors and mariners cover."
+        mage: "No sorcerer is cast in a Jenchai scenario; on the islands a sorcerer is a retainer in a lord's service, ranked among the Wohou, and none has a part of his own."
+        healer: "No note names a healer or physician in Jenchai, and no scenario casts one."
+        commoner: "No commoner is cast in a Jenchai scenario; the Nouwen villages stand in the domains' tables and prose, and every cast is drawn from a lord's household or the court."
+        entertainer: "No note names a performer in Jenchai, and no scenario casts one."
+        guildsperson: "No note names a guild in Jenchai; trade runs through merchant lineages and trading-house alliances under each Dauzhwo, and none is cast in a scenario."
 
 # Addresses of affiliations whose shared governance block an owner ruling keeps.
 sharedGovernance:
