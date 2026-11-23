@@ -25,6 +25,7 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered]
+    nose: hooked
     extra_features: []
   packFolder: helladbyzaria
   items:

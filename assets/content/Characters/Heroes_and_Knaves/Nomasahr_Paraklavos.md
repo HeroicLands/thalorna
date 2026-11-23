@@ -24,6 +24,7 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [weathered]
+    nose: hooked
     extra_features: []
   packFolder: helladbyzaria
   items:

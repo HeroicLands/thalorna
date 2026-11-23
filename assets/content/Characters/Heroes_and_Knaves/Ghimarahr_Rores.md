@@ -25,6 +25,7 @@ data:
     hair_color: grey
     skin_color: tanned
     complexion: [weathered]
+    nose: hooked
     extra_features: [a scar running down the back]
   packFolder: helladbyzaria
   items:
