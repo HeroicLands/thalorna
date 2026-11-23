@@ -27,6 +27,7 @@ data:
     hair_color: brown
     skin_color: pale
     complexion: [clear]
+    hair_style: knotted
     extra_features: [a deep vertical line between the brows]
   packFolder: aureldiaelavendre
 ---

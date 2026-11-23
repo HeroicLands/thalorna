@@ -27,6 +27,7 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [chapped]
+    hair_style: short
     extra_features: [charcoal ground into the knuckles]
   packFolder: aureldiaelavendre
 ---
