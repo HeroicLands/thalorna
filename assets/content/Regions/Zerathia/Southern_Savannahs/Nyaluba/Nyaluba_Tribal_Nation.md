@@ -20,14 +20,15 @@ data:
       - level: 0
         title: Kinless
         description: >-
-          Cast out by their own kin and claimed by none; owed no hospitality, no water and no vengeance.
+          Cast out by their own kin and claimed by none, with no name the griot will speak and so none of the claims a name carries: no hospitality, no water and no vengeance.
       - level: 1
         title: Dependent
         description: >-
-          Sheltered by a household without being of its blood: a client, a widow's family, a taken-in stranger.
+          Sheltered in a household's compound without being of its blood: a widow's family, a client, a taken-in stranger.
       - level: 2
         title: Kinsman
-        description: Of a household's blood, entitled to its protection, its feud and its share.
+        description: >-
+          Of a household's blood and its clan's totem, owed the lineage's protection, its feud and its share, and kept as a kinsman even when unable to meet what is owed.
       - level: 3
         title: Regiment Member
         description: >-
@@ -38,7 +39,8 @@ data:
           Head of a household, holding its herds and its people and speaking for them in the clan's council.
       - level: 5
         title: Elder
-        description: Senior of a lineage, whose memory of custom and precedent settles what the young dispute.
+        description: >-
+          Keeper of the lineage's custom and the totemic law, who settles what the young dispute and feuds within the clan, in cattle.
       - level: 6
         title: Senior Griot
         description: >-
