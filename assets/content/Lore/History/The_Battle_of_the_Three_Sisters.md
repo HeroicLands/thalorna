@@ -107,7 +107,7 @@ they had planted along the crown's roads and every claim of any kind outside the
 south. They gave up the Khazari, who had fought beside them and who have not spoken to them since.
 And Seirasto has never said where the king lies.
 
-:::secret {title="The envoy at Wenlorne"}
+:::secret {title="What the referee knows"}
 On the last night of the war a Senali envoy came down the Crown Road from the forest to
 [[place-wenlornestage|Wenlorne Stage]] to ask for the king's body and was turned away at the gate.
 The reeve of Wenlorne wrote it in the stage's last ledger, and the Senali do not know it was written

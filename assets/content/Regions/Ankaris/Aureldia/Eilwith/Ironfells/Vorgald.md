@@ -67,8 +67,8 @@ Eilwìth was once ruled by both elder races together, and it was not an ancient 
 Khazartúrn fell in 2427 BF and the two peoples stopped speaking everywhere in the
 world—except here. The Senali and Khazari of Eilwìth in time united the island under a **single crown**, held
 by a Senali king, and managed its affairs jointly for **six hundred years**. [[lore-jointcrown|The Joint Crown]] began about 1585 BF. It is the only reconciliation
-either race has ever attempted, and the works of that period are still in the ground: [[place-eilwith|roads that run where
-no later road runs]], cut stone [[lore-vardain|the Vardain]] cannot match, foundations under three Eilwìthan
+either race has ever attempted, and the works of that period are still in the ground: [[place-eilwith#the-crown-roads|roads that run where no later road runs]],
+cut stone [[lore-vardain|the Vardain]] cannot match, foundations under three Eilwìthan
 towns that nobody has satisfactorily dated.
 
 It ended with people who had nowhere else to go. The **[[lore-pelwarpepl|Pelwar]]** reached Eilwìth around **1200 BF**,

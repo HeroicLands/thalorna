@@ -69,7 +69,7 @@ The conquered north makes a different mark on the island's memory. Nordmen took 
 
 The [[affiliation-arldnpnthn|Aureldian pantheon]] is strongest in the southern and eastern kingdoms. Lay faithful of its twelve distinct faiths keep their feasts without holding temple office. Ordinary devotion means the small repeated acts as well as a visit to the temple: tending a household shrine, making an offering, or seeking a priest's counsel. Árdavon's oath-bound justice has particular weight in Dúnavarre. In Ondareth, [[affiliation-blackflame|the Black Flame]] prospers where officials can be bought, while the [[affiliation-selmoros|Faith of Sélmoros]] draws people who want a judge beyond the reach of money.
 
-At a crossroads or beside a lake, a person may leave an offering for its spirit and still attend the temple the same week. Ancestors and place-spirits are part of the island's living observance, not a rival church with a common priesthood. In the north-east, the Nordmen keep the gods of the [[affiliation-asguardian|Asguardian Pantheon]]; their conquest has not made those faiths the island's common ones.
+At a crossroads or beside a lake, a person may leave an offering for its spirit and still attend the temple the same week. Ancestors and place-spirits are part of the island's living observance, not a rival church with a common priesthood. In the north, the Nordmen keep the gods of the [[affiliation-asguardian|Asguardian Pantheon]]; their conquest has not made those faiths the island's common ones.
 
 At the year-turn [Feast of Thresholds]{.name data-type="lore/gathering"}, Árdavon's faithful renew covenants and oaths in public and have them recorded. At the late-summer [[lore-goldenharvest|Festival of the Golden Harvest]], successful traders give a portion of their gain. During Sélmoros's three-day [[lore-silentpassage|Festival of the Silent Passage]] in late autumn, households set black candles in their windows and speak the names of the dead while priests perform requested rites for the year's departed. A widow of [[place-wyndmarch|the Wiindmarch]] whose dead have no graves says [[lore-windownaming|the Naming at the Window]] over her candle and gives the names to her daughter at the sill: [So long as there's a window in the march/And a woman in it, they are not in the wood.]{.verse} A household may keep several observances; the calendar follows its gods and region.
 
@@ -97,7 +97,7 @@ The island's great works belong to the people who keep them—drovers, wake-tell
 - [[lore-coldfordhead|The Head at Koldford]] is the Wiindmarch's wake tale of the man who kept a ford against the Grukar and broke his three bans to do it, told after midnight beside the dead, and it is why the loaf set by the dead goes to the crossroads stone at first light.
 - [[lore-windownaming|The Naming at the Window]] is the lament a widow of the march says over the black candle on the first night of the Silent Passage, and the women of the forest edge say it at their own windows with their own names in it.
 - [[lore-hildricplay|The Play of Hildrik and the Grukar]] is the drovers' play in the inn-yards of Ashford on the nights of the autumn fair, and the Grukar's boast of twelve campaigns won and twelve mornings after is the line every yard waits for.
-- [[lore-kingswassail|The Wassail at Kingshollow]] is the carol the tenants sing at the shut door of the royal hall at midwinter, reminding king and barons that the crown was a gift and asking for the one tree the village may fell.
+- [[lore-kingswassail|The Wassail at Kingshollow]] is the carol the tenants sing at the shut door of the royal hall at midwinter, reminding king and barons that the crown was a gift and asking for the one tree the tenants may fell.
 - [[lore-reevesthrees|The Reeve's Threes]] are the sayings in threes a new reeve learns before the manor court, where the custom of a manor lives in his mouth, and his three on a disputed custom is the first thing the court hears.
 
 ## The Years of a Life
@@ -131,6 +131,9 @@ The unit is the household as it lives and works, and the household's shape diffe
 Inheritance and marriage tie households into the realm's order. A baron's claim passes with his land and his debts, and a serf's family keeps its strips on the lord's terms. A household that tends ancestors at a shrine or a stone has a further reason to want an heir.
 
 ## See Also {#see-also}
+
+[[doc-aelwythadvguide|Eilwìth Adventurer's Guide]]
+: an introduction for players
 
 [[place-eilwith|Eilwìth Region]]
 : the island, its kingdoms and peoples

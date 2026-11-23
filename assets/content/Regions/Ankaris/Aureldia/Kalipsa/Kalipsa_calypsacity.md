@@ -15,6 +15,8 @@ data:
   population: {actual: 28000}
   market: international
   type: city
+  fortification: walled
+  stronghold: fort
   government: calypsa
   packFolder: calypsa
   notes: "A free port on the east coast of a steep island off Élavendre, governed by a council of shipping houses, kept free by a navy far larger than the city, and in the last year of its Harbormaster's term."

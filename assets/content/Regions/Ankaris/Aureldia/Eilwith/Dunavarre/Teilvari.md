@@ -9,6 +9,7 @@ data:
   demonym: Seilvri
   lore: [humanflk]
   parents: [dunavarre]
+  borders: [{to: hallowwood, bearing: W}]
   routes: [{to: kelivren, bearing: E, mode: land, days: 1, terrain: [forest, road]}]
   population: {actual: 2000}
   government: saelvri

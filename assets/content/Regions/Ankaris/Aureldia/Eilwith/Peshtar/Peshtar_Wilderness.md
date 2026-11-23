@@ -9,7 +9,10 @@ data:
   demonym: Peshtar
   lore: [humanflk]
   parents: [eilwith]
-  borders: [{to: stormveld, bearing: E}, {to: ondareth, bearing: S}]
+  borders:
+    - {to: stormveld, bearing: E}
+    - {to: ondareth, bearing: S}
+    - {to: cntrlhghlnds, bearing: S}
   population: {actual: 63000}
   packFolder: eilwith
 
@@ -47,7 +50,7 @@ ORDER BY p.name.full COLLATE NOCASE
 
 ## Peoples and Culture
 
-The Peshtar are a fierce and fractious highland people, descended from the [[lore-pelwarpepl|Pelwar refugees]] who reached Eilwìth around 1200 BF, as is nearly every human on the island. What sets them apart is not an older origin but their way of life: their clans took no crown and no lowland holding, and kept the wilderness as it was when the refugees first came to it, while the southern kingdoms and the Nordmen settlers of the eastern coasts took their land later. They are not a single tribe but a constellation of related clans—the accounts vary widely on how many clans there are and which have lineal relationships with which—who share a language family, a ritual complex, and a common contempt for the lowlands. The clans keep three tribes, [[affiliation-kelgar|the Kelgar]], [[affiliation-bradhar|the Bradhar]] and [[affiliation-lonagar|the Lonagar]] ([[lore-peshtarclans|the Peshtar Clans]]).
+The Peshtar are a fierce and fractious highland people, descended from the [[lore-pelwarpepl|Pelwar refugees]] who reached Eilwìth around 1200 BF, as is nearly every human on the island. What sets them apart is not an older origin but their way of life: their clans took no crown and no lowland holding, and kept the wilderness as it was when the refugees first came to it, while the southern kingdoms and the Nordmen of the north took their land later. They are not a single tribe but a constellation of related clans—the accounts vary widely on how many clans there are and which have lineal relationships with which—who share a language family, a ritual complex, and a common contempt for the lowlands. The clans keep three tribes, [[affiliation-kelgar|the Kelgar]], [[affiliation-bradhar|the Bradhar]] and [[affiliation-lonagar|the Lonagar]] ([[lore-peshtarclans|the Peshtar Clans]]).
 
 Peshtar society is organized around the clan, which is in turn organized around the war-chief and the shaman. The war-chief is the martial leader—typically the foremost warrior of his lineage, chosen by the acclamation of the clan's warriors and holding his position only as long as he remains the foremost warrior. The shaman is the spiritual and legal authority—trained from childhood in the clan's mysteries and the landscape's lore, invested with authority over questions of ritual and inheritance and dispute. The two offices balance one another; neither alone can rule, and clans whose war-chief and shaman openly quarrel tend to fission.
 
@@ -87,7 +90,7 @@ To the **north and west** lies the sea. The Peshtar have no maritime ambition, a
 
 The **Peshtar Wilderness** is not a polity and does not consider itself one. It covers the **entire
 north-west of Eilwìth and much of the northern coast**, and about **63,000** Peshtar live in it. With the
-Durrask of the Thornwold and the Seilvri of western Dúnavarre, the island's tribal peoples number roughly **74,000**,
+[[affiliation-durrask|Durrask]] of [[place-thornwold|the Thornwold]] and the [[affiliation-saelvri|Seilvri]] of western Dúnavarre, the island's tribal peoples number roughly **74,000**,
 about a tenth of everyone on the island.
 
 They are not one people. The wilderness supports many **tribal cultures**, differing in speech, custom
@@ -95,11 +98,13 @@ and disposition, sharing chiefly the fact that no realm's writ reaches them. Alo
 and the north-west the tribes are principally herders, fishers and hunters, and their dealings with the
 settled realms are intermittent, wary and mostly commercial.
 
-Beyond Peshtar proper, further tribal communities live in **isolated wooded settlements** through the
-island's interior and its eastern and southern zones, in the deep forest that covers a third of
-Eilwìth. These are markedly **more warlike** than the northern tribes—they raid, they are raided, and
-they have long memories about which is owed—and the settled realms treat the forest margins as
-frontier rather than as border.
+Beyond Peshtar proper live two more tribal peoples. The Durrask keep walled
+steads in the thorn-grown hills of the Thornwold, south of the lake, and are
+markedly **more warlike** than the northern tribes—they raid, they are raided, and they have long
+memories about which is owed—and the settled realms treat the Thornwold's margins as frontier rather
+than as border. The Seilvri keep the old forest of [[place-teilvari|Teilvari]]
+in western Dúnavarre, a peaceful people at war only because the Order of the Just Blade makes war on
+them.
 
 ## The War Nobody Records
 
@@ -112,13 +117,12 @@ fighting because no lowland realm has ever been in it, and the tribes have neith
 inclination to send anybody an account.
 
 It is not a war in any sense that admits of campaigns, victories or an end. It is a **condition**, and
-it has shaped these peoples completely: the forest communities of the interior and the south are
-markedly more warlike than the northern herders because twenty generations of them have lived beside
-something that breeds faster than it can be killed. Frontier settlements of
+it has shaped these peoples completely: the Durrask of the Thornwold are markedly more warlike than
+the northern herders because twenty generations of them have lived beside something that breeds
+faster than it can be killed. Frontier settlements of
 [[place-aldorathrgn|Aldorath]] find them impossible to deal with and put it down to savagery.
 
-The lowland realms use the word _barbarian_ for all of them indiscriminately, which is convenient and
-tells you nothing.
+The lowland realms use the word _barbarian_ for all of them indiscriminately.
 
 ## The Three Tribes {#realms}
 
