@@ -103,6 +103,8 @@ Leadership is deliberately opaque. The organization is rumored to be run by a co
 
 Legitimate fronts include pleasure houses, theaters, art dealerships, and a handful of prestigious servant placement agencies. The last are particularly valuable: when a noble family hires a new chambermaid or cook through a Hand-controlled agency, the organization gains a permanent listening post inside that household.
 
+The agent in such a household is a [[being-vlvthndgnt|Velvet Hand Agent]]: a companion, tutor or maid who reports to a handler she knows and to no one above.
+
 ## Relations with Other Syndicates
 
 The Velvet Hand sells information to everyone, including about the other syndicates. This makes it both indispensable and universally loathed. The Crimson Ledger buys financial intelligence from the Hand, knowing full well that the Hand is also selling intelligence about the Ledger to the [[affiliation-auricompct|Auric Compact]]. The Gray Tide has standing orders to kill confirmed Velvet Hand agents found operating in Tide territory without prior arrangement—orders enforced about half the time, depending on whether the agent has something useful to trade first.
