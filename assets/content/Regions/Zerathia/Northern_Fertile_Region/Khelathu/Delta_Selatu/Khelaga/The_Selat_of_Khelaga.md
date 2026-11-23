@@ -74,6 +74,10 @@ The delta apex at Khelaga is where the river first divides, and the Halzi'a's cu
 
 Khelaga uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, so the customs-stations and the temple measure with the same attested weights. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
+## History {#history}
+
+The delta apex forts are the subject of [[place-khelaga#history|Khelaga's history]]. The victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] also counts the selat's standard among the fourteen taken up in 1612 ST ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]).
+
 ## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]

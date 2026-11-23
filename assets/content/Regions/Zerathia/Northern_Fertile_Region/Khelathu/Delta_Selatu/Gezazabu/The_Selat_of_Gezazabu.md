@@ -76,6 +76,10 @@ The Halzi'a's steward reports each envoy to him and to no one else.
 
 Gezazabu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of Gar-Hálzi attached to the chief temple attests the weight-pieces and holds the granary accounts, and a curing-house that sells a cargo of salt-fish by the barrel is paid in pieces that chapter has weighed. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
+## History {#history}
+
+Gezazabu is one of the fourteen selatu the victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts among the standards taken up after the Tha'Ulgau destroyed the last army of Galezkara ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]). The seat's history is [[place-gezazabu#history|Gezazabu's]].
+
 ## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]

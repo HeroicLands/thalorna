@@ -78,6 +78,10 @@ The rolls of those who live under the Halzi'a's protection are larger than the r
 
 Magu-Thelqen uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affiliation-garhalzi|Gar-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
+## History {#history}
+
+The house of [[affiliation-thelqenrelu|Thelqen'Relu]] laid out [[place-maguathen|Magu-Thelqen]] as a new capital in 1790 ST (321 BF) and ruled from it until 1822 ST (289 BF). The temples of [[affiliation-qearet|Qe'aret]] and [[affiliation-rethsaar|Reth'Sa'ar]] refused the house's doctrine, the court went home to Galezkara, and the city emptied ([[lore-sunhouse|The Sun House at Magu-Thelqen]]).
+
 ## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]

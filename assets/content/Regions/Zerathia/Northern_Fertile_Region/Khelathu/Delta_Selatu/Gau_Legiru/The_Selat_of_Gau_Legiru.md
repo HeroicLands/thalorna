@@ -81,6 +81,10 @@ Run Gau-Legiru as the empire's pleasure-garden: wealth at rest, the country-esta
 
 Gau-Legiru uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. Its high-value export trade means its great estates deal readily in struck silver and gold and in the foreign coin that comes back from Gar-Anlaghet's harbor, banked and exchanged through the [[affiliation-garhalzi|Gar-Hálzi]] agents who serve the merchant villas. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
+## History {#history}
+
+The victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts Gau-Legiru's standard among the fourteen taken up from the field below [[place-lenennezut|Lenen-Nezut]] ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]). [[place-gau#history|Gau's history]] records a family's name cut on it.
+
 ## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]

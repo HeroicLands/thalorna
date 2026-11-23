@@ -81,6 +81,10 @@ Khelzuret is the empire's uncanny heart, and it plays like nowhere else—a whol
 
 Khelzuret uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. Much of its wealth moves as temple-account and pilgrim-offering rather than open trade, banked through the mortuary temples' own treasuries and the [[affiliation-garhalzi|Gar-Hálzi]] houses that serve them; the grave-goods and amulet trades, by contrast, deal briskly in struck copper and silver. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
+## History {#history}
+
+On the victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]], Khelzuret's standard is one of the fourteen taken up in 1612 ST (499 BF) from the field where the Tha'Ulgau destroyed the last army of Galezkara ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]). The seat tells it in [[place-khelzuret#history|Khelzuret's history]].
+
 ## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]

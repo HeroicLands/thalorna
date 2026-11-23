@@ -126,6 +126,10 @@ Adventure here is the roughest in the empire—caravan-guarding and raid-chasing
 
 The Border Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]], and the frontier is where the empire's metal circulates most: garrison pay, mine output and caravan tolls all run on weighed silver and gold rather than the grain-render of the interior. Foreign coin from the southern and western trade passes here too, weighed and discounted by the [[affiliation-garhalzi|Gar-Hálzi]] agents who follow the garrisons.
 
+## History {#history}
+
+The Tha'Ulgau house of the border selatu is told in [[affiliation-selatzuqeztu#history|Zu-Qeztu's history]]. The victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts the standards of the border selatu [[affiliation-selatgarqezt#history|Gar-Qeztu]], [[affiliation-selatlinmut#history|Linmut]] and [[affiliation-selatwagaru#history|Wagaru]] among the fourteen taken up from the field below [[place-lenennezut|Lenen-Nezut]] ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]).
+
 ## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]

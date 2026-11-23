@@ -83,6 +83,10 @@ Adventure here is the intrigue of land and bread: a rigged survey, a stolen grai
 
 Anlagh-Zetun uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], but its economy runs more on grain-render and granary-account than on struck metal. Taxes are paid and wealth is held in stored grain as much as in silver, reckoned and warehoused through the temple-treasuries and the [[affiliation-garhalzi|Gar-Hálzi]] houses. The river-port of [[place-amqelulegez|Amqelu-Legez]] is where the selat touches the coined economy most. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
+## History {#history}
+
+In the failing floods of about 256 to 268 AF the domes of the great granaries at [[place-anlaghzetun|Anlagh-Zetun]] stood full while the villages around them ate their seed-corn ([[lore-failfloods|The Failing Floods]]). The rising that broke the god-king's guard at the granary gates ([[lore-sealedgran|The Battle of the Sealed Granaries]]) is told in [[place-anlaghzetun#history|Anlagh-Zetun's history]].
+
 ## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]

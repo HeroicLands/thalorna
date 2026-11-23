@@ -132,6 +132,10 @@ Adventure here is older and stranger than in the Delta: tomb robbery and the cur
 
 The Upper River Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]], but much of the valley's economy runs on grain-render and temple account rather than weighed metal. The [[affiliation-garhalzi|Gar-Hálzi]] treasuries hold tax-grain as readily as silver, and a Halzi'a's wealth is reckoned in granaries as much as in gezan. A tenant pays his share in sacks, and the scribe who receives it enters the sacks.
 
+## History {#history}
+
+The histories of [[place-lenennezut|Lenen-Nezut]] ([[affiliation-selatlennnzt#history|its selat]]) and [[place-iqeru|Iqeru]] ([[affiliation-selatiqeru#history|its selat]]) hold the upriver throne and its war with Galezkara. [[affiliation-selatnlghztn#history|Anlagh-Zetun]] tells the rising against the god-king's guard, [[affiliation-selatmaguthn#history|Magu-Thelqen]] the city of the house of the sun, [[affiliation-selatzuger#history|Zu-Ger]] the Great Land of the first two houses, and [[affiliation-selatgrrthsr#history|Gar-Reth'Sa'ar]] the king-lists. [[affiliation-selatkhelzrt#history|Khelzuret]] is one of the fourteen selatu whose standards the victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]).
+
 ## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]

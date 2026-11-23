@@ -74,6 +74,10 @@ Iqeru has sun-temples and wide irrigated wheatland, and the Halzi'a's tax rolls 
 
 Iqeru uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
+## History {#history}
+
+The war between [[place-lenennezut|Lenen-Nezut]] and [[place-galezkara|Galezkara]] ended in the wheat of [[place-iqeru|Iqeru]] in 1531 ST (580 BF) with the death of the last Gar-Au of Lenen-Nezut ([[lore-twothrones|The War of the Two Thrones]]).
+
 ## See Also {#see-also}
 
 [[lore-twothrones|The War of the Two Thrones]]

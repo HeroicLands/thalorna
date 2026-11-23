@@ -93,6 +93,10 @@ Run adventure here as the intrigue of the written word: a forged genealogy that 
 
 Gar-Reth'Sa'ar uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. Its school-fees, text-sales and certification-dues bring a steady flow of struck silver into a selat that would otherwise run, like its neighbors, on grain-render. The temple of Reth'Sa'ar banks its endowments through the [[affiliation-garhalzi|Gar-Hálzi]] treasuries and is itself a noted lender and holder of records of account. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
+## History {#history}
+
+The seat's record is in [[place-khelunu#history|Khelunu's history]]. A sealed chamber of its library-temple holds the doctrine of the house of the sun, walled up when the house was closed ([[lore-sunhouse|The Sun House at Magu-Thelqen]]).
+
 ## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]

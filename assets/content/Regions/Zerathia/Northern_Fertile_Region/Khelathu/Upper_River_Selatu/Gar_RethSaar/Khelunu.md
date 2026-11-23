@@ -50,7 +50,7 @@ The Halzi'a of Gar-Reth'Sa'ar governs beside the Thaz'Lekhau of Reth'Sa'ar, and 
 
 ## History {#history}
 
-The king-lists kept here run unbroken from the First Occasion, and the scribal schools fixed the sign of the Sacred Hand in the reign it names ([[lore-sacredhand|the Fixing of the Sacred Hand]], [[lore-khelathhist|the History of Au'Khelathu]]).
+The king-lists kept here run unbroken from the First Occasion, and the priesthood of Reth'Sa'ar fixed the signs of the Sacred Hand in the reign of [Zab'Uzner]{.name data-type="being/npc"}, and the scribal schools here teach no others ([[lore-sacredhand|the Fixing of the Sacred Hand]], [[lore-khelathhist|the History of Au'Khelathu]]).
 
 ## See Also {#see-also}
 

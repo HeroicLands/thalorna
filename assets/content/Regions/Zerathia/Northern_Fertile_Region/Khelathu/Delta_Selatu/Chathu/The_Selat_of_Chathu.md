@@ -80,6 +80,10 @@ The spoilage is invented. The Halzi'a sends less salt than the pans yield and en
 
 Chathu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, and in a selat that sells salt and natron by weight, the chapter's scales settle most disputes. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
+## History {#history}
+
+The sea-raiders' landing is told in [[place-chathu#history|Chathu's history]] ([[lore-searaiders|The Sea-Raiders' Throne]]).
+
 ## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]

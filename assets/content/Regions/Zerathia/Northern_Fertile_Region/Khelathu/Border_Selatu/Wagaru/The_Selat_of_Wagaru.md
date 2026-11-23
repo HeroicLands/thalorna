@@ -76,6 +76,10 @@ The ledger records the true weights, and the gap between the figure sent to the 
 
 Wagaru uses the [[lore-aukhlthcrncy|Au'Khelathu currency]], and the gold-road is where the empire's weighed metal moves most. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts; its agents follow the garrisons and the caravans. See the currency note for the full system.
 
+## History {#history}
+
+Wagaru stands among the fourteen selatu whose standards the victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts as taken up from the field where the Tha'Ulgau broke the army of [[place-galezkara|Galezkara]] ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]). The seat keeps the account in [[place-wagaru#history|Wagaru's history]].
+
 ## See Also {#see-also}
 
 [[affiliation-borderselatu|The Border Selatu]]

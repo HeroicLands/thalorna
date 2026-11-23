@@ -128,6 +128,10 @@ Adventure here is mercantile and maritime—shipping intrigue and insurance frau
 
 The Delta Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]] of temple-attested weight-pieces in copper, silver and gold, reckoned in gezan and qelu. The delta ports are also where foreign coin circulates most freely, and where the Gar-Hálzi treasuries do their heaviest banking and letter-of-credit business with foreign houses. A factor paying in Vilérian coin has it weighed and discounted at the quay before it buys anything.
 
+## History {#history}
+
+The delta's recorded events are told in the histories of [[affiliation-selatchathu#history|Chathu]] and [[affiliation-selatkhelaga#history|Khelaga]]. Khelaga, [[affiliation-selatgaulegr#history|Gau-Legiru]], [[affiliation-selatgezazab#history|Gezazabu]] and [[affiliation-selatizetge#history|Izet-Ge]] are four of the fourteen selatu whose standards the victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]).
+
 ## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]

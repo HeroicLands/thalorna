@@ -76,6 +76,10 @@ The Halzi'a of Lenen-Nezut rules from a town that once held a throne, and his ho
 
 Lenen-Nezut uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affiliation-garhalzi|Gar-Hálzi]] chapter at its chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
+## History {#history}
+
+In 1462 ST (649 BF) the upriver house of [[affiliation-gezeelanlaghu|Geze'el'Anlaghu]] was crowned in its own city, and for sixty-nine years three of its Gar-Auu reigned from Lenen-Nezut and were buried there ([[lore-thronelnz|The Throne at Lenen-Nezut]]). The house's line closed with the death of its last Gar-Au at [[place-iqeru|Iqeru]] ([[affiliation-selatiqeru#history|Iqeru's history]]; [[lore-twothrones|The War of the Two Thrones]]). On the west-bank floodplain below the town, at [[place-zelhalzi|Zel-Halzi]], the hill-nomads destroyed the last army of Galezkara in 1612 ST (499 BF) ([[lore-thaulgau|The Coming of the Tha'Ulgau]]).
+
 ## See Also {#see-also}
 
 [[lore-thronelnz|The Throne at Lenen-Nezut]]

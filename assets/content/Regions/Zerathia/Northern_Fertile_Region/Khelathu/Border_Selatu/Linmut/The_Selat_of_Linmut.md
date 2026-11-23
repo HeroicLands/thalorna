@@ -76,6 +76,10 @@ The part entered against the fortress's upkeep is larger than the upkeep costs. 
 
 Linmut uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. Tolls on the frontier run on weighed silver and gold, and the [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
 
+## History {#history}
+
+The toll-gate selat's standard is one of the fourteen the victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts after the field below [[place-lenennezut|Lenen-Nezut]] ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]). [[place-linmut#history|Linmut's history]] records it.
+
 ## See Also {#see-also}
 
 [[affiliation-borderselatu|The Border Selatu]]

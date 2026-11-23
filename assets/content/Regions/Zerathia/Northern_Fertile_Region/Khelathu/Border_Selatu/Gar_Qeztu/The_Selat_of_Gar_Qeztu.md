@@ -72,6 +72,10 @@ The officer schools and chariot-corps drill-grounds of Gar-Qeztu turn out the me
 
 Gar-Qeztu uses the [[lore-aukhlthcrncy|Au'Khelathu currency]], and the drill-grounds and officer schools run on the garrison's weighed silver. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
 
+## History {#history}
+
+The victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts the selat's standard among the fourteen taken up from the field below [[place-lenennezut|Lenen-Nezut]] ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]). The seat's account of that field is in [[place-garqeztu#history|Gar-Qeztu's history]].
+
 ## See Also {#see-also}
 
 [[affiliation-borderselatu|The Border Selatu]]

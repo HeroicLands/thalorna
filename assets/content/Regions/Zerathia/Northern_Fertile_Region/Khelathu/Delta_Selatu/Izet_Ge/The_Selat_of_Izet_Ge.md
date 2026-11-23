@@ -78,6 +78,10 @@ The stores that appear in the Halzi'a's own accounts are smaller than the stores
 
 Izet-Ge uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, so the temple that stores the vintage is also the one that vouches for the price. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
+## History {#history}
+
+The standard of Izet-Ge is counted on the victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] among the fourteen taken up from the field below [[place-lenennezut|Lenen-Nezut]] ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]), and [[place-izet#history|Izet's history]] records it from the seat.
+
 ## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]

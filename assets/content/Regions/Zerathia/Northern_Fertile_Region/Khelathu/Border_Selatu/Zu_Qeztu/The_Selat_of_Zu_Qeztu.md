@@ -72,6 +72,10 @@ Zu-Qeztu is the margin where irrigation gives out and horse-pasture begins, and 
 
 Zu-Qeztu uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
 
+## History {#history}
+
+The Halzi'a house of the selat is the [[affiliation-thaulgau|Tha'Ulgau]], the kin of the hill-nomad conquerors ([[lore-thaulgau|The Coming of the Tha'Ulgau]]; [[lore-hillhouse|The Closing of the Hill House]]). [[place-zileti#history|Zileti's history]] tells how the house came to the western pastures.
+
 ## See Also {#see-also}
 
 [[affiliation-borderselatu|The Border Selatu]]

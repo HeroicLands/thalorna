@@ -74,6 +74,10 @@ Zu-Ger is the Great Land, the ancient royal selat whose ground holds the oldest 
 
 Zu-Ger uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affiliation-garhalzi|Gar-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
+## History {#history}
+
+The first eleven Gar-Auu kept their court in the Great Land of [[place-zugernome|Zu-Ger]] and lie in [[place-firsttablets|the Ground of the First Tablets]] ([[lore-akhfirsttab|The First Tablets]]). The court crossed to the mound at Galezkara in 1006 ST (1105 BF), and the kings of the Great Land stayed where they lay ([[lore-crossmound|The Crossing to the Mound]]).
+
 ## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
