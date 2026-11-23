@@ -37,7 +37,7 @@ Among his [[lore-wanduo|Wandwo]] is a gifted set with an affinity for water, and
 
 ## Places {#places}
 
-[[place-wongsen|Wongsen]], the Sea Gate, is the seat: a port of about 80,000 people where the delta meets the sea, with a walled foreign quarter and the Prince's granaries.
+[[place-wongsen|Wongsen]], the Sea Gate, is the seat: a port of about 80,000 people where the delta meets the sea, with the Prince's granaries and [[place-wongsenfrgnqrtr|the Foreign Quarter of Wongsen]], where the foreign merchants live inside walls the Warden of the Foreign Quarter keeps.
 
 ## Current Situation {#present}
 

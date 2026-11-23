@@ -37,7 +37,7 @@ The Prince of the province confirmed the magistrate of Jenshou in his post: [Sec
 
 In Mouyou a white heron nested on the roof of the magistrate's hall. The Tanchei read it as Water at rest. It is entered.
 
-The dikes of the nine channels were mended in Touyou by the district corvée, one thousand and eighty men for thirty days. The [Tablet Bank]{.name data-type="place/site"} above the town, which carries the boundary-stones of the three upper villages, was raised by half a span.
+The dikes of the nine channels were mended in Touyou by the district corvée, one thousand and eighty men for thirty days. The [[place-tabletbank|Tablet Bank]] above the town, which carries the boundary-stones of the three upper villages, was raised by half a span.
 
 The harvest was nine-tenths of a full measure. The granaries were sound at the summer count.
 
