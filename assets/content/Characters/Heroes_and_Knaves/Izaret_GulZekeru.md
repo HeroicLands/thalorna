@@ -3,6 +3,7 @@ shortcode: izaretgulzkr
 name: {full: Izaret Gul'Zekeru, given: Izaret, clan: Gul'Zekeru}
 type: being
 subType: character
+description: "An agent of the shadow-trade known as Whispers, born in the warren-slums of Khelzuret, who left Au'Khelathu after a commission went wrong and now travels with Kiroba."
 tags: [heroes-and-knaves, hero, underworld]
 data:
   banner: khelathubnr
@@ -451,7 +452,7 @@ sohl:
 
 ![[izaretgulzkr|Izaret Gul'Zekeru]]{float=top-left}
 
-Izaret stands 5'6" tall with a light build. She has dusky brown skin, jet-black hair, and dark eyes. Her features include an oval face, a straight narrow nose, a tapered chin, well-shaped lips, high-set brows, hollow cheeks.
+Izaret is a slight woman of 5'6" with dusky brown skin, black hair in a chin-length bob and dark brown eyes set in an oval face with hollow cheeks. Her nose is straight and narrow, her chin tapered and her lips well shaped. She dresses to be forgotten, in a plain black dress and a sandal worn level, and she carries a fine silk face veil that comes out when she wants a name unremembered. Her pockets hold lockpicks, a roll of writing materials with coded notes and a small disguise kit of pigments, and a coil of rope with a grapple rides in her pack.
 
 # Dossier {#dossier}
 
@@ -528,18 +529,23 @@ Izaret is cunning, resourceful, and often prefers working in the shadows. She is
 
 ## Plot Hooks
 
-The Secrets of Akhoza-Menlaa
-: Izaret discovers that a fragment of the Akhoza-Menlaa’s research has surfaced in a noble court outside the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. A desperate courier smuggles the information to her. Izaret must infiltrate the court and retrieve or destroy the evidence before the men she believes serve Legirha can exploit it, risking her safety to maintain the secrecy of her past affiliations.
+The Voice Under the Bound Chambers
+: In the necropolis across the water the bound dead keep the deepest chambers, and Izaret hears them as no one else does. A tomb-mason who has never been to the outer ring starts to hire her at night. What she hears from the deep chambers is a count, a name repeated in a scribe's voice, and it matches a name in the notes she carries from Akhoza-Menlaa.
 
-:::secret {title="What the courier's fragment reveals"}
-The research is dangerous, and the fragment reveals that Legirha’s experiments could disrupt the spiritual balance of an entire region.
-:::
+The Fragment in the Pilgrim-Market
+: A fragment of the Akhoza-Menlaa research surfaces among the funerary papyri that the pilgrim-market sells to the families of the dead. The courier who smuggles it to her is frightened and half-paid. She must buy the papyrus back or destroy the stall before the men she believes serve Legirha learn what is in it.
 
-The Spirit’s Debt
-: While traveling with her companions, Izaret encounters the lingering spirit of a thief who once helped her escape from Au'Khelathu. The spirit claims it is bound to the mortal realm due to unfinished business linked to Izaret’s actions. To grant the spirit peace, Izaret must uncover the truth about a heist gone wrong, balancing her loyalty to her past with her present mission.
+The Thief's Spirit
+: The spirit of a thief who helped her leave Au'Khelathu stops her on the ferry-crossing and says it cannot cross until a heist that went wrong is put right. Izaret has to reconstruct that night from the necropolis guard's roll, which names the man who sold the thief out, and he is now a priest of Weth'ur.
 
 The Whispering Dagger
-: An artifact Izaret carries, a dagger gifted to her by her benefactor in Au'Khelathu, begins to emit strange whispers that only she can hear. These whispers guide her toward secrets and hidden paths but come at the cost of attracting the attention of those who fear or revere the artifact’s power. Izaret must decide whether to embrace the dagger’s guidance or seek to rid herself of its influence.
+: The dagger her benefactor gave her begins to speak to her in the evenings, and its directions lead to hidden doors in the chapels of the mortuary temples. The temples' guards notice who walks there. She can follow the voice into the places it leads or put the blade away and lose what it knows.
 
-The Fugitive’s Shadow
-: A former ally who escaped with Izaret during her flight from Au'Khelathu resurfaces, now operating as a high-profile agent in a rival kingdom. This person’s actions threaten to expose Izaret’s identity to the spies she believes Legirha keeps, forcing her to confront her former ally in a game of wits and deception, where the cost of failure could mean capture or death.
+The Fugitive's Shadow
+: A former ally who escaped with Izaret reappears as a high-ranking agent in a rival kingdom, and every one of his errands runs through Khelzuret's river traffic. If he recognizes her, the spies Legirha keeps learn where she is. She can find him first and make terms, or leave the city.
+
+:::secret {title="What the referee knows"}
+The research is real, and the fragment shows that Legirha's experiments could disrupt the spiritual balance of an entire region. The count heard under the bound chambers is Legirha's: the circle is using the necropolis's dead as a ledger and has begun to enter the living.
+
+The tomb-mason is one of Legirha's agents, and he has found Izaret because the dagger is bound to the same chamber.
+:::

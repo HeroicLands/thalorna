@@ -3,6 +3,7 @@ shortcode: raiyaqugstzb
 name: {full: Raiyaku Gaset'Zabu, given: Raiyaku, clan: Gaset'Zabu}
 type: being
 subType: character
+description: "A noblewoman of Galezkara, daughter of a celebrated diplomat, who sits on the Genzet'Zabu and uses her fortune and her salons to commission artists and defend the artisan guilds."
 tags: [heroes-and-knaves, administration]
 data:
   banner: khelathubnr
@@ -458,7 +459,7 @@ sohl:
 
 ![[raiyaqugstzb|Raiyaku Gaset'Zabu]]{float=top-left}
 
-Raiyaku stands 5'8" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a noble nose, a smooth jawline, dark brows, and prominent cheeks.
+Raiyaku is a tall, light-built woman of 5'8" with dark skin, black hair dressed simply and dark brown eyes under straight dark brows. Her nose is noble and her jaw clean, and her cheekbones are prominent. She dresses in fine silk of understated color rather than the shades that mark rank, wears one signet and no more, and pays more attention to the cut of an artisan's work than to anything she wears. At her own gatherings she is at the door herself, and she repeats every name once.
 
 # Dossier {#dossier}
 
@@ -563,17 +564,20 @@ Local Nobility Council
 
 ## Plot Hooks
 
-The Forged Masterpiece:
-: A young artist whom Raiyaku has championed and funded produces a work of such staggering beauty that it causes a sensation throughout the city and attracts the attention of the empire's highest patrons. Yet an envious rival claims to have evidence that the work is not the artist's own—that it was actually created by a mysterious master who allowed the young protégé to take credit. Raiyaku must investigate the truth while protecting her protégé's reputation and determining whether her judgment in recognizing talent has been compromised by her desire to believe in people.
+The Fire in Lut-Lemu
+: A fire that begins in a potter's kiln runs lane to lane through the craft quarter before the Meglai's fire-gangs pen it in. Three workshops she has commissioned are lost, and the council vote to fix minimum prices for artisans' work falls in two days. The potter swears the kiln was banked. A trader's association that opposes the vote has a factor who was seen on the lane the evening before.
 
-The Hidden Library:
-: Raiyaku discovers that one of her fellow patrons has been secretly commissioning the theft and preservation of banned texts—works of philosophy, art, and history that the temple authorities and conservative nobility have deemed dangerous. She is confronted with a choice: expose her colleague and potentially face backlash from the conservative faction, or become complicit in an underground resistance to censorship. The party is drawn in, uncovering what these texts actually contain and why they threaten the established order.
+The Disputed Masterpiece
+: A young faience-maker she has championed finishes a work that causes a sensation among the high patrons, and a rival claims the design belongs to an older master. Raiyaku funded the work and is the first to be asked to vouch. The proof is in the workshop of the master, who is in the pay of Lord Zelegezu.
 
-The Artisan's Curse:
-: Several of the talented creators whom Raiyaku has patronized fall mysteriously ill with a strange affliction that attacks their ability to create—musicians lose their hearing, painters develop shaking hands, sculptors become paralyzed. Raiyaku suspects dark magic or deliberate poisoning and hires the party to investigate. The investigation reveals connections to a jealous rival patron or a mystical curse placed by a scorned artist, forcing Raiyaku to reckon with darker aspects of the competitive artistic world she has insulated herself from.
+The Two Houses
+: Two noble houses are on the point of violence over a boundary and a marriage, and the Genzet'Zabu cannot agree to hold the quarrel. Raiyaku proposes that both commission a joint work for the Festival of the Going-Down, which would oblige them to share a workshop for a season. Neither house will accept it unless the other agrees first, and the festival is near.
 
-The Diplomat's Daughter Takes Action:
-: When political tensions between factions within Au'Khelathu threaten to erupt into violence, Raiyaku (drawing on her father's diplomatic legacy) attempts to broker a peace between the warring sides by commissioning a great collaborative artwork that requires both factions' cooperation. The party is tasked with convincing hostile faction leaders to participate in the project, discovering that Raiyaku's naive optimism about art's power to unite may have dangerously underestimated the depth of the conflict. As tensions mount, the party can support Raiyaku's idealistic vision or push for more pragmatic solutions.
+The Library on Her Own Walls
+: A guest at one of her evenings leaves behind a scroll of a work that the temples have banned. Copies are being made and passed along in the quiet of her gatherings, and the temple inquisitors know her house is the place. She can name the one responsible, or accept that her door is part of the trade.
 
-The Rebellion of Created Things:
-: After years of commissioning art, Raiyaku begins to notice patterns suggesting that many of the works she has funded share subtle recurring motifs and hidden messages—messages that, when decoded, speak of revolution and resistance against the existing order. Either Raiyaku has unwittingly funded a revolutionary movement, or someone has been secretly manipulating her patronage as a cover for sedition. The party must help her determine which is true and what her responsibility is in either case. She can protect the artists she loves, expose the conspiracy to the authorities, or quietly support a cause she secretly believes in.
+:::secret {title="What the referee knows"}
+Her mentor, Lady Qeket Qelt'Agetu, commissions the thefts of banned texts and uses Raiyaku's gatherings as the place where the copies change hands. Raiyaku's reputation for an absolute word is the cover, and Qeket chose her salons for that reason.
+
+The fire was set by Lord Zelegezu's steward, who paid the kiln's apprentice. The trader's factor was there to make sure the blame would fall on the association instead.
+:::

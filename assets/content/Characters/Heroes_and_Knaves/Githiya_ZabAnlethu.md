@@ -3,6 +3,7 @@ shortcode: githiyzbnlth
 name: {full: Githiya Zab'Anlethu, given: Githiya, clan: Zab'Anlethu}
 type: being
 subType: character
+description: "A steward of the household of the antiquarian Lenti at Amqelu-Legez, born to a cook and a temple functionary, who keeps the house's stores, staff and accounts and gives volunteer service at the temple of Uzn'era."
 tags: [heroes-and-knaves, common-folk]
 data:
   banner: khelathubnr
@@ -481,7 +482,7 @@ sohl:
 
 ![[githiyzbnlth|Githiya Zab'Anlethu]]{float=top-left}
 
-Githiya stands 6'0" tall with a medium build. She has ebony skin, black hair, and hazel eyes. Her features include an oval face, a noble nose, a gentle jawline, and high-set brows.
+Githiya is a tall woman, six feet in her sandals, with ebony skin, long black hair and hazel eyes that rest on a thing a moment before she moves it. Her face is a long oval, composed, and she keeps it that way. She wears a straight household dress with a red sash, kept spotless, and the iron ring of household keys at her belt is the only sound she makes when she walks. A ledger bound in cord hangs from her other hip, and a pouch of cooking herbs and a bundle of remedy-herbs ride in her sleeve.
 
 # Dossier {#dossier}
 
@@ -571,17 +572,20 @@ Master Lenti, Her Employer
 
 ## Plot Hooks
 
-The Inheritance Dispute
-: Master Lenti dies unexpectedly, and his will reveals that he has bequeathed his substantial household—not to his lazy nephew, but to Githiya, with instructions to run it until the nephew matures. However, the nephew and his supporters contest the will, claiming Githiya coerced or manipulated the elderly Lenti. Githiya must now fight for her right to the position she has effectively held all along, proving both the legitimacy of Lenti's wishes and her own worthiness. The vindication she has always craved now comes tangled with accusation and doubt.
+The Short Sack
+: Every sack sent to Lenti's house is weighed and sealed on the grain-wharf, and Githiya signs for it at the door. For three months the weight on the seal and the weight on her scale have differed by a handful, always the same. Someone on the wharf or inside the household is skimming under a seal that nobody questions. She asks the party to find the hand before the next audit of the factor's tallies, because her name is on every receipt.
 
-The Seduction of the Smuggler
-: A charming merchant captain arrives in Au'Khelathu seeking to establish a shipping venture, and he becomes a frequent guest in Master Lenti's household. He pays Githiya extraordinary attention—complimenting her work, remembering details about her preferences, treating her with the respect and recognition she has been denied for decades. Only gradually does Githiya realize he is using her access and knowledge of the household to steal valuable antiquities for sale to foreign collectors. She has to choose between the intoxicating recognition he offers and her fundamental integrity, and then whether exposure will destroy the reputation she has built.
+The Attentive Guest
+: A merchant captain with a berth at the wharf has become a regular at Lenti's table, and he is the first guest in years to remark on the order of the house. Githiya knows what she is being given, and takes it. Two bronzes from Lenti's collection have gone missing, and the next manifest the wharf-scribe seals is for a crate of Amqelu-Legez pottery that the captain is shipping downriver. She must choose between the recognition and opening a crate that is already sealed.
 
-The Ritual Demands
-: The Lut-Uzn'era approaches Githiya with an unusual request: to oversee a month-long ceremonial preparation of a noble household for a sacred fertility festival, essentially removing her from Master Lenti's service. The temple promises her recognition and a position of minor authority that would finally see her name known and respected. However, completing this task would mean temporarily abandoning the household she has controlled, allowing a temporary steward to make decisions in her absence. Githiya must weigh her hunger for recognition against her need to maintain control of her domain.
+The Month at the Temple
+: The temple of Uzn'era asks Githiya to take charge of a month of preparation for a household's fertility festival, with a title the temple's servants will use for the rest of her life. Lenti will need a steward in her absence, and the one who offers is Akhoku's cousin. If she goes, the household she has built is run by the man's relative; if she refuses, the name the temple would have given her goes to someone else.
 
-The Scandal and the Scapegoat
-: A theft or moral scandal occurs in Master Lenti's household—perhaps a young servant is found with child, or valuable items go missing—and though Githiya is certainly not responsible, her position makes her a convenient target for blame. Lenti, rather than defending her, chooses to dismiss her to avoid further embarrassment. Githiya can accept the humiliation or take action to expose the truth, potentially destroying the household she has devoted herself to protecting.
+The Scapegoat
+: The silver cup that disappears from Lenti's table is found in the kitchen worker Amqelifu's bundle, and he says Githiya put it there. Lenti, who cannot stand scenes, dismisses the quarrel by dismissing her. She asks the party to prove the cup left the house with someone else before the story reaches the households that would take her next.
 
-The Offer of Partnership
-: A woman of similar age and background approaches Githiya with a proposition: together, they could set up as advisors to noble families on the running and ordering of households, building a business where Githiya's skill would finally be properly credited and paid. However, this would mean leaving Master Lenti, risking her current security, and trusting another person—something Githiya finds nearly impossible. The opportunity represents everything she has wanted, but accepting it requires her to believe she deserves more, something decades of invisibility have made her unable to fully accept.
+:::secret {title="What the referee knows"}
+Lenti's nephew is selling the household's flour and oil to a wharf factor to pay a gambling debt, and he has been using the sealed-sack weights to hide it. Lenti knows, says nothing and has written Githiya into his will as steward for life, because he is afraid she would leave if she knew what she was worth to him.
+
+The merchant captain is not stealing the bronzes. Lenti sold them to him, to cover the debt without a scene, and told nobody. Githiya's suspicion of the captain is the only thing that is false in the account she gives.
+:::

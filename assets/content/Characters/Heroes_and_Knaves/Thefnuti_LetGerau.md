@@ -3,6 +3,7 @@ shortcode: thefnutiltgr
 name: {full: Thefnuti Let'Gerau, given: Thefnuti, clan: Let'Gerau}
 type: being
 subType: character
+description: "A master toymaker of the seventh generation of the Let'Gerau family, who builds clockwork mechanisms for the imperial court and for private collectors in Anlagh-Zetun."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   banner: khelathubnr
@@ -467,7 +468,7 @@ sohl:
 
 ![[thefnutiltgr|Thefnuti Let'Gerau]]{float=top-left}
 
-Thefnuti stands 5'10" tall with a medium build. He has warm amber skin, gray hair, and brown eyes. His features include an oval face, a noble nose, a smooth jawline, an expressive mouth, fine brows, and angular cheeks.
+Thefnuti is a muscular man of 5'10" with a medium build, golden skin, gray hair to his shoulders and brown eyes that have stopped looking at faces. His face is oval and fine-boned, and his hands are always at work on something small, turning a spring or a gear while he talks. He works bare-chested under a leather tool belt of pouches and wears a loupe on a cord. His workshop smells of wax and of the oil he uses on his gears, and he carries a clockmaker's files, drills and gauges in his pockets and a wooden chest of tiny gears and springs under his arm when he calls on a patron.
 
 # Dossier {#dossier}
 
@@ -477,7 +478,7 @@ From earliest childhood, Thefnuti was trained in the family traditions. Unlike s
 
 However, beginning in his forties, Thefnuti became increasingly troubled by what he perceived as the cheapening of the craft. Simpler toys turned out in bulk began undercutting the market, and younger toymakers enthusiastically adopted new materials and methods that Thefnuti viewed as compromising quality. Rather than adapt, he doubled down on his traditional techniques and began work on increasingly elaborate creations that became less toys and more works of engineering art. This shift in focus—away from practical toys children could play with and toward elaborate mechanical sculptures meant for display—has simultaneously enhanced his prestige among collectors and left him increasingly isolated from the rest of the toymaking trade.
 
-Now at fifty-one, Thefnuti maintains a prestigious workshop in the capital, where he continues to produce extraordinary works. However, the constant pressure from younger craftsmen and the changing market has made him bitter and defensive about his methods.
+Now at fifty-one, Thefnuti maintains a prestigious workshop in [[place-anlaghzetun|Anlagh-Zetun]], where he continues to produce extraordinary works. However, the constant pressure from younger craftsmen and the changing market has made him bitter and defensive about his methods.
 
 ## Psyche
 
@@ -538,13 +539,13 @@ Scholar-Collector [[being-kheladenthlt|Kheladen Itha'Letu]]
 [The Imperial Treasury]{.name data-type="affiliation/governmental"}
 : Thefnuti has several standing commissions from the imperial court to create elaborate gifts for diplomatic purposes and state ceremonies. These are highly visible works that enhance his reputation significantly.
 
-Merchant Prince [Zassor the Learned]{.name data-type="being/npc"}
-: A collector of mechanical curiosities who maintains a private museum and commissions elaborate pieces specifically for display. Zassor pays handsomely and allows Thefnuti complete creative freedom, though he can be demanding about timelines.
+A merchant prince
+: A collector of mechanical curiosities who maintains a private museum and commissions elaborate pieces specifically for display. He pays handsomely and allows Thefnuti complete creative freedom, though he can be demanding about timelines.
 
 ### Enemies
 
-Toymaker [Mavrik the Innovator]{.name data-type="being/npc"}
-: A successful younger toymaker who has built wealth by turning out toys in bulk with newer materials that Thefnuti views as inferior. Mavrik has directly challenged Thefnuti's supremacy by advertising his toys as "superior because they are affordable" and has actively poached several of Thefnuti's potential clients. Mavrik sees Thefnuti as an arrogant relic and publicly questions whether his work is worth the extraordinary cost.
+A younger toymaker
+: A successful craftsman who has built wealth by turning out toys in bulk with newer materials that Thefnuti views as inferior. He has directly challenged Thefnuti's supremacy by advertising his toys as "superior because they are affordable" and has actively poached several of Thefnuti's potential clients. He sees Thefnuti as an arrogant relic and publicly questions whether his work is worth the extraordinary cost.
 
 [[being-rethekuthght|Retheku Iuthi'Gehtiu]]
 : A bureaucrat who has begun examining Thefnuti's finances closely, questioning how commissions that should be financially ruinous result in Thefnuti's continued wealth. Retheku suspects hidden income or tax evasion and has become increasingly adversarial in his investigations.
@@ -559,17 +560,20 @@ the [[affiliation-garletgerau|Gar-Let'Gerau]]
 
 ## Plot Hooks
 
-The Rival's Theft
-: Thefnuti discovers that his designs—exact reproductions of mechanisms and aesthetic approaches he developed—are being produced by Mavrik in bulk. Someone has stolen detailed plans or documented his work in sufficient detail that his unique approaches can be copied. Thefnuti must determine who is responsible, how extensive the theft is, and how to prove the designs are his under a law that gives craftsmen no such protection.
+The Copied Gears
+: Toys with the Let'Gerau mechanisms begin to appear in the markets at a tenth of his price. They are made in bulk by a younger rival whose workshop he has never entered. Someone has copied his plans in detail, and the law of the empire gives a craftsman no suit for his designs. Thefnuti asks the party to find the hand that opened his chest, and he warns them that he does not want it known that he can be robbed.
 
-The Mechanical Anomaly
-: A patron brings Thefnuti a broken mechanical device—not his creation—from an ancient ruin, asking him to restore it. As he examines it, he becomes disturbed: the mechanisms are far too advanced for any known ancient civilization, and they use principles he doesn't fully understand. The patron warns him not to discuss the device with anyone, but Thefnuti becomes obsessed with understanding how it was created, potentially violating his patron's confidence to seek answers.
+The Tally-Engine
+: The scholar-collector Kheladen Itha'Letu asks him to build a working copy of a counting-engine described in the oldest rolls of the survey-courts. The only drawings are in the tally-bureau's strong-room, which the bureaucrat who is auditing Thefnuti's accounts controls. To build the engine he must let Retheku into the work, and into his books.
 
-The Apprentice Prodigy
-: A young, brilliant craftsperson appears seeking apprenticeship with Thefnuti, demonstrating talent that exceeds anyone he's encountered in decades. However, Thefnuti quickly discovers the apprentice already possesses knowledge of advanced techniques—knowledge that should be impossible to acquire outside his family training. He must determine where this knowledge came from and whether accepting this apprentice will compromise seven generations of family secrets.
+The Gifts for the Embassy
+: The Treasury announces that his mechanical gifts for the diplomatic season are to be inspected by foreign judges so that reproductions can be ordered. An inspector sends him a private note saying that the gifts are to be marked unauthorized unless Thefnuti shows him his methods first. The inspector is offering a favor or a blackmail, and Thefnuti does not know which.
 
-The Cursed Commission
-: A mysterious patron commissions an extraordinarily elaborate mechanical sculpture with very specific requirements that Thefnuti finds aesthetically unsatisfying but technically compelling. As he works, strange things begin occurring—pieces fit together incorrectly, mechanisms behave unpredictably, and workers in his shop report disturbing dreams. Thefnuti begins to suspect he is being asked to craft something impossible or actively harmful, but the patron has paid a substantial deposit and has significant leverage over him.
+The Apprentice Who Knew Too Much
+: A young craftsperson asks for an apprenticeship and demonstrates a technique that only the Let'Gerau teach. Thefnuti has taught it to no one outside the family. He can send her away and lose the first talent he has met in decades, or take her in and learn who gave her the knowledge.
 
-The Imperial Inspection Crisis
-: The imperial Treasury announces that Thefnuti's extraordinary mechanical gifts to the court will be examined and evaluated by foreign experts to potentially commission reproductions for diplomatic purposes. This threatens to expose Thefnuti's techniques to scrutiny and potential copying. Simultaneously, he receives a private message from the inspector claiming to possess documentary evidence of "unauthorized" imperial work—works he created but which cannot be publicly acknowledged. Someone is attempting to coerce him into cooperation through blackmail.
+:::secret {title="What the referee knows"}
+The apprentice is the granddaughter of a second pupil of Thefnuti's father Gakhoti, who taught a man outside the family and left Thefnuti's grandfather ignorant of it. That pupil's line is the source of the bulk-made mechanisms, and the copying is not theft in any sense the law recognizes.
+
+Retheku is right about the income. Thefnuti inflates the Treasury's gift commissions with the connivance of a clerk, and what the audit would find would end his standing with the court.
+:::

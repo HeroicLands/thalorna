@@ -3,6 +3,7 @@ shortcode: githrrthlkhl
 name: {full: Githara Reth'el'Khelensu, given: Githara, clan: Reth'el'Khelensu}
 type: being
 subType: character
+description: "A timberwright of Khelzuret, born in the teak highlands to a family of the Timberwrights' Guild, who selects timber for the shipwrights, coffin-makers and architects of the empire and rejects what lesser wrights accept."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   banner: khelathubnr
@@ -469,7 +470,7 @@ sohl:
 
 ![[githrrthlkhl|Githara Reth'el'Khelensu]]{float=top-left}
 
-Githara stands 6'0" tall with a medium build. She has rich copper skin, deep black hair, and brown eyes. Her features include an oval face, an aquiline nose, a tapered chin, elegantly curved brows.
+Githara is a tall woman, 6'0", with a medium build and brown skin, long, wavy black hair and brown eyes set in a long oval face. Her nose is aquiline, her brows arched and her mouth small, and she keeps it closed when a log is being proposed to her. She wears an ochre dress belted with a leather sash and a leather headband, an axe over her shoulder and a whetstone at her belt. A woven basket carries her chisels, gouges, knives and planes, and she measures with a tape and a rule and keeps a worn book of tree lore in her satchel.
 
 # Dossier {#dossier}
 
@@ -562,17 +563,20 @@ Timberwrights' Guild of Au'Khelathu
 
 ## Plot Hooks
 
-The Foreign Commission
-: A mysterious agent from the distant kingdom of [[place-velkhara|Vel'Khara]] arrives in Au'Khelathu seeking timbers of unprecedented rarity and size for an unnamed noble patron. The payment offered is astronomical, but Githara discovers the wood is being sought for weapons—massive siege equipment designed to breach the walls of Au'Khelathu's allies. She must decide whether to honor her craft above politics, and whether bringing this knowledge to the authorities will compromise her neutral reputation in the timber markets.
+The Coffin-Makers' Grade
+: Two low floods have thinned the pilgrimage to the necropolis, and the families who come are fewer and poorer. The coffin-makers' quarter wants to buy the cheaper grade of timber that Githara refuses to pass, and the merchants who sell it have started telling the quarter she is the reason burials cost what they do. If she gives way on the third-grade coffins, her standard fails where it matters most to the poor. If she holds, the families who cannot pay send their dead across the river in rough boards.
 
-The Cursed Log
-: A merchant brings Githara a single enormous log of wood so perfect, so ancient, and so radiantly beautiful that it seems to defy nature. However, it bears marks she cannot explain and emanates a faint wrongness that troubles her. Investigation reveals the log was harvested from a sacred grove protected by an ancient curse—and the merchant promises Githara a fortune if she'll work with it. The curse, if real, may pass to anyone who shapes the wood, but refusing means allowing an unscrupulous craftsperson to claim the prize instead.
+The Log from the Door
+: A merchant brings her a log of ancient wood so perfect that it is not credible. The marks on one face are the notches of a tomb-door's hinge. The necropolis is built against thieves in layers, and the merchant has taken the log from a tomb in the outer ring. If she buys it, she is a fence for the tomb-robbers; if she refuses, the merchant takes it to a wright with no scruples.
 
-The Student's Test
-: Githara's most promising apprentice—a young woman named [[being-qiya2|Qiya]]—is caught stealing inferior wood from the workshop and selling it to a competing merchant while telling customers it came from Githara's stock. Rather than simply expelling Qiya, Githara sees this as a test: of her principles, her teaching, and whether her mentorship has failed or merely been corrupted by desperation. She must uncover why Qiya did this—is it greed, coercion, or family hardship?—while deciding what redemption, if any, she can offer without betraying her own standards.
+The Apprentice's Test
+: Her most promising apprentice, [[being-qiya2|Qiya]], is caught selling inferior wood from the workshop and telling customers it is Githara's stock. Expelling her is the rule. She sees a test, of her mentoring and of her principles, and Qiya says her mother is sick, which she did not mention before.
 
-The Ancient Forest Initiative
-: The Empire's new Minister of Resources announces plans to harvest an enormous stretch of ancient woodland to fuel Au'Khelathu's expansion. While many timberwrights celebrate the opportunity, Githara recognizes the grove contains several rare and magnificent tree species found nowhere else. She must handle the dangerous waters of standing against state policy, potentially forming unlikely alliances with priests, scholars, and conservationists—all while keeping her standing in her trade and proving that sometimes the greatest craftspeople are those wise enough to know when not to cut.
+The Ferry Barges
+: The temples of Weth'ur and Hezmu'iri and the Halzi'a of Khelzuret each need new barges for the crossing to the necropolis, and each insists the other pay. Githara is asked by both to choose the timber. Whichever she specifies is read as taking a side, and the Halzi'a shares the city uneasily with priests who hold more land than he does.
 
-The Master's Gauntlet
-: An aged master from a distant land arrives and challenges all the timberwrights of Au'Khelathu to a competition: craft the finest wooden object possible from identical raw materials within a lunar cycle. The winner gains renown, but more importantly, will secure royal patronage that guarantees prosperity for years. Githara must compete against both skilled rivals and the whispered skepticism of those who don't believe a woman can truly stand at the head of the craft. The competition becomes not just about creating a masterwork, but about forcing Au'Khelathu to finally acknowledge what Githara has always known: excellence goes beyond gender.
+:::secret {title="What the referee knows"}
+The log came from the door of a tomb in the outer ring, and the necropolis guard who sold it was bribed by the agent of the Thaz'Lekhau of Hezmu'iri, who collects tomb-doors to keep the dynasties' records out of the Halzi'a's hands.
+
+Qiya's mother died last month. Qiya is selling the wood to pay the embalmers for the first grade.
+:::

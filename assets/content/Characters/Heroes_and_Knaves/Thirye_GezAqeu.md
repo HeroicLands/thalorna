@@ -3,6 +3,7 @@ shortcode: thiryegezaqe
 name: {full: Thirye Gez'Aqeu, given: Thirye, clan: Gez'Aqeu}
 type: being
 subType: character
+description: "A leading player of Lin'Shelun elu Galezkara, born into a family of players, whose roles in the tragic repertory have drawn private commissions from noble patrons and the notice of the Wazulu."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   banner: khelathubnr
@@ -443,7 +444,7 @@ sohl:
 
 ![[thiryegezaqe|Thirye Gez'Aqeu]]{float=top-left}
 
-Thirye stands 5'4" tall with a light build. She has dark skin, black hair, and brown eyes. Her features include a narrow face, a slightly arched nose, a smooth jawline, and elegantly curved brows. She has a tattoo of a dragonfly on her neck.
+Thirye is a slight woman of 5'4" with dark brown skin, black hair that she dresses differently for every part, and brown eyes in a long, narrow face. Her nose is aquiline, her brows arch high and look drawn on, and she has a small tattoo of a dragonfly on the side of her neck, which she covers with paint on stage and leaves bare in the street. She is thin from work, dresses off the boards in plain linen and keeps a silk pouch of paint and cosmetics, an ornate mirror and her copies of her parts close at hand. When she is not performing, her face is quiet enough that some patrons fail to recognize her.
 
 # Dossier {#dossier}
 
@@ -451,11 +452,11 @@ Thirye stands 5'4" tall with a light build. She has dark skin, black hair, and b
 
 ### The Daughter of Performance
 
-Born in 691 in one of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s greatest theatrical centers, Thirye was practically delivered upon a stage—her parents were both established performers in the grand tradition of [[lore-khelathiclt|Khelathi]] theater, known for their emotional intensity and interpretive brilliance. From infancy, she was surrounded by rehearsals, costuming, and the intoxicating atmosphere of artistic creation. Rather than a conventional education, she received training in movement, voice, character work, and the elaborate mythology of the [[affiliation-khelathpnthn|Khelathi Pantheon]] from the finest theatrical masters in the empire. Her dragonfly tattoo, received at the age of thirteen during a mystical retreat, marked her formal dedication to the art and her spiritual commitment to the goddess of transformation.
+Born in 691 in one of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s greatest theatrical centers, Thirye was practically delivered upon a stage—her parents were both established performers in the grand tradition of [[lore-khelathiclt|Khelathi]] theater, known for their emotional intensity and interpretive brilliance. From infancy, she was surrounded by rehearsals, costuming, and the intoxicating atmosphere of artistic creation. Rather than a conventional education, she received training in movement, voice, character work, and the elaborate mythology of the [[affiliation-khelathpnthn|Khelathi Pantheon]] from the finest theatrical masters in the empire. Her dragonfly tattoo, received at the age of thirteen during a mystical retreat, marked her formal dedication to the art and her spiritual commitment to [[affiliation-thubai|Thuba'i]].
 
 ### The Rising Star
 
-By her early twenties, Thirye had transitioned from child performer to celebrated actress in her own name, commanding substantial roles in the [City Theater Company]{.name data-type="affiliation"}'s productions. Her interpretations became known for their inward depth and vulnerability—a willingness to expose raw emotion that many performers lacked. She has garnered particular acclaim for her portrayals of tragic heroines and complex antagonists, earning regular standing ovations and attracting devoted followers who attend every performance. Nobles have begun commissioning private performances, and rumors speak of potential opportunities with the imperial court itself.
+By her early twenties, Thirye had transitioned from child performer to celebrated actress in her own name, commanding substantial roles in the [[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]'s productions. Her interpretations became known for their inward depth and vulnerability—a willingness to expose raw emotion that many performers lacked. She has garnered particular acclaim for her portrayals of tragic heroines and complex antagonists, earning regular standing ovations and attracting devoted followers who attend every performance. Nobles have begun commissioning private performances, and rumors speak of potential opportunities with the imperial court itself.
 
 ### The Hidden Struggle
 
@@ -520,7 +521,7 @@ Spiritual Dependency
 ### Patrons
 
 Lord Architect [[being-amqelenset2|Amqelenset]]
-: A powerful nobleman and principal patron of the City Theater Company who is captivated by Thirye's artistry; he has commissioned private performances and provided financial support for experimental theatrical productions she wishes to develop.
+: A powerful nobleman and principal patron of [[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]] who is captivated by Thirye's artistry; he has commissioned private performances and provided financial support for experimental theatrical productions she wishes to develop.
 
 Master Playwright [[being-qelti|Khelemur]]
 : [[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]'s head writer who has become something of a mentor figure and advocate; he deliberately writes roles showcasing Thirye's particular gifts and has begun to champion her for imperial commissions.
@@ -544,7 +545,7 @@ Critic [[being-gathamose2|Gathamose]]
 
 ### Affiliations
 
-City Theater Company
+[[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]
 : A senior member of the ensemble, though not yet achieving official leadership status; she is the Company's most celebrated performer and acts as a subtle informal mentor to younger actresses.
 
 The [[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]]
@@ -552,14 +553,20 @@ The [[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]]
 
 ## Plot Hooks
 
-The Inheritance of Impossible Expectation
-: Thirye receives word that her retired mother has fallen gravely ill and wishes to see her before death—but has also declared that she will disinherit Thirye unless the young woman agrees to abandon theater and marry a respectable merchant, settling into domestic life as is proper. Thirye must journey to her mother's home, facing family expectations, cultural pressures, and her own deep ambivalence. The situation grows complex when she discovers that her mother's illness may be financially motivated manipulation by relatives seeking to control the family estate, and that her mother may be using Thirye's stage work as leverage in family power struggles.
+The Cycle in the Chest
+: A collector brings Thirye a fragment of a sacred theatrical cycle that the priesthoods suppressed centuries ago, with a part in it that fits her voice as if written for her. The text criticizes the priests of the cult it was made for. The Wazulu already press for the company's license to be examined, and a staging of it gives them the proof they need. Thirye asks the party to learn who the collector is and whether the fragment is what he says it is, before she decides.
 
-The Lost Script and the Dangerous Truth
-: A mysterious collector approaches Thirye with a fragment of an ancient Khelathi text—portions of a sacred theatrical cycle that was officially suppressed centuries ago. The script is extraordinary, a piece of artistic genius, and the role it contains seems written specifically for Thirye's gifts. Yet performing it would violate religious taboo and invite powerful clerical opposition. As Thirye researches the text's origins, she uncovers disturbing historical truths about why the script was suppressed—it allegedly contained critiques of the priesthood and revelations about divine corruption that threatened institutional power.
+The Mother's Terms
+: Thirye's mother, retired from the stage, sends word from the river road that she is dying and will leave the family house to her only if she gives up the boards and marries a merchant. A cousin who has been seen at the notary has more reason to want the match than the mother does. Thirye asks the party to go with her to the house, and to learn whether the illness is real before she answers.
 
-The Doppelgänger
-: Thirye begins encountering a woman who looks nearly identical to her in the streets of the city—same face, same bearing, yet something fundamentally wrong about the presentation. The woman performs in a rival theater, giving increasingly acclaimed performances in roles Thirye was passed over for. Investigation suggests the woman may actually be Thirye's previously unknown twin sister, separated at birth and raised in different circumstances. The reunion is complicated by competing ambitions and the revelation that the rival theater may have deliberately engineered the deception to exploit the theatrical intrigue. If an identical person can achieve equal success, Thirye's sense of a special artistic destiny is in question.
+The Season at the Wharves
+: The granary-port of Amqelu-Legez hires the company to play at the anniversary of the granary rising, and the Wazulu send preachers to the wharf to stop it. No barge leaves until the wharf-scribe seals it, and the scribe's seal on the stage-boat is the one thing that decides whether the sets cross the river. Someone has begun to quote the scribe's fee as double. Thirye cannot play without the sets, and the company cannot pay.
 
-The Patron's Darker Commission
-: The Merchant Prince Lahmes approaches Thirye with an extraordinary opportunity—a substantial fee to participate in a private performance for a select group of the empire's most powerful individuals. The role offered is supremely flattering, and the compensation would secure her financial independence. Yet as she begins rehearsals, she gradually realizes that the performance is not simply entertainment—it is a carefully constructed magical working, a ritual designed to influence the imperial succession through manipulated emotional states and subtle influence on the mind. Thirye discovers that her fellow performers may be unwitting participants in a conspiracy, and that Lahmes has been using his patronage to identify and exploit ambitious artists for darker purposes. She can expose the conspiracy and lose her most promising patron, or continue the performance knowing it serves dangerous political ends.
+The Patron's Private Evening
+: The merchant prince Lahmes asks for a private performance for a small, rich company, and offers a fee that would clear her debts to the company. He chooses the play and the guests himself. Thirye has begun to wonder why a man who collects fine objects wants the audience he has chosen all in one room.
+
+:::secret {title="What the referee knows"}
+The collector is Lahmes's agent, and the fragment is forged. It is written to condemn the priesthood so that the Wazulu will come down on the company, and Lahmes holds enough of its debts to buy the license when it falls.
+
+Zabunia, the rival who spreads rumors about Thirye, was paid by the same man.
+:::

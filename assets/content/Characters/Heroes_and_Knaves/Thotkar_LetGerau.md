@@ -3,6 +3,7 @@ shortcode: thotkarletgr
 name: {full: Thotkar Let'Gerau, given: Thotkar, clan: Let'Gerau}
 type: being
 subType: character
+description: "A litigant of Amqelu-Legez, trained under the master litigant Aqenhofis, who is known across the empire for taking cases others call unwinnable and for refusing a fee that would bend his argument."
 tags: [heroes-and-knaves, guilded, administration]
 data:
   banner: khelathubnr
@@ -445,7 +446,7 @@ sohl:
 
 ![[thotkarletgr|Thotkar Let'Gerau]]{float=top-left}
 
-Thotkar stands 5'10" tall with a heavy build. He has tawny skin, graying black hair, and green-brown eyes. His features include a diamond-shaped face, a prominent nose, a narrow chin, generous lips, high-set brows, and angular cheeks. He has a tattoo of a leaf on his wrist.
+Thotkar is a man of 5'10" and a heavy, sedentary build, tawny-skinned, with black hair, a gray beard and hazel eyes that move to the speaker's hands before the face. His mouth is full and rarely smiles, and he has a small tattoo of a leaf on his wrist, which a cuff of his robe covers in court. He dresses in the white linen robe of his guild with the sleeves turned back for writing, and he carries a leather satchel of case files, his own written briefs and a bound volume of the empire's law codes, with ink, quills and parchment tied beside it.
 
 # Dossier {#dossier}
 
@@ -554,14 +555,20 @@ Litigant [[being-gezehutyu2|Balinta]]
 
 ## Plot Hooks
 
-The Case of Impossible Innocence
-: A young person convicted of murder through what appears to be airtight legal procedure approaches Thotkar requesting defense appeal—they claim absolute innocence, yet all evidence points to guilt, all testimony corroborates the conviction, and even Thotkar's initial investigation seems to confirm the verdict. Yet the young person's desperation rings true, and Thotkar becomes convinced that subtle but systematic deception has orchestrated a false conviction. His investigation threatens to expose corruption in the judicial system itself—evidence that the original magistrate conspired with prosecutors to manufacture guilt. As Thotkar works toward appeal, he uncovers evidence that the conviction may have been orchestrated to conceal far greater crimes by more powerful figures. Success would require public exposure of judicial corruption that the system is heavily invested in concealing.
+The Sealed Barge
+: A young boatman is convicted of stealing grain from a barge whose seal was unbroken at the count. The conviction is airtight on the record, and Thotkar believes the grain left before the sealing and the tally was written to match. The proof sits in the tally-bureau of the wharf-scribes, and the board that would open it is the board whose seals the conviction depends on.
 
-The Scholar's Rival
-: Another litigant arrives in the city—Thotkar's former mentor, the famed Master Aqenhofis, thought dead for over a decade. Aqe is now elderly and infirm, and he approaches Thotkar with a startling revelation: he has discovered that virtually his entire life's work has been subtly orchestrated by a powerful shadow organization using law as a vehicle for their own political purposes. He suspects Thotkar's practice may be similarly manipulated without his knowledge. Together they begin investigating, and the trail leads into shadowy politics involving multiple realms and suggests that some of Thotkar's greatest victories may have served the interests of those he would oppose if he knew. The revelation threatens to undermine his faith in his own judgment and his fundamental belief in the possibility of justice.
+The Mentor's Confession
+: Aqenhofis, old and ill, sends for Thotkar and confesses that a reading of the law he published decades ago was a lie told for a merchant house that saved his life. The house still holds its wealth on it, and so do hundreds who never knew. Thotkar has to choose between his mentor's name and the standing of every argument he has built on the reading.
 
-The Contract with Consequences
-: A desperate client—a woman whose daughter has been enslaved through legal machinery—approaches Thotkar with an extraordinary proposal: she has discovered a loophole in the legal code that would free her daughter, but it requires Thotkar to argue for an interpretation that would destabilize significant commercial practices and provoke violent opposition from wealthy merchants. The client is willing to pay an enormous fee and can provide evidence that her daughter's enslavement was technically illegal. Yet Thotkar recognizes that winning this case would likely trigger legal backlash and potentially create precedents that could be weaponized against those he typically represents.
+The Bonded Daughter
+: A woman comes to him with a loophole that would free her daughter, bound for a granary debt after the low floods. Winning it would upend the practice by which the harvest debts of whole villages are bonded, and the merchants who profit from them have already told the Lord Magistrate they will not accept it. Thotkar would be the author of the precedent that frees one girl and gets many more bound under a stricter reading.
 
-The Revelation of Authorship
-: Thotkar discovers that Master Litigant Aqenhofis—his revered mentor and the architect of much of Au'Khelathu's contemporary legal framework—may have perpetuated a false legal interpretation for decades, deliberately concealing a truth that would undermine a significant merchant dynasty's wealth and power. Aqenhofis may have done this because the merchant family's founder saved his life, and gratitude outweighed his commitment to truth. Exposing his mentor's deception would destroy a name and legacy he reveres while potentially destabilizing legal systems that depend on his interpretations.
+Balinta's Warning
+: Balinta, whose cases Thotkar has beaten repeatedly, has begun to visit his clients at home and to remark on their families. Two have withdrawn. Thotkar must decide whether to name him before the Litigants' Guild, which has the standing to discipline Balinta and the habit of not doing so, or to take the next case against him without the clients who still stand beside him.
+
+:::secret {title="What the referee knows"}
+The false reading of Aqenhofis protects a house of the Zebeku'Zut that owns the counting-boards of the grain-port, and the bondage of the farmers' debts rests on it. If the reading falls, the bonds fall with it.
+
+The Lord Magistrate Khelama schedules Thotkar's hearings first because he wants the reading tested, and he cannot test it himself without losing his office.
+:::

@@ -3,6 +3,7 @@ shortcode: qelathmlkhlr
 name: {full: Qelatha Melu'Khelariu, given: Qelatha, clan: Melu'Khelariu}
 type: being
 subType: character
+description: "A yeoman archer of the militia of Anlagh-Zetun, born among the Meikhathi hunting clans of the borderlands, who spends her free days tracking the loggers and poachers who work the lands her people kept."
 tags: [heroes-and-knaves, soldiery]
 data:
   banner: khelathubnr
@@ -446,7 +447,7 @@ sohl:
 
 ![[qelathmlkhlr|Qelatha Melu'Khelariu]]{float=top-left}
 
-Qelatha stands 5'10" tall with a light build. She has dark brown skin, black hair, and black eyes. Her features include a narrow face, a long nose, a pointed chin, well-shaped lips, dark brows, and sculpted cheeks. She has a tattoo of a spider on her shoulder.
+Qelatha is a tall, spare woman of 5'10" with dark brown skin, black hair bound back in a leather thong and black eyes in a long face with a pointed chin. She is quiet in a way that fills a room less than it empties it. A spider is tattooed on her shoulder, which her militia tunic covers. She wears the plain tunic and sandals of the militia on duty and a hunter's dull-dyed hide off it, and carries a well-made leather quiver, a whetstone and a map of the borderlands drawn by her own people.
 
 # Dossier {#dossier}
 
@@ -538,17 +539,23 @@ Local Militia
 
 ## Plot Hooks
 
-The Merchant's Gambit
-: Merchant-Lord Lenni Thoten'Ralu offers Qelatha a substantial sum to cease her interference with his operations, phrased as a proposition that he "would prefer to have the talented Qelatha working with him rather than against him." If she refuses, he begins a systematic campaign to eliminate her—hiring skilled mercenaries, using imperial connections, and threatening her militia position. Qelatha hires the party to help her investigate Lenni's operations and gather evidence of crimes against the land that could force the empire to shut down his activities. The investigation becomes increasingly dangerous as Lenni escalates his response.
+The Merchant's Offer
+: The merchant-lord Lenni Thoten'Ralu, whose logging and mining have eaten the Meikhathi grounds, offers Qelatha a handsome retainer and tells her he would rather have her with him than against him. If she refuses, hired swords start asking for her at the militia post. She asks the party to gather proof of what his camps have done to the streams, before the offer expires and the mercenaries arrive.
 
-The Spider's Bargain
-: A mysterious figure known only as "[The Spider]{.name data-type="being/npc"}" approaches Qelatha with a proposition: help them steal a specific artifact from imperial storage, and they will provide information about who killed her father and why. Qelatha is deeply tempted, as she has never received a satisfactory answer about her father's death, but the proposition is clearly dangerous and the Spider's true motives are unclear. The party must help her weigh this temptation while discovering who the Spider actually is and what they truly want.
+Roof-Beams for the Domes
+: The granary-keepers buy timber to re-roof the granary domes, and Lenni's barges deliver it to the row. The beams come from the sacred ground her father died defending, and her captain posts her at the gate to guard the unloading. She can stand watch, or she can use the unloading to make the granary-keepers' clerks ask where it was felled, and either path costs her the militia post.
 
-The Poisoned Lands
-: Qelatha discovers that one of Lenni's mining operations has fouled the region's water, causing mysterious illnesses among both human and animal populations in the borderlands. The empire appears reluctant to enforce its own laws, possibly because Lenni has bribed officials or threatened retaliation. Qelatha must prove the contamination's source and force accountability, working with the party to gather evidence, conduct investigations, and potentially take direct action to prevent further poisoning. The situation becomes complicated when they discover that the pattern of the fouling suggests something worse than carelessness.
+The Clerk's Price
+: A survey-clerk who works the rolls of the granary bureau tells her he can name the officer who ordered the patrol that killed her father, and the price is a roll stolen from the bureau's strong-room. The clerk is frightened and half-drunk. He may be the best chance she has to learn who gave the order, or a man the Overseer's office wants her to approach.
 
-Gar-Gezanu Closing In
-: Qelatha learns that the Exaction Service has finalized a dossier on her vigilante activities and is preparing to arrest her for theft and sabotage. She has perhaps two weeks before they move. She can surrender and face trial (where she will likely be convicted and imprisoned), flee the region entirely (abandoning her mission to protect the lands), or use the party's help to discredit the evidence or undermine the Exaction Service's authority. Each course carries heavy consequences.
+The Closing Dossier
+: The Exaction Service of Gar-Gezanu has assembled a file on the thefts and sabotage in the borderlands, and she has about two weeks before the arrest. She can surrender to a trial she will probably lose, flee and leave the lands unwatched, or give the party the means to discredit the file before it reaches the Halzi'a's court.
 
-The Ritual of Remembrance
-: Qelatha's people traditionally conduct an annual ritual honoring those lost to injustice and celebrating their connection to the land. The ritual site is now on land controlled by Merchant-Lord Lenni, and he has forbidden the Meikhathi from conducting the ceremony. Qelatha resolves to conduct the ritual anyway, knowing it will constitute a direct violation of his property rights and could result in arrest or violence. She asks the party to help her protect the ritual space and the participants, creating a potential confrontation with Lenni's guards. The ritual itself carries spiritual significance that may have unforeseen consequences.
+The Forbidden Remembrance
+: The Meikhathi hold their yearly rite of remembrance at a site that now lies inside Lenni's lease, and he has forbidden it. Qelatha means to hold it anyway and asks the party to guard the participants. Lenni's guards are paid by the day, and so are the militia who are ordered to arrest anyone found on the lease.
+
+:::secret {title="What the referee knows"}
+The order to guard the logging camp came from the granary-keepers, who wanted beams for the domes and leased the grove to Lenni without asking whose it was. The clerk is telling the truth: the officer is a keeper's own deputy.
+
+Captain Luyat has read the Exaction Service's file and has quietly removed three pages from it. He served in the patrol that killed her father and has said nothing of it to her.
+:::

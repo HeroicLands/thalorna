@@ -3,6 +3,7 @@ shortcode: gasherltrtht
 name: {full: Gasher Let'Rethetu, given: Gasher, clan: Let'Rethetu}
 type: being
 subType: character
+description: "A traveling lyre player of the merchant quarter of Galezkara, born to a healer and a temple scribe, who is a sometime member of the Minstrels' Guild and a scar-faced favorite of provincial courts."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   banner: khelathubnr
@@ -440,7 +441,7 @@ sohl:
 
 ![[gasherltrtht|Gasher Let'Rethetu]]{float=top-left}
 
-Gasher stands 6'1" tall with a medium build. He has ebony weathered skin, very dark brown hair, and brown eyes. His features include an oval face, a long nose, a narrow chin, an expressive mouth, very dark brows, and sculpted cheeks. He has a scar across his left eye.
+Gasher is a tall man of 6'1" with a medium build, weathered ebony skin, very dark brown hair and brown eyes. A scar crosses his left eye from brow to cheekbone, pale against the skin, and he keeps his face turned toward the listener so that it shows. His mouth is expressive and quick to smile. He wears the plain traveling cloak of a musician over a bright tunic, and he carries a fine lyre in a padded case, a notebook of lyrics and compositions, and a pouch of healing herbs his mother taught him to carry.
 
 # Dossier {#dossier}
 
@@ -520,8 +521,8 @@ Master [Uzner]{.name data-type="being/npc"} of the Minstrels' Guild
 [The Jade Serpent Collective]{.name data-type="affiliation"}
 : A cabal of traditional court bards who view Gasher's "common" style and his independence from established guild hierarchies as a threat to their monopoly on the ear of nobles. They have been known to spread rumors that his music is somehow tainted or that his scar marks him as cursed.
 
-[Thelgus the Silent]{.name data-type="being/npc"}
-: A rival musician who has attempted to shadow Gasher from town to town, attempting to learn his methods and his original compositions. Gasher suspects Thelgus of attempting to steal his work for his own profit.
+The Shadowing Rival
+: A rival musician who has attempted to shadow Gasher from town to town, attempting to learn his methods and his original compositions. Gasher suspects him of attempting to steal his work for his own profit.
 
 ### Affiliations
 
@@ -533,17 +534,20 @@ Minstrels' Guild of Au'Khelathu
 
 ## Plot Hooks
 
-The Lost Songs of the First Age
-: Gasher has been contacted by Lady [[being-legirgulu2|Legirgulu]], a reclusive scholar and priestess of [[affiliation-chaqur|Chaq'ur]] who claims to have discovered fragmentary references to the fabled songs of creation mentioned in the oldest temple texts, which belong to the First Age ([[lore-akhfirsttab|the First Tablets]]). She believes that if these songs could be recovered and performed in the correct sequence, they would awaken something ancient and powerful—though whether this power would be benevolent or catastrophic, she does not know. She has offered him a sum of gold and a map indicating the location of a sealed temple deep in the desert where these songs might yet be preserved. The problem: the temple is protected by wards and guardians that have not been tested in centuries, and it lies in territory claimed by [[affiliation-zelqetu2|the Zelqetu]], a warband of desert nomads who brook no trespassers.
+The Songs Before the Mound
+: [[being-legirgulu2|Legirgulu]], a reclusive scholar and priestess of the [[affiliation-chaqur|Faith of Chaq'ur]], tells him she has found references to songs of creation in the oldest temple texts and wants someone who can set them. The texts are in the archives of the great temples of Galezkara, and every enclave that holds a fragment guards it. He can work from copies made in secret, or sign a contract with the temples that owns what he writes.
 
-The Thief of Melodies
-: Gasher's greatest work, a song cycle he spent years composing called "[The Descent of Galezkara]{.name data-type="lore"}," has been stolen. A merchant caravan carrying his belongings while he traveled overland was ambushed, and all his notebooks and original compositions were taken. He has since learned that the pieces are being performed throughout the western provinces by an unknown musician claiming them as original work. Worse, this thief is a gifted performer—some who have heard both versions claim they prefer the thief's interpretations. Now Gasher must track down this mysterious rival.
+The Stolen Cycle
+: The notebooks of his greatest work, a song cycle he calls The Descent of Galezkara, were lost when a merchant caravan was ambushed on the road. Pieces of it have begun to appear under another musician's name in the halls of the nobles, who think it is new. Proving the cycle is his means the notebooks, and the notebooks are in the hands of whoever bought the loot.
 
-The Silent Oracle's Curse
-: In a small village called [[place-meqetgaru2|Meqet-Garu]], Gasher once performed for the birthday celebration of **High Priestess [[being-thapinamequg|Thapina]]**, a woman known throughout the region for her spiritual wisdom and grace. His performance that night was, by his own admission, less than his best—he was tired, distracted, perhaps drinking more than he should have. Shortly after, the priestess fell into a mysterious sleep from which she will not wake, and the village has blamed Gasher's poor performance as having somehow offended the gods or broken some unknown taboo. The priestess's brother, a merchant of considerable influence, has declared that only Gasher can reverse the curse—though he cannot say how, only that the solution will require Gasher to return to the village and rediscover what song the priestess's soul is calling for in whatever realm she now inhabits.
+The Coming-Forth
+: An emissary of the high priests of the [[affiliation-uqaa|Faith of Uqa'a]] asks him to compose and lead the music for the midsummer Festival of the Coming-Forth, when the sun rises down the Sun's Road. The commission is the greatest of his life and binds him to the temple for the season. The Jade Serpent Collective, whose bards have always performed it, are already telling the temple that his scar marks a curse.
 
-Recruitment by the Sun Court
-: An emissary of the high priests of [[affiliation-uqaa|Uqa'a]] has approached Gasher with an extraordinary proposal: the [Temple of the Sun]{.name data-type="affiliation"} is mounting a grand ritual to be performed during the summer solstice, and they wish to commission him to compose and perform the ceremonial music. The honor would be immense, the payment astronomical, and it would cement his reputation forever. However, the ritual itself involves elements he does not fully understand, and there are whispers among the lower priests that something has been hidden from even the high clergy about the ritual's true purpose. Is it merely a festival, or does the Temple have some deeper purpose that Gasher would be complicit in by lending his art to their cause?
+The Other Story of the Scar
+: The man who cut him is a ruined drunk, and he is telling a story that contradicts Gasher's: that the scar came from a fight over a woman Gasher wronged. The story is spreading in the places where he plays. He can leave the stage and the story with it, or find the man and the one who is feeding him drink.
 
-The Scar's Origin Revealed
-: Years have passed since the drunken noble wounded Gasher, but that man has never fully left the world of consequence. Gasher learns that the man—now fallen into poverty and desperation—has been spreading a story that contradicts the official account of how Gasher's scar was received. According to this man's account, the scar was not the result of random violence, but of Gasher's seduction of a noblewoman whose marriage was meant to secure a crucial political alliance. The story is false, but it is spreading, and Gasher's patrons are beginning to distance themselves. More troublingly, the noblewoman's family has taken notice and seeks to silence the man before he spreads further scandal. Gasher can let this man be killed, help him disappear, or confront the truth of his own past.
+:::secret {title="What the referee knows"}
+The man with the knife was paid. The Jade Serpent Collective arranged the attack, to break Gasher's rise before it threatened the court bards, and has been supporting the drunk's new story.
+
+Legirgulu is honest. The fragments of the creation songs are real, and one of them names the Mound before the Crossing, a claim the temple of Uqa'a would rather not have sung.
+:::

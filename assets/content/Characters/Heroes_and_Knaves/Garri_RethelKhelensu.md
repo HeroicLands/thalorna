@@ -3,6 +3,7 @@ shortcode: garrrthlkhln
 name: {full: Garri Reth'el'Khelensu, given: Garri, clan: Reth'el'Khelensu}
 type: being
 subType: character
+description: "A philosopher and teacher of Galezkara, born to a merchant and a declined noble house, who gave up a family position at twenty-eight to teach anyone who came, and now teaches freely from a modest house in the capital."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   banner: khelathubnr
@@ -450,7 +451,7 @@ sohl:
 
 ![[garrrthlkhln|Garri Reth'el'Khelensu]]{float=top-left}
 
-Garri stands 5'8" tall with a heavy build. He has golden brown skin, white hair, and warm brown eyes. His features include a long face, an aquiline nose, a smooth jawline, generous lips, and golden brows. He has a tattoo of a crescent moon on his neck.
+Garri is a heavy-set man of 5'8" with golden-brown skin, white hair, a long face and warm brown eyes. His nose is aquiline and his mouth full, and a crescent moon is tattooed on the side of his neck, which his collar shows when he lifts his chin to speak. He dresses in a plain linen tunic and wears a string of meditation beads wrapped twice about his left wrist. A leather case of quills, ink and parchment hangs from his shoulder, and a few well-handled volumes of philosophy go with him wherever he is asked to teach.
 
 # Dossier {#dossier}
 
@@ -466,7 +467,7 @@ For more than twenty years, Garri moved from city to city, village to village, e
 
 **Return and Current Situation**
 
-Five years ago, now at fifty years of age and bearing the physical toll of decades of wandering, Garri settled in a modest house on the outskirts of a prosperous city within the Khelathi realm. He offers his teaching and counsel freely to those who seek him out, supporting himself through modest donations, the sale of his written collections of philosophical essays, and occasional patronage from grateful students who have prospered. His reputation has grown in his later years—he is now recognized as one of the foremost philosophers of the age, a living link to ancient wisdom combined with practical insight. However, his contentment is precarious. Some aspects of modern [[lore-khelathiclt|Khelathi]] society—the growing materialism of merchants, the rigidity of religious doctrine, the exploitation of the poor—trouble him deeply. He senses that the cultural renaissance of his youth is giving way to a kind of spiritual stagnation, and he finds himself increasingly compelled to speak out, knowing that doing so may renew old conflicts.
+Five years ago, now at fifty years of age and bearing the physical toll of decades of wandering, Garri settled in a modest house on the outskirts of [[place-galezkara|Galezkara]]. He offers his teaching and counsel freely to those who seek him out, supporting himself through modest donations, the sale of his written collections of philosophical essays, and occasional patronage from grateful students who have prospered. His reputation has grown in his later years—he is now recognized as one of the foremost philosophers of the age, a living link to ancient wisdom combined with practical insight. However, his contentment is precarious. Some aspects of modern [[lore-khelathiclt|Khelathi]] society—the growing materialism of merchants, the rigidity of religious doctrine, the exploitation of the poor—trouble him deeply. He senses that the cultural renaissance of his youth is giving way to a kind of spiritual stagnation, and he finds himself increasingly compelled to speak out, knowing that doing so may renew old conflicts.
 
 ## Psyche
 
@@ -544,20 +545,20 @@ Independent Scholar Network
 
 ## Plot Hooks
 
-The Heresy Accusation
-: Religious authorities formally accuse Garri of heresy based on collected writings and teachings that they claim contradict orthodox doctrine. The accusation is politically motivated—his criticism of corruption and materialism within the priesthood has made him dangerous to those who benefit from current arrangements. He is summoned to a formal hearing before the Temple's [Council of Orthodoxy]{.name data-type="affiliation/governmental"}, where he must defend his teachings or face censure or exile. The party becomes involved in gathering evidence of his teaching's validity, securing testimony from his students about his positive influence, or alternatively, helping him prepare a defense that reframes his seemingly heretical ideas within acceptable theological frameworks. The conflict escalates as various factions within the priesthood take sides, and the party must deal with the politics of the priesthood.
+The Charge of Heresy
+: The Qethar'lemu bring a formal charge of heresy, built on written copies of his lessons. In Galezkara a temple enclave answers to its high priest before the Zeglar, and the only sheltering ground is the enclave of Uzn'era, whose priests have supported him and do not like his doctrines. If he accepts sanctuary he buys safety with silence; if he refuses it, the Meglai have no standing to stop the charge.
 
-The Declining Culture
-: Garri becomes increasingly distressed by what he perceives as a spiritual decline in Khelathi culture—the fading of traditional arts and crafts, the replacement of philosophical thought with empty materialism, the loss of connection to spiritual tradition. He wishes to launch an initiative to preserve and revive cultural knowledge before it is lost entirely. This involves traveling to remote areas to document dying traditions, establishing schools to teach classical arts and philosophy to young people, and creating written records of endangered knowledge. The party might accompany him on these journeys, help establish the schools despite opposition from conservative elements and skeptical authorities, or work to gather resources and support for the cultural preservation initiative.
+The School in the Warrens
+: A merchant lord offers to build him a grand lecture hall on the dry ground if he will close the free school he runs in the flood-prone warrens of Gar-Qethar, because the lord wants the land. Every year when the water rises Garri's students move out with their families and come back to rebuilding. The hall would be dry, endowed and far from the people who need him.
 
-The Dangerous Student
-: A brilliant young woman or man becomes Garri's dedicated student and seems to absorb his teachings with rare understanding. However, the party gradually discovers that this student is using Garri's philosophical ideas in ways he never intended—manipulating others through twisted interpretations of his teachings, using his authority as a cover for personal ambitions, or worse, working for a hostile faction that seeks to use his teachings to achieve ideological control. Garri, trusting and perhaps somewhat naive regarding human deception, resists believing the party's warnings. The party must gather evidence of the student's true nature, help Garri understand how his ideas were corrupted, and decide whether the student deserves redemption or must be stopped.
+The Student Who Quotes Him
+: A gifted young student is using Garri's sayings in the halls of the grain-factors, where they are quoted to justify withholding the dole from the registered poor. Garri recognizes his own words in a mouth he did not teach. The student is sincere, and has made a name by the argument.
 
-The Prophetic Vision
-: Garri has a powerful spiritual experience—a vision he believes was granted by [[lore-uzneradty|Uzn'era]] herself—that suggests a coming catastrophe, cultural transformation, or spiritual awakening. However, the vision is cryptic and difficult to interpret, and Garri is uncertain whether it represents actual prophecy or merely his own anxious mind dwelling on current concerns. He becomes obsessed with understanding and preparing for what he has seen. The party becomes involved in investigating the vision's meaning, potentially traveling to sacred sites for spiritual insight, consulting with other prophets and seers, and gathering information that might confirm or clarify what the vision portends. The investigation might reveal either real danger requiring preparation or might suggest that the vision reflects Garri's fears rather than actual future events.
+The Library of All Wisdom
+: A collector of rare philosophical texts offers to fund a library that gathers and translates the wisdom of every land, with Garri at its head. The collector's ship lies at the foreign shore of the Great Quay, and the cost, which Garri learns slowly, is that the finished copies leave the empire.
 
-The Lost Texts and the Collector
-: A mysterious collector of rare philosophical texts approaches Garri, offering to finance a major project: the creation of a comprehensive collection of all known philosophical wisdom from multiple cultures and time periods, to be compiled, translated, and preserved in a single great library. The opportunity is extraordinary—it aligns perfectly with Garri's values and could preserve knowledge he fears is being lost. However, as the project progresses, the party discovers that the collector has hidden motivations: the texts are being gathered because they contain encoded knowledge, esoteric wisdom, or magical instructions that the collector intends to use for personal power or dangerous purposes. Garri is devastated by the betrayal; he may abandon the preservation project, or he may find a way to separate the real scholarly work from the collector's esoteric agenda.
+:::secret {title="What the referee knows"}
+The formal charge was assembled from notes taken in his lectures by a student he trusts, who is the Qethar'lemu's informer. She believes she is saving him from a worse charge by controlling the evidence.
 
-The Successor
-: As Garri acknowledges his own mortality and the limits of his remaining years, he becomes concerned about who will carry forward his teaching and philosophy after he is gone. He identifies a successor—a brilliant young scholar or spiritual seeker—and begins to mentor them intensively, preparing them to continue his work. However, the party discovers complications: the chosen successor may not actually share Garri's values, or may intend to twist his teachings in different directions, or may be unsuited to the role for reasons Garri cannot see due to his emotional investment. The party must help Garri through this delicate situation, either supporting the succession process despite concerns or helping him recognize that his chosen successor is not the right one, and must grapple with the philosophical question of how wisdom and teaching should be transmitted across generations.
+The collector is a Taruzelian factor who wants the temple libraries' philosophical texts copied abroad. The student who quotes Garri to the grain-factors is the factor's agent in the same house.
+:::

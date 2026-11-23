@@ -42,4 +42,4 @@ Amqelenset is a 49-year-old man who stands 5'7" tall with a light build. He has 
 
 # Dossier {#dossier}
 
-Amqelenset, a nobleman and architect of [[place-amqelulegez|Amqelu-Legez]], has shaped a good part of the capital's great buildings through commissions only he chooses to accept. He is the [City Theater Company]{.name data-type="affiliation/venture"}'s principal patron as well, and has grown captivated enough by the performer [[being-thiryegezaqe|Thirye Gez'Aqeu]] to fund productions she alone wants built. Winning his favor, in building or in theater, means winning more than money.
+Amqelenset, a nobleman and architect of [[place-amqelulegez|Amqelu-Legez]], has shaped a good part of the capital's great buildings through commissions only he chooses to accept. He is the [[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]'s principal patron as well, and has grown captivated enough by the performer [[being-thiryegezaqe|Thirye Gez'Aqeu]] to fund productions she alone wants built. Winning his favor, in building or in theater, means winning more than money.

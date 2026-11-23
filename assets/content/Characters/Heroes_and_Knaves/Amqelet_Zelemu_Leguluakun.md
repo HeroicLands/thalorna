@@ -3,6 +3,7 @@ shortcode: amqltzlmlglq
 name: {full: Amqelet-Zelemu Legulu’akun, given: Amqelet-Zelemu, clan: Legulu’akun, khel: [amqe]}
 type: being
 subType: character
+description: "An astrologer of Amqelu-Legez, born to a family of court scholars at Khelunu, who has set out on a pilgrimage to the oldest star-shrines of Au'Khelathu to learn what the Convergence of the Nine Moons will do to the Court of the Nine Moons."
 tags: [heroes-and-knaves, hero, mages]
 data:
   banner: khelathubnr
@@ -466,7 +467,7 @@ sohl:
 
 ![[amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]{float=top-left}
 
-Amqelet-Zelemu stands 5'9\" tall with a medium build. He has dark skin, dark hair, and brown eyes. His features include a long nose, a pointed chin, generous lips, and elegantly curved brows.
+Amqelet-Zelemu is a man of 5'9" with dark skin, close-cropped dark hair, a short mustache and goatee, and brown eyes under high arched brows that lift when he is working a sum. His mouth is full and quick to settle into the half-smile of a man who has found an error in someone else's chart. His skin is clear and his hands are ink-stained. He wears a blue robe embroidered with stars over a pale tunic, with a gold chain and a green stone at his chest, and he carries an astrolabe and a quadrant in a padded case, a roll of star charts, a satchel of prophecy scrolls copied from his own readings and a worn book of the sacred texts of Reth'Sa'ar. Incense and offering-grain ride in a small pouch at his belt, and he burns a pinch at every sighting.
 
 # Dossier {#dossier}
 
@@ -506,18 +507,7 @@ Despite these dangers, Amqelet-Zelemu finds unlikely allies along his path. He m
 
 Amqelet-Zelemu seeks to reach the [[place-lutzelutha|Lut-Zelutha]], an ancient site hidden deep within the **Sands of [[place-lareshu|Lareshu]]**, where the final clue to stopping or mitigating the effects of the Convergence can be found. However, time is against him, as the stars grow ever closer to alignment, and forces—both seen and unseen—move to either stop him or claim the celestial power for themselves.
 
-The culmination of his journey will lead to a dramatic confrontation with the forces of fate and with the empire’s ruling elite, who may finally realize the truth of his predictions too late.
-
-### Potential Story Hooks for the Character
-
-Allies and Foes
-: Other astrologers or mystics may view the Convergence differently, offering different interpretations or actively working against Amqelet-Zelemu.
-
-Political Intrigue
-: The imperial court’s internal power struggles could affect his journey, as different factions may want to control the outcome of the Convergence.
-
-Mystical Encounters
-: The journey allows for encounters with otherworldly beings tied to the stars or ancient prophecies, some who might aid Amqelet-Zelemu, others who could hinder him.
+His journey ends in a confrontation with the empire's ruling elite, who understand his predictions only when it is too late to act.
 
 ### Companions
 
@@ -596,14 +586,20 @@ Rival astrologers and courtiers
 
 ## Plot Hooks
 
-The Eclipse of the Nine Moons
-: As Amqelet-Zelemu charts an upcoming celestial alignment, he notices discrepancies in the ancient star charts he relies on. Consulting other astrologers reveals that someone has deliberately altered these records centuries ago, obscuring the alignment’s true meaning. To uncover the truth, Amqelet-Zelemu must follow a trail of hidden knowledge, even as rival scholars and imperial agents seek to stop him.
+The Reading for the Wharves
+: The granary-keepers of Anlagh-Zetun send to the port for the astrologer who calls himself the best reader of the stars on the river, because two low floods have left the stores thin and the Halzi'a wants a reading of the next inundation before the Measure is proclaimed. Amqelet-Zelemu's charts say the flood will come high and that something worse will come with it. If he says the first half only, the granaries open and the stores run down; if he says both, he is asked to prove the second half before the Halzi'a's clerks.
 
-The Celestial Herald
-: During a public astrological reading, Amqelet-Zelemu predicts a celestial event that will bring great prosperity to the empire. However, when the event occurs, it is followed by strange and devastating natural phenomena instead. Accused of heresy and manipulation, Amqelet-Zelemu must defend his reputation while investigating who or what twisted his prediction into a calamity.
+A Berth for a Branded Man
+: Barges leave Amqelu-Legez only once the load is weighed and sealed, and the wharves talk. Legez Aqu is under sentence of death in the selat of Khelunu, and word of a branded priest on a barge travels upriver faster than the barge. Amqelet-Zelemu needs the river road to the first shrine and has no time for the overland one. He asks the party to find a boatman who will carry Legez as a hired hand and keep quiet, or to carry the company by another way, before the Convergence closes the window he has calculated.
 
-The Starblade Prophecy
-: An ancient noble family approaches Amqelet-Zelemu with a request: decipher an inscription on a relic tied to their lineage. The artifact speaks of a blade forged under the light of a rare constellation, said to grant its wielder power beyond any other. As Amqelet-Zelemu deciphers the riddle, he uncovers a warning that using the blade comes with dire consequences—ones the noble family is eager to ignore.
+The Altered Charts
+: A scribe of the tally-bureau, copying an old chart for him, shows him two versions of the same alignment that differ by one conjunction, and the older copy is the one whose seal is broken. Someone has rewritten the temple libraries' record of the Nine Moons. The only other copies sit in the libraries of Galezkara and of Khelunu, and the scribes who tend them answer to the same high priests who dismissed his warning. He cannot ask for them openly.
 
-The Missing Constellation
-: While examining the night sky, Amqelet-Zelemu notices that a once-prominent constellation has vanished without explanation. His investigation leads him to a temple abandoned centuries ago, where he discovers clues pointing to the constellation’s significance in ancient rituals. What begins as a scholarly pursuit turns into a race to prevent the awakening of a forgotten power tied to the stars.
+The Court's Answer
+: A courier from the palace of the Gar-Au calls at the wharf with a sealed letter. The court's own astrologers demand his readings for review and name a date to bring them. If he hands over his only copies, the court owns the Convergence and he cannot continue. If he keeps them, he is a man who refused the throne, and the lords who demanded action and the lords who dismissed him find the same reason to be rid of him.
+
+:::secret {title="What the referee knows"}
+The Convergence is real, and it falls on the day the nine clans of the Court of the Nine Moons confirm their seats. One clan altered the oldest charts so that the date reads as a harvest omen and not as the night its seat is struck from the list. The rival astrologers and the agents who follow him are in that clan's pay.
+
+The final clue at Lut-Zelutha in the sands of Lareshu is a star-map carved before the Court existed, and it names the clan. Whoever carries the original to Galezkara unseats it; whoever destroys it keeps the seat.
+:::

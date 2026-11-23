@@ -3,6 +3,7 @@ shortcode: megtshthkhlr
 name: {full: Megeti Shathu'Kheleru, given: Megeti, clan: Shathu'Kheleru}
 type: being
 subType: character
+description: "A senior accountant and principal auditor of the Imperial Treasury, daughter of a linen merchant, who dismantled three embezzlement rings and now takes only the gravest audits for the Treasury Minister Khelassepu."
 tags: [heroes-and-knaves, guilded, administration]
 data:
   banner: khelathubnr
@@ -460,7 +461,7 @@ sohl:
 
 ![[megtshthkhlr|Megeti Shathu'Kheleru]]{float=top-left}
 
-Megeti stands 5'5" tall with a light build. She has ebony skin, deep black hair, and brown eyes. Her features include a long face, a slightly arched nose, a narrow chin, full lips, and elegantly curved brows.
+Megeti is a small, straight-backed woman of 5'5" with ebony skin, long black hair and brown eyes in a long face. Her nose is slightly arched, her chin narrow and her lips full, and her brows curve elegantly over a gaze that stays on the figures she is checking. She wears a gray-green hooded wrap over a beaded collar, with gold earrings and bangles, and carries a leather document case of professional quality, a writing kit of ink, quills and parchment, a metal letter opener and a well-used abacus. A wax seal bearing the Treasury's mark hangs at her belt and the audit ledgers she works from travel in the case.
 
 # Dossier {#dossier}
 
@@ -550,17 +551,20 @@ The Imperial Treasury
 
 ## Plot Hooks
 
-The Phantom Accounts
-: Megeti discovers a set of ledgers within the Treasury itself showing transactions that do not appear in any official record. These accounts detail payments to unnamed entities totaling millions of dinars over the past five years. Investigation suggests that Khelassepu himself may be running a secret operation, though whether he is embezzling or acting under orders from someone higher in the imperial hierarchy is unclear. Megeti is caught between her loyalty to her patron, her obligation to truth, and the very real possibility that exposing this will make her a marked woman.
+The Temple Estates of Khelzuret
+: The Treasury sends her to audit the tribute of Khelzuret, where the mortuary temples of Weth'ur and Hezmu'iri hold more land and coin than the Halzi'a. The Thaz'Lekhau refuse her access to the counting-rooms of the necropolis, and the Halzi'a, who wants the audit, cannot compel them. The only record of the temples' remittances is kept by the embalmers' guild, and the guild answers to the temples.
+
+The Rations of Zel-Qar
+: A street child hands her a single page of a Treasury ledger, discarded by a minor official, which shows discrepancies in the rations drawn from the selat's granaries for the company-village of Zel-Qar. The figures suggest a theft large enough to be treason. When she asks for the matching record, she is told it was destroyed in a fire three months ago.
 
 The Auditor's Inheritance
-: When [[being-reqesehu|Reqesehu]] the Scribe, Megeti's former mentor and the only person she truly trusted, dies under suspicious circumstances, he leaves her a sealed package of documents. Inside, she finds evidence that she herself has been the subject of a parallel investigation for years. Someone in the Treasury believes she is falsifying records, and the evidence against her—though circumstantial—is compelling enough to destroy her reputation. Now Megeti must find who orchestrated this frame and why, while preventing her enemies from discovering that her perfect reputation has cracks.
+: Her mentor [[being-reqesehu|Reqesehu]], the only man she trusted, dies in suspicious circumstances and leaves her a sealed packet. Inside is evidence that someone in the Treasury has run a parallel investigation of her for years, on a charge of falsifying records. She cannot tell whether it was Khelassepu who began it.
 
-The Visitor from the Provinces
-: A young noble from the southern provinces arrives in the capital claiming to possess evidence of massive tax fraud at the provincial level, involving not just local officials but merchants and military commanders. However, they will only speak to Megeti directly, and only in absolute secrecy. As Megeti begins her investigation, she realizes the evidence implicates people so highly placed that publicizing it would trigger a provincial uprising or a coup. She can bury the truth to preserve the Empire, or expose it and watch the realm tear itself apart.
+The Phantom Accounts
+: In the Treasury she finds ledgers recording payments of millions of dinars over five years to entities named nowhere else. The trail runs to Khelassepu's office, and he is the man who protects her. She can finish the audit and learn whether he is a thief or a servant of the throne, or close the books and learn what she has chosen not to know.
 
-The Mathematician's Paradox
-: A brilliant young mathematician from the eastern universities arrives at the Treasury with a proposal: a new method of accounting so elegant and comprehensive that it would make traditional bookkeeping obsolete. Megeti initially dismisses the young scholar, but as she examines the method, she recognizes its power—and its danger. In the wrong hands, it could hide corruption more effectively than any current practice. Megeti can promote the new method and hope for the best, or suppress it and risk being seen as an obstacle to progress. Meanwhile, she suspects the mathematician may be working for the Crimson Syndicate, using the new method as a cover for infiltration.
+:::secret {title="What the referee knows"}
+The phantom accounts pay a retainer to the Thaz'Lekhau of Weth'ur and Hezmu'iri to keep the royal necropolis's guards loyal to the Gar-Au's chosen successor, and Khelassepu runs them on her order. He began the parallel investigation of Megeti himself, to see whether she would find the accounts.
 
-The Borrowed Ledger
-: A street urchin brings Megeti a single page from what appears to be a Treasury ledger, claiming it was discarded by a minor official. The page shows discrepancies in grain distributions to the lower city over the past six months—distributions that suggest systematic theft on a scale that would constitute treason. However, when Megeti attempts to verify the ledger's authenticity through official channels, she discovers that no such page exists in any Treasury inventory. Either a ledger has been removed from the archives entirely, or someone is crafting an elaborate deception. Megeti must determine which, knowing that both possibilities are terrifying.
+The Zel-Qar rations are real theft, by a factor of the Genzet'Halzi'a who sells the diverted grain to the temples' labor-gangs.
+:::

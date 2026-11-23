@@ -3,6 +3,7 @@ shortcode: shegasrethmg
 name: {full: Shegas Retha'Mogau, given: Shegas, clan: Retha'Mogau}
 type: being
 subType: character
+description: "An apothecary of the lower quarters of Anlagh-Zetun, born to a spice-merchant family, who treats the poor for goods and favors and is nearly bankrupt for it."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   banner: khelathubnr
@@ -453,7 +454,7 @@ sohl:
 
 ![[shegasrethmg|Shegas Retha'Mogau]]{float=top-left}
 
-Shegas stands 5'7" tall with a light build. She has deep bronze skin, jet black hair, and black eyes. Her features include an aquiline nose, a gentle jawline, and elegantly curved brows. She has a scar on her left arm.
+Shegas is a slim woman of 5'7" with dark brown skin, long black hair and black eyes with strongly arched brows. Her nose is aquiline, and an old scar runs along her left forearm, which she shows when she works because she has stopped hiding it. She dresses in a loose linen smock stained with herb-green and walnut, and she wears a pouch of dried remedies, a wooden mortar and pestle and a small apothecary's scale at her belt. A woven basket of fresh herbs goes with her on every call, and her hands smell of what she was grinding last.
 
 # Dossier {#dossier}
 
@@ -461,7 +462,7 @@ Shegas stands 5'7" tall with a light build. She has deep bronze skin, jet black 
 
 ### Early Life and Loss
 
-Shegas was born in the capital city of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] into the moderately wealthy [Retha'Mogau family]{.name data-type="affiliation/lineage"}, merchants of spices and exotic goods. Her childhood was comfortable, filled with the abundance that merchant wealth provided. However, at age eight, a terrible plague swept through the lower quarters of the city where her family maintained warehouses and trading posts. Shegas's younger brother, only four years old, contracted the plague despite their family's wealth and protection. She watched her parents employ physician after physician, spend vast sums on treatments and remedies, but none could save the boy. The child died screaming in pain, and young Shegas was left with the conviction that there must be a better way, that someone could have saved her brother if only they had possessed proper knowledge.
+Shegas was born in [[place-anlaghzetun|Anlagh-Zetun]], a city of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], into the moderately wealthy [Retha'Mogau family]{.name data-type="affiliation/lineage"}, merchants of spices and exotic goods. Her childhood was comfortable, filled with the abundance that merchant wealth provided. However, at age eight, a terrible plague swept through the lower quarters of the city where her family maintained warehouses and trading posts. Shegas's younger brother, only four years old, contracted the plague despite their family's wealth and protection. She watched her parents employ physician after physician, spend vast sums on treatments and remedies, but none could save the boy. The child died screaming in pain, and young Shegas was left with the conviction that there must be a better way, that someone could have saved her brother if only they had possessed proper knowledge.
 
 After her brother's death, Shegas became obsessed with learning every remedy, every healing art, every herb that might have helped him. Her parents, grieving and indulgent, allowed her to apprentice with an elderly apothecary named [[being-meshaqawise|Meshaqa the Wise]], a woman of great skill who had served the city's poor for decades.
 
@@ -473,7 +474,7 @@ When Meshaqa died at an extraordinary age, Shegas inherited her practice and her
 
 ### Present Struggles and Moral Conflict
 
-Now at thirty-four, Shegas has become a legend in the lower quarters—a saint to some, a source of hope to many. However, her generosity has created severe financial difficulties. She barely maintains her shop, and she has been forced to sell family properties and assets to continue her work. Her family views her as wasteful and have largely disowned her, considering her commitment to the poor as a betrayal of merchant principles. Recently, an ambitious apothecary named [Corven Marchant]{.name data-type="being/npc"} opened an expensive shop catering to wealthy patients, spreading rumors that Shegas's free treatments are low-quality and that her methods are outdated. He has begun systematically trying to drive her out of business.
+Now at thirty-four, Shegas has become a legend in the lower quarters—a saint to some, a source of hope to many. However, her generosity has created severe financial difficulties. She barely maintains her shop, and she has been forced to sell family properties and assets to continue her work. Her family views her as wasteful and have largely disowned her, considering her commitment to the poor as a betrayal of merchant principles. Recently, an ambitious apothecary of the upper streets opened an expensive shop catering to wealthy patients, spreading rumors that Shegas's free treatments are low-quality and that her methods are outdated. He has begun systematically trying to drive her out of business.
 
 ## Psyche
 
@@ -538,7 +539,7 @@ Wealthy Merchants Seeking Discretion
 
 ### Enemies
 
-Apothecary Corven Marchant
+The Rival Apothecary
 : A wealthy, ambitious apothecary who views Shegas as competition and a threat to his practice. He spreads rumors about her methods, undercuts her prices with wealthy clients, and has tried to convince the city's merchant council to regulate her practice out of existence.
 
 Debt Collectors and Loan Sharks
@@ -560,17 +561,20 @@ The Community of the Lower Quarters
 
 ## Plot Hooks
 
-The Plague Returns
-: A new disease begins spreading through the city's lower quarters—a sickness with symptoms Shegas has never encountered before. Wealthy physicians dismiss it as merely a variant of common ailments, but Shegas recognizes a graver disease. As deaths mount among her patients, she becomes obsessed with discovering a cure, working without sleep, neglecting her own health. Her investigation reveals that the plague may be deliberately spread, either as a weapon or by a group seeking to clear the poor from land it wants. Shegas must prove the deliberate spread while fighting to save her patients, and exposing the truth may unsettle the city's government.
+The Fever at the Gate
+: In a lean month the crowd at the granary row grows, and a fever begins among those who queue for the dole. The Halzi'a's physicians call it the ordinary autumn sickness. Shegas does not recognize it, and the sick have nothing in common that she can name except the queue. A clerk found shading a tally answers to the Halzi'a's court, and the keepers close the row to anyone who asks questions there. She asks the party to find out what the sick share before it spreads past the gate.
 
-The Merchant's Dying Daughter
-: A powerful merchant from Shegas's own family comes to her in desperation—his daughter is dying of a rare condition that no physician in the city can treat. He offers an enormous sum of money if Shegas can save her. Shegas becomes deeply invested in the case, spending all her time researching and developing new treatments. She eventually saves the daughter's life through a revolutionary technique, and the grateful merchant offers to fund her practice permanently. However, the merchant expects to become Shegas's patron and eventually her "partner," seeking to direct her toward wealthy clients and away from the poor. The offer is security and means in exchange for her principles.
+The Merchant's Daughter
+: A powerful merchant of her own family comes to her in a night's desperation: his daughter is dying of a condition no physician in the city has been able to treat. He offers a sum that would clear her debts. If she cures the girl, he offers to make himself her patron, and a patron who sends only wealthy patients to the shop is the end of the shop the poor use.
 
-The Black Market Ingredient
-: To develop a cure for a deadly disease affecting her poorest patients, Shegas discovers she needs a rare ingredient that can only be obtained from criminal organizations. A black market merchant approaches her, offering the ingredient in exchange for Shegas using her apothecary as a cover for smuggling dangerous compounds. She can use her practice to pass criminal goods in exchange for the means to save lives, or refuse and let her patients die.
+The Ingredient from the River Boats
+: To treat the fever she needs a resin that arrives only on the barges of a river captain who also moves untaxed goods. He will sell it to her for the use of her cellar as a store. She can put the remedy in the hands of her patients and her shop under the guard commander's suspicion, or she can let them go without.
 
-The Rival Healer's Challenge
-: A traveling healer of extraordinary skill named [Dominik Silvanus]{.name data-type="being/npc"} arrives in the city and begins establishing a healing practice that is even more generous and effective than Shegas's own. Patients flock to him, and Shegas finds herself becoming jealous and competitive—a feeling that shocks her and contradicts her self-image. As she investigates Dominik, she discovers that his practice is being secretly funded by a criminal organization seeking to build loyalty among the poor for purposes of recruitment and control. Exposing the truth means confronting her own capacity for envy.
+The Debt and the License
+: The lenders she borrowed from have given her until the next render. The commander of the city guard has begun to say that her practice needs a license that the law does not require, and the rival apothecary of the upper streets has a seat on the merchant council. Each pressure has a different author, and she is not certain they are not the same one.
 
-The Forbidden Knowledge
-: An old scholar approaches Shegas with ancient texts describing healing techniques far beyond what any physician knows—techniques that might cure cancer, extend life indefinitely, or prevent aging. The texts also suggest these techniques require unethical practices: cutting organs from the poor to give to others, conducting dangerous experiments on prisoners, or other violations of the body. The scholar is willing to teach Shegas these techniques if she will help him procure test subjects. The choice is between her principles and her capacity to heal, and behind it lies what she believes healing means and which boundaries cannot be crossed whatever good might result.
+:::secret {title="What the referee knows"}
+The fever is rot-sickness from the grain of the domes next to the Eleventh Granary, which spoils first and is doled out last. The Overseer of the Granaries knows and mixes the spoiled stock into the dole in lean years, because the alternative is to open a granary on the Halzi'a's word.
+
+The lenders, the guard commander and the rival apothecary are connected through one man, a grain-factor who needs the lower quarters quiet. The resin Shegas needs is the remedy: it is in her old master Meshaqa's recipes, which Shegas has not read in years.
+:::

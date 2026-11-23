@@ -3,6 +3,7 @@ shortcode: lersaissaaqt
 name: {full: Lersais Sa'Akutu}
 type: being
 subType: npc
+description: "The Halzi'a of the selat of Gar-Qeztu, a retired general of the imperial army and head of the Sa'Akutu family, who governs the town of the officer schools and the chariot-corps' drill-grounds as a hereditary military governor."
 tags: [heroes-and-knaves, administration]
 data:
   banner: khelathubnr
@@ -480,7 +481,7 @@ sohl:
 
 ![[lersaissaaqt|Lersais Sa'Akutu]]{float=top-left}
 
-Lersais stands 6'2" tall with a heavy build. He has olive weathered skin, black hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a pointed chin, well-shaped lips, elegantly curved brows, and angular cheeks.
+Lersais is a big, heavy-framed man of 6'2" with weathered olive skin, black hair and dark amber eyes under arched brows. His cheekbones are high, his nose straight and narrow and his chin pointed, and he holds his face still enough that other men fill the silence for him. In the drill-grounds he wears a plain soldier's kilt and breastplate and carries nothing he does not use. At court he wears the gold pectoral collar of his rank and a gold-headed mace, and the ceremonial bronze-and-gold khopesh hangs at his side on formal days. A large chest of documents and seals goes with him, with a leather case of campaign maps, a folded battle standard and a reinforced quiver.
 
 # Dossier {#dossier}
 
@@ -586,17 +587,20 @@ The Imperial Military
 
 ## Plot Hooks
 
-[[affiliation-zabquzu|The Zab'kuzu]]
-: The Gar-Au issues an order that Lersais knows is militarily unwise and potentially disastrous for the Empire's military security. The order comes directly from the throne and cannot be questioned without appearing to challenge divine authority. Lersais can obey an order he knows to be wrong and find some way to mitigate its worst consequences, or openly question the Gar-Au's judgment—an action that would likely cost him his position and possibly his life. The complication: the order may have been issued based on bad intelligence provided by Lersais's rival, Zemelu Qeltiri.
+The Letters to the Graduates
+: Every year the schools turn out young officers, and every year their families write from court. The Halzi'a sees which letters the graduates receive, and this year the letters come from the faction of the Gar-Au's nephew Anlaghur, who promises campaigns and commands. Lersais can let the graduates take their posts without saying whose they are, or read the letters aloud on the drill-ground and name the author.
 
-The Worthy Opponent
-: A military commander from a neighboring realm arrives under a flag of truce with an unusual proposal: a treaty that would bind the two empires in mutual defense against a common enemy. The proposal is militarily sound and could strengthen the Empire, but it requires Lersais to admit that the neighboring realm—which he has always viewed as a potential enemy—is actually necessary for regional security. And this commander has previously defeated Lersais in a single combat duel, and though they fought honorably, Lersais has never forgotten the experience. He can support a treaty on its military merit alone, or let his pride and his conviction that the neighboring realm is a long-term threat prevent the alliance.
+The Order to Trim the Chariots
+: A directive from the throne cuts the corps' rolls and sends the fodder money to hire Okharik horsemen, whom the officers of his own schools already prefer to chariots. Lersais thinks the order unwise and cannot say so without appearing to question the throne. He can obey and train the schools to the new way, delay in the name of the flood and the short fodder, or trim the schools' rolls before the corps'.
 
-The Succession
-: The Gar-Au is in her twelfth year on the throne, and with the flood failing the court asks who follows her. Lersais discovers that factions of the bureaucracy and the priesthood are lining up behind her nephew, Iru'palu Anlaghur, who is cultivating military support through promises of more aggressive expansionist policies. Lersais can back Iru'palu Anlaghur despite his ambitious nature, work to check his rise, or find some other solution—all while aware that his decision will shape the Empire for decades to come.
+The Breached Bank
+: A canal bank breaks in the flood season and strands the stores at Yath-Qeztu for a month, and the quartermasters say the corps cannot wait for the repair. Lersais can order the cadets onto the bank and lose a season's drill, or let the stores wait and the chariot-works starve of timber and axle-iron.
 
-The Betrayal Within
-: Lersais's most trusted lieutenant—a man he has trained, promoted, and mentored—is discovered to be working with enemies of the Empire, providing military intelligence in exchange for payment. The betrayal is devastating both personally and militarily. Lersais must determine the full extent of the compromise, whether other members of his household staff are also compromised, and how to rebuild the military's security without admitting publicly that his inner circle was infiltrated.
+The Lieutenant's Letters
+: His most trusted lieutenant, a man he trained and promoted, is found to be passing the corps' rolls to someone who pays for them. Lersais must learn how much has gone and to whom before the matter reaches the Gar-Au, who will take the failure as his.
 
-The Moral Collapse
-: A soldier, acting without authorization but in response to a situation of real moral horror, performs an action that saves lives but violates military regulation and chain of command in fundamental ways. Lersais can punish the breach of regulation with the absolute severity that his code demands, or acknowledge that sometimes the regulations themselves fail moral scrutiny—an acknowledgment that threatens the entire foundation of his worldview.
+:::secret {title="What the referee knows"}
+The lieutenant is passing the rolls to an Okharik chief who is hiring out horsemen, and he does it because he believes the chariots are finished and that Lersais cannot say so. He is right about the chariots.
+
+Lersais's wife Mesheget has already made terms with Anlaghur's faction. The fodder shortage is partly her family's work: her grain-factors sell to the horse-dealers who supply the Okharik, and Lersais has not asked.
+:::

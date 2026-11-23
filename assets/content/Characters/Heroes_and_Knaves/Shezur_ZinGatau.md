@@ -3,6 +3,7 @@ shortcode: shezurzingat
 name: {full: Shezur Zin'Gatau, given: Shezur, clan: Zin'Gatau}
 type: being
 subType: character
+description: "A master armorer and weaponsmith of the Imperial forge in the merchant quarter, third son of a metalworking family, whose blades equip the imperial guard and the mercenary companies that route through Au'Khelathu."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   banner: khelathubnr
@@ -451,7 +452,7 @@ sohl:
 
 ![[shezurzingat|Shezur Zin'Gatau]]{float=top-left}
 
-Shezur stands 6'3" tall with a heavy build. He has warm brown skin, very dark brown hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a tapered chin, generous lips, warm brows, and prominent cheeks. He has a tattoo of a serpent on his back.
+Shezur is a big man, 6'3" and heavy in the shoulder and chest, with warm brown skin, very dark brown hair and amber eyes that go still when he is judging a weld. His mouth is full and rarely moves. A serpent is tattooed across his back, which the heat of the forge shows more often than the street does. He wears a leather apron and a tool belt over a bare working tunic, and his forearms carry the old burn-scars of thirty years at the fire. He keeps hammer, tongs, chisel and an anvil stand in the forge and a stock of iron and steel ingots against the back wall.
 
 # Dossier {#dossier}
 
@@ -544,17 +545,20 @@ Priest [[being-aqenmose2|Aqenmose]]
 
 ## Plot Hooks
 
-The Cursed Blade
-: A young soldier commissions Shezur to forge a weapon to replace one lost in a skirmish, but claims the original blade "whispered to him" in dreams and guided his sword arm. Shezur, initially dismissing this as fancy, begins experiencing disturbing visions while working the metal—images of a battlefield under an unnatural mist. Investigation reveals the original weapon was forged decades ago by a metalworker now long dead, a practitioner of forbidden blood-alchemy who bound a djinn's fragment into the steel. The new blade Shezur creates risks inheriting the curse unless he can discover and perform a purification ritual. [Thaharqo's Library]{.name data-type="lore"}, his old master's sealed collection, contains references to such magic—but Thaharqo's descendants have closed it to all outsiders.
+The Whispering Blade
+: A young soldier asks Shezur for a replacement for the sword he lost in a skirmish, and says the old blade whispered to him in dreams and guided his arm. Working the new steel, Shezur has begun to see the same battlefield in his sleep. The old blade was forged by a smith whose name the guild struck from its roll, and the soldier's company will not say who sold it to him.
 
-The Pretender Apprentice
-: An ambitious young craftsperson calling herself [[being-meshlen|Meshlen]] the Talented appears in the city, claiming to have trained under Shezur himself and establishing a competing forge. She produces decent work at significantly lower prices, undercutting his contracts. Shezur knows he never trained anyone by that name, but his denial is dismissed as a rival's jealousy. When the militia discovers that several weapons from Meshlen's forge have catastrophic flaws—blades breaking mid-combat, armor plates separating—Shezur is implicated for sabotage. The truth is far more complex: Meshlen learned her craft from Deacon Khelamose, a former apprentice of Shezur's who was dismissed for theft and has been slowly poisoning her raw materials to trigger failures. Shezur must prove his innocence and prevent more deaths while confronting a ghost from his past.
+The Arsenal in Secret
+: A cloaked figure pays in rare coin and exotic metals for an arsenal to be delivered in secret to a place Shezur is told not to know. The Halzi'a of Anlagh-Zetun controls the bread and opens the granaries on his word alone, and factions court him for the succession. Shezur has never made a weapon for anyone but a lawful buyer, and the fee is more than the imperial guard spends in a year.
 
-The Dragon-Steel Commission
-: An aged merchant prince approaches Shezur with an unprecedented request: forge armor from the scales of a dragon, obtained at ruinous expense. The scales are harder than any known metal, and the merchant will pay enough gold to set Shezur's family for generations. However, the scales are warm to the touch and seem almost alive, resisting the hammer and occasionally glowing faintly during the night. A mysterious scholar who witnesses Shezur's work mentions in passing that dragon scales retain the echo of the creature's essence and that working with them without proper blessing could invite the dead wyrm's wrath. Shezur must weigh the honor of his craft, the need for a divine blessing, and whether some commissions are too dangerous to accept, even for a life-changing reward.
+The Pretender at the Next Forge
+: A young smith opens a forge in the lower town, calls herself [[being-meshlen|Meshlen]] the Talented, says she trained under Shezur and sells at half his price. He has never taken a pupil by that name. When the militia discovers that several of her blades are failing in the field, the complaints reach him first.
 
-The Thief's Gold
-: A heavily cloaked figure delivers a fortune in rare coins and exotic metals, commissioning an arsenal of weapons delivered in absolute secrecy to a location Shezur is forbidden to know. Every instinct screams that this work is intended for rebellion or darker purposes, violating his moral code of supplying only legitimate military forces. Yet the payment is more than the Imperial Guard spends in a year, and refusing could invite dangerous enemies. As Shezur works, soldiers and spies begin asking questions about his recent acquisitions. He can accept this doubtful work, risk his reputation by refusing, or attempt to uncover who is truly behind the commission before blood is spilled.
+The Heir to the Forge
+: The metalworkers' guild asks him to name his successor. His most promising apprentice has been learning the decorating arts at Master Khelamose's workshop, in secret. Shezur sees it as a betrayal of everything the forge stands for, and the guild sets a date that does not wait for him to forgive it.
 
-The Master's Succession
-: As Shezur ages, the Imperial Metalworkers' Guild approaches him to formally designate an heir to his techniques and legacy. However, young [Djehuti]{.name data-type="being/npc"}, his most promising apprentice, recently revealed a dark secret: he has been secretly studying with **Master Khelamose's workshop** to learn decorative techniques. Shezur sees this as betrayal of everything he stands for. Simultaneously, the military has begun inquiring whether Shezur would consider training military smiths officially, a position offering security but demanding he leave his independent forge. Caught between the desire to preserve his legacy and the need to keep it pure, The question is which he values more: his reputation, or those who will carry his craft forward.
+:::secret {title="What the referee knows"}
+The cloaked buyer is a steward of the faction that wants Anlaghur, the Gar-Au's nephew, on the throne, and the coin is minted from the same ingots as the imperial treasury's gift-coinage. The arsenal is meant to hold the granary row on the day the Halzi'a is asked to open a dome.
+
+Khelamose's workshop is the one that sold the whispering blade to the soldier. It is cast from a smith's discarded work, and the dreams are what the maker's grief left in it.
+:::

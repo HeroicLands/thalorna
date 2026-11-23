@@ -3,6 +3,7 @@ shortcode: rethutrthllr
 name: {full: Rethute Reth'el'Leru, given: Rethute, clan: Reth'el'Leru}
 type: being
 subType: character
+description: "An innkeeper of Galezkara, born to a household cook, who built a dockside inn into one of the city's best tables over three decades and now keeps its private rooms for guests who value discretion."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   banner: khelathubnr
@@ -468,7 +469,7 @@ sohl:
 
 ![[rethutrthllr|Rethute Reth'el'Leru]]{float=top-left}
 
-Rethute stands 5'7" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, generous lips, dark brows, and angular cheeks.
+Rethute is a tall woman, 5'7", with dark skin, long black hair and dark brown eyes under straight dark brows. Her cheekbones are high, her nose straight and narrow and her mouth generous, and her laugh reaches the back of the common room before she does. She wears a clean apron over a plain linen dress, keeps a leather ledger tucked under one arm, and carries a whetstone in her pocket for the kitchen knives. Sample bottles of her ales line the shelf behind the bar, and the spice pouches at her belt change with the week's menu.
 
 # Dossier {#dossier}
 
@@ -557,10 +558,10 @@ Various Adventuring Companies
 
 ### Enemies
 
-[Vex the Competitor]{.name data-type="being/npc"}
+A Rival Innkeeper
 : The proprietor of a rival establishment who views Rethute's success with jealousy and has begun spreading rumors about food quality and sanitation at the Reenfré. The conflict is more trade rivalry than true enmity, but it is real enough.
 
-City Magistrate [Tomás]{.name data-type="being/npc"}
+A City Magistrate
 : An official who attempted to impose onerous new regulations on innkeepers, which Rethute organized opposition against. He views her advocacy as insubordination and has looked for ways to harass or fine her establishment.
 
 [[affiliation-lingeznglzkr|Lin'Gezan elu Galezkara]]
@@ -579,17 +580,20 @@ The Harbor Community
 
 ## Plot Hooks
 
-The Mysterious Inheritance
-: A wealthy patron whom Rethute knew casually decades ago arrives at her inn and announces that she has been named in his will as the inheritor of a substantial estate and fortune. The catch: the estate is located far from the city, in a region she has never visited, and accepting it would require her to leave the Reenfré for an extended period or permanently. The patron's family also contests the will, suggesting that Rethute somehow manipulated him. The party becomes involved in traveling to the estate to investigate the situation, potentially defending Rethute's character while discovering what the deceased patron's true intentions were.
+The Quiet Room
+: A group of well-dressed men begins renting her private room for a night every month and pays in advance. They discuss matters in a low voice and tip the servers well to stay out. Rethute has heard enough to know they are fences, moving grave-goods and amulets through the Great Quay, and the Meglai have asked her to report on anything she hears. If she does, the room is empty and the inn's reputation for discretion is gone; if she does not, she is party to it.
 
-The Missing Supplier Crisis
-: Several of Rethute's key suppliers—a grain merchant, a fisherman, a vintner—suddenly disappear or become unavailable, causing her ability to maintain the Reenfré's quality and reputation to suffer. Investigation suggests they have been pressured or threatened to cease dealing with the Reenfré as part of a coordinated effort to undermine her business. The party is hired to discover who is orchestrating this campaign and to either convince the suppliers to return or find replacements that meet Rethute's standards.
+The Suppliers Who Vanish
+: Her grain merchant, her fisherman and her vintner stop coming, one after another, with apologies she does not believe. She suspects Lin'Gezan, whose protection fee she has refused for years, but the dock-gang is careful to be nowhere near what has happened. The party can find out who is leaning on the suppliers, or find her new ones before the pressure reaches them.
 
-The Trouble the Reenfré Brings
-: A dangerous criminal organization uses the Reenfré as a neutral meeting ground for negotiations, assuming Rethute's reputation for discretion means she will not interfere with their business. When the party discovers this, they pressure Rethute to deny the criminals access or to inform the authorities about their meetings. Rethute is torn between her loyalty to her inn's openness and her moral obligation to prevent crime, and she involves the party in a delicate situation where she must balance community values with justice.
+The Spiced Wine
+: A visitor says one of the inn's best-known dishes, a spiced wine, is based on a recipe taken from a noble house generations ago, and that the house now claims it and a payment. The family's papers are good, her mother's recipe was spoken and never written, and the quarter's Genzet needs a witness who remembers the kitchen of the house where her mother cooked.
 
-The Recipe Worth Killing For
-: A mysterious visitor approaches Rethute with an extraordinary claim: one of her signature dishes—a particular seafood preparation or spiced wine blend—is actually based on a recipe stolen centuries ago from a noble house, and that house's descendants are now demanding she surrender the recipe and compensation. Alternatively, the recipe is based on ingredients or knowledge that are forbidden by religious or legal authorities, and the mysterious visitor is a representative of that authority. Rethute weighs whether the recipe is worth legal trouble, and the party becomes involved in either defending her right to use the recipe or discovering whether there is actual foundation to the claim.
+The Offer for the Inn
+: A house of the Zebeku'Zut offers to buy the inn at a price that would let her retire in comfort. The house would keep the name and change everything else. A young cook of her staff, who would otherwise take over the kitchen, has begun to look for work elsewhere.
 
-The Legacy Moment
-: After decades of running the Reenfré, Rethute is presented with an opportunity to sell her establishment to a larger hospitality organization that would offer her substantial wealth and retirement but would fundamentally change the character of her inn. Simultaneously, a promising staff member expresses interest in taking over the business and continuing it according to Rethute's values, but lacks the capital to buy it. The party becomes involved in helping Rethute through what amounts to a decision about her legacy and the future of a beloved community institution.
+:::secret {title="What the referee knows"}
+The men in the private room are not simply fences. They are the agents of the same Zebeku'Zut house that offers to buy the inn, which needs a neutral room with a clean name to meet its partners at the Great Quay. The buyer wants the inn for its reputation for discretion.
+
+In her youth Rethute carried a ledger for a tomb-robbing ring, and the one person who can prove it is the man who asks to rent the room. Her claims about her past are partly true, and he knows which part.
+:::

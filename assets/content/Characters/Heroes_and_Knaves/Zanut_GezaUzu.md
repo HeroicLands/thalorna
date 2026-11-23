@@ -3,6 +3,7 @@ shortcode: zanutgezauzu
 name: {full: Zanut Geza'Uzu}
 type: being
 subType: character
+description: "An alchemist and herbalist of the river country of Au'Khelathu, born to a family of garden-terrace cultivators, who treats individual patients with her own remedies and has refused every offer to enlarge her trade."
 tags: [heroes-and-knaves, guilded, mages]
 data:
   banner: khelathubnr
@@ -463,7 +464,7 @@ sohl:
 
 ![[zanutgezauzu|Zanut Geza'Uzu]]{float=top-left}
 
-Zanut stands 5'3" tall with a light build. She has golden brown skin, dark hair, and hazel eyes. Her features include a high-cheekboned face, a straight narrow nose, a narrow chin, full lips, golden brows, and high cheeks. She has a scar on her left ear.
+Zanut is a small woman, 5'3" and light, with golden-brown skin, dark brown hair to her shoulders and hazel eyes. Her cheekbones are high and her mouth full, and a ridged scar runs along the edge of her left ear, which she wears bare. She dresses in a smock the color of dried leaves under a cloth apron with pockets sewn for bottles. A wicker basket of fresh herbs is always on her arm, and a satchel holds her tinctures, glass bottles of several sizes, a mortar, a pestle and scales, and a roll of herbal notes in her own hand.
 
 # Dossier {#dossier}
 
@@ -550,7 +551,7 @@ Noblewoman [Qiya]{.name data-type="being/npc"} of [Gar-Theqeru]{.name data-type=
 
 ### Enemies
 
-Church Inquisitor [[being-zinlegirgara|Zinlegir]] the Censorious
+Temple Inquisitor [[being-zinlegirgara|Zinlegir]] the Censorious
 : A zealous religious official who views Zanut's independent practice and her use of certain botanicals as potentially heretical. He has begun investigating her work, questioning whether she employs forbidden magical techniques, and warning others away from her services. His scrutiny is partially motivated by religious concern, but also by his general hostility toward women working independently outside male supervision.
 
 The Merchant Alchemist [[being-geron|Geron]]
@@ -569,17 +570,20 @@ A Manipulative Former Patient
 
 ## Plot Hooks
 
-The Poisoning Accusation
-: A prominent figure dies under mysterious circumstances after seeking treatment from Zanut. Though the death was not caused by her remedies—indeed, her potions were the only thing temporarily alleviating the victim's suffering—Inquisitor Zinlegir seizes the opportunity to formally accuse her of poisoning. She must gather evidence of her innocence while discovering the true cause of death, all while her reputation is systematically destroyed and patients cease coming to her out of fear.
+The Man Who Died in the Street
+: A man dies in the street after taking her remedy, and a temple inquisitor named Zinlegir seizes the death to charge her with poisoning. The remedy was easing his pain; the cause of death was something else. She asks the party to learn what he ate and drank in the night before and to find the bottle that left her mark on it.
 
-The Brother's Resurrection Possibility
-: A scholar arrives claiming to represent an organization that has developed a ritual that might allow temporary resurrection of the recently dead—a procedure that would allow Zanut to speak with Khelor one final time. The cost is extraordinary, and the scholar's claims are suspiciously convenient to Zanut's deepest emotional desire. She can pursue an impossible hope or recognize it as a fraud designed to exploit her grief.
+The Fever on the River Road
+: Travelers on the river road bring a fever she has not seen into a village whose healer, Letheshu, sends the worst cases to her. The village headman wants it kept quiet until the harvest render is counted. Naming the sickness puts the render off and the village in quarantine; keeping silent lets it spread.
 
-The Plague That Defies All Remedies
-: A disease of mysterious origin begins spreading through the region, and despite her best efforts, Zanut's remedies prove ineffective against it. She must either develop entirely new treatments while the disease spreads, potentially requiring collaboration with those she distrusts, or admit that her knowledge, for all its depth, has limits. The pressure of watching people die despite her efforts brings on a crisis of faith in her own purpose.
+The Request for a Sleeping Death
+: Qiya, who pays well and asks few questions, now asks for a draught that gives the appearance of death while the sleeper lives. She does not say who is to sleep. She holds a letter that would end Zanut's practice, and she names a date.
 
-The Apprentice She Cannot Refuse
-: A young person with a real healing gift and desperate circumstances seeks apprenticeship with Zanut. Taking an apprentice would expand her capacity and potentially preserve her knowledge, but it would also force her to emotionally engage with another person in ways she has avoided since Khelor's death. The young person may also harbor dangerous secrets or abilities that attract unwanted attention.
+The Girl Who Hears the Count
+: A girl who went to Anlagh-Zetun with her village for the Bread for the Gate comes back unable to sleep and says she hears grain being poured in the night. Zanut's remedies do nothing, and the girl's mother has begun to say that Zanut's tinctures are the cause. The only place the sound stops is far from the sealed dome where the girl first heard it.
 
-The Merchant Noble's Dark Request
-: Noblewoman Qiya reveals her true purpose: she wishes Zanut to create a remedy that produces the appearance of death while maintaining life—useful for faking someone's demise for political purposes. The request is explicit blackmail; Qiya controls information that could destroy Zanut, and demands she comply. Zanut can create something that violates her ethics, refuse and risk exposure, or find a third path that defeats both Qiya's plan and the blackmail, which would likely require dangerous allies and hard choices.
+:::secret {title="What the referee knows"}
+Geron sells bulk remedies under a copy of Zanut's mark, and the poison that killed the man was in his tincture, not hers. Zinlegir has been paid by a grain-factor who buys from Geron.
+
+Qiya wants the sleeping death for her own husband, who would otherwise be sent to the Halzi'a's court for a debt on the sealed granaries. She does not know Zanut once made a draught like it, for the former patient who used her remedies as a murder weapon.
+:::
