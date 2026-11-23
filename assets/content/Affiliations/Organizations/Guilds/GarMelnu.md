@@ -44,6 +44,7 @@ data:
     offices:
       First Smith of the Gar-Au: >-
         Ilmy-Qelt Melnu—chair of the Council of Smiths, presently Khelafra Zebenmeryu, who coordinates the guild's central affairs and its bargaining with the Gar-Au's court.
+  range: [aukhelathrgq]
   seat: null
   population: {actual: null}
   economy: [affiliation-tevran]
@@ -131,6 +132,10 @@ A guild master's seal is a brass die carrying his personal mark and the cartouch
 - The temples of [[affiliation-psaqaru|Faith of Saq'aru]] and [[affiliation-gewaatis|Faith of Gewa'atis]] are the guild's religious foundation, and senior elevations are conducted in temple rite.
 - [[affiliation-garnul|Gar'Nul]], the hunters' guild, and the other Khelathi trade guilds are peers. Relations are cordial and governed by the inter-guild conventions agreed at the imperial guildhall.
 - Foreign traditions. The guild regards the Vilérian armory tradition with professional respect, the [[lore-khazrynclt|Khazrin]] smithing schools with cautious interest and the [[place-nrdlndsrgn|Nordlands traditions]] with curiosity. A foreign smith working in Au'Khelathu must obtain the guild's permission to seal work, and permission is rarely granted.
+
+## The Present Quarrel {#present}
+
+The Council of Smiths is divided over [[affiliation-lethunu2|the Lethunu]], younger Great Smiths and senior Masters pressing to have apprentices trained faster, recruits taken from outside the smithing families and the books kept in the modern way. The First Smith, [[being-khelfrzbnmry|Khelafra Zebenmeryu]], works against them without declaring it, and the vote on their petition is close. A second grievance runs alongside: the quartermasters' contract gives [[being-shezurzingat|Shezur Zin'Gatau]] first pick of the metal in the imperial stores, and some councillors name that a breach of the equality between masters.
 
 ## Plot Hooks
 

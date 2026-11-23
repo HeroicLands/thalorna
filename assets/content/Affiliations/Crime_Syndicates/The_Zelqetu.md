@@ -22,6 +22,7 @@ data:
         description: >-
           Holds the desert around the sealed temples against trespassers.
     offices: {}
+  range: [aukhelathrgq]
 ---
 
 ## Overview

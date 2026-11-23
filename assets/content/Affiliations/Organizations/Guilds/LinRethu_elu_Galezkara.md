@@ -25,6 +25,7 @@ data:
         description: >-
           A scholar, merchant or teacher who meets with the circle and judges what its funding goes to.
     offices: {}
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The circle's quarrel is with the temple schools, which dismiss the work it funds
 ## Commerce and Currency
 
 Say a young scholar with a theory of the river's silt has been turned away from the schools of [[affiliation-rethsaar|Reth'Sa'ar]]. She brings her case to the circle. A merchant who has watched his barges ground in the delta offers a stipend for a season's study, a teacher offers a room, and a lecture is announced. The stipend is paid in silver, as wages are.
+
+## The Present Quarrel {#present}
+
+The temple schools dismiss the work the circle pays for, and the circle neither courts their approval nor sets itself against them. Its scholars depend on merchant members willing to fund a season's study, and each proposal stands or falls on a judgment made over dinner, which also tells a scholar plainly when the schools were right to refuse.
 
 ## See Also {#see-also}
 

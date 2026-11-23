@@ -30,6 +30,7 @@ data:
         Takes the beasts off the carrier's hands.
       Official Who Looks Elsewhere: >-
         Holds the office that should stop the trade, and does not.
+  range: [aukhelathrgq]
 ---
 
 ## Overview

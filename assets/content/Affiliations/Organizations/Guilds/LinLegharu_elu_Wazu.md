@@ -25,6 +25,7 @@ data:
         description: >-
           Practices without a great house's patronage, and keeps faith with the alliance after winning one.
     offices: {}
+  range: [wazulet]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The alliance's quarrel is with the great houses, which prefer to deal with their
 ## Commerce and Currency
 
 Say a house needs a compound prepared at short notice and its own alchemist is away. The steward sends to the Wazulet for a patronless alchemist, takes the work, and pays. The house would never admit the arrangement, but the alchemist's standing grows with every commission that shows up in the house's accounts. When a house withholds a commission, the alliance is what steadies the member who lost it.
+
+## The Present Quarrel {#present}
+
+The great houses keep their commissions for the alchemists they retain, and each refusal they hand an independent brings the alliance a new recruit. Members who win a house's favor are held to their pledge, since that favor can end with the season and drop them back among the patronless with no standing at all.
 
 ## See Also {#see-also}
 

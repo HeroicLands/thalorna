@@ -31,6 +31,7 @@ data:
     offices:
       Standards Committee: >-
         Sits on the committee that sets the quality the guild's work must meet.
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -59,6 +60,10 @@ The guild's quiet relations are with its customers. They link the trade's funera
 ## Commerce and Currency
 
 Say a family orders a toy for a child's naming-day, and a different family, in the same week, orders a funerary figure for a grandfather's tomb. The shop makes both at the same bench with the same tools, and charges for the second what a tomb-servant costs. The toy goes out the front door, wrapped, and the figure goes out the back.
+
+## The Present Quarrel {#present}
+
+Families buying toys for their children want nothing to do with the tomb-figures carved at the same bench, and the guild's name carries that funerary taint wherever it goes. The guild cannot set the work aside, because no apprentice becomes a full maker without a funerary figure that the Standards Committee passes, and its shops hide the high shelf and send the tomb-servants out the back.
 
 ## See Also {#see-also}
 

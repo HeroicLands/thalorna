@@ -59,6 +59,7 @@ data:
       Master-at-Arms: Keeper of the company's discipline and of its weapons.
       Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides the purser.
       Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
+  range: [sthmrchsrgn]
   seat: null
   population: {actual: null}
   economy: []

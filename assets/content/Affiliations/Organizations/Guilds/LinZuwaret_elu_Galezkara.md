@@ -25,6 +25,7 @@ data:
         description: >-
           Trades independently and stands with the circle against the larger houses.
     offices: {}
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The circle's opponent is the larger commercial houses, the party it coordinates 
 ## Commerce and Currency
 
 Say a house in the **[[place-amqelger|Amqel-Ger]]** (the Great Quay) begins selling cloth below the independents' cost. Litaris hears of it at the circle's evening meeting, and by the next morning three members have shifted their stock to markets where the house is not present and a fourth has agreed to buy at her price. The house's discount reaches nobody it was meant to ruin.
+
+## The Present Quarrel {#present}
+
+Larger commercial houses undercut or try to absorb the circle's members, and the circle answers together, holding a price in one market, finding a buyer in another and lending between friends. The houses are daily trading partners all the same, and the contest with them is over who sets the price; an independent who stays outside bargains alone against houses that can ride out a bad season.
 
 ## See Also {#see-also}
 

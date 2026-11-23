@@ -24,6 +24,7 @@ data:
     offices:
       Leader of the Band: >-
         Leads the raids and swears the band's blood-grudges.
+  range: [aukhelathrgq]
 ---
 
 ## Overview

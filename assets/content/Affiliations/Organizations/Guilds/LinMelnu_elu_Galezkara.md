@@ -29,6 +29,7 @@ data:
         description: >-
           One of the masters the city's smiths answer to, rather than to the imperial guild.
     offices: {}
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -57,6 +58,10 @@ The guild stands beside the imperial body without answering to it. [[affiliation
 ## Commerce and Currency
 
 The guild's trade is the ordinary smithing of the capital. Say a builder needs two hundred door-fittings for a mudbrick row. He orders them from a master, who sets the price and divides the work among the shop's smiths, and the fittings come from the forge without a stamp. Tools, fittings and ironwork for building are the guild's commerce, and certified masterwork is the imperial guild's.
+
+## The Present Quarrel {#present}
+
+The city's blacksmiths answer to their own masters and to the magistrates, and the imperial metalworkers' guild has no say over them though it works the same trade. The shop on the [[place-lutlemu|Lut-Lemu]] side gives standing to smiths who have fallen out with the imperial guild, and the city's masters take pride in owing that guild nothing.
 
 ## See Also {#see-also}
 

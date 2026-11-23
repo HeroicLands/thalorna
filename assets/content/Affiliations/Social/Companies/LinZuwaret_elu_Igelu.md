@@ -25,6 +25,7 @@ data:
         description: >-
           Handles the goods landed from the barges at Wal-Igelu.
     offices: {}
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -45,6 +46,10 @@ On the quay at [[place-waligelu|Wal-Igelu]], a dock trader hands a shipper a cup
 What is landed at the dock is priced at the dock, and the markets inherit the figure.
 
 A shipper who wants a fair price deals with the consortium directly, before the cargo is unloaded, and has the terms entered while the barge is still at the quay. The alternative is to let the price be set by whoever happens to be standing on the dock when the barge ties up.
+
+## The Present {#present}
+
+The consortium holds the quay as its own ground and quotes a price before a barge has finished tying up, and a shipper who refuses it carries the cargo elsewhere at his own expense. The dock figure travels with the goods into the city's markets, which lets the consortium's traders decide much of what [[place-galezkara|Galezkara]] pays, and a shipper who settles late takes whatever the dock offers.
 
 ## See Also {#see-also}
 

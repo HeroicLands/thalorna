@@ -36,6 +36,7 @@ data:
         Servant of the Account—a senior priest assigned to a chapter-temple's treasury function, working under the local high priest's authority with substantial day-to-day autonomy.
       Ilmy'Qelt Weglat: >-
         Scribe of the Weights—senior priests trained in metallurgy and assay who inspect circulating weight-pieces, audit chapter-temples' attestation practices and investigate counterfeiting, answering only to the Council.
+  range: [aukhelathrgq, bethuargn, okharisrgn]
   seat: null
   population: {actual: null}
   economy: [affiliation-tarmex, affiliation-bthntrdhss, affiliation-crwntrdskhrs]
@@ -153,10 +154,14 @@ The Gar-Hálzi seal shows a stylized falcon, the bird of [[lore-gewaatisdty|Gewa
 
 A chit is written on distinctive papyrus stock whose watermark, held to the light, shows the Gar-Hálzi falcon. It carries the issuing chapter's seal in red wax, the recipient's name (or "to bearer") in formal hieratic, the value spelled out in both silver and gold gezan equivalents, and a registered serial mark.
 
+## The Present Quarrel {#present}
+
+With a second low flood behind it, [[place-aukhelathrgq|Au'Khelathu]] leans hard on the chapter granaries, and the Gar-Au's court wants more grain released to hold market prices down. The priesthood is loath to drain its reserve further, and the Council of the High Priests sits in emergency session over whether to refuse the throne. Away from the granaries, the Ilmy'Qelt Weglat are tracing debased silver pieces that carry the Khelzuret chapter's seal.
+
 ## Plot Hooks
 
 - **The Failed Attestation.** A batch of silver gezan pieces fails an independent assay and proves substantially debased, perhaps 20 percent below the canonical silver content. The pieces bear the legitimate seal of the chapter at Khelzuret. If the seal is genuine, the chapter's attesting smithy has been compromised; if it is forged, the counterfeiters are unprecedentedly sophisticated. The Ilmy'Qelt Weglat are investigating quietly, and either finding will have heavy political consequences.
-- **The Granary Crisis.** The flood has failed badly for the third year running, and the strategic grain reserves are running low. The Gar-Au's court demands faster release into the markets to hold prices down, and the priesthood is reluctant to drain the reserves further. The Council of the High Priests is in emergency session, and its ruling on whether to honor or refuse the demand will reshape religious-state relations for a generation.
+- **The Granary Crisis.** The flood has failed badly for the second year running, and the strategic grain reserves are running low. The Gar-Au's court demands faster release into the markets to hold prices down, and the priesthood is reluctant to drain the reserves further. The Council of the High Priests is in emergency session, and its ruling on whether to honor or refuse the demand will reshape religious-state relations for a generation.
 - **The Stolen Chit.** A chit for 2,000 silver gezan, drawn on the great chapter at Gar-Anlaghet for a Vilérian merchant's deal, has been stolen in transit. The thief is unknown, and any chapter or correspondent will honor the chit when it is presented. The chapter must choose between revoking it, which damages the system's reliability and embarrasses the issuer, and honoring it on first presentation while the investigation continues, which pays a large sum to a thief. The Vilérian merchant who bought the chit demands immediate replacement.
 - **The Correspondent Default.** A major Bethuan trade-house in commercial distress cannot honor its correspondent obligations to its Gar-Hálzi chapter at Galezkara. The chapter's Lem-Halzi must decide whether to extend more credit and hope the house recovers, to call the arrangement and collapse the house and disrupt commerce across **Bethua**, or to negotiate a quiet restructuring that spares both sides' face and deals with the underlying problem.
 - **The Vilérian Probe.** The Imperial _Tarkelos_ (treasury officer) of the Tarmeks Orzan has made discreet inquiries through diplomatic intermediaries about whether the Gar-Hálzi would consider formal correspondent arrangements with the Vilérian system. The proposal is commercially attractive, since it would narrow the changer spread and speed cross-border commerce, and theologically delicate, since it treats the Tarmeks as a peer. The Council is debating, the priesthood is divided, and the Gar-Au's court is watching to see whether it threatens the institutional separation that has served the empire for centuries.

@@ -29,6 +29,7 @@ data:
         description: >-
           The astrologer the company is gathered around, whose reading of the stars binds it.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -57,6 +58,10 @@ The company has one relationship that matters, and it is with the founder. She i
 ## Commerce and Currency
 
 The trade is ordinary, and the house is indistinguishable from any other. Say a merchant comes in with a modest order and leaves with it filled at the usual price. He gets no discount for knowing the founder's name and no premium for a prophecy he has never heard of. A Companion who leaves is not fined, and the one who repeats the reading outside the walls pays in the company's trust instead of its coin.
+
+## The Present Quarrel {#present}
+
+Nothing but loyalty keeps the founder's prophecy inside the house: the company fines no one who leaves, and a companion who repeats the reading abroad forfeits only its trust. Every departure puts at risk the astrologer's good name, the one possession the company defends without compromise.
 
 ## See Also {#see-also}
 

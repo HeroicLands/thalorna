@@ -40,6 +40,7 @@ data:
     offices:
       First Hunter of the Gar-Au: >-
         Ilmy-Qelt Nul—chair of the Council of the Long Spear, presently Germeryt Qeltawes, unifying the guild's specialty divisions and speaking for it to the imperial administration.
+  range: [aukhelathrgq]
   seat: null
   population: {actual: null}
   economy: [affiliation-tevran]
@@ -162,6 +163,10 @@ A member carries a stamped bronze token, the _nul-mudra_, bearing his license nu
 - The temples of [[affiliation-linhur|Faith of Linhur]] and [[affiliation-linkur|Faith of Linkur]] are the religious foundation, and senior elevations are conducted in temple rite.
 
 Foreign hunters stand outside all of this. The guild licenses them case by case and keeps no equivalence with any foreign body.
+
+## The Present Quarrel {#present}
+
+A Meglai noble runs hunts at commercial scale under his hereditary exemption and sells the game below guild prices in the city meat markets. The Council of the Long Spear has to answer him without wrecking the old arrangement by which the Meglai families pay the guild courtesy dues and the guild leaves their hunts unexamined. Along the Zumelesh, [[affiliation-zeghetnelgu|Zeghet'Nelgu]] hunters who pass the end of their charter's water hunt on as plain Meglai nobles, and each border incident goes to negotiation instead of the courts.
 
 ## Plot Hooks
 

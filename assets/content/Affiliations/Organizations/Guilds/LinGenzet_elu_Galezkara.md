@@ -29,6 +29,7 @@ data:
         Examines the candidates who seek admission to the roster.
       Adviser: >-
         An advocate the guild retains to advise it rather than to argue cases.
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -57,6 +58,10 @@ The advocates live between two walls. The imperial courts are where the guild's 
 ## Commerce and Currency
 
 Say you owe a debt and are sued for it. You go to the roster, choose an advocate, and agree a fee. The fee is paid in silver, since an advocate's fee is wages and common commerce, and what you are buying for it is standing: someone whom the guild has examined and will answer for.
+
+## The Present Quarrel {#present}
+
+Clerks who have argued in the market courts, some for years, reach the roster only past an Examiner who gives no hints, and no judge can excuse the license. Litigants may hire outside the roster, but the guild answers only for the advocates it has examined and leaves an outsider's failures to the client.
 
 ## See Also {#see-also}
 

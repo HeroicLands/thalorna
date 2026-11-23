@@ -25,6 +25,7 @@ data:
         description: >-
           A fighter who submits to the guild's terms of hire and is vouched for by it.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The guild's relation is with employers, who hire contract soldiers through the g
 ## Commerce and Currency
 
 Say a caravan-owner needs a dozen guards for the road to the delta. He goes to the guild, names the length of the hire and the pay, and the guild places a dozen members on its terms. The guild's vouching is what the hire is made against: a member's standing and conduct are the guarantee, and the employer pays for it. An employer who hires outside the guild takes a soldier on trust alone, which is exactly the risk the guild's charter exists to remove.
+
+## The Present Quarrel {#present}
+
+Hiring a fighter outside the guild saves its fee and gives up its vouching, leaving the employer to take each soldier on trust alone, and the charter exists to argue against that saving. Within the guild, one broken contract follows a fighter to every later employer and can close off his next hire.
 
 ## See Also {#see-also}
 

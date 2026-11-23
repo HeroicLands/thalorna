@@ -25,6 +25,7 @@ data:
         description: >-
           Pursues the debts the courts have confirmed, in place of the state's own enforcement.
     offices: {}
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The guild's relations are the two ends of a transaction. The courts confirm the 
 ## Commerce and Currency
 
 Say a landlord in the [[place-lutlemu|Lut-Lemu]] quarter is owed rent by a potter, and the Genzet has confirmed the sum. He hands the confirmed record to the guild. A Collector calls at the workshop, states the amount owed and the date, and returns on the date. The potter who pays at the first call pays the sum. The potter who waits pays it again in embarrassment.
+
+## The Present Quarrel {#present}
+
+Debtors blame the Collectors for debts the courts made final, and the resentment grows with every creditor who depends on the guild, because the state keeps no machinery of its own to enforce a judgment. The guild holds its footing by refusing any claim the courts have not confirmed, which turns away creditors whose ledgers carry no judgment.
 
 ## See Also {#see-also}
 

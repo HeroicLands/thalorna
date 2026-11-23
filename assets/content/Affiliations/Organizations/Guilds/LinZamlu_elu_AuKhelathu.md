@@ -29,6 +29,7 @@ data:
         description: >-
           Holds mastery in the guild, and a recommendation from one carries across the whole empire.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -57,6 +58,10 @@ The guild's relation with hiring patrons is brief and routine. A patron checks a
 ## Commerce and Currency
 
 Dues are the price of belonging, and the guild's name serves its members as a credential before an audience or a patron. Say a singer arrives in a new city with no one to speak for her. She names the guild, pays her dues in silver, and is heard. If the patron's steward checks the roll, her name is on it. If she wants the engagement of her life, she asks a Master for a recommendation, and a Master's recommendation carries across the whole empire.
+
+## The Present Quarrel {#present}
+
+Patrons accept the guild's name as a credential, but the guild examines no one and strikes no one off for absence, and the roll proves only that dues were paid. The word that carries real weight is a Master's recommendation, and a performer reaching for a serious engagement has to win one.
 
 ## See Also {#see-also}
 

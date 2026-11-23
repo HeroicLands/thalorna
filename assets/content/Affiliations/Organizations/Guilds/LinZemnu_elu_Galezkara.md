@@ -29,6 +29,7 @@ data:
         description: >-
           Sits on the council that arbitrates disputes and maintains standards across the crafts.
     offices: {}
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -57,6 +58,10 @@ The crafts of [[place-galezkara|Galezkara]] fall under the consortium's authorit
 ## Commerce and Currency
 
 Say a lacquer-worker finishes a cabinet and hopes it will be called master-work. The consortium's council inspects the piece and rules on it. If it passes, the cabinet may be sold as master-work, at a price far above ordinary craft output. If it does not, it is a good cabinet and sells as one. That decision is the whole of its commerce.
+
+## The Present Quarrel {#present}
+
+Public criticism of the consortium's methods gets no answer, only shut doors, and the masters stand together because a master-work ruling multiplies what their pieces fetch. On the council, a craft with no master on the roll has no voice and must ask another craft's master to speak for it.
 
 ## See Also {#see-also}
 

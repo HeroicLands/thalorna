@@ -76,6 +76,10 @@ The Master Draughtsman sets out the work that the cutters and painters follow, a
 
 A man who is cast out loses the village and the trade together, since the trade is the village. He still knows where the tombs are and no longer answers to the brotherhood, and he is watched for the rest of his life.
 
+## The Present Quarrel {#present}
+
+Tomb-robbers working the [[place-khelzuret|Khelzuret]] necropolis want one thing from the village, a craftsman who will sell what he built, and its standing as the most trusted community in the selat depends on none of its men obliging them. Every man cast out of the walls takes the locations with him beyond the brotherhood's discipline, and he lives out his days under watch.
+
 ## See Also {#see-also}
 
 [[place-zelqar|Zel-Qar]]

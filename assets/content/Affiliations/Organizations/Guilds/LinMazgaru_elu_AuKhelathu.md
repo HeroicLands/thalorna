@@ -25,6 +25,7 @@ data:
         description: >-
           Deals in bulk, trading margin for turnover.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The merchants' dealings run with suppliers, and the friction is predictable. Sup
 ## Commerce and Currency
 
 Say a Quantity Merchant orders two hundred bolts of linen from a weaver and learns that thirty are flawed. The merchant wants all two hundred, flaws included, at a lower price, and ships them in the same week. His margin is thin on each bolt and enormous across the lot. The weaver who refuses is not insulted; he is simply replaced by the next on the list.
+
+## The Present Quarrel {#present}
+
+Suppliers with a trade name to protect hold back flawed stock, and the coalition's buyers take each such refusal as an insult to profit. The weaver who will not ship the bad bolts with the good loses the order to the next name on the buyer's list, and some suppliers have given up selling to the coalition at all.
 
 ## See Also {#see-also}
 

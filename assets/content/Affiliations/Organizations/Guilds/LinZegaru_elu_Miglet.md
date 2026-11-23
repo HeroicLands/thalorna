@@ -25,6 +25,7 @@ data:
         description: >-
           A farming household whose harvest goes into the cooperative's pooled shipments.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The factors are the cooperative's rivals, cut out of the sale of its grain. The 
 ## Commerce and Currency
 
 Say forty households bring their harvest to the delta landing after the harvest. The grain is weighed and entered under each household's name, and the whole is loaded as one shipment. A buyer from the capital bargains for the lot with the households' spokesman, and the price is set once, for everyone.
+
+## The Present Quarrel {#present}
+
+The factors cut out of the delta's grain sales are the cooperative's rivals, and their boats wait at the landings for any household that will sell to them alone. Most of the smaller farms have pooled their harvests, and a buyer from the capital faces the households' spokesman over one price for the whole shipment, while a holding that stays outside takes whatever the factor names.
 
 ## See Also {#see-also}
 

@@ -25,6 +25,7 @@ data:
         description: >-
           A musician, player or painter asked into the collective and funded by the temple.
     offices: {}
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The collective has one patron, [[affiliation-lutthubai|Lut-Thuba'i]], which fund
 ## Commerce and Currency
 
 The temple pays for the work in exchange for a share of the acclaim. Say a painter is commissioned to decorate a feast-hall for the flood festival. The temple supplies the pigments, the wall and the wage, and the painter supplies the picture. When the hall fills and the city talks, the credit is divided: the painter's name is spoken, and so is the temple's, and the next commission follows from both.
+
+## The Present Quarrel {#present}
+
+Artists of the collective owe the temple a share of every success, and their work is shaped to a patron whose theme is the god's generosity. Players who are never invited are taken to lack either talent or friends, and the temple's favor decides standing among the capital's performers.
 
 ## See Also {#see-also}
 

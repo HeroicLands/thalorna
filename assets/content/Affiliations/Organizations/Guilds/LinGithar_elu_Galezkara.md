@@ -25,6 +25,7 @@ data:
         description: >-
           A weaver or dyer whose cloth goes into the cooperative's shared consignments.
     offices: {}
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The cooperative's dependence is on the caravan carriers, who move the cloth to d
 ## Commerce and Currency
 
 Cloth is pooled before it is sold. Say a dozen weavers and dyers bring their bolts to the cooperative's store: some ochre, some indigo, some undyed. The bolts go into one consignment, and the cooperative votes on which carrier will take it upriver. The carrier is paid on arrival, and the sale at the far end is made on the strength of the whole consignment.
+
+## The Present Quarrel {#present}
+
+The weavers' only hold on the carriers who take their pooled cloth upriver is the vote on the next contract, with the public praise or naming that goes with it. That pressure cuts both ways, since the cooperative has no road to the markets beyond the city except the carriers it keeps choosing between.
 
 ## See Also {#see-also}
 

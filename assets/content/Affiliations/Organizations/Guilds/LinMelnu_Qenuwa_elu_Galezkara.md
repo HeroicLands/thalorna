@@ -25,6 +25,7 @@ data:
         description: >-
           Supplies gilded fittings and funerary gold, admitted on work judged fit for temple and tomb.
     offices: {}
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The consortium works for two kinds of customer, and both inspect. The temples an
 ## Commerce and Currency
 
 Say a temple orders a gilded fitting for a procession. The smith delivers it, a priest inspects it, and the consortium waits for his report. If the work passes, the smith is paid and the commission is entered in the consortium's roll as another reason to admit him. If it fails, the smith is paid less, if at all, and a review follows.
+
+## The Present Quarrel {#present}
+
+Every piece answers to two inspections: the priest's, from which there is no appeal, and the consortium's review, which follows any failure. A smith whose fitting fails is paid less or nothing, while only a commission that passes goes on the roll as a reason to admit him.
 
 ## See Also {#see-also}
 

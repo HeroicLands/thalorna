@@ -26,6 +26,7 @@ data:
         description: >-
           Belongs to a trading house participating in the alliance's mutual protection, shared intelligence and collective negotiation.
     offices: {}
+  range: [amqelger, garanlaghet]
   seat: null
   population: {actual: null}
   economy: []
@@ -44,6 +45,10 @@ sohl: {system: {commonSkills: []}}
 A treasurer of the [[affiliation-garhalzi|Gar-Hálzi]] at [[place-amqelger|Amqel-Ger]], asked how a newcomer finds the alliance, answers with a shrug: "You do not find it. You find a house, and the house has dined with other houses."
 
 The alliance does its business where nobody keeps minutes: at banquets, on private estates and along the docks of the delta ports. What binds a house to it is practical. The houses protect one another by pact, pass along what they learn about routes and market conditions, and bargain together when a foreign commercial power has to be dealt with. A Halzi'a who crosses them can be made or broken by their combined weight, and the Halzi'a of [[place-garanlaghet|Gar-Anlaghet]] rules a harbor shared with the [[lore-taruzelianclt|Taruzelian]] factors and the Zebeku'Zut houses.
+
+## The Present Quarrel {#present}
+
+At [[place-garanlaghet|Gar-Anlaghet]] the Halzi'a shares his harbor with the [[lore-taruzelianclt|Taruzelian]] factors and the alliance's houses, and the houses together carry enough weight to raise or ruin him if he crosses them. Toward foreign commercial powers they bargain as one, and their pacts are kept at banquets and on private estates, where nobody writes them down.
 
 ## See Also {#see-also}
 

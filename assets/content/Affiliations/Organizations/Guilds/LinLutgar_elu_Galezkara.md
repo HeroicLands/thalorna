@@ -25,6 +25,7 @@ data:
         description: >-
           Keeps a house that takes in travelers for pay, and refuses to sell it to the merchant houses.
     offices: {}
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The association's relation to the merchant houses is a standing refusal. The hou
 ## Commerce and Currency
 
 Say a merchant house sends an agent with a purse and an offer for an inn near **[[place-amqelger|Amqel-Ger]] (the Great Quay)**. The keeper takes the offer as a courtesy, names her price as one she knows he will not meet, and mentions it that evening to the others. The next morning the agent is turned away at two more doors. The inns stay independent, and the information they trade is the capital's best-kept public secret.
+
+## The Present Quarrel {#present}
+
+Merchant houses keep sending agents with purses to buy the capital's inns, and the keepers refuse them together, so a house turned away at one door finds every other door shut as well. The refusal holds because the keepers pool what they learn of their guests, a web of news no single inn could keep alone.
 
 ## See Also {#see-also}
 

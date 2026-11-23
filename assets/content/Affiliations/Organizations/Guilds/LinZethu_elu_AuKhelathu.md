@@ -29,6 +29,7 @@ data:
         Examines the pupils who come before the guild for certification.
       Keeper of Lut-Zethu: >-
         Holds the Imperial Library for the guild and grants or refuses a reader's permission.
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -57,6 +58,10 @@ The guild's two great relations are with the library it holds and the offices th
 ## Commerce and Currency
 
 A certified scribe's document is what a court or ministry accepts as the original record, and a clerk without certification can copy a text but cannot make one. Say a merchant in the capital needs a lease entered in the proper hand. He goes to a Zethu, who writes it, and the court receives it. If he goes to an uncertified clerk to save the fee, the court sends it back, and he pays twice. The fee is paid in silver, and the guild keeps its authority by keeping the examination hard.
+
+## The Present Quarrel {#present}
+
+Uncertified clerks copy for less, and the courts return every document they write, which makes the guild's examination the only line between a copy and an original record. The administration's trust in that line is the asset the guild cannot afford to lose, and it keeps the examination hard to protect it, while the Keeper of [[affiliation-lutzethu|Lut-Zethu]] makes would-be readers of the Imperial Library wait on a slow permission.
 
 ## See Also {#see-also}
 

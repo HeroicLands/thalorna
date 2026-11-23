@@ -25,6 +25,7 @@ data:
         description: >-
           Holds the guild's license and works a territory on its terms and codes.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The guild's chief counterparty is anyone who hires a hunter for a dangerous beas
 ## Commerce and Currency
 
 Licensing is the guild's trade. Say a village on the desert edge hires a hunter to deal with a beast that has been taking its herds. The village elder asks for the guild's license before anything else, and reads the territory the hunter is licensed to work. The hunter agrees a fee, does the work, and answers to the guild for the methods.
+
+## The Present Quarrel {#present}
+
+Each license names the ground its holder may work, and a hunter who strays onto a colleague's territory meets the guild's word against him. Unlicensed hunters take work against dangerous beasts too, answering to nobody for their methods, which is why villages ask to see the license and its territory before they settle a fee.
 
 ## See Also {#see-also}
 

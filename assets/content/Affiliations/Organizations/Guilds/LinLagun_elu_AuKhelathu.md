@@ -25,6 +25,7 @@ data:
         description: >-
           A logger, hauler or timber-merchant of the guild, working to its disputed standard.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The guild's main counterparty is the buyers of timber, who meet a grading proced
 ## Commerce and Currency
 
 Say a builder in the capital orders timber for a pylon's scaffolding and has it graded first quality at the landing. The seller's grade and the buyer's differ by a rank. The usual outcome is a price in the middle and a grumble from both. A buyer who wants certainty pays for grading done outside the guild's own disputed procedure, and the fee is, in effect, the price of ending the argument.
+
+## The Present Quarrel {#present}
+
+Loggers argue the guild's first-quality line up, timber-merchants argue it down, and haulers quarrel over whose barge carried the load; the dispute is as old as the charter and has never been settled. The empire's builders, who need timber on time, do not wait for the guild and write the disagreement into their contracts, while buyers who want a firm grade pay for it outside the guild.
 
 ## See Also {#see-also}
 

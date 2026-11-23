@@ -25,6 +25,7 @@ data:
         description: >-
           Deals in livestock and living cargo under the consortium's counsel on their carriage.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -45,6 +46,10 @@ A consortium factor, hiring a beast-trainer for a long haul, lays out the arithm
 Its trade is livestock and living cargo. The profit is in the arrival, and every stage of the journey is priced against it.
 
 If you are hired as a trainer, expect the factor to ask about feeding, watering and rest before he asks about speed. The ones who ask about speed first lose cargo.
+
+## The Present {#present}
+
+Living cargo cannot be repacked, and a trader shipping livestock or exotic beasts without the consortium's advice gambles on animals that a bad road can kill outright or ruin past repair. The consortium's factors price every stage of a journey against the arrival, and a trainer who puts speed ahead of feeding, watering and rest is the one who loses cargo.
 
 ## See Also {#see-also}
 

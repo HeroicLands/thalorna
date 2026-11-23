@@ -29,6 +29,7 @@ data:
         description: >-
           Registered with the guild and paying its dues, with work certified as guild-standard.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -57,6 +58,10 @@ The guild's one great relation is to the ancient forge-companies. It is their ac
 ## Commerce and Currency
 
 Certification is the commodity. Say a smith finishes a sword and brings it to the guild, which tests it against the practice of the forge-companies and stamps it if it passes. The stamped piece sells as guild-standard, at the price the stamp commands. The unstamped piece sells as a sword and at a sword's price. A smith struck from the roll loses the certification that makes work sellable, and with it the price.
+
+## The Present Quarrel {#present}
+
+A better method is of no use to a smith until the guild sanctions the change, and going ahead without leave risks being struck from the roll and selling the work unstamped, at a plain sword's price. The guild treats each unsanctioned improvement as a break with the forge-companies whose practice is the whole ground of its authority.
 
 ## See Also {#see-also}
 

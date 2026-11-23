@@ -25,6 +25,7 @@ data:
         description: >-
           Certified by the temple to handle its deeper texts, and party to the collective's decisions on access.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The collective has one relation: [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]], the
 ## Commerce and Currency
 
 Access is the collective's to grant. Say a [[lore-helioniteclt|Helionite]] scholar lodging near the temple libraries asks to read one of the deeper texts. The collective meets, reads her credentials, and asks what she means to do with the text. If the answer satisfies the members, a Certified Scholar sits with her while she reads. If it does not, she is refused. There is no fee that opens the second door.
+
+## The Present Quarrel {#present}
+
+The deeper texts draw petitions from outside the temple, foreign scholars among them, and the collective that decides them admits no appeal, since the temple leaves every question of access to its judgment. It weighs each request in common against what the reader means to do with the text, and no payment changes the answer.
 
 ## See Also {#see-also}
 

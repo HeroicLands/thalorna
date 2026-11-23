@@ -25,6 +25,7 @@ data:
         description: >-
           A riverman or sea-captain who meets the guild's standard of seamanship and holds its charter.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The guild stands between two parties, and its position is the point. The merchan
 ## Commerce and Currency
 
 Say a house sends forty sacks of grain downriver and two arrive wet. The owner goes to the guild's charter, which names the captain and the standard he was examined against. The guild hears the dispute, and its decision settles the loss. A captain who has no charter offers a lower rate and no recourse; the owner who accepts it has priced the risk himself.
+
+## The Present Quarrel {#present}
+
+Every disputed loss sets the guild against the merchant houses that hire its masters, and its hearing decides who bears the cost of a wet cargo. Its rate is undercut by masters holding no charter, who offer owners no recourse at all, and plenty of them find work.
 
 ## See Also {#see-also}
 

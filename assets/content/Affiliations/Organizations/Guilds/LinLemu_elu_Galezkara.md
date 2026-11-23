@@ -25,6 +25,7 @@ data:
         description: >-
           Pays into the common fund and draws on it when sickness, dismissal or a burial comes.
     offices: {}
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The households that employ its members are the reason the fund exists. The socie
 ## Commerce and Currency
 
 The common fund is the society's whole purpose. Say a footman is dismissed without warning on the day a household changes its steward. He goes to the society, the fund pays out immediately, and he lives on it while he finds a new post. A servant too sick to work draws on the same fund, and so does the family of one who has died and needs burying. The contribution is paid in copper by those who can spare nothing larger.
+
+## The Present Quarrel {#present}
+
+The capital's households dismiss servants without warning, and the society meets every case from a common fund built of coppers its members can barely spare. It never takes a dismissal up with the household; it pays, and asks the member to keep the master's business out of the matter.
 
 ## See Also {#see-also}
 

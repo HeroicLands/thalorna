@@ -25,6 +25,7 @@ data:
         description: >-
           Runs a great house of the capital, and shares what the work has taught with the others.
     offices: {}
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The stewards' relation to the great houses is employment, and their meetings are
 ## Commerce and Currency
 
 Say a steward of a house on **[[place-waligelu|Wal-Igelu]] (the Drowned Way)** hears from a colleague that a certain spice-factor has raised his price twice since the New Year. He changes factors. A second steward, new to the post, learns what to pay a house cook, and pays it. The prices the great houses pay are known to the people who arrange them, and the factors who overcharge find their custom thinning without understanding why.
+
+## The Present Quarrel {#present}
+
+Most of each meeting goes to the masters who cannot be told anything, as the stewards swap ways of burying bad news in a long account and booking a cost under another heading. Factors who overcharge one house find the others quietly dropping them, and the whole exchange depends on no master ever learning what his steward says on the evening he dines.
 
 ## See Also {#see-also}
 

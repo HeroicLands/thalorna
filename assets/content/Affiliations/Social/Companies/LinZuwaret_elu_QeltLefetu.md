@@ -29,6 +29,7 @@ data:
         description: >-
           Head of the Qelt'Lefetu and of the trade network the company runs.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -47,6 +48,10 @@ A caravan guard describes the first day with **Lin'Zuwaret elu Qelt'Lefetu** to 
 ## Commerce and Currency
 
 A trader without that protection who tries to compete on the same routes is pricing in a risk the company has already paid to remove. If you cannot afford the guards, do not take the route.
+
+## The Present {#present}
+
+The house runs caravans on dangerous, high-value routes that less well-funded traders avoid, and it holds them by paying for armed protection before the road turns bad. Any rival on those routes carries a risk the house has already bought off, and its margins on dangerous-route goods cover a cost the rival cannot meet.
 
 ## See Also {#see-also}
 

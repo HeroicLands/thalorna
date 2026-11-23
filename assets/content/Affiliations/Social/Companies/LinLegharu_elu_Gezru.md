@@ -25,6 +25,7 @@ data:
         description: >-
           Harvests and sells what moves fastest, sharing in the consortium's trade.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -47,6 +48,10 @@ The herbalist speaks for the plants, so weigh her account accordingly; the trade
 Its trade is rare plants taken out of the red land, whatever sells fastest first.
 
 If you are hired to gather for the consortium, ask how many seasons the stand has left. They will not know, and the question is the useful part of the answer.
+
+## The Present {#present}
+
+Members strip the fastest-selling plants of the red land and move on, leaving its recovery to anyone else, and they treat a harvester who would spare a stand as a threat to the whole trade. A stand left to regrow is worked by another member before it can recover, nobody in the consortium knows how many seasons the stands have left, and the temple herbalists speak of it only in complaint.
 
 ## See Also {#see-also}
 

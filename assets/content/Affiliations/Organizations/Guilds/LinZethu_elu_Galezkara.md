@@ -25,6 +25,7 @@ data:
         description: >-
           A scribe of the consortium, taking private commissions and paid for discretion as much as for the hand.
     offices: {}
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The consortium works outside the temple schools and takes the commissions they r
 ## Commerce and Currency
 
 A private commission pays for confidential copying, and the consortium guards that trade closely. Say a widow wants a copy of her husband's accounts made without the household steward hearing of it. She comes by the back stair, pays a premium in silver for the copy and for the silence, and takes both away. The scribe has been paid for discretion as much as for the hand, and the widow's confidence is the consortium's best advertisement.
+
+## The Present Quarrel {#present}
+
+The consortium lives on the commissions the temple schools refuse and on clients who compare notes with one another, and one broken confidence costs a scribe that whole circle of custom. It stands by choice outside [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]], whose schools train the administration's scribes, and its members' silence is what clients pay a premium for.
 
 ## See Also {#see-also}
 

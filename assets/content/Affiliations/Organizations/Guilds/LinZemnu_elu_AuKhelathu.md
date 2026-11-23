@@ -25,6 +25,7 @@ data:
         description: >-
           Practices a craft that has no guild of its own, and holds the guild's good standing.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The guild's most interesting relation is with its finest members, who supply its
 ## Commerce and Currency
 
 Say a carver takes a commission that none of the guild's regulations would allow, brings it off, and is talked of in the city. The guild adds the name to its plaque. The commissions that build a reputation are earned by methods the guild does not endorse. The carver pays the guild's dues in silver as before, and nobody mentions the commission.
+
+## The Present Quarrel {#present}
+
+The guild's prestige rests on members whose best work breaks its own rules, and its committees praise the results while frowning on the methods. Ambitious artisans take the forbidden commission without asking and seek recognition once it succeeds, which leaves the guild honoring after the fact what it would have refused beforehand.
 
 ## See Also {#see-also}
 

@@ -25,6 +25,7 @@ data:
         description: >-
           A maker of vaults, strongboxes and door-locks certified by the guild.
     offices: {}
+  range: [aukhelathrgq]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The guild has two relations that matter, and one is unwelcome. The society of th
 ## Commerce and Currency
 
 Say a temple orders a new strongbox for its treasury. The temple's steward asks for guild-work and pays for it, and the guild's certification is part of the price. A lock certified by the guild commands trust where the owner has something worth protecting, which is the premium the guild's certification carries. A lock without it costs less and invites a question the owner would rather not answer.
+
+## The Present Quarrel {#present}
+
+Thieves who share the guild's name study each lock its members make, and the guild has no means of stopping them. Its reputation rests entirely on the certification that owners of valuables look for, and it keeps its members' methods close against that scrutiny.
 
 ## See Also {#see-also}
 

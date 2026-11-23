@@ -25,6 +25,7 @@ data:
         description: >-
           Studies cultivation, preparation and effect, and brings findings to the society's meetings.
     offices: {}
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -53,6 +54,10 @@ The society's membership is its relationship: physicians' apprentices and indepe
 ## Commerce and Currency
 
 The society sells nothing, and defending that is its commerce. Say an apothecary offers to fund a series of meetings in exchange for first sight of the findings. The members debate the offer for an evening. Some see a patron and some see a purchase. The argument over the apothecary's money is the society's larger argument in miniature.
+
+## The Present Quarrel {#present}
+
+Critics outside the society call plant study a market and not a science, and the jibe lands because so many members sell what they learn. Any patron's money reopens the quarrel: an offer to fund meetings in return for first sight of the findings divides the members between those who call it patronage and those who call it a sale.
 
 ## See Also {#see-also}
 

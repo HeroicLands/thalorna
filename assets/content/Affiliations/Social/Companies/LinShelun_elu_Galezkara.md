@@ -33,6 +33,7 @@ data:
         Writes the productions the company stages.
       Director: >-
         Directs a production on the company's stage.
+  range: [galezkara]
   seat: null
   population: {actual: 0}
   economy: []
@@ -57,6 +58,10 @@ data:
 A playwright writes the company's productions and a director directs them on its stage, and the two meet over every line.
 
 Say you want to join. Bring a part you can play, and a patron who can speak for you. A company whose license can be questioned does not hire a player without someone to vouch.
+
+## The Present {#present}
+
+[[affiliation-wazulu|The Wazulu]] are pressing for players to be put down, and their campaign puts the company's license to perform in question. The company answers by taking on no player whom a patron will not vouch for, while inside it each season's reception reshuffles who leads and who waits.
 
 ## See Also {#see-also}
 
