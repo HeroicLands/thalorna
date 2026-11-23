@@ -3,6 +3,7 @@ shortcode: tarsilathelv
 name: {full: Társila Thelvaris}
 type: being
 subType: npc
+description: "A captain of the Kávrenath garrison on the Asturath frontier, from a family of garrison commanders, who leads fifty soldiers against smugglers, deserters and bandits."
 tags: [soldiery]
 data:
   icon: icon-person

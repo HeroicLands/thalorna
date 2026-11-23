@@ -3,6 +3,7 @@ shortcode: palnsnrcth
 name: {full: Pálina Sánriseth}
 type: being
 subType: npc
+description: "A priestess of Ólvenia at Herthema, born to a minor noble house, who works among the town's poor and has won the respect of its fishing families and of women in hard circumstances."
 tags: [clergy]
 data:
   icon: icon-person

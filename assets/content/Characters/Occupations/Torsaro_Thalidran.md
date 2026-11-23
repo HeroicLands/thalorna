@@ -3,6 +3,7 @@ shortcode: trsrthldrn
 name: {full: Tórsaro Thalidran}
 type: being
 subType: npc
+description: "A young yeoman of Dúrgalis, a freeman of the barley farms who serves in the valley's militia against the bandits who raid the farms below the pass."
 tags: [soldiery]
 data:
   icon: icon-person

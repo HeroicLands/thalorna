@@ -3,6 +3,7 @@ shortcode: dmthrnthrn
 name: {full: Dometh Ornethran}
 type: being
 subType: npc
+description: "A tragic actor of Dúrgalis who plays at the feasts of the coast's merchant houses and comes home each autumn to play at the valley's fair."
 tags: [guilded, tradesfolk]
 data:
   icon: icon-person
@@ -399,13 +400,13 @@ Dometh Ornethran is a 35-year-old man who stands 5'9" tall and is of medium buil
 
 Dometh Ornethran is a player of [[place-durgalis|Dúrgalis]], a castle town of [[place-tarvenirgn|Tarvénia]], a [[lore-tarvenanclt|Tarvenan]] of a family of tradesmen who plays tragedy at the feasts of the coast's merchant houses and comes home every autumn to play at the valley's fair.
 
-Dometh is a seasoned actor known for his dramatic performances in the feast-halls of [[place-valthari|Valthari]] and the harbor towns. He excels at tragic roles, captivating audiences with his deep voice and expressive mannerisms. While he enjoys fame and the company of admirers, he secretly struggles with self-doubt, fearing that he will one day be forgotten.
+Dometh is a seasoned actor known for his dramatic performances in the feast-halls of [[place-valthari|Valthari]] and the harbor towns. He excels at tragic roles, captivating audiences with his deep voice and expressive mannerisms. He enjoys fame and the company of admirers.
 
 ## Psyche
 
 ### Personality
 
-Struggles with insecurity, prone to fits of melancholy.
+Prone to fits of melancholy once the hall has emptied.
 
 ### Motivation
 
@@ -433,4 +434,8 @@ Rival actors who resent his success.
 
 1. **The adept in the square.** The [[affiliation-cncldrgls|Council of Dúrgalis]] wants [[lore-adepthail|the Adept and the Hail]] played in the square at the autumn fair, and Dometh, home from the coast's stages, is asked to play the adept before a valley that counts its liars the same afternoon.
 2. **The day after.** Hail has come out of a clear sky onto a single field, and its owner swore in the square the day before. The assembly asks Dometh to play the scene before the owner, to see whether he flinches.
-3. **The Valaron note.** A Valthari house holds the note on the Valaron ship, and Dometh, who knows the coast's feast-halls, is asked to carry a letter to a patron there.
+3. **The Valaron note.** A Valthari house holds the note on the Valaron ship, and the Valaron family asks Dometh to carry a letter to a patron there pleading for time. The patron's house also pays for his best nights on the coast, and the letter may cost him them.
+
+:::secret {title="What the referee knows"}
+Dometh is deeply insecure and fears that he will one day be forgotten. The fame he enjoys covers it, and the autumn fair, the one audience he has never failed, is where he most needs to be remembered.
+:::

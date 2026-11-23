@@ -3,6 +3,7 @@ shortcode: kldrnjthrn
 name: {full: Kaldrén Gútharen}
 type: being
 subType: npc
+description: "A free-born Tarvenan miner sold into slavery after capture and held at the iron mine of Ardalis in Tarvénia, who has tried to escape more than once."
 tags: [common-folk]
 data:
   icon: icon-person

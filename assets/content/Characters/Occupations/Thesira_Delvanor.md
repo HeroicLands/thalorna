@@ -3,6 +3,7 @@ shortcode: thesidlvnr
 name: {full: Thésira Delvanor}
 type: being
 subType: npc
+description: "A mercenary of Herthema on the town's sellswords' roll, who takes only jobs that fit her code, defends the downtrodden and means to found a company of her own."
 tags: [soldiery]
 data:
   icon: icon-person

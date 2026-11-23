@@ -3,6 +3,7 @@ shortcode: vlmrjthrn
 name: {full: Velmar Gútharen}
 type: being
 subType: npc
+description: "A master glassworker of Herthema who has made plain, durable ware in the same furnace-house for more than thirty years and holds out for the old standard in his guild."
 tags: [tradesfolk]
 data:
   icon: icon-person
@@ -421,7 +422,7 @@ Highly skilled in traditional glassworking, experienced, dependable.
 
 ## Social
 
-Velmar is a master of the [Glassworkers' Guild of Herthema]{.name data-type="affiliation/guild"} and has sat on its bench for a decade.
+Velmar is a master of the Glassworkers' Guild of Herthema and has sat on its bench for a decade.
 
 ## Companions
 

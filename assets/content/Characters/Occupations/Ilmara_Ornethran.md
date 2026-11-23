@@ -3,6 +3,7 @@ shortcode: ilmrrnthrn
 name: {full: Ilmara Ornethran}
 type: being
 subType: npc
+description: "The widowed innkeeper of the Ornethran Inn in Herthema, known for her stews and for her rule that no man draws steel in the yard."
 tags: [guilded, tradesfolk]
 data:
   icon: icon-person

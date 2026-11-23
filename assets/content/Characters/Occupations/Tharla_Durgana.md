@@ -3,6 +3,7 @@ shortcode: thrdrgn
 name: {full: Tharla Durgana}
 type: being
 subType: npc
+description: "A woman born free in a village of the hills, captured in a raid and held unfree as a housemaid in a merchant family's house in Herthema."
 tags: [common-folk]
 data:
   icon: icon-person
