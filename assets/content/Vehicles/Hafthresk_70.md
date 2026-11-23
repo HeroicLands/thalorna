@@ -69,7 +69,7 @@ Length, beam, hull depth and burthen follow [[doc-vesselhulls|Vessel Dimensions 
 
 ## A Day's Passage
 
-Under sail the Hafthresk rolls on the grade C table for a square rig in [[doc-seatravel|Travel at Sea]]. On 10% of days it makes no useful progress, and the other days end at 10 leagues (1%), 20 leagues (11%), 30 leagues (38%), 40 leagues (33%) or 50 leagues (7%), an average of 30.4 leagues. A league is 3 nautical miles. It has no oar table. The figures assume calm open water, a usable wind and a skilled crew; contrary currents, storms and heavy seas are for the players and the game master to settle.
+Under sail the Hafthresk rolls on the grade C table for a square rig in [[doc-seatravel|Travel at Sea]]. On 10% of days it makes no useful progress, and the other days end at 10 leagues (1%), 20 leagues (11%), 30 leagues (38%), 40 leagues (33%) or 50 leagues (7%), an average of 30.4 leagues. A league is 3 nautical miles. It has no oar table. The figures assume smooth open water, a usable wind and a skilled crew; contrary currents, storms and heavy seas are for the players and the game master to settle.
 
 ## Sizes
 

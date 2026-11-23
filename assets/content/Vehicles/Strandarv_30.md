@@ -35,6 +35,7 @@ data:
         - {prob: 0.8, distance: 10, distUnit: leagues, timeUnit: day}
         - {prob: 0.15, distance: 20, distUnit: leagues, timeUnit: day}
   appearance:
+    form: round_hull
     material: wood
     extra_features: [clinker planking, single square sail, oar-ports along the hull]
 ---
@@ -69,7 +70,7 @@ Length, beam, hull depth and burthen follow [[doc-vesselhulls|Vessel Dimensions 
 
 ## A Day's Passage
 
-Under sail the Strandarv rolls on the grade C table for a square rig in [[doc-seatravel|Travel at Sea]]. On 10% of days it makes no useful progress, and the other days end at 10 leagues (1%), 20 leagues (11%), 30 leagues (38%), 40 leagues (33%) or 50 leagues (7%), an average of 30.4 leagues. A league is 3 nautical miles. Under oars alone it rolls on the grade D oar table: no progress on 5% of days, otherwise 10 leagues (80%) or 20 leagues (15%), an average of 11.0 leagues. While its sail draws it rolls on the sailing table, because oars add little then. The figures assume calm open water, a usable wind and a skilled crew; contrary currents, storms and heavy seas are for the players and the game master to settle.
+Under sail the Strandarv rolls on the grade C table for a square rig in [[doc-seatravel|Travel at Sea]]. On 10% of days it makes no useful progress, and the other days end at 10 leagues (1%), 20 leagues (11%), 30 leagues (38%), 40 leagues (33%) or 50 leagues (7%), an average of 30.4 leagues. A league is 3 nautical miles. Under oars alone it rolls on the grade D oar table: no progress on 5% of days, otherwise 10 leagues (80%) or 20 leagues (15%), an average of 11.0 leagues. While its sail draws it rolls on the sailing table, because oars add little then. The figures assume smooth open water, a usable wind and a skilled crew; contrary currents, storms and heavy seas are for the players and the game master to settle.
 
 ## Sizes
 

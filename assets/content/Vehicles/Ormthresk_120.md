@@ -2,7 +2,7 @@
 shortcode: ormthresk120
 name: {full: Ormthresk 120}
 type: vehicle
-description: "The Nordmen's longship, a long, narrow clinker hull 120 feet long with one square sail and one bank of oars."
+description: "The Nordmen's longship, a narrow clinker hull 120 feet long with one square sail and one bank of oars."
 tags: []
 data:
   templatePriority: null
@@ -71,7 +71,7 @@ Length, beam, hull depth and burthen follow [[doc-vesselhulls|Vessel Dimensions 
 
 ## A Day's Passage
 
-Under sail the Ormthresk rolls on the grade B table for a square rig in [[doc-seatravel|Travel at Sea]]. On 5% of days it makes no useful progress, and the other days end at 20 leagues (2%), 30 leagues (19%), 40 leagues (44%), 50 leagues (26%) or 60 leagues (4%), an average of 39.1 leagues. A league is 3 nautical miles. Under oars alone it rolls on the grade B oar table: no progress on 5% of days, otherwise 10 leagues (47%), 20 leagues (47%) or 30 leagues (1%), an average of 14.4 leagues. While its sail draws it rolls on the sailing table, because oars add little then. The figures assume calm open water, a usable wind and a skilled crew; contrary currents, storms and heavy seas are for the players and the game master to settle.
+Under sail the Ormthresk rolls on the grade B table for a square rig in [[doc-seatravel|Travel at Sea]]. On 5% of days it makes no useful progress, and the other days end at 20 leagues (2%), 30 leagues (19%), 40 leagues (44%), 50 leagues (26%) or 60 leagues (4%), an average of 39.1 leagues. A league is 3 nautical miles. Under oars alone it rolls on the grade B oar table: no progress on 5% of days, otherwise 10 leagues (47%), 20 leagues (47%) or 30 leagues (1%), an average of 14.4 leagues. While its sail draws it rolls on the sailing table, because oars add little then. The figures assume smooth open water, a usable wind and a skilled crew; contrary currents, storms and heavy seas are for the players and the game master to settle.
 
 ## Sizes
 
