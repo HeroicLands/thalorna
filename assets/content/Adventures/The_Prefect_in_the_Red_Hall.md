@@ -4,7 +4,7 @@ name: {full: The Prefect in the Red Hall}
 type: scenario
 subType: adventure
 description: "Rinjai Hoja keeps a Tantsou prefect as a guest in his red hall, and the court wants the man returned, Shuiwojai Henzo wants him ransomed and a war junk lies off the coves, while Hoja holds the one oath and the one prisoner he cannot give to both."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [lengwou, rinwu, rinjai, easternstrt]
@@ -50,18 +50,45 @@ The party enters as the envoy's hired hands, as Henzo's, as hands the court send
 > [!IMPORTANT]
 > Nobody here is a villain and nobody wants a war. The scenario ends when Hoja has handed the prefect to someone, or has chosen to hand him to no one.
 
+## What the Party Can Learn {#what-the-party-can-learn}
+
+| What                                                                               | From whom                           | Scene |
+| ---------------------------------------------------------------------------------- | ----------------------------------- | ----- |
+| The envoy offers language and no coin; the throne wants to know what he would give | The envoy; Weileng                  | One   |
+| Where the junk lies, and that it has lowered no boat                               | The pilot                           | Two   |
+| His family pays only for a man known to be alive                                   | The prefect                         | Three |
+| The junk's errand, and what its captain knows of the envoy's request               | The captain, under parley           | Four  |
+| Whose silver bought the reading of Rinjai                                          | The shrine Tanchei                  | Four  |
+| The third course                                                                   | Pieced together from Three and Four | Five  |
+
+## What the Game Master Decides {#what-the-game-master-decides}
+
+- The junk's errand: the prefect, the harbor at Jawo, or a message for Hoja.
+- Whose silver bought the reading that favors Henzo.
+
+## The Clock {#clock}
+
+- **Day One.** The audience at Lengwou.
+- **Days Two and Three.** The crossing. The party reaches Rinwu at dusk on Day Three, as the junk is sighted.
+- **Night of Day Three.** The red hall.
+- **Day Four.** The coves and the junk.
+- **Day Five, first light.** Hoja chooses.
+- **Without word from the shore,** the junk holds until the weather turns, and then sails.
+
 ## Hooks {#hooks}
 
-- **The prefect in the hall.** Hoja keeps the prefect as a guest in the red hall. A party hired by a mainland envoy offers to buy the man out, and a party hired by Henzo offers to take him to Hawu.
-- **The strait watch.** A war junk has been sighted off the coves, and Hoja wants a party to learn whether it comes to fetch the prefect or to burn the harbor at Jawo.
-- **The audience.** A Tantsou envoy asks in Lengwou for the return of the prefect held at Rinwu. Weileng grants the audience and wants a party to learn what the envoy will offer.
-- **The red mountain.** A shrine [[lore-tanchei|Tanchei]] of Rinjai brings a reading of the mountain that favors Henzo's claim, and Hoja wants a party to learn who paid for it.
+- **The courtier: the price of a guest.** Hoja keeps the prefect as a guest in the red hall. A party hired by a mainland envoy offers to buy the man out, and a party hired by Henzo offers to take him to Hawu.
+- **The mariner: the junk off the coves.** A war junk has been sighted off the coves, and Hoja wants a party to learn whether it comes to fetch the prefect or to burn the harbor at Jawo.
+- **The infiltrator: what the envoy would give.** A Tantsou envoy asks in Lengwou for the return of the prefect held at Rinwu. Weileng grants the audience and wants a party to learn what the envoy will offer.
+- **The cleric: the bought reading.** A shrine [[lore-tanchei|Tanchei]] of Rinjai brings a reading of the mountain that favors Henzo's claim, and Hoja wants a party to learn who paid for it.
 
 ## The Opening {#opening}
 
 Rinwu's main harbor at dusk, with twenty-five hulls on the water and one that is not Jenchai in the offing. A watchman on the red hall's spur strikes a bell once and then again, and the raiders on the quay stop what they are doing and look out at the strait.
 
 > "That is not a Rinjai sail," says a captain at the rail, and nobody answers him.
+
+A crew already in the strait begins here, on the evening it reaches Rinwu, and plays Scene Three next. A party hired at court plays Scene One and Scene Two first and arrives at this dusk.
 
 ## Scenes {#scenes}
 
@@ -87,7 +114,7 @@ Rinwu's main harbor at dusk, with twenty-five hulls on the water and one that is
 
 **Situation.** [[place-rinjai|Rinjai]], the red mountain of the lesser island, stands at the mouth of the strait, and every hull that passes between the mainland and the Nine Mountains passes within sight of its coast. A hull bound for Rinwu from the great island crosses water that the fleet of Shuiwojai and the raiders of Rinjai both watch.
 
-**NPCs and threats.** The pilot, a [[being-straitpilot|Strait Pilot]], who takes the party's coin for the set of the water. A Shuiwojai toll-boat, its crew each a [[being-tsaihwosldr|Tsaihwo Soldier]], whose captain wants to know the hull's errand. A mainland merchant aboard, who pays tolls to the lords and to the empire's bureaus for the same passage and hates both.
+**NPCs and threats.** The pilot, a [[being-straitpilot|Strait Pilot]], who takes the party's coin for the set of the water. A Shuiwojai toll-boat, its crew each a [[being-tsaihwosldr|Tsaihwo Soldier]], who ask the hull's errand. The pilot says the mainland merchants he carries pay tolls to the lords and to the empire's bureaus for the same passage and hate both.
 
 **Player choices.** Pay the toll and give the errand, hide the errand, ask the pilot about the junk, or leave an offering at the first headland shrine.
 
@@ -103,7 +130,7 @@ Rinwu's main harbor at dusk, with twenty-five hulls on the water and one that is
 
 **Situation.** The hall at Rinwu, lacquered red, on a spur above the main harbor, with the strait in front of it. A captain's seat goes by the hulls his household commands. The prefect sits in the place of a guest, and he is not shackled.
 
-**NPCs and threats.** Hoja, who is quick and bold and who answers a hard question by looking at the nearest obligation. The prefect, who is composed and who treats Hoja as an equal he has not yet decided to forgive. Henzo's liaison, a [[being-jnchagent|Jenchai House Agent]], who has come to remind Hoja whose oath he swore, and the mainland envoy's agent, if the party brought one.
+**NPCs and threats.** Hoja, who is quick and bold and who answers a hard question by looking at the nearest obligation. The prefect, who is composed and who treats Hoja as an equal he has not yet decided to forgive. Henzo's liaison, a [[being-jnchagent|Jenchai House Agent]], who has come to remind Hoja whose oath he swore, and the envoy's agent, one of his attendants, played as a [[being-tantsouenvoy|Tantsou Envoy]], if the party brought one.
 
 **Player choices.** Offer to buy the prefect out for the envoy, offer to take him to Hawu for Henzo, offer to carry the court's request, or ask the prefect what he would give for his freedom.
 
@@ -135,7 +162,7 @@ Rinwu's main harbor at dusk, with twenty-five hulls on the water and one that is
 
 **Situation.** The red hall at first light, after the party has made an offer in the red hall, brought word from the junk or put a third course to Hoja. The prefect, Henzo's liaison, the party and the envoy's agent, if the party brought one, are all in the same room. The junk lies in the offing, unless a parley or an attack has sent it away.
 
-**NPCs and threats.** Hoja, who chooses now. Henzo, whose liaison stands by the door. The prefect, who says nothing until he is asked.
+**NPCs and threats.** Hoja, who chooses now. Henzo's liaison, who stands by the door. The prefect, who says nothing until he is asked.
 
 **Player choices.** Support the return, support the ransom, propose a third course that gives both something, or leave him to choose.
 

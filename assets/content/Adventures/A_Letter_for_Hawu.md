@@ -4,7 +4,7 @@ name: {full: A Letter for Hawu}
 type: scenario
 subType: adventure
 description: "The Emperor's sealed answer to the petition of Shuiwojai Henzo must cross Muwojai's ferry at Zuju on its way to Hawu, and the lord who keeps the road and the lord who wrote the petition each ask a party for a different kind of help."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [kowu, zujufrry, zijai, hawu, lengwou]
@@ -46,18 +46,44 @@ The party enters as the escort Chaiwo hires at [[place-kowu|Kowu]], as the hand 
 > [!IMPORTANT]
 > The seal is the scenario. Nobody in it is a villain, and nearly everyone wants to read the letter before Henzo does. The referee decides whether the seal reaches Hawu whole, and the party's choices decide what each side learns from the attempt.
 
+## What the Party Can Learn {#what-the-party-can-learn}
+
+| What                                                                      | From whom                                                     | Scene |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------- | ----- |
+| Chaiwo cannot tell which of his three candidates has taken a bloc's offer | Chaiwo, if asked why he does not use his own men              | One   |
+| Which house the agent at the landing serves                               | The badge on his coat, or his lodging if followed             | Two   |
+| Which houses have been reading the roll                                   | A clerk, for a letter delivered to Kowu                       | Two   |
+| That someone has read the roll for the courier's name and hour            | The one who waits on the far bank                             | Three |
+| Which captain has accepted, and which bloc bought him                     | The new coats and silver at one gate; the runner, if followed | Four  |
+| What the letter asks                                                      | Only Henzo, or a broken seal                                  | Five  |
+
+## What the Game Master Decides {#what-the-game-master-decides}
+
+- Which of the three captains has accepted, and which bloc paid him.
+- Whose agent waits on the far bank: Henzo's, or another house's.
+- What Henzo does with the Emperor's answer once he has read it.
+
+## The Clock {#clock}
+
+- **Day One.** Chaiwo commissions the party at Kowu.
+- **Day Two, midday.** The courier gives his name at the Zuju landing and crosses. By evening the far-bank agent has met him.
+- **Days Two and Three.** The three gates on the road over Zijai. The weather closes the pass at dusk, so the courier lodges at one gate for the night. The bought captain's runner leaves that night.
+- **The day the courier reaches Hawu.** Henzo reads the letter in his hall. The runner's house has the report first.
+
 ## Hooks {#hooks}
 
-- **The letter at Zuju.** Chaiwo wants a party to see the courier safely over the river and to learn whether anyone waits on the far bank.
-- **The ferry at Zuju.** Henzo pays a party to meet the courier on the far bank and bring the letter to Hawu unopened.
-- **The roll.** A house's agent wants to know who crossed in the last month, and a clerk's price is a letter delivered to Kowu.
-- **The carrier.** A messenger with a sealed letter has to cross under his own name, and a party is hired to ride with him past the garrisons on the far side.
+- **The warrior: the escort from Kowu.** Chaiwo wants a party to see the courier safely over the river and to learn whether anyone waits on the far bank.
+- **The courtier: Henzo's hand on the far bank.** Henzo pays a party to meet the courier on the far bank and bring the letter to Hawu unopened.
+- **The infiltrator: the roll at Zuju.** A house's agent wants to know who crossed in the last month, and a clerk's price is a letter delivered to Kowu.
+- **The trader: the same ferry.** A party crossing on its own business shares the boat with a man in a plain coat who gives his full name at the landing and says nothing else.
 
 ## The Opening {#opening}
 
 The landing at Zuju at midday, with a clerk's brush squeaking down a roll. A man in the plain coat of the household guard waits his turn behind a carter's rice and a priest's mule, holding a lacquered case against his chest with both hands.
 
 > "Name," says the clerk, and the man gives it, in the full form, without lowering his voice. Three heads at the toll-house door turn at once.
+
+A party of travelers begins here and plays Scene Two at once. A party hired by Chaiwo or by Henzo plays Scene One first and reaches this moment at the start of Scene Two.
 
 ## Scenes {#scenes}
 
@@ -67,13 +93,16 @@ The landing at Zuju at midday, with a clerk's brush squeaking down a roll. A man
 
 **Situation.** Kowu, the castle town of Muwojai, on the lower slope of [[place-zijai|Zijai]]. The toll of the ferry comes here to the lord's granary. Chaiwo, sixty-one, sits in his hall with the scar on his neck turned toward the door, and receives the party slowly.
 
-**NPCs and threats.** Chaiwo, who is dutiful and hard to hurry, and who does not say that he cannot tell which of his own retainers has accepted a bloc's offer. The retainers who attend him, any of whom may be the one.
+**NPCs and threats.** Chaiwo, who is dutiful and hard to hurry, and who does not say that he cannot tell which of his own retainers has accepted a bloc's offer. The household retainers who attend him, who carry word to the garrisons on the far side.
 
 **Player choices.** Accept the commission to see the courier over and find who waits on the far bank, ask what he knows about the roll, or ask why he does not use his own men.
 
 **Clues and rewards.** Chaiwo does not use his own men because he cannot name the ones he trusts. He pays in a pass that opens the gates of the district.
 
-**Consequences.** The party leaves Kowu with Chaiwo's commission and the pass, and the retainers know both.
+> [!NOTE]
+> Every house keeps an envoy at Kowu, because a message for the Emperor passes through the town first. A party seen leaving the hall with Chaiwo's pass is seen by more than his household.
+
+**Consequences.** The party leaves Kowu with Chaiwo's commission and the pass, and the household knows both, so word reaches the garrisons ahead of it.
 
 **If bypassed.** Chaiwo's household sends the courier on with its own guard, and the party meets the same road without his protection.
 
@@ -120,6 +149,9 @@ The landing at Zuju at midday, with a clerk's brush squeaking down a roll. A man
 **Player choices.** Show the pass, take another road round a garrison, ask a captain whether a bloc has approached him, or lodge at a gate and watch what its captain does.
 
 **Clues and rewards.** Every captain admits, if asked, that a bloc has approached him, so the approach tells the party nothing. The acceptance shows: at one gate the men wear new winter coats and talk of arrears paid in silver, and the captain asks the courier to wait while a runner goes down the road to a house. The two captains who refused have nothing new at their gates, ask only for the courier's name and let him go. A party that follows the runner learns which bloc bought the captain.
+
+> [!TIP]
+> Play the three captains alike in speech. Each reads the pass slowly and hands it back with both hands, and each answers a question about his loyalty with a statement of his duty. The difference lies at the gate and not in the words, so a party that only listens learns nothing here.
 
 **Consequences.** The party knows which of the three retainers has accepted a bloc's offer, and which bloc. Chaiwo knows it only if the party tells him.
 

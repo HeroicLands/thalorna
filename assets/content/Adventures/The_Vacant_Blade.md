@@ -4,7 +4,7 @@ name: {full: The Vacant Blade}
 type: scenario
 subType: campaign
 description: "A campaign frame for the winter between the first frost and the Dawn Rite, when the office of Teng Ja stands vacant, the Strait bloc and the loyalists bid for the two independent houses that can break the balance, and every road, ledger and bell in the Nine Mountains is part of the contest."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations:
@@ -35,6 +35,8 @@ data:
     - tsuijairezo
     - zujutollkpr
     - tantsouenvoy
+    - jnchsteward
+    - rinjairaider
   factions:
     - jenchaiempr
     - shuiwojaidmn
@@ -139,9 +141,7 @@ The arcs run in any order, and each moves the contest whether or not the party f
 
 ## The Secret {#the-secret}
 
-**Why the office stays vacant.** The vacancy is Weileng's policy. The sealed letter withholds the office and asks Henzo for more silver. A lord needs the Emperor only until he has conferred the office, so while it is unconferred the Strait bloc and the loyalists both need him.
-
-**What the Sealed Letter asks.** The letter withholds the office and asks Henzo for more silver toward the court's budget, and it names no price at which the office would follow. It is Weileng's way of deferring: while the office stays unconferred, both blocs need him.
+**Why the office stays vacant.** The vacancy is Weileng's policy. The Sealed Letter withholds the office, asks Henzo for more silver toward the court's budget and names no price at which the office would follow. A lord needs the Emperor only until he has conferred the office, so while it is unconferred the Strait bloc and the loyalists both need him.
 
 **The household's unpaid bills.** The household owes the rice factor in Lengwou for months of deliveries, and it hides the bills from the Dauzhwo. If the factor stops delivering or talks, every lord learns that the court's poverty has reached the Retired Emperor's table.
 
@@ -167,8 +167,8 @@ This frame does not say whom the office goes to, or whether it is conferred at a
 [[place-zojaishrn|The Summit Shrine of Zojai]]
 : _The escort_, _The place in line_ and _The empty frame_.
 
-[[place-yuwu|Yuwu]]
-: the bell in pawn, its price and the lord who chooses who redeems it: [[miscgear-dwnrtbll|The Bell of the Dawn Rite]].
+[[miscgear-dwnrtbll|The Bell of the Dawn Rite]]
+: the bell in pawn at [[place-yuwu|Yuwu]], its price, and the lord who chooses who redeems it.
 
 ## See Also
 

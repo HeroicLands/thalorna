@@ -4,7 +4,7 @@ name: {full: Rice Before the Snow}
 type: scenario
 subType: adventure
 description: "Zenjai Tsuiwo will put his 1,500 spears behind whichever bloc fills the granaries of the north before the first snow, and the Strait and the loyalists have each promised rice that a party hired to carry or count it may find is not there."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [buiwu, zenjai, hawu, yanwu]
@@ -39,17 +39,43 @@ The party enters as hands hired by either bloc to carry rice to Buiwu, as counte
 
 **The horses.** The Maiju keep the horse pastures and mount Tsuiwo's officers, and every rider answers to a roll he can recite. A [[being-maijuofficer|Maiju Horse Officer]] has reported mounts missing from the levy. Tsuiwo wants them found before the bidders learn how few he can field, and the missing horses may be strayed, sold or taken. The referee decides.
 
-**The two lords.** Tsuiwo is stern and practical, and he treats a promise as a debt not yet paid. [[being-wojaidoja|Wojai Doja]], the other lord whose choice ends the balance, answers his own bidders with a patience Tsuiwo lacks, and Tsuiwo counts Doja a rival and has no patience for the delay, and a party that mentions him hears it.
+**The two lords.** Tsuiwo is stern and practical, and he treats a promise as a debt not yet paid. He counts [[being-wojaidoja|Wojai Doja]], the other lord whose choice ends the balance, a rival, and Doja's patience with his own bidders angers him. Mentioning Doja in the hall at Buiwu costs a party Tsuiwo's goodwill.
 
 > [!IMPORTANT]
 > The scenario is a race against the first snow. Nobody lies about wanting the north's spears, and nobody has told the whole truth about the rice. Play the count and the carrying as two halves of one choice.
 
+## The Clock {#clock}
+
+The first snow falls on the morning of Day Twelve and closes the shoulder roads.
+
+- **Days One and Two.** Buiwu: the bids in the hall, the short count in the stable-yard.
+- **Days Three to Five.** South by the shoulder roads to Hawu.
+- **Days Five and Six.** The count at Hawu.
+- **Days Seven and Eight.** By the coast and the mountain road to Yanwu, and the count there. A tremor on the night of Day Eight may close the mountain road.
+- **Days Nine to Eleven.** The loads go north. A load that leaves Hawu after Day Eight, or Yanwu after Day Nine, reaches the shoulder roads too late.
+
+## What the Party Can Learn {#what-the-party-can-learn}
+
+| What                                                                     | From whom                                          | Scene |
+| ------------------------------------------------------------------------ | -------------------------------------------------- | ----- |
+| Tsuiwo's terms: grain in Buiwu before the snow, and nothing else will do | Tsuiwo                                             | One   |
+| How many mounts the levy is short, and the trail south                   | The horse roll, the Maiju officer, the frozen dung | Two   |
+| How far Hawu's granary falls short, and the quay price of rice           | A count of sacks, carts or barges at Hawu          | Three |
+| How far the Yanwu granary falls short of Rewei's figure                  | Her steward, before she admits it                  | Four  |
+| Which load reaches Buiwu in time                                         | The shoulder roads                                 | Five  |
+
+## What the Game Master Decides {#what-the-game-master-decides}
+
+- How short each granary falls, and whether its rice is on paper, in part, or out of reach before the snow.
+- Whether the missing horses strayed, were sold or were taken.
+- Whether a rival party carries the other bloc's rice on the shoulder roads.
+
 ## Hooks {#hooks}
 
-- **The real rice.** Tsuiwo commits his levy to whoever delivers grain to Buiwu before the snow, and a party hired by either bloc to carry it can tip the realm.
-- **The empty granaries.** He sends a party to count what Shuiwojai and Hojujai actually hold, because both bids may be in rice that does not exist.
-- **The horse roll.** A Maiju officer reports mounts missing from the levy, and Tsuiwo wants them found before the bidders learn how few he can field.
-- **The regent's steward.** Rewei's steward at Yanwu has not been shown the figure she named, and he asks a party to learn what it is before the granary is asked to meet it.
+- **The warrior: the rice carriers.** Tsuiwo commits his levy to whoever delivers grain to Buiwu before the snow, and a party hired by either bloc to carry it can tip the realm.
+- **The scholar: the count.** He sends a party to count what Shuiwojai and Hojujai actually hold, because both bids may be in rice that does not exist.
+- **The woodsman: the missing horses.** A Maiju officer reports mounts missing from the levy, and Tsuiwo wants them found before the bidders learn how few he can field.
+- **The courtier: the regent's figure.** Rewei's steward at Yanwu has not been shown the figure she named, and he asks a party to learn what it is before the granary is asked to meet it.
 
 ## The Opening {#opening}
 
@@ -65,7 +91,7 @@ Buiwu in the first week of the cold, with a skin of frost on the hall's terrace.
 
 **Situation.** The lord's hall on a terrace above the streets of Buiwu, a town of 2,800 people on the lower slope of Zenjai. Snow lies on its roofs from the first frost to the thaw, and the granary below the hall feeds it in winter. Tsuiwo sits with his hands on his knees in fur-lined lacquered armor.
 
-**NPCs and threats.** Tsuiwo, blunt and short of speech, who lost the lobe of an ear to frost. The stewards of the Strait and of the loyalists, who each have a price in rice and a deadline. The town, which waits with the hall.
+**NPCs and threats.** Tsuiwo, blunt and short of speech, who lost the lobe of an ear to frost. The Strait's steward and the regent's envoy, a second [[being-jnchsteward|Jenchai House Steward]] sent from Yanwu, who each have a price in rice and a deadline. The town, which waits with the hall.
 
 **Player choices.** Take a bloc's commission to carry rice, take Tsuiwo's to count what the blocs hold, ask what the half-ration winter cost, or ask what he would sell for something other than grain.
 
@@ -83,9 +109,12 @@ Buiwu in the first week of the cold, with a skin of frost on the hall's terrace.
 
 **NPCs and threats.** The Maiju officer, who has not slept. The grooms, who say little. The two stewards, who are looking for a reason to be in the yard.
 
-**Player choices.** Count the horses against the roll, ask the grooms where the missing mounts went, follow the carters who left for the south last week, or tell Tsuiwo what the roll says.
+**Player choices.** Count the horses against the roll, ask the Maiju officer which grooms took horses out, follow the carters who left for the south last week, or tell Tsuiwo what the roll says.
 
 **Clues and rewards.** The referee chooses where the horses went. A trail of frozen dung leads to the shoulder road in any case, and the carters took charcoal and horses together.
+
+> [!TIP]
+> The officer cannot leave the stable-yard while the count stands short, so a party that takes up the trail goes without him. He knows every horse of the levy by its marks and every groom by his habits, and he names the grooms who took horses out to a party that asks him.
 
 **Consequences.** The number of mounts the north can field is a fact one bloc may learn first. The bidders' prices follow it.
 
@@ -99,7 +128,7 @@ Buiwu in the first week of the cold, with a skin of frost on the hall's terrace.
 
 **NPCs and threats.** Henzo, hearty and calculating, who speaks to envoys as a creditor and who tells the party the rice is in the granary. His retainers, who open the door only when he says to.
 
-**Player choices.** Ask Henzo to open the granary, count the carts that leave it, ask the shipwrights about hulls bound for the north, or buy rice on the quay and see what it costs.
+**Player choices.** Ask Henzo to open the granary, count the carts that leave it, watch the quays for hulls bound for the north, or buy rice on the quay and see what it costs.
 
 **Clues and rewards.** The count falls short of Henzo's word, by the amount the referee has chosen. A party that wants the number gets it by a count of the sacks, the carts or the barges and not by a lord's word, and the quay price of rice shows what making up the shortfall would cost.
 
@@ -113,7 +142,7 @@ Buiwu in the first week of the cold, with a skin of frost on the hall's terrace.
 
 **Situation.** Yanwu, the bathing town on the slope of [[place-hojai|Hojai]], where the steam of the springs lies over the streets and the mountain rumbles in the night. Rewei holds the keys of the castle and its granary for her son, and the rice of the ash-soil terraces of [Fanu]{.name data-type="place/settlement"} and [Weinu]{.name data-type="place/settlement"} comes in by the mountain road.
 
-**NPCs and threats.** Rewei, grave, exact and stubborn, who holds the house by being seen to hold it. Her steward, who has not been shown the figure. The Shuiwojai envoy in the town, a [[being-jnchagent|Jenchai House Agent]], who sends word to Hawu after every tremor.
+**NPCs and threats.** Rewei, grave, exact and stubborn, who holds the house by being seen to hold it. Her granary steward, who stayed at Yanwu and has not been shown the figure. The Shuiwojai envoy in the town, a [[being-jnchagent|Jenchai House Agent]], who sends word to Hawu after every tremor.
 
 **Player choices.** Ask Rewei for the figure she named, ask the steward what the granary holds, ask a [[being-smtshrntnch|Summit Shrine Tanchei]] of Hojai what the mountain says about the terraces, or watch the envoy.
 
@@ -127,7 +156,7 @@ Buiwu in the first week of the cold, with a skin of frost on the hall's terrace.
 
 **Purpose.** Carry rice to Buiwu before the snow, or watch it fail to arrive.
 
-**Situation.** The shoulder roads between the south and Buiwu, which close with the first snow. Carters bring charcoal and horses down them and rice up. The cold is real and the first snow is a day off.
+**Situation.** The shoulder roads between the south and Buiwu, which close with the first snow. Carters bring charcoal and horses down them and rice up. The cold is real and the first snow is due on the morning of Day Twelve.
 
 **NPCs and threats.** The carters, who take the road because they have no other. The weather. A rival party of the other bloc's men, each a [[being-tsaihwosldr|Tsaihwo Soldier]], if the referee chooses, carrying the other rice.
 
@@ -135,13 +164,16 @@ Buiwu in the first week of the cold, with a skin of frost on the hall's terrace.
 
 **Clues and rewards.** A load that reaches Buiwu in time eases the north and earns Tsuiwo's notice, though it is less than was promised. A load that does not is a promise, and Tsuiwo treats a promise as a debt not yet paid.
 
+> [!TIP]
+> Keep the day count in front of the table. Tell the players each morning how many days remain before the snow, so that a delay at Hawu or Yanwu shows here as a load that left too late.
+
 **Consequences.** Tsuiwo names the bloc whose load did most for his province, or names none. The balance holds or it ends.
 
 **If bypassed.** The snow closes the road. Whichever bloc has rice in Buiwu by that morning has Tsuiwo, and nobody else does.
 
 ## If the Party Does Nothing {#if-the-party-does-nothing}
 
-Both blocs send rice, and neither sends enough. The first snow closes the shoulder roads with the granaries of the north half empty, and Tsuiwo's levy sits in its villages and eats what the villages have. The north comes through a second winter on half rations. A lord who has been promised grain twice and given it once sells his spears to the bloc that comes closest, and the one that fell short has lost the Independents' balance for a year.
+Both blocs send rice, and neither sends enough. The first snow closes the shoulder roads with the granaries of the north half empty, and Tsuiwo's levy sits in its villages and eats what the villages have. The north comes through a second winter on half rations. Tsuiwo, promised full granaries by both blocs and given part of them, sells his spears to the bloc whose load came closest, and the other bloc has lost the Independents' balance for a year.
 
 ## Aftermath {#aftermath}
 
