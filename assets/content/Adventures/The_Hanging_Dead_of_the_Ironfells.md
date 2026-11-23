@@ -15,7 +15,7 @@ data:
   packFolder: adventures
 ---
 
-A rockslide shuts the gorge behind the party below [[place-sunderwynd|Sunderwiind]], a watch-post on the southern approach to a pass in [[place-ironfells|The Ironfells]]. The garrison hangs in a dead pine and from the post's own beams, and the one man left on the ground holds the door with a crossbow. The thing that took them is a [[lore-dreadspawncrtr|Dreadspawn]] that lives in the heights of the stonework and never sets foot on the ground, and at dusk the heights fill with the voices of the men it took. The garrison's daybook says the voices are its own. They are not: the hung are alive, and the captain has been calling his last man by name for three nights.
+A rockslide shuts the gorge behind the party below [[place-sunderwynd|Sunderwiind]], a watch-post on the southern approach to a pass in [[place-ironfells|the Ironfells]]. The garrison hangs in a dead pine and from the post's own beams, and the one man left on the ground holds the door with a crossbow. The thing that took them is a [[lore-dreadspawncrtr|Dreadspawn]] that lives in the heights of the stonework and never sets foot on the ground, and at dusk the heights fill with the voices of the men it took. The garrison's daybook says the voices are its own. They are not: the hung are alive, and the captain has been calling his last man by name for three nights.
 
 ## Overview {#overview}
 

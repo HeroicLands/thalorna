@@ -81,4 +81,4 @@ On the low country by the gulf the trouble is older and worse. The [[place-bldfl
 
 - [[place-provenzrgn|Provénzia Region]] · [[place-elavendre|Élavendre]]
 - [[place-mazeofechos|Maze of Echoes]] · [[lore-aralwen|Araelwen]]
-- [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]
+- [[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]

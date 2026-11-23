@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-The city’s carts return to the spring-house of Vrellnes on [[place-calypsashore|The South Shore]]. Its elder, [[being-hvurnvrthm|Hvurnrinna Vrathumak]], keeps the key. [[being-krildtvlgr|Krildthira Tvulgaruk]] would rather send strangers who can talk than send a squad. The party arrives between a practical need for water and a claim of ownership neither side accepts from the other.
+The city’s carts return to the spring-house of Vrellnes on [[place-calypsashore|the South Shore]]. Its elder, [[being-hvurnvrthm|Hvurnrinna Vrathumak]], keeps the key. [[being-krildtvlgr|Krildthira Tvulgaruk]] would rather send strangers who can talk than send a squad. The party arrives between a practical need for water and a claim of ownership neither side accepts from the other.
 
 ## What Is Really Happening {#what-is-really-happening}
 

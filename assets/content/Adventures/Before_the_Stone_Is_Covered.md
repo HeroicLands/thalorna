@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-A winter storm turns an old block in [[place-oldmole|The Old Mole]] and exposes a carved face. [[being-ralthannrulth|Ralthann Rultharuk]], the master mason, wants the gap wedged before another storm. [[being-marvindnalth|Marvinda Naltharuk]], [[affiliation-ordoarcanis|The Order]]’s factor, offers to pay for time to take copies. [[being-hrundthrsk|Hrundselda Thraskumak]] has granted neither request because the Council forbids moving the old stones.
+A winter storm turns an old block in [[place-oldmole|the Old Mole]] and exposes a carved face. [[being-ralthannrulth|Ralthann Rultharuk]], the master mason, wants the gap wedged before another storm. [[being-marvindnalth|Marvinda Naltharuk]], factor of [[affiliation-ordoarcanis|the Order]], the Thordimalon, offers to pay for time to take copies. [[being-hrundthrsk|Hrundselda Thraskumak]] has granted neither request because the Council forbids moving the old stones.
 
 The party must make the copying and repair practicable or choose which work to put first. The carving’s meaning remains unknown. Access to the carving depends on keeping a working harbor safe.
 

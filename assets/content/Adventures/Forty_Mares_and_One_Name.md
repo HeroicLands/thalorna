@@ -21,7 +21,7 @@ Forty brood mares leave the southern highland grazing in a Durrask raid during t
 
 ## What Is Really Happening {#what-is-really-happening}
 
-The theft and the pursuit both happened. The count of [[affiliation-durrask|The Durrask]] holds deaths owed by a lowland realm, and a death comes off it only when another death is set against it. Coin or returned horses can buy a separate bargain. They cannot erase an entry by themselves.
+The theft and the pursuit both happened. The count of [[affiliation-durrask|the Durrask]] holds deaths owed by a lowland realm, and a death comes off it only when another death is set against it. Coin or returned horses can buy a separate bargain. They cannot erase an entry by themselves.
 
 Kadrum also takes silver from an Aldorathi shore baron to spare that baron’s manors. That secret makes his public insistence on the count vulnerable, but the party does not discover the patron’s unnamed identity merely by asking for the mares. The pattern of selective treatment offers evidence of the bargain even while the patron remains unidentified.
 
@@ -57,7 +57,7 @@ The pursuit’s surviving herdsmen describe the ford and their weapons. They ack
 
 ### What the Grey Heads count
 
-At a Durrask stead in [[place-thornwold|The Thornwold]], Kadrum hears the report in the presence of those who keep his people’s count. This is a meeting during his present term, not a second autumn swearing. He names his brother’s death and asks for the name that answers it.
+At a Durrask stead in [[place-thornwold|the Thornwold]], Kadrum hears the report in the presence of those who keep his people’s count. This is a meeting during his present term, not a second autumn swearing. He names his brother’s death and asks for the name that answers it.
 
 **Choices and evidence.** Have the count recited, ask what a safe-conduct covers, or negotiate the horses apart from the death. The count’s keepers do not accept money as a death. Kadrum can release mares for payment, prisoners or a useful service without claiming the entry paid, if the bargain is made openly. He can also refuse.
 

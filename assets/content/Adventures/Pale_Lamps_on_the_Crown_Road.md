@@ -7,25 +7,25 @@ description: A line of pale lamps lights the old Crown Road at dusk to a relay h
 tags: []
 data:
   parents: []
-  locations: [wenlornestage, dunmere, thornwold, fernbank]
-  cast: [wenlornereeve, damut]
+  locations: [wenlornestage, dunmere, thornwold, fernbank, threndale]
+  cast: [wenlornereeve, damut, mirlatssm]
   factions: [kngdmldrth, vrgldhld]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-A relay house on a road older than any realm lights its lamps every dusk, takes in every traveler and lets none go. The keeper is a dead road-reeve whose oath was caught by [[lore-theshadow|The Shadow]], and he serves supper to the living with perfect courtesy. The party goes in to find what lies in the strong-room, and must find a way to leave.
+A relay house on a road older than any realm lights its lamps every dusk, takes in every traveler and lets none go. The keeper is a dead road-reeve whose oath was caught by [[lore-theshadow|the Shadow]], and he serves supper to the living with perfect courtesy. The party goes in to find what lies in the strong-room, and must find a way to leave.
 
 ## Overview {#overview}
 
-[[place-wenlornestage|Wenlorne Stage]] stands halfway along a whole stretch of [Crown Road]{.name data-type="place/feature"} between [[place-dunmere|Dunmere]] and [[place-hallowwood|Seirasto]], through the oak woods of [[place-thornwold|The Thornwold]]. Its keeper, the [[being-wenlornereeve|Reeve of Wenlorne]], is the dead officer of the elder kingdom, held to his post by an oath the Shadow reads as a command to keep every guest under his roof until the road is safe. He lights the road to the gate, feeds those who come, writes their names on a board and does not open the gate again. His **porters** are the dead of the last night of the [Great War]{.name data-type="lore/history"}, and they serve him because they believe he is protecting them.
+[[place-wenlornestage|Wenlorne Stage]] stands halfway along a whole stretch of [Crown Road]{.name data-type="place/feature"} between [[place-dunmere|Dunmere]] and [[place-hallowwood|Seirasto]], through the oak woods of [[place-thornwold|the Thornwold]]. Its keeper, the [[being-wenlornereeve|Reeve of Wenlorne]], is the dead officer of the elder kingdom, held to his post by an oath the Shadow reads as a command to keep every guest under his roof until the road is safe. He lights the road to the gate, feeds those who come, writes their names on a board and does not open the gate again. His **porters** are the dead of the last night of the [Great War]{.name data-type="lore/history"}, and they serve him because they believe he is protecting them.
 
 ## Hooks {#hooks}
 
-- **The thief.** A quartermaster of the king's foresters at Dunmere who has lost his nerve offers a purse for the crown strongbox the old reeves kept. He has a copy of the stage's plan from a surveyor's book and says it is under the tower.
-- **The mercenary or common soldier.** The captain of the king's foresters at Dunmere needs men to find the ninth patrol, which took the old road in the autumn and did not return. He cannot spare his own.
-- **The leader.** An elder of [[lore-vardain|The Vardain]] from the valleys below [[place-ironfells|The Ironfells]] wants the stage's ledger. The [[lore-khazariclt|Khazari]] say it carries a list of the Vardain who passed the gate in the last year of the war, and the elder's family is on it.
+- **The thief.** An unsigned note left for the party at an inn in Dunmere offers a purse for the crown strongbox the old reeves kept, paid to whoever leaves the box with the innkeeper. It encloses a copy of the stage's plan from a surveyor's book and says the box is under the tower.
+- **The mercenary or common soldier.** A notice of the king's foresters at the market cross in Dunmere offers a purse to hired men who find the ninth patrol, which took the old road in the autumn and did not return. The foresters cannot spare their own.
+- **The leader.** [[being-mirlatssm|Mirla Tessem]], Keeper of the Dead of [[lore-vardain|the Vardain]] at [[place-threndale|Threndale]] in the valleys below [[place-ironfells|the Ironfells]], wants the stage's ledger. The [[lore-khazariclt|Khazari]] say it carries a list of the Vardain who passed the gate in the last year of the war, and she wants every name on it kept at Threndale with the valleys' dead.
 - **The lone wanderer.** The wanderer is caught on the old road at dusk, with the forest dark on either side and a line of pale lamps showing the way.
 
 ## Cast and Stakes

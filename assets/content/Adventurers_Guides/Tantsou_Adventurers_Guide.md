@@ -43,7 +43,7 @@ The empire writes everything down, and its best-known works are written the way 
 
 ## Ways In
 
-[[scenario-embsydnvrtantsou|The Embassy from Dunavarre to Tantsou]] carries a party east as part of a western embassy. A Vedyari astronomer crossing Jnanadvar needs guards and someone to stand beside him while he is classified. A merchant's trading classification is about to expire with his goods still in the warehouse. A tablet bought from the wrong person in a port quarter is either a forgery or a trap, and each answer has someone who wants it found.
+[[scenario-embsydnvrtantsou|The Embassy from Dúnavarre to Tantsou]] carries a party east as part of a western embassy. A Vedyari astronomer crossing Jnanadvar needs guards and someone to stand beside him while he is classified. A merchant's trading classification is about to expire with his goods still in the warehouse. A tablet bought from the wrong person in a port quarter is either a forgery or a trap, and each answer has someone who wants it found.
 
 ## Where to Read Next
 
