@@ -436,4 +436,4 @@ Few; she is respected by those she helps but has made enemies among those who pr
 
 1. **Off the roll.** The Keeper of the Roll has struck Thésira's name for taking a contract against a merchant of the council, and a man off the roll may not take hire in [[place-herthema|Herthema]] lawfully. She asks a party to learn which councilor asked for it.
 2. **A client she despises.** The only contract on offer is from a client whose methods Thésira despises, and a company will not be founded on an empty purse. [[being-pramizamozk|Prámiza Mozkarreta]] has offered her a place in her own company.
-3. **The reform faction's guards.** The reform faction among the council's merchants is hiring bodyguards, and Thésira has been asked to guard the merchant who wants Dometh Graveth discredited. She asks a party to learn whether the man is in danger or the cause of it.
+3. **The reform faction's guards.** The reform faction among the council's merchants is hiring bodyguards, and Thésira has been asked to guard the merchant who wants [[being-domthgrvth|Dometh Graveth]] discredited. She asks a party to learn whether the man is in danger or the cause of it.

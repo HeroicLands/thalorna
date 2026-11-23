@@ -3,7 +3,7 @@ shortcode: kldrnjthrn
 name: {full: Kaldrén Gútharen}
 type: being
 subType: npc
-description: "A free-born Tarvenan miner sold into slavery after capture and held at the iron mine of Ardalis in Tarvénia, who has tried to escape more than once."
+description: "A Tarvenan miner held at the iron mine of Ardalis in Tarvénia, who has tried to escape more than once."
 tags: [common-folk]
 data:
   icon: icon-person
@@ -441,4 +441,4 @@ Overseers who resent his rebellious nature.
 
 1. **The second count.** The Warden of the Iron has begun counting blooms twice, and nobody in [[place-ardalis|Ardalis]] can say whom the second count is for. Kaldrén has seen a cart leave the tower yard after the counts with a load that matches neither.
 2. **The lowland offer.** A Liénriki merchant has offered one mining family a price for its ore that no forge can match, and the family is in debt. Kaldrén's overseer is one of its relatives, and he asks a party to carry a message out of the mine.
-3. **Over Zurgando.** Kaldrén has found a way out of the galleries that opens above the town. He asks a party to take him up the dead road to Zurgando before the Warden's men find the gap.
+3. **Over Zurgando.** Kaldrén has found a way out of the galleries that opens above the town. He asks a party to take him up the dead road to [[place-zurgando|Zurgando]] before the Warden's men find the gap.

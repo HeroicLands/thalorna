@@ -420,7 +420,7 @@ Skilled in grain farming, strong and tireless, experienced with stock.
 
 ## Social
 
-Alvarik sits in the Freemen's Assembly of Nebralis, the communal assembly of the town and its country, where he has a voice and uses it.
+Alvarik sits in the [Freemen's Assembly of Nebralis]{.name data-type="affiliation/governmental"}, the communal assembly of the town and its country, where he has a voice and uses it.
 
 ## Companions
 

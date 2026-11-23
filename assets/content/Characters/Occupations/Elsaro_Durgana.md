@@ -431,7 +431,7 @@ Many; rivals, and the enemies of his clients.
 
 ## Plot Hooks
 
-1. **The lord's offer.** Riders of Nizel Ganotis offer Élsaro a commission at [[place-thorgila|Thórgila]] that he has not yet refused, and he asks a party to learn which of the lord's enemies the lord fears most.
+1. **The lord's offer.** Riders of [[being-nizelganotis|Nizel Ganotis]] offer Élsaro a commission at [[place-thorgila|Thórgila]] that he has not refused, and he asks a party to learn which of the lord's enemies the lord fears most.
 2. **A buyer at the stone.** A horse-seller swears a horse's age at the oath stone and the horse-judge reads its teeth and says otherwise. The seller has friends among the crossbowmen home from contract, and Élsaro asks a party to find who hired him as the seller's witness.
 3. **The crossbowman's return.** A crossbowman home from six years under contract has seen Élsaro's face in a place Élsaro has never been. He asks a party to learn who is wearing it.
 

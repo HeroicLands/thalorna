@@ -432,11 +432,11 @@ Among the coastal nobility and merchant classes, Pálina is viewed as somewhat q
 
 **Enemies:**
 
-- **Lord [[being-tharozobrazi|Tharozo]]**, a wealthy merchant who approached Pálina for intimate counsel and was rebuffed. He views her rejection as an affront and has begun subtly undermining her reputation in higher circles, suggesting her work is beneath her station.
-- **Father [[being-gaimelkorvat|Gaimel]]**, an older priest of one of the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] whose austere views of spirituality directly conflict with Ólvenia’s philosophy. He views Pálina as a corruptor of proper religious order and has been agitating for stricter oversight of temple activities in Herthema.
+- **Lord [[being-tharozobrazi|Tharozo Brazis]]**, a wealthy merchant who approached Pálina for intimate counsel and was rebuffed. He views her rejection as an affront and has begun subtly undermining her reputation in higher circles, suggesting her work is beneath her station.
+- **Father [[being-gaimelkorvat|Gaimel Korvathandis]]**, an older priest of Herthema's temple of Ólvenia whose austere view of the temple's work sets him against hers. He views Pálina as a corruptor of proper religious order and has been agitating for stricter oversight of the temple's work in Herthema.
 
 ## Plot Hooks
 
-1. **The oversight.** [[being-gaimelkorvat|Gaimel Korvathandis]] wants witnesses to what Pálina does among the poor, and he will pay strangers to watch her. She asks a party to take his purse and learn who gave it to him.
+1. **The oversight.** [[being-gaimelkorvat|Gaimel Korvathandis]] wants witnesses to what Pálina does among the poor, and he will pay strangers to watch her. She can ask a party to take his purse and learn who gave it to him, or stop the visits his watchers report and lose the women who come to her.
 2. **The merchant's slight.** [[being-tharozobrazi|Tharozo Brazis]] has told the council that her work is beneath her station. She asks a party to carry her answer to the council before the next sitting.
 3. **The woman at the door.** A bonded servant from a merchant house comes to the temple door asking for the blessing that frees a woman's hands. Pálina asks a party to learn whom the servant serves, and to see her home safely.

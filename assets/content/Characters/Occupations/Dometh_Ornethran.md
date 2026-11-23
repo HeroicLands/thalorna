@@ -434,7 +434,7 @@ Rival actors who resent his success.
 
 1. **The adept in the square.** The [[affiliation-cncldrgls|Council of Dúrgalis]] wants [[lore-adepthail|the Adept and the Hail]] played in the square at the autumn fair, and Dometh, home from the coast's stages, is asked to play the adept before a valley that counts its liars the same afternoon.
 2. **The day after.** Hail has come out of a clear sky onto a single field, and its owner swore in the square the day before. The assembly asks Dometh to play the scene before the owner, to see whether he flinches.
-3. **The Valaron note.** A Valthari house holds the note on the Valaron ship, and the Valaron family asks Dometh to carry a letter to a patron there pleading for time. The patron's house also pays for his best nights on the coast, and the letter may cost him them.
+3. **The Valaron note.** A Valthari house holds the note on the Valaron ship, and the Valaron family asks Dometh to carry a letter to a patron there pleading for time. The patron's house also pays for his best nights on the coast, and carrying the letter may cost him those nights.
 
 :::secret {title="What the referee knows"}
 Dometh is deeply insecure and fears that he will one day be forgotten. The fame he enjoys covers it, and the autumn fair, the one audience he has never failed, is where he most needs to be remembered.

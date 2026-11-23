@@ -421,7 +421,7 @@ Fast reflexes, skilled at maneuvers, resourceful in challenging situations.
 
 ## Social
 
-Kolrith is a master of the Pilots' Guild of Valthari, which examines every pilot who works the bar, and holds the city's freedom as a Master of a Trade.
+Kolrith is a master of the [Pilots' Guild of Valthari]{.name data-type="affiliation/guild"}, which examines every pilot who works the bar, and holds the city's freedom as a Master of a Trade.
 
 ## Companions
 
@@ -435,6 +435,6 @@ Few; generally well-liked, but some competitors may resent his success.
 
 ## Plot Hooks
 
-1. **The bar in the storm month.** A merchant house has offered a charter that would clear Kolrith's debts, for a crossing in the month the pilots of [[place-valthari|Valthari]] do not sail. He asks a party to ride with him and see that the cargo is what the manifest says.
+1. **The bar in the storm month.** [[being-dalenavlrn|Dálena Valaron]]'s house has taken a charter for the month the pilots of [[place-valthari|Valthari]] do not sail, and she wants Kolrith to pilot her ship over the bar. He asks a party to ride with him and see that the cargo is what the manifest says, since a pilot who crosses in the closed month answers to his guild.
 2. **The strike-breaker.** The seamen refuse to sign until the owners raise the share, and the owners' council has asked Kolrith to pilot the strike-breaking ship across the bar. He asks a party to learn what the guild will do to him if he agrees.
 3. **The shifted channel.** The bar has shifted in the night and Kolrith alone knows where the new channel runs. A merchant house offers a fortune for the chart, and the Pilots' Guild holds that a channel belongs to every pilot who works the bar.

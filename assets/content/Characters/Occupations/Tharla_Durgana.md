@@ -433,4 +433,4 @@ Other servants resent her for trying to gain favor with the masters.
 
 1. **The woman at the temple door.** [[being-palnsnrcth|Pálina Sánriseth]] has begun to feed the poor at the temple of Ólvenia, and Tharla's mistress has forbidden her to go. Tharla asks a party to carry a message to Pálina about a woman who might be freed.
 2. **The seller.** A factor of the house Tharla serves is the man who bought her, and she has seen him at the sellswords' roll with the Keeper. She asks a party to learn whether he trades in captives from the Western March's raids.
-3. **The reform faction's dinner.** The merchants of the reform faction dine in her mistress's house. Tharla hears every word and asks a party to carry what she has heard to Dometh Graveth.
+3. **The reform faction's dinner.** The merchants of the reform faction dine in her mistress's house. Tharla hears every word and asks a party to carry what she has heard to [[being-domthgrvth|Dometh Graveth]].

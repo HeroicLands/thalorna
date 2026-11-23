@@ -420,7 +420,7 @@ Clever and resourceful, good at navigating red tape.
 
 ## Social
 
-Valaren is a clerk of the Court of Pleas at Torvaleth, a Freeman of [[affiliation-kingdmlnrk|Lyenrik]] who copies and keeps the plea rolls.
+Valaren is a clerk of the [Court of Pleas]{.name data-type="affiliation/governmental"} at Torvaleth, a Freeman of [[affiliation-kingdmlnrk|Lyenrik]] who copies and keeps the plea rolls.
 
 ## Companions
 
@@ -436,4 +436,4 @@ Fellow bureaucrats who distrust his methods.
 
 1. **The record that moves a house.** A charter has turned up in the plea rolls that would raise one house on the Roll of Houses and ruin another. Valaren is offered a purse by both and asks a party to carry the charter to a third.
 2. **The Master of the Fair.** The tolls at the [[place-torvaleth|Torvaleth]] harvest fair fell short, and the Master of the Fair blames the clerks. Valaren asks a party to find the clerk who altered the tally.
-3. **The king's road.** A letter in the king's hand ordering the lowland lords to the High King's election has been copied twice. Valaren asks a party to find who has the second copy.
+3. **The king's road.** A letter in the king's hand ordering the lowland lords to the High King's election has been copied twice. Valaren asks a party to find who has the second copy, because the clerk who copied it twice is the one the Court of Pleas will blame.

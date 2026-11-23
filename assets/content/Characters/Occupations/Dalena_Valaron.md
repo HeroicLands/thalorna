@@ -422,7 +422,7 @@ A fine leader of a crew, speaks well and plainly, skilled in the stowing and han
 
 ## Social
 
-Dálena holds her license from the Pilots' Guild of Valthari, chartered under [[affiliation-tevran|the Tevran Maldor]], which examines every pilot who takes a ship in over the port's bar.
+Dálena holds her license from the [Pilots' Guild of Valthari]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|the Tevran Maldor]], which examines every pilot who takes a ship in over the port's bar.
 
 ## Companions
 

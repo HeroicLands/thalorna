@@ -427,6 +427,6 @@ Jealous musicians who see her as competition.
 
 ## Plot Hooks
 
-1. **The verse-duel.** The horse-judge Thelvar Mozkarreta has given Ánira the theme of the year's bout, and the other singer's backers say the theme was bought. She asks a party to learn who.
-2. **The lord's riders.** Riders of Nizel Ganotis ask Ánira to sing at the lord's table after the fair. She asks a party to go with her.
-3. **A line sung twice.** The town and the upper farms sing one line of the fair verses differently, and both versions are kept. A scholar asks Ánira to settle which is older.
+1. **The verse-duel.** The horse-judge [[being-thelvarmozk|Thelvar Mozkarreta]] has given Ánira the theme of the year's bout, and the other singer's backers say the theme was bought. She asks a party to learn who.
+2. **The lord's riders.** Riders of [[being-nizelganotis|Nizel Ganotis]] ask Ánira to sing at the lord's table after the fair, and the lord's credit is bad. She asks a party to go with her, and singing for him may cost her the town's inns.
+3. **A line sung twice.** The town and the upper farms sing one line of the fair verses differently, and both versions are kept. A scholar asks Ánira to settle which is older. The town and the upper farms each hold their version dear, and whichever she names costs her the other's custom.
