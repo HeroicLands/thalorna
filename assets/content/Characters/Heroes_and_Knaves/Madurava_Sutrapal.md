@@ -3,6 +3,7 @@ shortcode: madurvstrpl
 name: {full: Madurava Sutrapal, given: Madurava, clan: Sutrapal, vedy: [madru]}
 type: being
 subType: character
+description: "A fifty-year-old herald of Chendrapur and senior keeper of the heralds' archive, whose certification of a house's line is what the crown asks for before it confirms a Kulena's heir."
 tags: [heroes-and-knaves, guilded, administration]
 data:
   icon: icon-person
@@ -23,7 +24,7 @@ data:
     eye_color: amber
     hair_color: greying_brown
     skin_color: medium
-    complexion: [scarred]
+    complexion: []
     nose: narrow
     mouth: wide
     extra_features: [a scar on the left foot]
@@ -456,110 +457,108 @@ sohl:
 
 ![[madurvstrpl|Madurava Sutrapal]]{float=top-left}
 
-Madurava stands 5'10" tall with a medium build. He has medium brown skin, graying dark brown hair, and honey brown eyes. His features include a diamond-shaped face, a narrow nose, a narrow chin, a wide mouth, medium brows, and soft cheeks. He has a scar on his left foot.
+Madurava is a man of fifty, 5'10" and of medium build, with medium brown skin, dark hair gone gray at the temples, honey brown eyes and a narrow nose. A scar on his left foot gives his walk a slight drag that he does not mention. He wears the heralds' silk robe with the senior heralds' ornaments, an ink-stained left sleeve and a leather case of seals at his belt, and he speaks slowly and precisely, as though each sentence is going into a register.
 
 # Dossier {#dossier}
 
-## Background
+## The Keeper of Lines
 
-### The Scholar's Calling
+Madurava was born into [House Sutrapal]{.name data-type="affiliation/lineage"}, a small, respected family of [[place-chendrapur2|Chendrapur]] known for its scribes. His father taught him to read a line of descent as other boys learn a trade: who stood at whose pyre, who was named at the wrist, and which house's charter a marriage moved. At twenty-two he settled a succession dispute that was setting two quarters of the city against each other, tracing the true heir of a disputed Shroshtin title through three generations of records, and the heralds' shrena offered him full membership.
 
-Madurava was born into [House Sutrapal]{.name data-type="affiliation/lineage"}, a minor but respected family of [[place-chendrapur2|Chendrapur]] known for their mastery of written records and genealogical study. His father, a scribe of some renown, taught young Madurava the sacred discipline of heraldry—as the art of rendering arms and blazonry, and as a language of political authority, ancestral legitimacy, and divine right. Where other youths his age pursued martial glory or mercantile wealth, Madurava devoted himself to the study of lineages, precedences, and the elaborate ceremonial forms that governed the complex relationships between the city's competing factions of the great houses. By his twentieth year, he had begun to establish himself as an authority on matters of succession and genealogical claim.
+The seats of [[affiliation-chendrapur|the Nine Houses]] descend within the houses, and the crown confirms each succession and has twice refused one. Before it confirms, it asks for the herald's certificate of the heir's line, and Madurava has written more of those than any other herald living. His chambers in the heralds' archive hold two centuries of lines, cross-referenced by his own hand, and he has advised the appointment of more heirs than he can list.
 
-### The Rise to Authority
+## The Archive
 
-His true ascension came at age twenty-two, when he successfully arbitrated a succession dispute that threatened to set two of the city's quarters against each other. Through painstaking genealogical research and masterful interpretation of obscure heraldic precedent, Madurava determined the legitimate heir to a disputed Shroshtin title. The case established his reputation as both scholar and diplomat, and the heralds' shrena of the city recognized his genius by offering him full membership—an extraordinary honor rarely extended to one so young. Over the ensuing decades, his counsel was sought by increasingly powerful heads of the Nine Houses, his interpretations of ceremony became authority, and his voice shaped the very structure of succession and legitimacy within the court of the Nine.
+The archive is the heralds' own, and it stands between the Houses and the crown in a city where neither can do without the other. A House that wants a seat confirmed needs a certified line. The crown that confirms it needs the certificate to be true. Madurava stands in the middle, certifying, and a certificate from his hand has not been refused in thirty years.
 
-### The Keeper of Tradition
+He has served two Maharavas of [[place-moonhouse|the Moon House]] and kept the lines of three Houses that rose and fell. The Rojni of the Moon House, [Sujrika]{.name data-type="being/npc"}, has relied on his counsel for thirty years to keep her household's standing and to settle succession questions in her favor.
 
-Now, at fifty, Madurava has become something of a living institution. He has served two Maharavas of [[place-moonhouse|the Moon House]], advised the appointments of countless heirs of the great houses, and witnessed the rise and fall of three major houses through carefully documented genealogical records. His chambers in the heralds' archive contain records dating back two centuries, all carefully maintained and cross-referenced by his own hand. Younger heralds regard him with a mixture of reverence and resentment—he is the keeper of the old ways, the guardian of tradition against the modernizing impulses that increasingly threaten to undermine the formal structures of governance by the great houses. He has trained fewer than a dozen successors in his long service, preferring to maintain absolute control over the most sensitive genealogical records and precedential interpretations.
+## The Heir to the Archive
+
+Younger heralds regard him with reverence and impatience. Herald [[being-kalyanikakal|Kalyanika Kalira]], called the Modernizer, argues that many of the archive's customs are bureaucratic theater and that a certificate should be issued in a month and not a season. Madurava has privately chosen the herald who will keep the archive after him, and he is aware that his years of keeping it are limited.
+
+[House Vakhora]{.name data-type="affiliation/lineage"}, a merchant family that wants a seat among the Nine, has twice put forward a line that Madurava has refused to certify. It is rumored to be sponsoring forged papers to discredit him.
 
 ## Psyche
 
 ### Personality
 
-Madurava is, above all, a man devoted to order and precedent. He speaks with deliberate formality, referencing historical precedent and documented custom in virtually every utterance. His sense of humor is dry and often mystifying to those not deeply versed in heraldic subtlety. He approaches every situation as a potential establishment of legal precedent, viewing informal or spontaneous action as a dangerous threat to established order. Yet the rigid exterior covers a real intellectual passion—he delights in the elegant logic of genealogical problems, and will spend hours in discussion of the finer points of succession law with those who can keep pace with his thinking. He views younger heralds with a complex mixture of paternal interest and territorial suspicion, often testing them with obscure questions to determine whether they are worthy of the knowledge he guards. In private, particularly when discussing history and lineage, he can be surprisingly warm and even avuncular.
+Madurava is devoted to order and precedent. He cites a ruling in nearly every sentence, and his dry humor is lost on anyone who does not know the rulings. He treats an improvised act as a danger to the order, and he is anxious when a situation will not fit a form. Behind the rigid manner is a real passion for the shape of a family across centuries.
 
 ### Motivation
 
-Madurava is driven by a conviction that the careful maintenance of heraldic tradition and genealogical record is essential to the preservation of civilization itself. He sees his role as guardian of records and, through them, of the social order itself. He is also motivated by a deep concern that the rising generation of heralds lacks the rigor and dedication necessary to maintain these standards, and he fears that once his knowledge passes from the world, Chendrapur will lose touch with the historical understanding that has preserved stability through generations. There is a personal element too: Madurava has never married and has dedicated his entire life to his work, and he seeks a successor worthy enough to inherit not just his office but his absolute commitment to heraldic truth and historical accuracy.
+He wants the archive's lines kept whole and truthful past his own death, and he wants an heir who will keep them so. He fears that Chendrapur will lose its memory of itself.
 
 ### Strengths
 
-Encyclopedic Heraldic Knowledge
-: Madurava's understanding of precedent, ceremony, and genealogical law has no equal in Chendrapur. He can cite obscure rulings from a century prior without consulting records.
+Precedent
+: He can recite a ruling from a century back without consulting a record, and judges defer to him.
 
-Diplomatic Acumen
-: Though rigid in matters of formal ceremony, he is extraordinarily skilled in political disputes when they involve matters of precedence and legitimacy.
+Formal Speech
+: He delivers a genealogy, a ruling or a ceremonial address in a voice that carries a hall.
 
-Scholarly Authority
-: His voice carries weight in matters of law and custom; other scholars and judges defer to his interpretations almost reflexively.
-
-Master Orator
-: His eloquence and vocal control are of a high order; he can deliver formal pronouncements, genealogical recitations, and ceremonial speeches with compelling authority.
-
-Record-Keeping Excellence
-: His personal archives are models of organization and accuracy; he possesses instantaneous recall of genealogical connections and historical precedent.
+Record-Keeping
+: His own papers are orderly enough that he can find any line in his chambers in the time it takes to ask.
 
 ### Weaknesses
 
-Rigidity in Crisis
-: When situations demand flexibility or improvisation outside the formal observances, Madurava becomes uncertain and potentially paralyzed by concern for precedent.
+Rigidity
+: When a matter calls for improvisation outside the forms, he stalls.
 
-Dismissiveness of Innovation
-: He regards new methods of record-keeping, new interpretations of law, or departures from traditional ceremony as threats rather than potential improvements.
+Distrust of Novelty
+: He treats new methods of record-keeping as a threat to the archive's standing.
 
-Emotional Distance
-: His devotion to order has made him distant from ordinary human emotion; he struggles to empathize with personal crises that do not fit neatly into his conceptual frameworks.
+Insularity
+: He knows the great Houses and has little experience of life outside them.
 
-Isolation and Insularity
-: He has limited experience of the common people or the realities of life outside formal circles of the great houses, making his judgments sometimes naive regarding practical human concerns.
-
-Physical Vulnerability
-: Despite his authority, he is physically unimposing and has never trained in combat; any direct physical confrontation would overwhelm him.
+Frailty
+: He has never trained to fight and cannot defend himself against anyone.
 
 ## Social
 
-### Patrons
+### Patrons and Allies
 
-Rojni [Savia]{.name data-type="being/npc"} of [[place-moonhouse|the Moon House]]
-: The Maharava's chief queen, who holds her own revenues, household and voice at court, and has relied on Madurava's counsel for thirty years to keep her household's standing and resolve succession questions in her favor.
+The Rojni, [Sujrika]{.name data-type="being/npc"}
+: The Maharava's chief queen, who holds her own revenues, household and voice at court and has trusted his counsel for thirty years.
 
-[[affiliation-chendrapur|The court of the Nine Houses]]
-: The Kulena who sit on the nine seats seek his counsel on the successions within their houses, which the crown must confirm before an heir takes his seat.
+[[affiliation-chendrapur|The Nine Houses]]
+: Whose Kulena come to him for the certificate of an heir's line before the crown will sit it.
 
-### Enemies
+### Rivals
 
-Herald [[being-kalyanikakal|Kalyanika]] the Modernizer
-: A younger herald of considerable talent who advocates for streamlined heraldic processes and argues that many of Madurava's "sacred traditions" are merely outdated bureaucratic theater, directly challenging his authority.
+Herald [[being-kalyanikakal|Kalyanika Kalira]]
+: A younger herald who argues for quicker, plainer processes and challenges his authority in the archive.
 
 [House Vakhora]{.name data-type="affiliation/lineage"}
-: An ambitious merchant family whose genealogical claims Madurava has repeatedly denied in favor of more established houses; they are rumored to be sponsoring forged genealogical documents to discredit him.
+: A merchant family whose line he has twice refused to certify and which would like him discredited.
 
 ### Affiliations
 
 The heralds' shrena
-: Senior member and de facto keeper of the archive; wields enormous influence over the shrena's direction and standards.
+: Senior member and keeper of its archive.
 
-A circle of scholars
-: Founding member of an elite circle of scholars devoted to the preservation and study of Chendrapur's historical records.
+[[affiliation-chendrapur|Chendrapur]]
+: A Karmija of an artisan house, with an office that the crown cannot fill without him.
 
-House Sutrapal
-: His family house, for whom he acts as primary genealogical advisor and keeper of family records.
+[[affiliation-vrnkpnthn|Varnuka Pantheon]]
+: A lay believer, who keeps the household observances of the Pantheon.
 
 ## Plot Hooks
 
-The Forged Heir
-: A scandal erupts when evidence appears suggesting that a document in Madurava's own archive—one establishing the legitimacy of a sitting Kulena's line—is a forgery dating back forty years. The discovery threatens one political figure and, beyond him, the stability of the whole court of the Nine. Madurava becomes both investigator and defendant as competing factions use the scandal to advance their positions. The party might be hired to discover who forged the document, when, and to what purpose—or to help Madurava manage the political aftermath while preserving what remains of the legal order he has maintained.
+The Forged Line
+: A document in Madurava's archive, one that certifies a sitting Kulena's line, is shown to be a forgery forty years old. The Kulena's rivals call for his seat, and Madurava is both the investigator and the man whose certificate it is. He hires the party to find who made it and when. If the forgery stands, the seat is empty and the crown must choose, and Madurava's name goes into the same register.
 
-The Herald's Succession
-: Madurava finally selects an heir: a brilliant but headstrong younger herald named [Sorita]{.name data-type="being/npc"} who possesses the knowledge but lacks the reverence for tradition that Madurava considers essential. When Sorita begins immediately implementing reforms and reinterpreting precedents, Madurava finds himself facing opposition from his own chosen successor. The party becomes caught between the old herald's attempt to reassert authority and the new generation's desire to reshape the office for a changing age. The resolution will determine whether heraldic tradition survives in recognizable form.
+The Successor
+: Madurava has chosen [Sorita]{.name data-type="being/npc"}, a brilliant and headstrong young herald, to keep the archive after him. Sorita has begun to reinterpret precedents on her own authority, and Kalyanika has taken her side. Madurava asks the party to carry his withdrawal of the choice to the shrena before Sorita's first certificate reaches the crown. If it does, her reading of the Kulena's line becomes the record.
 
-The Secret Archives
-: Madurava discovers that his predecessor maintained a hidden archive—records of genealogical secrets, illegitimate children, falsified claims, and scandals deliberately omitted from the official record. The knowledge contained within could dismantle half the great houses currently in power. He can preserve secrecy and tradition, or expose truths that demand justice. The party may become his agents in either covering up the scandal or carefully releasing information to destabilize the corrupt power structures the false records have protected.
+The Vakhora Papers
+: House Vakhora presents a line that places it three generations back in a Shroshtin house, with a witness who will swear to it. Madurava has refused it and the crown will sit the matter in the dry season. He hires the party to find the papers' maker before the sitting. A mistaken refusal makes him the man who kept a House from its seat, and a mistaken finding ends his certificate.
 
-A Matter of Legitimacy
-: A mysterious woman appears in the city claiming to be the true heir to the throne of the Moon House through a genealogical line that Madurava had presumed extinct. Her documentation is impeccable; her claim appears legitimate. Yet he suspects that she may be an impostor—and her revelation would overturn the current ruling structure. The party is hired to investigate her genealogy, travel to distant lands to verify family records, and determine whether she is who she claims or an elaborate deception. In the process, they discover far deeper conspiracies involving forged documents, hidden marriages, and political assassination.
+The Dying Kulena
+: A Kulena of an old house is dying with two claimants and no certified line. The rites and the order of the hall are older than any record, and only Madurava knows them. Both claimants' households want the party at the pyre as guards. A party that guards the wrong side has chosen a seat by presence.
 
-The Ritual of Succession
-: A great Kulena of ancient family approaches death, and an elaborate ceremonial succession must be conducted according to traditions so archaic that only Madurava fully understands them. The ceremony requires the participation of various warring factions within the city, and maintaining order and propriety while honoring the dead becomes a complex diplomatic challenge. The party acts as ceremonial guards or investigators as various factions move to manipulate the succession through ritual interruption, revelation of damaging genealogical truths, or outright assassination. The success or failure of the ceremony will determine the balance of the nine seats for the next generation.
+:::secret {title="What the referee knows"}
+The forged certificate was written by Madurava's father at the old Kulena's request, and Madurava found it thirty years ago and left it in the archive rather than strike it. House Vakhora's line is also false, and Kalyanika has the means to prove the Sutrapal forgery.
+
+His predecessor kept a second archive of omitted lines, illegitimate heirs and struck claims. Madurava has read it and kept it closed. Its contents could unseat several of the Nine, and he has not decided whether to burn it.
+:::

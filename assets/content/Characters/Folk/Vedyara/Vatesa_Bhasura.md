@@ -412,7 +412,7 @@ The temple's spring festival is one of the largest in the city, and Vatesa sets 
 
 ## The Performance
 
-Three years ago [[being-vishalblry|Vishali Balarnaya]] played the festival ground on its second evening. In front of the largest crowd of the season she gave the seven evenings in the garden, the drop of oil on the wedding night and the clipping from the lotus pond as a piece of comedy, the temple's practice as superstitious theater, and the crowd laughed at all of it.
+Three years ago [[being-pavandblry|Pavandi Balarnaya]] played the festival ground on its second evening. In front of the largest crowd of the season she gave the seven evenings in the garden, the drop of oil on the wedding night and the clipping from the lotus pond as a piece of comedy, the temple's practice as superstitious theater, and the crowd laughed at all of it.
 
 Vatesa had her struck from his festival's lists that night, and persuaded the managers of several others to strike her from theirs. He counts her an offender against the temple. The bans have made her more famous in the city than the performance did.
 
@@ -424,7 +424,7 @@ Vatesa is gracious, musical, proud and long in memory. He is generous to the poo
 
 ### Motivation
 
-He wants Vishali Balarnaya to ask the temple's pardon in its own garden, before the same festival crowd that laughed.
+He wants Pavandi Balarnaya to ask the temple's pardon in its own garden, before the same festival crowd that laughed.
 
 ### Strengths
 
@@ -454,7 +454,7 @@ The households of the garden
 
 ### Rivals
 
-[[being-vishalblry|Vishali Balarnaya]]
+[[being-pavandblry|Pavandi Balarnaya]]
 : The fool who mocked the temple's practices on its own festival ground.
 
 ### Affiliations
@@ -471,10 +471,10 @@ The households of the garden
 ## Plot Hooks
 
 The Pardon
-: Vatesa offers to lift every ban if Vishali comes to the garden and asks pardon in front of the festival crowd. He hires the party to carry the offer to her, and to bring her if she accepts.
+: Vatesa offers to lift every ban if Pavandi comes to the garden and asks pardon in front of the festival crowd. He hires the party to carry the offer to her, and to bring her if she accepts.
 
 The Forged List
 : A festival list bearing Vatesa's seal has struck three other performers who mocked nothing. He did not write it. He wants to know who has his seal.
 
 The Second Evening
-: Vishali has been booked, under another name, for the garden festival's second evening this year. Vatesa learns of it three days before, and needs the party to find out which of his own priests made the booking.
+: Pavandi has been booked, under another name, for the garden festival's second evening this year. Vatesa learns of it three days before, and needs the party to find out which of his own priests made the booking.

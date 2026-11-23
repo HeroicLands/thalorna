@@ -418,9 +418,9 @@ She is a **Ritrija** of a family of the janpoda's priests and sits in the [[affi
 
 ## The Feast-Meal
 
-At Rasikara's feast the fire chamber feeds the town at its door. For three years Manduli has had the feast-meal cooked by [[being-vanikartns|Vanika Ratnisen]], the best cook in the janpoda, and has become her advocate and something like her spiritual companion.
+At Rasikara's feast the fire chamber feeds the town at its door. For three years Manduli has had the feast-meal cooked by [[being-danvikartns|Danvika Ratnisen]], the best cook in the janpoda, and has become her advocate and something like her spiritual companion.
 
-The difficulty is the order. Cooked food passes downward freely and upward not at all, and Vanika is a **Danhija**. The town eats her meal at the door without a second thought. The temple's priests do not touch it, and the chamber's own dish, from which the priests of the feast take the first portion, is still cooked by a Ritrija of the temple kitchen.
+The difficulty is the order. Cooked food passes downward freely and upward not at all, and Danvika is a **Danhija**. The town eats her meal at the door without a second thought. The temple's priests do not touch it, and the chamber's own dish, from which the priests of the feast take the first portion, is still cooked by a Ritrija of the temple kitchen.
 
 Manduli holds that Rasikara's fire changes what it touches, and that food cooked over the chamber's own fire carries no station but the god's. It is close to what the [[affiliation-agmipantra|Agmi-pantra]] teach about purgation, and the other Achoryas of the temple have noticed the closeness.
 
@@ -432,7 +432,7 @@ Manduli is warm, loud, blunt and fearless about doctrine. She laughs easily and 
 
 ### Motivation
 
-She wants it accepted at Rajepur that food cooked over Rasikara's fire carries no station, so that the temple's priests eat Vanika's feast-meal from the fire chamber's own dish.
+She wants it accepted at Rajepur that food cooked over Rasikara's fire carries no station, so that the temple's priests eat Danvika's feast-meal from the fire chamber's own dish.
 
 ### Strengths
 
@@ -454,7 +454,7 @@ The Temple Kitchen
 
 ### Patrons and Allies
 
-[[being-vanikartns|Vanika Ratnisen]]
+[[being-danvikartns|Danvika Ratnisen]]
 : The cook whose feast-meal she means to bring inside the temple.
 
 The households of Rajepur
@@ -466,7 +466,7 @@ The temple kitchen
 : The Ritrija who cook the chamber's dish, and the Achoryas of the other two forms who back them.
 
 [[being-akendra2|Akendra]]
-: Who wanted the feast-meal commission for himself and has said, at a good many tables, that Vanika's cooking is not worth a god's fire.
+: Who wanted the feast-meal commission for himself and has said, at a good many tables, that Danvika's cooking is not worth a god's fire.
 
 ### Affiliations
 
@@ -485,10 +485,10 @@ The temple kitchen
 ## Plot Hooks
 
 The First Portion
-: At this year's feast Manduli means to serve the priests from a dish Vanika has cooked over the chamber's fire, in front of the town. She hires the party to see that the dish reaches the chamber's door unspoiled, because she expects somebody to try.
+: At this year's feast Manduli means to serve the priests from a dish Danvika has cooked over the chamber's fire, in front of the town. She hires the party to see that the dish reaches the chamber's door unspoiled, because she expects somebody to try.
 
 An Ember at the Door
 : An Agmi-pantra ember-bearer has arrived in Rajepur and is praising Manduli's doctrine in the market. She did not ask for his help and it is ruining her. She asks the party to persuade him to move on.
 
 Spoiled Grain
-: Grain for the feast-meal has been found fouled in Vanika's storeroom. Manduli wants to know who did it before the sabhra hears of it and calls off the meal.
+: Grain for the feast-meal has been found fouled in Danvika's storeroom. Manduli wants to know who did it before the sabhra hears of it and calls off the meal.

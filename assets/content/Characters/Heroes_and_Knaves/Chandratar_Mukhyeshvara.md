@@ -3,6 +3,7 @@ shortcode: chndrtrmkhyshvr
 name: {full: Chandratar Mukhyeshvara, given: Chandratar, clan: Mukhyeshvara}
 type: being
 subType: character
+description: "The apothecary of Rajepur, a Danhija trained under Shimri Dormendra, whose remedies are among the finest on the Mahanodi and whose name is spoken lower than his skill deserves."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -444,108 +445,96 @@ sohl:
 
 ![[chndrtrmkhyshvr|Chandratar Mukhyeshvara]]{float=top-left}
 
-Chandratar stands 5'7" tall with a medium build. He has tawny brown skin, graying dark brown hair, and brown eyes. His features include a diamond-shaped face, a delicate nose, a gentle jawline, an expressive mouth, tawny brows, and high cheeks.
+Chandratar is a man of 5'7" and medium build, tawny-skinned, with graying dark brown hair, brown eyes, a delicate nose and high cheekbones. The tips of his fingers are stained yellow and blue from turmeric and indigo, and his robe smells of camphor from three rooms away. He speaks quietly and weighs each sentence before it leaves.
 
 # Dossier {#dossier}
 
-Born to a Danhija family of the merchant shrena in [[place-rajepur|Rajepur]], Chandratar was marked early for the apothecary's art. His family had connections to the scholar households of the temple, and as a youth he apprenticed under the famed Master [Kari Dormendra]{.name data-type="being/npc"}, learning which herbs heal and which kill, and the deeper principles of their essences and how they act together. The fires of the apothecaries' shrena of the Mahanodi towns burned brightly in his spirit then—a desire to ease suffering, to preserve life. He rose swiftly through the shrena ranks, his sharp perception and extraordinary skill with Herblore setting him apart.
+## The Apothecary of Rajepur
 
-Yet prosperity and renown drew attention of a different sort. Kulenas with poisoned rivals, merchants seeking to dissolve inconvenient competitors, and the shadowed folk who dwell in the margins of respectable society all began to find their way to his door. Chandratar discovered that the coin paid for a cure could be matched—and often exceeded—by coin paid for a bane. For the last two decades, he has walked an increasingly precarious line between healer and harbinger of death, his hands as likely to wield salvation as damnation. He maintains his legitimate apothecary practice, and indeed his remedies are among the finest in Vedyara, but whispers follow him through the shrena halls like smoke.
+Chandratar was born to a Danhija family of the merchant shrena in [[place-rajepur|Rajepur]] and apprenticed as a boy under [Shimri Dormendra]{.name data-type="being/npc"}, who taught him which herbs heal, which kill and how the two kinds work together. He rose quickly in the apothecaries' shrena of the towns of [[place-mahanodi|the Mahanodi]], and for twenty years his remedies have been the ones the temple infirmary asks for first. At the [Spring Festival of Vyalendra]{.name data-type="lore/gathering"}, when the town takes eight times its own number in pilgrims, his shop is the first place a hostel keeper sends a feverish stranger.
+
+Rajepur keeps no garrison and no armory, and its watch is twelve men who lock the granary at night. A death in the town goes to the sabhra, and the sabhra has no one to send but the people it already knows.
+
+## Whispers
+
+Shimri Dormendra died thirty years ago, and nobody at the time said the death was anything but age. In the years since, the shrena halls have said otherwise, always in low voices and always with Chandratar's name close behind. He has never answered the whispers. His remedies are good, his fees are fair and his shop is open on every festival night, and he has stopped hoping that is enough.
+
+[Mandavar]{.name data-type="being/npc"}, an apothecary of the shrena, has spent years trying to show that Chandratar sells poison as well as cure. The priests who keep the cremation-ground at [[place-muktoshvara|Muktoshvara]] have heard the talk, and Chandratar is a devotee of [[affiliation-rasikara|Rasikara]], whose fire the cremation-ground tends.
 
 ## Psyche
 
 ### Personality
 
-Chandratar is a man hollowed by compromise, his once-idealistic spirit eroded by pragmatism and moral convenience. He speaks in measured tones, each word weighed carefully—the habit of one who has learned that careless speech can cost lives. A sharp wit and a dark humor emerge only in private company, and his laughter, when it comes, carries an edge of bitterness. He is courteous to patrons and peers alike, but always with a certain distance, as though holding the world at arm's length. His composure covers a cynicism that has hardened into something approaching misanthropy; he assumes the worst of people because, in his experience, people are capable of much worse than he imagines.
-
-The paranoia is earned. **Master Kari Dormendra**, his mentor, was found dead under circumstances Chandratar knows were no accident—and many whisper that Chandratar himself had supplied the instrument of her demise. True or false, the accusation poisoned his spirit. Now he trusts no one completely, always keeping contingencies and escape routes mentally mapped, always aware of who enters his shop and what they might truly seek.
+Chandratar is courteous, dry and careful with words, and his humor comes out only among people he trusts. He assumes that an unexplained request has a reason behind it, and he reads a customer's face before he reads the prescription. He trusts few people entirely and keeps a way out of every room.
 
 ### Motivation
 
-Chandratar is driven by survival—his own, and that of his reputation and independence within the apothecaries' shrena and the janpoda. The knowledge that his name is whispered in dark corners both energizes and terrifies him. He continues his darker work partly from lucrative necessity (the coin pays exceedingly well), partly from fear of refusing dangerous patrons, and partly from a defiant pride: he will not be judged or controlled by the moral pretensions of others. He seeks to accumulate enough wealth and enough secrets about powerful people that no one will dare move against him, making himself too dangerous to destroy.
+He wants to keep his place in the shrena and his shop in Rajepur, and he wants the whispers to end without his having to answer them.
 
 ### Strengths
 
-Herbal Mastery
-: Unsurpassed skill in the identification, cultivation, preparation, and administration of medicinal plants. He knows their virtues and their vices, their healing properties and their capacity to induce suffering.
+Herb-Lore
+: He knows which plants heal, which harm and how the preparation changes both, and he can name a plant by its smell.
 
-Alchemical Knowledge
-: His understanding of mineral compounds, distillation, and chemical reactions allows him to craft remedies and poisons of devastating subtlety—agents that mimic natural illness or wear down slowly without detection.
-
-Perception and Insight
-: With perception as his highest attribute, Chandratar reads people with precision. He discerns truth from falsehood, desperation from casual interest, and the hidden motives behind polite requests.
-
-Discourse and Reasoning
-: His skill in reasoned argument and articulate discourse makes him a difficult person to accuse or condemn—he can talk his way through almost any confrontation with the shrena or with authorities.
+Reading People
+: He can tell from a customer's first sentence whether the sickness is in the body or in the household.
 
 Discretion
-: An absolute master of keeping secrets. His clients know that he will never speak of their patronage, and he extends the same silence to those who come seeking protection or allies.
+: He keeps the confidence of every patient, and a patient who is protected once tends to come back.
 
 ### Weaknesses
 
-Cynicism as Blindness
-: His assumption that all people are fundamentally corrupt prevents him from recognizing goodness or an honest ally, leaving him isolated and vulnerable to manipulation by those who feign vice.
+Suspicion
+: He assumes the worst of people, and it leaves him isolated from allies who might help.
 
-Moral Erosion
-: The line between justified self-preservation and casual wickedness has become so blurred that he can no longer clearly distinguish right from wrong, making him increasingly reckless with darker commissions.
+Frail Health
+: Years among poisons and fumes have cost him his strength. He cannot fight.
 
-Physical Fragility
-: Years of exposure to toxic fumes, poisons, and concentrated herbal compounds have weakened his endurance. He is not a fighter; direct physical confrontation is beyond his capability.
-
-Growing Notoriety
-: The more successful his darker work, the more dangerous his visibility becomes. Powerful enemies accumulate, and the day may come when his accumulated secrets are insufficient shield against determined revenge.
-
-Dependence on Shrena Protection
-: His continued operation depends on the apothecaries' shrena's willingness to defend him from accusation. Should the shrena turn against him, he would be vulnerable and exposed.
+The Shrena's Favor
+: His shop depends on the apothecaries' shrena continuing to stand behind him.
 
 ## Social
 
-### Patrons
+### Patrons and Allies
 
-[Serathis]{.name data-type="being/npc"} of the great house [Velyara]{.name data-type="affiliation/lineage"}
-: A widow of a great house whose husband died under mysterious circumstances. She sees to Chandratar's material comfort and protection within circles of the great houses in exchange for his discretion and the occasional remedy that addresses her more pressing inconveniences.
+[Sandvi]{.name data-type="being/npc"} of the great house [Velyara]{.name data-type="affiliation/lineage"}
+: A widow of a great house who sends for his remedies and keeps his name respectable at court.
 
-[Shroshtin Divocheus]{.name data-type="being/npc"}
-: A ruthless trader who controls shipping interests throughout Vedyara. He occasionally requires Chandratar's talents to see that troublesome competitors or dishonest agents do not live to cause further problems.
+The apothecaries' shrena
+: His guild, whose protection he repays with generous gifts to its stores.
 
-The silk traders of the river
-: A handful of Danhija families in the Mahanodi silk trade who value Chandratar's ability to make particularly troublesome slaves, witnesses, or creditors vanish quietly from their enterprises.
+### Rivals
 
-### Enemies
+[Mandavar]{.name data-type="being/npc"}
+: An apothecary of the shrena who has spent years trying to prove that Chandratar sells poison.
 
-Apothecary [Mandavar the Accuser]{.name data-type="being/npc"}
-: The most vocal critic within the apothecaries' shrena, Mandavar has been attempting for years to prove that Chandratar engages in poison-craft and murder-for-hire. His investigations have come dangerously close to truth on several occasions, and Chandratar lives in constant fear of what evidence Mandavar might uncover—or manufacture.
-
-[The Crimson Sisters]{.name data-type="affiliation/criminal"} (Assassins' Collective)
-: A loose confederacy of hired killers who view Chandratar's poison-work as encroachment on their exclusive domain. There is unspoken war between them; each has attempted to frame the other for high-profile murders.
-
-The cremation-ground priests at [[place-muktoshvara|Muktoshvara]]
-: The priests of his own patron god, who keep the [[affiliation-rasikara|Rasikara]] cremation-ground that receives Rajepur's dead, have grown concerned by rumors of his activities. Several clerics suspect him of desecrating the sacred fire of [[lore-rasikaradty|Rasikara]] through his abuse of divine knowledge for profane ends.
+The cremation-ground priests at Muktoshvara
+: Who have heard the rumors and have begun to ask where he gets his preparations.
 
 ### Affiliations
 
-The apothecaries' shrena
-: The shrena of the apothecaries of the Mahanodi towns is his most legitimate and valued affiliation, though increasingly precarious. He maintains his position through careful politicking and significant contributions to the shrena's coffers.
+[[affiliation-rajeprjnpd|Rajepur Janpoda]]
+: A Danhija of the town, with a shop in its market street.
 
-[The Sealed Ledger]{.name data-type="affiliation"} (Underground Network)
-: A loose confederation of individuals involved in morally questionable commerce who value discretion and skill. Membership is by reputation alone.
-
-[[affiliation-rasikara|Rasikara]]'s priesthood
-: Officially a devotee and sometime patron of healing rituals, though his relationship with the priesthood has grown strained.
+[[affiliation-vrnkpnthn|Varnuka Pantheon]]
+: A devotee of [[affiliation-rasikara|Rasikara]], to whose temple he gives remedies at the festival.
 
 ## Plot Hooks
 
-The Poisoned Well
-: A mysterious plague begins spreading through the lower town of Rajepur and the villages that draw water below it, killing indiscriminately. The court of the temple suspects foul play and turns to Chandratar for analysis—but he recognizes the signature of the poison immediately. It is one of his own creations, stolen from his workshop months ago. He can confess, thereby admitting its creation, or lie and help track whoever stole it while hoping they do not use it against him or reveal his involvement to the authorities. The thief, it transpires, is Apprentice [Somnari]{.name data-type="being/npc"}, a young healer from the temple who discovered what Chandratar truly does and stole the poison to prevent future murders. She plans to use it to assassinate Serathis, whom she believes Chandratar poisoned.
+The Bitter Draft
+: During the Spring Festival, a pilgrim dies in the hostel after a draught that was bought from Chandratar's shop. The temple healers want to know what was in it, and the sabhra has no one but the town watch to look. Chandratar asks the party to learn who really mixed the draught before the sabhra closes the festival's gates on him.
 
-The Mentor's Ghost
-: A group of investigators arrives from the outer provinces seeking information about the death of **Master Kari Dormendra** thirty years prior. They are building a case against an unnamed apothecary whom they believe poisoned her out of jealousy or rivalry in the craft. Chandratar realizes with horror that they have found witnesses, documentation, and evidence that will inevitably point to him. Worse, he is no longer certain whether he actually did poison her or whether the guilt has become so deep in him that he has constructed false memories. His former apprentices are being interviewed; his ledgers are called before the temple court. He must either flee Vedyara or orchestrate a counter-investigation that casts suspicion elsewhere—but every move risks revealing more truth than he wishes exposed.
+The Mentor's Case
+: Investigators from the outer villages arrive in Rajepur to reopen the death of Shimri Dormendra. They are interviewing her former apprentices, and her ledgers have been called before the sabhra. Chandratar asks the party to find out who sent them. If the case is heard, he must answer for a death he has never explained.
 
-The Collector's Commission
-: A wealthy and eccentric collector approaches him with an extraordinary request: craft a poison so subtle and slow-acting that it will take precisely seventeen months to kill the recipient, and that will mimic the effects of aging and natural decay so perfectly that even the most skilled physician will identify no cause of death. The payment is astronomical, enough to secure his escape from Vedyara and establishment elsewhere should things collapse. But the commission carries a terrible price: the target is a child, the illegitimate heir to a merchant fortune. Refusing seems likely to result in violence from the collector's hired blades; accepting makes him complicit in the murder of an innocent. The child in question is the young daughter of **Herald [[being-carengrvth|Kárenna Graveth]]**, who will stop at nothing to protect her if she learns of the plot.
+The Shrena's Count
+: The apothecaries' shrena votes to inspect every member's workshop and ledger. Mandavar proposed it. Chandratar has days to put his stock in order, and he asks the party to learn what Mandavar expects to find.
 
-The Shrena's Reckoning
-: The Apothecaries' Shrena votes to conduct a formal inspection of all its members' workshops and ledgers, ostensibly to check compliance with new rules on dangerous substances. Chandratar realizes this is his death knell—his workshop contains ample evidence of his darker work, and Mandavar has been orchestrating this inspection specifically to expose him. He has mere days to destroy evidence, move his most incriminating materials, and either disappear or compromise Mandavar and the shrena leadership through revelation of their own secrets and complicity in his crimes.
+The Clumsy Poison
+: A family from the villages below the town carries in a poisoned man whose poison is crude and obvious, in a style Chandratar is known to sell. The patriarch is already telling the market that the apothecary tried to kill him. Chandratar can find the real poisoner or lose the shop.
 
-The Healer's Redemption
-: A desperate family arrives bearing a poisoned family member—but the poison is no work of a skilled hand. It is clumsy, obvious, and wrong in nearly every way. Yet it is poison that Chandratar is known to have created and sold. He is certain the poisoning was committed by someone else, likely an ambitious apprentice or a copycat, yet proof will be nearly impossible to establish. The family's patriarch is powerful and politically connected; he is already spreading word that Chandratar attempted to murder him. Chandratar must either identify the true poisoner and prove his own innocence, or accept that his darker trade is about to consume his legitimate reputation and freedom in Vedyara.
+:::secret {title="What the referee knows"}
+Chandratar mixed the draught that killed Shimri Dormendra, at her own request, for a pain she had told nobody of. He has never been able to prove it was her wish. The accusation is true in the letter and false in the intent.
+
+He has also sold three bane draughts to Sandvi of House Velyara, and she holds the ledger entry for each. In The Clumsy Poison, the crude poison was made by his own apprentice, who left the shop after learning what Sandvi buys.
+:::

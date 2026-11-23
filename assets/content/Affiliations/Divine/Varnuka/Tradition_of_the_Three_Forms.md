@@ -14,7 +14,7 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordination is to one of the three forms, but every priest must keep the rites of the other two; a temple of middling size seats three Acharyas, one per form, and only a rare cleric is ordained to serve all three at once.
+      Ordination is to one of the three forms, but every priest must keep the rites of the other two; a temple of middling size seats three Achoryas, one per form, and only a rare cleric is ordained to serve all three at once.
     ranks:
       - level: 0
         title: Patuta
@@ -113,7 +113,7 @@ A **Seboka** ("Servant") is an acolyte or assistant, who trains at least five ye
 
 ### Rites and Festivals
 
-[The Morning of the Three]{.name data-type="lore/custom"} is the daily opening rite at a temple: each chamber is opened in turn, its form is greeted in the proper formula, and the day's first offering is shared among the three. [The Triple Blessing]{.name data-type="lore/custom"} is performed at every civic opening, groundbreaking and seasonal transition, when the three Acharyas (or their deputies) speak the formulas of shaping, preserving and transforming in sequence.
+[The Morning of the Three]{.name data-type="lore/custom"} is the daily opening rite at a temple: each chamber is opened in turn, its form is greeted in the proper formula, and the day's first offering is shared among the three. [The Triple Blessing]{.name data-type="lore/custom"} is performed at every civic opening, groundbreaking and seasonal transition, when the three Achoryas (or their deputies) speak the formulas of shaping, preserving and transforming in sequence.
 
 [The Sealing of the Triad]{.name data-type="lore/custom"} is an annual rite at each temple in which the three forms are ceremonially reconciled after the year's observances, and the Triyacharya resolves any friction between their partisans. [The Consecration of a City]{.name data-type="lore/custom"} is performed at the founding of a new settlement or the rebuilding of one destroyed, and a temple of the three forms is dedicated in a single rite that may last a full season.
 

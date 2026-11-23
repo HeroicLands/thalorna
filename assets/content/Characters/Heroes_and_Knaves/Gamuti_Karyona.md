@@ -3,6 +3,7 @@ shortcode: gmtkryn
 name: {full: Gamuti Karyona}
 type: being
 subType: npc
+description: "The Kupapala of a circuit well on the north-eastern droveways of the Barren Country, named by the Karyona herd-lineage, who means to reopen the Empty Well on the old guarantee."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -511,7 +512,11 @@ Something in the Villages
 : Herds driven near the dead droveway lose stock at night. The Karyona offer water-rights at Gamuti's well to anyone who clears the empty well-villages around Shunyakupa, and Gamuti insists on going with them to see what is there.
 
 The Pledge
-: The lineage's head carried the well's pledge on his person when the Karyona walked off, and it was lost on the road a century later. A broker in the river country now offers to sell it to the Margapala. Gamuti hires the party to get it first.
+: The lineage's head carried the well's pledge on his person when the Karyona walked off, and it was lost on the road a century later. A broker in the river country now offers to sell it to the Margapala. Gamuti hires the party to get it first. If the Margapala holds it, he holds a signature that could end her claim, and her daughter is in the standing camp the crown keeps.
 
 The Moving Court
 : The Maharava's court arrives at Gamuti's well on its circuit. She means to put the guarantee to the crown in person, at the trough, before the whole district. The Margapala means to stop her, and the party is hired by one of them to keep the peace while the other speaks.
+
+:::secret {title="What the referee knows"}
+The pledge in The Pledge is genuine, and it does not say what Gamuti believes. It records that the Karyona filled the well before the crown refused to ride, and so makes the guarantee the lineage's debt and not the crown's. If it reaches the Margapala, the claim she wants written down becomes a charge against the Karyona.
+:::

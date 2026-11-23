@@ -3,6 +3,7 @@ shortcode: vjrtnsrntk
 name: {full: Vajratan Sirnataka}
 type: being
 subType: npc
+description: "An Outcaste of the Moon-Mouth beach who rose from the oar to Nau-senapavi, commander of Chendrapur's fleet, and holds the office on the Maharava's word without the temples' confirmation."
 tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
@@ -441,7 +442,7 @@ He holds the command. The crews follow him without question, because he is the b
 
 [[affiliation-vyalendra2|Vyalendra City-State]] has the cargo and keeps no fleet, and it hires its escort from the galleys at Chendramukhva. The rate is settled fresh every sailing season, and settled late, which suits Chendrapur. The Nau-senapavi lets the galleys out, and the lateness of the hire is his to manage.
 
-Vyalendra's Dutsa has made him an offer. Vyalendra's Triyacharya will speak for his confirmation before the temples of the coast if the hire is fixed for three years at this season's rate. It would be the first fixed hire between the two cities in living memory, the Maharava would lose a lever he values, and the temples would confirm him because another city asked them to.
+Vyalendra's Dutsa has made him an offer: the Triyacharya of Vyalendra, the Dutsa says, will speak for his confirmation before the temples of the coast if the hire is fixed for three years at this season's rate. It would be the first fixed hire between the two cities in living memory, the Maharava would lose a lever he values, and the temples would confirm him because another city asked them to.
 
 ## Psyche
 
@@ -509,7 +510,13 @@ The Rite at the River Stair
 : The Purohata proposes to hold the rite of confirmation at the foot of the river stair, outside the temple, so that the Nau-senapavi can attend without entering. Two Kulena have hired men to see that the rite does not happen. Vajratan wants the party at the stair, and wants them unarmed, because an armed escort at a rite is an insult to the temples.
 
 The Three-Year Hire
-: Vajratan has not answered Vyalendra's Dutsa. He sends the party up the coast to [[place-nilatir|Nilatir]] to learn whether Vyalendra's Triyacharya actually agreed to speak for him, or whether the Dutsa offered something that was never his.
+: Vajratan has not answered Vyalendra's Dutsa. He sends the party up the coast to [[place-nilatir|Nilatir]] to learn whether Vyalendra's Triyacharya actually agreed to speak for him, or whether the Dutsa offered something that was never his. If the Dutsa's word is empty and Vajratan has signed, the Maharava loses his lever and Vajratan loses the Maharava.
 
 A Clean Wrist
-: A Ritrija scribe offers, for a price, to swear that the struck line on Vajratan's wrist is an old wound over a Sentija's mark. It would make him confirmable. Vajratan wants to know who sent the scribe, and he wants the scribe's offer made again in front of witnesses.
+: A Ritrija scribe offers, for a price, to swear that the struck line on Vajratan's wrist is an old wound over a Sentija's mark. It would make him confirmable. Vajratan wants to know who sent the scribe, and he wants the scribe's offer made again in front of witnesses. A confirmation sworn on a false line can be struck down, and he goes with it.
+
+:::secret {title="What the referee knows"}
+Vyalendra's Triyacharya has not agreed to speak for him. The Dutsa offered it unasked, to fix the hire for three years at this season's rate, and if Vajratan signs the temples hear nothing from Vyalendra.
+
+The scribe in A Clean Wrist is sent by a Kulena of the Nine whose kinsman wants the fleet.
+:::

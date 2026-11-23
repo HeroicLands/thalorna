@@ -3,6 +3,7 @@ shortcode: palvdrvksh
 name: {full: Pallovi Draviksha, given: Pallovi, clan: Draviksha}
 type: being
 subType: character
+description: "A Scribe licensed by the Scribes' Shrena of Dirmapur, with a workroom in Vyalendra, whose illuminated commissions for temples and cloth-factors fuse classical script with colored ink."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -460,110 +461,97 @@ sohl:
 
 ![[palvdrvksh|Pallovi Draviksha]]{float=top-left}
 
-Pallovi stands 5'9" tall with a light build. She has tawny brown skin, dark black hair, and hazel eyes. Her features include a heart-shaped face, a broad nose, a soft jawline, and tawny brows.
+Pallovi is a tall woman of 5'9" and light build, tawny-skinned, with black hair tied up in a knot that is always coming down and hazel eyes that move between a page and a face and back. Her face is heart-shaped and her nose is broad. Her fingers are blackened with ink to the first joint, and she keeps a brush behind one ear and forgets it there.
 
 # Dossier {#dossier}
 
-**Early Life and Calling**
+## The Illuminator
 
-Pallovi was born in the copying town of [[place-dirmapur|Dirmapur]] to a family of modest means. Her father was a merchant of spices, her mother a seamstress of considerable but unrenowned skill. Unlike her siblings, Pallovi showed no interest in commerce or practical crafts; instead, she became obsessed with the written word and its visual presentation. Her first mentor was [Kirtideva the Illuminator]{.name data-type="being/npc"}, an aging master scribe who recognized in her something rare: artistic vision combined with the discipline to master the technical foundations of her craft. Under Kirtideva's tutelage from age fourteen, Pallovi learned calligraphy and the formation of letters, and with them the philosophy of text as art—the belief that how a word is written is inseparable from what it means.
+Pallovi was born in [[place-dirmapur|Dirmapur]], the copying town of the Sarveda, to a spice merchant and a seamstress. She showed no interest in either trade. An old master scribe, [Kirtideva]{.name data-type="being/npc"}, took her as an apprentice, and at eighteen she joined the Scribes' Shrena of Dirmapur, which sets the rate for a finished page and licenses nobody else to teach.
 
-**Shrena Training and Breakthrough**
+The shrena has a standing quarrel over illumination: the older masters hold that a commissioned text is a text and that a hand which draws attention to itself has failed, and the younger masters take the illuminated commissions anyway, because a court pays four times the plain rate for one. Pallovi is the younger masters' best example. She takes the classical [[skill-vdykshrscrpt|Vedyari script]] and reworks its borders, adds colored inks and sets a page so that its meaning shows in its shape. She keeps her workroom in [[place-vyalendra3|Vyalendra]], with commissions from the temple of [[affiliation-vyalendra|Vyalendra]], the cloth-factors and the Loom-Masters.
 
-At eighteen, Pallovi formally joined [[place-dirmapur|the Scribes' Shrena of Dirmapur]] and began her training in earnest. She quickly distinguished herself by fusing styles rather than by conservative mastery of traditional ones: taking classical [[skill-vdykshrscrpt|Vedyaran script]] forms and subtly reimagining them, creating decorative borders that enhanced rather than overshadowed text, and developing a distinctive technique of integrating colored inks to create visual harmony without sacrificing readability. Her breakthrough came when a wealthy merchant commissioned a copy of a philosophical text, requesting that the quality of transcription match the depth of the ideas. Pallovi produced a work so visually and spiritually stunning that the merchant displayed it in his home as a masterpiece rather than a reference document. Word spread, and by age twenty-four, she had a waiting list of commissions.
+## The Elders
 
-**Current Situation**
-
-Pallovi now stands at a turning point. She is recognized as one of the most talented scribes the Dirmapur shrena has licensed, and she keeps her workroom in [[place-vyalendra3|Vyalendra]], with commissions from the temples of the [[affiliation-vyalendra|Vyalendra]] faith, wealthy collectors, and even Loom-Masters. However, success has brought constraints. The shrena's masters increasingly press her to teach the traditional techniques to younger scribes, time she resents because it takes her away from her own creative work. Her reputation for new work has also attracted the attention of scholars and philosophers who wish to commission ambitious projects: an illustrated encyclopedia of natural philosophy, a comprehensive genealogy of the loom households rendered in elaborate illumination, even a proposed translation of an ancient religious text from a neighboring realm. These projects call to her artistic ambition, but completing any one of them would require abandoning her current commissions and potentially breaching her contracts with the shrena.
+[Votran]{.name data-type="being/npc"}, a senior master of the shrena, has begun to call her work frivolous decoration that hides the text. He is the voice of a faction that wants the shrena to keep to the classical forms, and the shrena's masters press her to teach the old forms to the younger scribes, time she resents.
 
 ## Psyche
 
 ### Personality
 
-Pallovi has a restless, creative energy that makes sitting still for extended periods a form of meditation rather than constraint. Her mind moves rapidly from thought to thought, idea to idea, and she struggles with the linear, repetitive work that her craft also demands. She is intensely passionate about aesthetics and meaning, capable of passionate discussion about the philosophical meaning of a letter's form or the emotional resonance of a color choice. To those who share her interests, she is engaging and warm. To those who find her preoccupations frivolous, she can seem scattered and dismissive.
-
-Pallovi has a complicated relationship with authority. She respects skill and artistic vision but chafes at arbitrary rules and tradition for its own sake. She is capable of exacting technical discipline when working on a project that engages her intellectually, but she becomes almost rebellious when asked to work in styles she considers outdated or aesthetically inferior. This combination of passion and resistance to authority has earned her both devoted admirers and critics within the shrena. She is loyal to those she cares about and has a gift for making others feel that their commissions—and by extension, their stories and ideas—matter deeply to her.
+Pallovi is restless, quick and absorbed. She cannot sit through the repetitive work that a scribe's trade also requires, and she can talk for an hour about what a letter's shape means. She respects skill and chafes at a rule that has no reason. She does not notice that she has offended someone until the commission has been withdrawn.
 
 ### Motivation
 
-Pallovi's primary drive is the integration of beauty and meaning. She believes that every text deserves to be rendered with the care and artistry that its ideas demand, and she sees her work as a scribe as interpreting and honoring the ideas she transcribes. She seeks creative recognition—to be remembered as an artist who expanded the possibilities of her craft, not as a competent technician. She is also motivated by a desire to help others communicate their most important thoughts clearly and beautifully. There is a spiritual dimension to her motivation: she worships [[lore-vyalendradty|Vyalendra]], the creator god, and she sees her work as a form of prayer, a way of honoring the creative impulse that she believes all sentient beings possess.
+She wants to be remembered as a scribe who widened what a page can say, not as a competent hand.
 
 ### Strengths
 
-Visionary Artistic Technique
-: Pallovi's extraordinary creativity and drawing skill allow her to create calligraphic work that is at once technically perfect and artistically new. Her work goes beyond transcription to become interpretation and art.
+Scripts and Hands
+: She works in several scripts and can fuse them without a seam.
 
-Versatility in Scripts and Styles
-: Her mastery of multiple languages and scripts means she can work in diverse traditions and can fuse styles without a visible seam.
+Color and Harmony
+: She has an instinct for how ink, ground and letter sit together.
 
-Understanding of Color and Harmony
-: Her background in multiple crafts—ceramics, drawing, singing—combined with her dexterity and perception gives her an intuitive sense of visual harmony beyond technical skill.
-
-Precision
-: When focused, her dexterity and mathematical reasoning allow her to create work of extraordinary technical precision. Her mathematical skill also helps her understand proportion and spacing at a deep level.
-
-Intellectual Depth
-: Her ability to understand and interpret the philosophical and literary content of texts she transcribes means her work goes beyond copying to artistic interpretation.
+Understanding the Text
+: She reads what she copies, and the borders she draws answer to its sense.
 
 ### Weaknesses
 
-Distraction and Inconsistent Focus
-: Pallovi's high creativity and quick-moving mind mean she struggles with monotonous work. Projects that require extensive repetition of the same task—copying multiple pages in a simple style, transcribing dry reference materials—bore her to the point of distraction, and her work quality can suffer.
+Impatience
+: Plain copying bores her to carelessness.
 
-Low Empathy and Social Difficulty
-: Her limited feeling for others means she sometimes fails to understand how others perceive her or her work. She can be insensitive to patrons' actual needs, focused instead on her own artistic vision. She also struggles with shrena politics and personal conflict.
+Authority
+: She resists a rule that cannot explain itself.
 
-Resistance to Authority and Tradition
-: Pallovi's willfulness and tendency to resist rules make her difficult to work with when others demand adherence to traditional or conservative approaches. This has created tension with the shrena's more traditional masters.
-
-Limited Practical Capabilities
-: Her low strength means she cannot perform demanding physical labor. She would struggle with any work requiring significant physical exertion or combat capability.
-
-Vulnerability to Impulsive Decision-Making
-: Her weak will means she can be swayed by enthusiasm or passion, potentially leading her to accept projects she cannot complete or to act without adequate forethought.
+Impulse
+: Her enthusiasm leads her to accept work she cannot complete.
 
 ## Social
 
-### Patrons
+### Patrons and Allies
 
-[[affiliation-vyalendra|The Temple of Vyalendra]]
-: The priesthood of her patron deity regularly commissions her to create sacred texts and illuminated prayers. They trust her spiritual understanding and have made her something of an unofficial artist-in-residence.
+The temple of [[affiliation-vyalendra|Vyalendra]]
+: Whose priesthood commissions sacred texts and prayers from her and has treated her as an artist in residence.
 
 The cloth-factors
-: Wealthy merchants of the cloth trade regularly commission elaborate documents from her—contracts rendered beautifully, ledgers transformed into works of art, gifts to business partners that demonstrate their refinement and taste.
+: Who commission contracts rendered beautifully and gifts for partners.
 
-Master Kirtideva
-: Though now very elderly and no longer accepting commissions, her former teacher remains her most trusted advisor and occasional patron. He occasionally requests that she copy texts of personal spiritual significance.
+[Kirtideva]{.name data-type="being/npc"}
+: Her first master, now very old, who asks her for copies of texts of personal weight.
 
-The Shrena of Scribes
-: The shrena leadership, despite their sometimes fraught relationship with her, regularly commissions official documents, certificates of apprenticeship, and formal records that require her distinctive touch.
+### Rivals
 
-### Enemies
-
-Master [Yajna]{.name data-type="being/npc"}, Conservative Shrena Elder
-: A powerful senior figure in the Scribes' Shrena, Yajna represents the traditionalist faction. He views Pallovi's new forms as disrespectful to the classical traditions and has begun to publicly criticize her work as "frivolous decoration" that obscures rather than serves the text. He has subtle support from other conservatives, and there is quiet conflict over whether the shrena should encourage new forms or preserve traditional forms.
+[Votran]{.name data-type="being/npc"}
+: The shrena elder who calls her work frivolous and leads the conservative masters.
 
 ### Affiliations
 
 The Scribes' Shrena of Dirmapur
-: Pallovi is a full member of the shrena and holds certain official responsibilities, though her relationship with the organization is complex due to her unorthodox approaches and the conservative faction's criticism.
+: A full member, with a shrena license and an uneasy place among the masters.
+
+[[affiliation-vyalendra2|Vyalendra City-State]]
+: A Danhija of the city, with a workroom near the palace quarter.
+
+[[affiliation-vrnkpnthn|Varnuka Pantheon]]
+: A lay believer, who keeps the household observances of the Pantheon.
 
 ## Plot Hooks
 
-The Forbidden Text
-: A mysterious scholar approaches Pallovi with an extraordinary commission: to create an illuminated copy of a text that has been suppressed by religious authorities. The text is a philosophical work that challenges certain orthodox interpretations of Vyalendra's nature and teachings. The scholar claims that only Pallovi's combination of artistic vision and spiritual understanding can create a version worthy of the ideas. The commission is illegal, dangerous—possession of the text could result in censure by the priesthood—and lucrative beyond measure. The party might help her acquire the original text, protect her from religious authorities who learn of the commission, negotiate with the temple to find a compromise that allows philosophical discussion, or help her decide whether artistic principle justifies the legal and spiritual risk.
+The Unsanctioned Copy
+: A scholar commissions an illuminated copy of a treatise that the Triyacharya of [[affiliation-mahajaya|Mahajaya]] has refused to sanction. The fee would clear her studio rent for a year. To be found with the copy is to lose her shrena license, and the shrena would have no reason to defend her. She asks the party to learn who the scholar is.
 
-The Shrena's Choice
-: Internal conflict within the Scribes' Shrena intensifies when the leadership is forced to choose between supporting the conservative faction and the new school. They approach Pallovi with an ultimatum: she can demonstrate that her new forms honor rather than mock the classical traditions by creating a masterwork that synthesizes ancient and modern styles, or she will be expelled from the shrena. The project is extraordinarily challenging and requires her to research ancient texts, consult with historians and philosophers, and undertake a spiritual journey to understand the deeper principles underlying the traditions she seeks to build upon. The party might help her research, face opposition from Master Yajna and his allies who deliberately attempt to sabotage her project, or join her in presenting the finished work to the shrena leadership in a formal proceeding.
+The Masterwork
+: The shrena's leaders offer Pallovi a choice: a masterwork that joins the old forms and the new, or expulsion. The work requires her to study three centuries of Vyalendra's chancery hands, and the archive that holds them is the one place where Votran's friends keep the keys. She asks the party to get her in.
 
-The Collector's Obsession
-: An eccentric man of high rank from a distant land, a collector of rare manuscripts and artistic works, becomes obsessed with acquiring original works by Pallovi. He begins purchasing her commissioned pieces from their original patrons, often at premium prices, and eventually approaches Pallovi directly to negotiate an exclusive contract that would make her his personal scribe. The offer is flattering and financially tempting, but it would isolate her from the broader community and from the meaningful connections she forms with diverse patrons. There are also hints that the collector's motivations may not be purely aesthetic—that he may be interested in her work for magical, political, or esoteric reasons. The party might help her investigate the collector's true motivations, negotiate terms that preserve her independence, or help her decide whether to accept his patronage.
+The Forged Hand
+: A talented apprentice who has adopted Pallovi as her model has begun forging pages in her hand and selling them to patrons. Pallovi is fond of the girl and sees what she wants. The shrena knows nothing of it. The party can find the buyers before the first of them complains.
 
-The Lost Library's Tragedy
-: Pallovi is commissioned by a group of scholars to help preserve texts from an ancient library that is threatened with destruction due to coastal erosion or political instability. She becomes deeply invested in the project, working alongside the scholars to understand the texts and render the most important ones in new copies created with her finest technique. However, during the preservation effort, the party discovers evidence of a cover-up: someone intentionally caused or accelerated the library's destruction to suppress certain texts or hide secrets contained within them. The party becomes involved in uncovering the conspiracy, protecting the remaining texts, and helping Pallovi decide whether to publicize her findings at the risk of repercussions from those who wished the library destroyed.
+The Count
+: A cloth-factor asks Pallovi to render his ledgers as illuminated documents. In copying the figures she finds that the count of chartered looms in his ledger does not agree with the count the shrenis keep. In a city where every argument is conducted in that number, the factor wants the ledgers to look splendid and not to be read.
 
-The Living Text
-: While working on an unusually complex illuminated manuscript, Pallovi begins to suspect that the text contains something more than mere words and decoration—that her artistic rendering might somehow be activating hidden meanings, esoteric knowledge, or magical properties within the work. The original text was created by an ancient scholar whose reputation included rumored studies of the intersection between language and magic. Pallovi becomes obsessed with understanding the work's true nature, consulting with philosophers, mages, and historians. The party might help her research the original author, test whether her theories about the text's nature are correct, deal with those who want the text's knowledge suppressed, or grapple with what it means if a work of art can literally alter reality through the beauty of its presentation.
+:::secret {title="What the referee knows"}
+The loom-count in the ledger is padded by several hundred looms of a shrena the Council has quietly dissolved. The shrenis keep the number so that no seat is lost.
 
-The Scribe's Apprentice
-: A talented young apprentice in the shrena shows unusual promise and gravitates toward Pallovi as a mentor. However, the apprentice begins to obsessively copy Pallovi's style and techniques to the point of producing forgeries of her work. When the forgeries are discovered and sold to unsuspecting patrons, Pallovi's reputation and the shrena's credibility are damaged. The situation is complicated by her affection for the apprentice and her understanding of the creative hunger that drives the young person. The party becomes involved in exposing the forgery ring, protecting Pallovi's reputation, and ultimately deciding whether the apprentice deserves redemption or harsh punishment.
+The treatise in The Unsanctioned Copy argues that the Council's count is a false measure before Mahajaya, which is why the Triyacharya will not sanction it. The ledger in The Count proves its case. A party that carries both holds a case against the Council.
+:::

@@ -3,6 +3,7 @@ shortcode: jslvrdb
 name: {full: Jasili Varidaba}
 type: being
 subType: npc
+description: "A Danhija lodging-house keeper of Nilatir, whose house at the landward end of the street makes up the crews of the coasting trade."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -499,4 +500,10 @@ Forty Hands
 : A [[affiliation-chendrapur|Chendrapuri]] master wants forty hands before the bar closes, and the street has twenty. The rest are on the road above the town, in a loft two days up the river, waiting for boats that the household agents are now stopping and searching. Jasili hires the party to bring them down.
 
 Another Man's Token
-: A man reaches her counter wearing a [[miscgear-bondtoken|Bond-Token]] that is not his own and asking for a berth under the name on it. Jasili wants to know whose token it is, and where its owner went.
+: A man reaches her counter wearing a [[miscgear-bondtoken|Bond-Token]] that is not his own and asking for a berth under the name on it. Jasili wants to know whose token it is, and where its owner went. If she turns him away, he knows her counter. If she takes him in, he sees the way the road runs.
+
+:::secret {title="What the referee knows"}
+The man wearing another man's token is a bond-taker's agent from the river road. He took the token from a runaway he caught in the loft two days up the river, and he has come to learn the road by being let in. The runaway is alive and held in a household's cellar. If Jasili sends him down the road, the loft is the first house the agents burn.
+
+One of the dozen boatmen who carry her men sells the same passage to the agents. He is the reason the seals have begun to break.
+:::

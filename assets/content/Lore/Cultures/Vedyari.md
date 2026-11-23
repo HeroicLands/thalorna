@@ -120,7 +120,7 @@ A life climbs a ladder that the temple marks with the conch. The black conch sou
 
 ## Two Names
 
-The same Ritrija teaches names next, and as a warning. "You will learn two names for everyone here, and you will be given the second one late, if at all. The formal name—the given name and the clan, [[being-pdmvldnrkrt|Padmavali Danurkirti]] in full—is what the temple writes in its rolls and what a court reads out, and it is what you say to anyone you have not been asked to call otherwise. The short one is the _calling name_, cut from the given name, and it belongs to kin and friends: her mother calls her Padmi. It is offered, never taken. Use a calling name nobody gave you and you have claimed a closeness you were not granted, and that is a presumption the household will remember." The rule a calling name is cut by stands in the [[skill-vedyarlng#lexicon|Vedyari Lexicon]].
+The same Ritrija teaches names next, and as a warning. "You will learn two names for everyone here, and you will be given the second one late, if at all. The formal name—the given name and the clan, [[being-pdmvldnrkrt|Podmavoli Danurkirti]] in full—is what the temple writes in its rolls and what a court reads out, and it is what you say to anyone you have not been asked to call otherwise. The short one is the _calling name_, cut from the given name, and it belongs to kin and friends: her mother calls her Podmi. It is offered, never taken. Use a calling name nobody gave you and you have claimed a closeness you were not granted, and that is a presumption the household will remember." The rule a calling name is cut by stands in the [[skill-vedyarlng#lexicon|Vedyari Lexicon]].
 
 ## Water, Food and the Touched Thing
 

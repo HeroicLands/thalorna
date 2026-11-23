@@ -3,6 +3,7 @@ shortcode: vishvrmhpr
 name: {full: Vishvara Mahapar, given: Vishvara, clan: Mahapar}
 type: being
 subType: character
+description: "A common seaman and mate for hire, a fisherman's son from the shore below Nilatir, whom merchant captains defer to on seamanship and whom crews follow."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -453,116 +454,91 @@ sohl:
 
 ![[vishvrmhpr|Vishvara Mahapar]]{float=top-left}
 
-Vishvara stands 6'4" tall with a heavy build. He has warm golden brown skin, dark black hair, and warm brown eyes. His features include a soft-featured face, a prominent nose, a tapered chin, full lips, warm golden brows, and soft cheeks. He has a scar on his right calf.
+Vishvara is a very tall man, 6'4" and heavy, with golden brown skin, black hair, warm brown eyes, a prominent nose and a soft, weathered face that makes him look older than his years. A scar runs down his right calf from a parted line. He dresses in salt-stiff canvas and goes barefoot on deck.
 
 # Dossier {#dossier}
 
-## Background
+## The Fisherman's Son
 
-### Born to the Waters
+Vishvara was born to a fishing family on the shore below [[place-nilatir|Nilatir]], where the [Nilachari]{.name data-type="place/feature"} meets the eastern sea, the son of [Mahapar the Elder]{.name data-type="being/npc"}. At twelve he was taken on as a cabin boy aboard [The Merchant's Fortune]{.name data-type="vehicle"} under Captain [[being-samuratrat|Samurat Ratamar]], a master of exacting standards. Over twenty years he rose to rigger, mate and first mate and learned navigation by the stars and currents, how to stow a hold and how to keep a crew working in bad weather.
 
-Vishvara was born to a fishing family on the shore below [[place-nilatir|Nilatir]], where the Nilachari reaches the eastern sea, the son of [Mahapar the Elder]{.name data-type="being/npc"}, a competent but undistinguished fisherman whose life was as unremarkable as it was difficult. From his earliest years, Vishvara knew the sea—learned to respect its moods, to read its signs, to accept both its generosity and its cruelty. His childhood was one of subsistence, of helping his father with nets and lines, of hunger when the catches were poor and modest plenty when fortune favored them.
+When Samurat retired, Vishvara was offered the command and declined it. For five years he has hired out to merchant captains who want a seaman of his judgment. He is thirty-seven and looks older.
 
-At age twelve, recognizing that his son possessed an instinctive affinity for the water and a body suited to the labors required, Vishvara's father arranged for him to be taken on as a cabin boy aboard [The Merchant's Fortune]{.name data-type="vehicle"}, a substantial trading vessel captained by Captain [[being-samuratrat|Samurat]], a seaman of great repute, known for his exacting standards and his unwillingness to tolerate laziness or negligence.
+## The Yards at Nilatir
 
-### The Making of a Sailor
+Every bale at [[place-nilatir|Nilatir]] is opened at the Koshadyoksha's shed and its seals counted against the manifest. The Loom-Master's factor who runs the bale-yards is charged with clearing them in the weeks the sea is open. He has begun to press the masters for faster turnarounds and smaller crews. Vishvara has said in public that a smaller crew drowns first, and the factor has marked him.
 
-Vishvara's years under Captain Samurat's command were transformative. Unlike his father, who had been a mere fisherman, Samurat was a master of seafaring—a man who knew how to sail and, beyond that, how to find his way across the world's waters, how to handle a large crew, how to read weather that would have escaped ordinary observation. Samurat recognized something in the young Vishvara—a combination of physical capability, quick intelligence, and an almost mystical attunement to the sea's moods.
-
-Over twenty years of service, Vishvara rose from cabin boy to skilled rigger to mate to first mate. He learned every aspect of seacraft: navigation by stars and currents, the repair and maintenance of vessels, the stowage of cargo, the subtle arts of leadership that keep a large crew working in dangerous circumstances. He accompanied Samurat on trading voyages that spanned the known world's coasts, accumulating knowledge of ports, customs, dangers, and opportunities across vast distances.
-
-### The Transition to Independence
-
-When Captain Samurat retired at seventy, Vishvara was offered command of The Merchant's Fortune. However, at thirty-two, unwilling to remain tied to a single vessel or the demands of merchant captaincy, Vishvara instead accepted an arrangement that has defined the past five years of his life: he offers himself as a skilled hire to various merchant captains, commanding crews, training sailors, overseeing difficult voyages, and advising on seamanship. He commands respect through demonstrated competence and carries the authority of two decades of accumulated experience.
-
-### The Current Moment
-
-Now at thirty-seven (yet carrying the weathered appearance of a man in his fifties), Vishvara occupies a unique position in the maritime world. He is not a captain, yet captains defer to his judgment in matters of seamanship. He is not formally a merchant, yet his knowledge of trade routes, cargo, and markets is wide. He is respected—almost revered—by those who work under him, and feared by those who oppose him, though his reputation is one of fairness rather than cruelty. Yet he has become increasingly concerned by the changing nature of seafaring. The old traditions of seamanship, the respect for the sea's power, and the emphasis on crew safety that characterized Captain Samurat's era are giving way to ventures bent on profit that put cargo and speed before the welfare of those who must risk their lives to achieve them.
+[[being-garunyataray|Garunya Tarayara]], called the Reckless, a younger captain of a coaster, puts speed and profit before safety and has taken the factor's side.
 
 ## Psyche
 
 ### Personality
 
-Vishvara is a man of few words, preferring action and example to lengthy explanation. He speaks in the direct, economical manner of those accustomed to shouting over wind and waves—no unnecessary elaboration, just clear statement of fact and intention. His observations are often pointed, delivered with a dry humor that catches people unaware.
-
-Despite his taciturn nature, Vishvara possesses real warmth toward those he considers worthy of it. He is fiercely loyal to sailors under his command and takes their welfare personally. He has been known to go without meals so that his crew could eat, to spend his own coin on medicines for sick sailors, and to blacklist ship captains known for mistreating their crews. Yet he is also a man of rigid standards—he has little patience for excuses, tolerates no slacking, and will dismiss incompetent or lazy crew members without hesitation.
-
-Vishvara's resistance to change stems not from rigidity but from the knowledge that the old ways of doing things—the traditional practices, the emphasis on crew safety, the respect for the sea—emerge from hard-won experience. He views new practices that sacrifice these principles as reckless, no matter how profitable they might prove.
+Vishvara speaks little and plainly, with a dry humor that catches people off guard. He has gone without meals so his crew could eat and has spent his own coin on medicine for sick sailors. He will not serve a captain known to abuse a crew. His standards are rigid, and he has little patience for those who do not keep them.
 
 ### Motivation
 
-Vishvara is driven by loyalty to a way of life that he sees slowly disappearing. He wishes to preserve the traditions of seafaring that he learned from Captain Samurat, to maintain standards of seamanship and crew welfare even as economic pressures push toward their abandonment. More personally, he seeks to find some method of giving back to the sea that has given him a life of meaning and purpose—to serve younger sailors as Samurat served him, to pass on knowledge that might prevent unnecessary deaths, to see that seamanship remains valued above mere profit.
+He wants the sailors of the coast trained and fed and treated as the sea requires, and he wants to give back what the sea has given him.
 
 ### Strengths
 
-Seafaring Expertise
-: Vishvara's knowledge of maritime navigation, vessel handling, weather prediction, and crew management is vast. There are few situations at sea that he has not encountered or learned how to handle.
+Seafaring
+: He can handle any vessel in any weather, and he rarely meets a situation he has not seen.
 
-Natural Leadership and Authority
-: Though not formally trained in command, Vishvara exerts effortless authority. Sailors trust his judgment implicitly and follow his orders without question.
+Authority
+: Sailors follow his orders without discussion.
 
-Physical Capability
-: At thirty-seven, Vishvara remains extraordinarily strong and capable. His endurance is great, and he can perform physical feats that younger men struggle with.
-
-Comprehensive Practical Knowledge
-: Beyond seamanship, Vishvara possesses competence in ship repair, navigation calculation, fishing, agriculture, and a host of practical survival skills that serve him throughout his life.
-
-Shrewd Judgment of Character
-: Years of reading people in high-pressure situations have given Vishvara an almost preternatural ability to assess trustworthiness and potential.
+Strength
+: He is extraordinarily strong and has great endurance.
 
 ### Weaknesses
 
-Resistance to Innovation
-: Vishvara's commitment to traditional seamanship means he sometimes dismisses new instruments or methods without a fair hearing. This occasionally puts him at a disadvantage against rivals quicker to adopt them.
+Tradition
+: He dismisses new instruments without a hearing, and he cannot read a navigational table.
 
-Limited Formal Education
-: Vishvara cannot read complex navigational texts or understand navigation by mathematics. He navigates by experience and traditional methods, which can be limiting in novel situations.
+Obstinacy
+: He has lost captains and merchants who would have valued him by refusing compromise.
 
-Stubbornness
-: His convictions, while generally sound, are held with an inflexibility that prevents compromise. He has alienated captains and merchants who might otherwise value his services.
-
-Emotional Distance
-: Though capable of loyalty, Vishvara keeps emotional distance from others. He forms few close friendships and tends toward isolation despite his social competence.
-
-Vulnerability Outside His Element
-: On land, away from the sea, Vishvara is considerably less capable. His strength and skill do not carry over to matters on land, and he is somewhat out of place in tangled social or political affairs.
+On Land
+: Away from the sea he is awkward in a quarrel of words or of rank.
 
 ## Social
 
-### Patrons
+### Patrons and Allies
 
 The merchant captains of Nilatir
-: Various ship captains and merchants who regularly contract Vishvara's services respect his skill and seek his guidance. This informal circle provides him with steady employment.
+: Who hire him by habit and seek his advice.
 
-Shipping Industry Veterans
-: Older, established ship captains who remember the traditions Vishvara upholds and value his commitment to the old ways of seamanship.
+The older masters
+: Who remember the traditions he holds and respect his insistence on them.
 
-### Enemies
+### Rivals
 
-Captain [[being-garunyataray|Garunya]] the Reckless
-: A younger, ambitious captain who represents everything Vishvara despises—puts speed and profit before safety, drives crews beyond reasonable endurance, and ignores the traditional practices that keep sailors alive. Their conflicts over the trade have become personal, with Garunya viewing Vishvara as an obstacle to progress.
+Captain [[being-garunyataray|Garunya Tarayara]]
+: A younger master of a coaster, called the Reckless, who drives crews past their limit and sees Vishvara as an obstacle.
 
-The master of the yards at [[place-nilatir|Nilatir]]
-: The Loom-Master's factor who runs the bale-yards, charged with clearing them in the weeks the sea is open, has begun pressing the masters for faster turnarounds and smaller crews. Vishvara views these demands as dangerous and has publicly criticized them, earning the factor's enmity.
+The master of the yards at Nilatir
+: A Loom-Master's factor who wants the yards cleared faster and has marked him for his public criticism.
 
 ### Affiliations
 
-The Informal Sailors' Network
-: Though not formally affiliated, Vishvara maintains close connections with sailors, riggers, and maritime workers along the whole coast. He occasionally provides advice and support to those in crisis.
+[[affiliation-vyalendra2|Vyalendra City-State]]
+: A Karmija of a fishing household, hired by the coasting trade.
+
+[[affiliation-vrnkpnthn|Varnuka Pantheon]]
+: He leaves a share of every catch at the shrine on the shore below Nilatir.
 
 ## Plot Hooks
 
-The Lost Crew
-: A merchant vessel that Vishvara trained crew members for vanishes without trace on a standard trade route. An investigation suggests the ship encountered something unknown in the deep waters—perhaps a creature, perhaps something worse. The merchant company that owns the vessel wants the matter buried, but Vishvara becomes obsessed with discovering what happened to the sailors he trained, leading him on a dangerous voyage into waters that even Captain Samurat would have avoided.
+The Turnaround
+: The master of the yards orders a hull cleared in a day with half its crew. Vishvara refuses and the factor holds the hull and the master with it. The master asks the party to carry a petition to the Loom-Council before the sea closes.
 
-The Young Reformer
-: A brilliant young sailor named [Arinasha]{.name data-type="being/npc"} apprentices under Vishvara and learns the traditional ways, but also possesses the formal education and understanding of new nautical instruments that Vishvara lacks. Arinasha challenges Vishvara's resistance to change while maintaining respect for the old master's wisdom. Together, they must find a marriage of the old ways and the new, or watch seafaring split into increasingly hostile camps.
+The Lost Hull
+: A hull for which Vishvara trained the crew has not come back from a standard run. The owners want the matter closed. Vishvara asks the party to find out what happened to the men he trained.
 
-The Betrayed Crew
-: Vishvara discovers that several of the sailors he trained and trusted have become involved in smuggling operations—not out of greed but out of desperation, as legitimate merchant work has become increasingly unreliable and unprofitable. He can report them, destroying people he cares about, or involve himself in crime to protect them.
+The Young Mate
+: A young mate named [Arinasha]{.name data-type="being/npc"}, who reads tables and keeps the new instruments, has asked to serve under Vishvara. The captains who have seen both of them say that together they would be the best crew on the coast, and that Vishvara would sooner drown than say yes. Samurat asks the party to bring them together, and Garunya has offered Arinasha a berth on the [Kingfisher]{.name data-type="vehicle"}, which sails first.
 
-The Fleet's Offer
-: The war-fleet of [[affiliation-chendrapur|Chendrapur]], seeking to put maritime command on a regular footing, offers Vishvara a substantial position—formal authority, significant compensation, and the ability to implement his principles of seamanship on a large scale. However, the fleet's aims include aggressive expansion and militarization of the seas. Accepting would give Vishvara power to save lives through better training, but would also make him complicit in potentially unjust military actions.
-
-The Cursed Voyage
-: A wealthy merchant offers Vishvara an enormous sum to captain a voyage to a distant location that other sailors have refused—a journey that has resulted in multiple disappearances and tales of supernatural danger. Vishvara's experience suggests the crew would not survive, yet his financial situation has deteriorated to the point where refusing the commission means losing the modest security he has built. He must weigh his life's principles against the practical realities of aging and scarcity.
+:::secret {title="What the referee knows"}
+The lost hull was run down in the dark on a night passage by Garunya's coaster, which did not stop. Garunya's crew knows. The owners want the matter closed because Garunya's hull belongs to a cloth-factor of the street whose bales the master of the yards clears first.
+:::

@@ -3,6 +3,7 @@ shortcode: anrjhrshkr
 name: {full: Anuraja Harshakar, given: Anuraja, clan: Harshakar, vedy: [anva]}
 type: being
 subType: character
+description: "A merchant's son of Chendrapur trained in the craft of the shadow-brotherhoods, who takes paid contracts through a broker and keeps his work to himself."
 tags: [heroes-and-knaves, underworld]
 data:
   icon: icon-person
@@ -26,7 +27,7 @@ data:
     complexion: []
     nose: straight
     mouth: full
-    extra_features: [a tattoo of a tiger on the forearm]
+    extra_features: []
   packFolder: ankarisvedyara
   items:
     - {key: dgr, model: weapongear-dgr, kind: weapon, system: {quantity: 2}}
@@ -441,118 +442,99 @@ sohl:
 
 ![[anrjhrshkr|Anuraja Harshakar]]{float=top-left}
 
-Anuraja stands 6'0" tall with a medium build. He has golden brown skin, dark brown hair, and deep brown eyes. His features include a diamond-shaped face, a straight nose, a soft jawline, full lips, golden brows, and rounded cheeks. He has a tattoo of a tiger on his forearm.
-
-Most striking is the tiger tattoo on his right forearm, a creature rendered in fine detail that seems to move in candlelight. The tattoo marks his lineage: it indicates his training within the [[lore-vedyariclt|Vedyaran]] tradition of shadow-work. His hands, with their precise fingers and evident dexterity, are as dangerous as any blade; despite their slender appearance, they possess devastating capability.
+Anuraja is a medium-built man of 6'0" with golden skin, dark brown hair, a straight nose and a full mouth, and a face that settles into an easy calm nobody remembers afterward. He dresses in plain cotton and a leather vest, like a clerk of the parcel trade, with a pair of daggers worn flat under the vest, and he carries nothing a stranger could describe. His hands are narrow and quick, and he keeps them still when he talks.
 
 # Dossier {#dossier}
 
-Anuraja was born into a family of middling merchants in [[place-chendrapur2|Chendrapur]], the youngest child of a father whose business interests were built upon careful political positioning rather than trade itself. From earliest childhood, he displayed an unsettling affinity for violence—not the hot-blooded rage of a typical child, but a cold, analytical interest in how the most injury could be inflicted with the least effort.
+## The Merchant's Son
 
-At age eight, his father, recognizing something unusual in the boy, engaged instructors from the shadow-brotherhoods, the assassins' lines descended from [[affiliation-chayavreta|the Chaya-vreta]], who maintain the balance of power through selective elimination of threats and inconvenient persons. For the next fifteen years, Anuraja underwent an intensive education unlike any formal schooling. He learned poisons from Master [Devun]{.name data-type="being/npc"}, studied the art of silent movement under the [Night-Walker]{.name data-type="being/npc"}, mastered the philosophy of clean assassination from the elderly Grandmother [Vex the Undying]{.name data-type="being/npc"}, and trained in weaponry under [Keska the Scarred]{.name data-type="being/npc"}. By age twenty-three, he had completed his training and taken his first paid contracts.
+Anuraja was born in [[place-chendrapur2|Chendrapur]], the youngest child of a middling merchant household whose living came from careful friendships more than from trade. When he was eight his father paid for instruction that no school in the city offers: the poisons, the silent step, the clean killing and the patience that a shadow-brotherhood hires out. The lessons were arranged through the counter of [[place-waitinghouse|the Waiting House]], and the brotherhoods' work reaches its buyers that way, with neither side learning the other's name. By twenty-three he had taken his first paid contract.
 
-Now, at thirty-one, Anuraja has become something of a legend within certain circles—an assassin of such skill that the wealthy and powerful quietly compete to engage his services, and the paranoid take extraordinary precautions merely knowing he exists in the world. He has never failed a contract, a perfect record maintained through careful planning, ruthless decision-making, and a willingness to abandon assignments that show any sign of compromise. He operates independently, taking contracts only from sources he verifies personally, and keeping his work in absolute secrecy.
+He is thirty-one now. He takes work only through the Broker's Room on the Waiting House's ground floor, where a parcel and a fee go in and a different parcel and a different fee come back, and both appear on the ledger as storage. He keeps a record of contracts finished and none abandoned, because he drops any contract that shows a sign of being watched before it is dropped for him.
+
+## The Craft and the Vow
+
+The shadow-brotherhoods are not the [[affiliation-chayavreta|Chaya-vreta]]. They are the arrangement that carries a line's work to a buyer, and they supply poisons, watchers and instruction in killing; the vow's own work, the unremembered face and the errand nobody recalls, is taught in the upper rooms of the Waiting House to one student at a time. Anuraja buys the vow's preparation for a contract by the job and holds none of it himself. A house of [[affiliation-chendrapur|the Nine]] has hired him for eight years, always for a rival's ruin, and pays him as it pays its cutters, in advance and without conversation.
+
+## The Gap Between the Conch and the Pyre
+
+A [[affiliation-thresholdkeepers|Threshold-keeper]] with a warrant and a single well-framed question reaches past everything the vow can do, and Anuraja has never had one ask about him. The warrants are licensed for inheritance and for murder and refused for trade. A merchant house of the city is presently trying to have them read the other way, and a ruling for the merchants would widen the question to deaths the brotherhoods have bought.
+
+The temples of the [[affiliation-vrnkpnthn|Varnuka]] are the other danger. A Ritrija bears arms for the temple and never for pay, and a Ritrija considers a man who kills for pay an abomination. Several of them have said they would take him if they knew where to look.
 
 ## Psyche
 
 ### Personality
 
-Anuraja is defined by an emotional distance so complete it approaches the sociopathic. He experiences the world intellectually rather than emotionally—he understands human motivation through study rather than intuition, and conducts his dealings with people through memorized patterns rather than any felt connection. This does not make him overtly threatening in casual company; he has trained himself to mimic human emotion convincingly enough that most people fail to notice the absence beneath the surface.
+Anuraja is courteous, soft-spoken and exact, and he is better company than anyone who knows his trade expects. He has learned the manners of warmth and uses them well, and he is easily bored by people who do not need him for anything. He researches every contract for weeks and walks away from the ones that smell of a trap, whatever the fee.
 
-In his work, he is careful to the point of obsession. Every contract is researched exhaustively; every variable is planned for; every contingency is prepared. He is willing to abandon lucrative assignments if conditions suggest risk inadequately compensated by payment. This rational detachment has allowed him to survive longer than most assassins—he takes calculated risks, never personal vendettas.
-
-With those rare few he deals with repeatedly, Anuraja develops something approaching fondness, though he would never use such a sentimental term. These relationships are transactional but reliable; he honors agreements with them and maintains their secrets as he maintains his own. Beyond these rare connections, he views humanity with a scholar's interest—observing patterns, studying motivation, but keeping himself wholly apart.
+A very few people he deals with repeatedly. He keeps their secrets as he keeps his own and honors his agreements with them to the word.
 
 ### Motivation
 
-On the surface, Anuraja is motivated by money and pride in his craft. The contracts he accepts pay extraordinarily well, and his perfect record represents the kind of mastery within his chosen field that most humans can never achieve. This ambition is real but secondary to deeper drives.
-
-Fundamentally, Anuraja is motivated by the philosophical principles he absorbed during his training—the belief that the world contains too many people, that selective elimination creates balance, that some individuals are threats that must be neutralized for the greater good. He regards his work as a kind of dark priesthood rather than murder-for-hire, keeping the balance through the careful removal of those who would upset it.
-
-Anuraja is also driven by a need to understand the limits of his capability. He accepts contracts for the income and to test himself against new challenges, different opponents, and unexpected variables. Each assassination is a puzzle to him—how best to reach the target, how to avoid detection, how to accomplish the impossible.
+He wants a clean record and a quiet city. He regards the work as a craft with a standard, and every contract is a problem to be solved without a witness, a sound or a second visit.
 
 ### Strengths
 
-Lethal Dexterity
-: His dexterity, combined with four specializations in melee combat, makes Anuraja devastating at close quarters. His hands and daggers move with such speed and precision that most opponents never realize they are dead until the knowledge becomes irrelevant.
+Silent Movement
+: He climbs, crosses roofs and walks across a stone floor without a sound, and he can sit still in a dark room for a night.
 
-Extraordinary Agility
-: His agility lets him move with liquid grace, climbing impossible angles, balancing on surfaces others would fall from, and executing acrobatic movements in combat that confound opponents' expectations.
+Patient Study
+: He watches a target for weeks and learns the house's habits before he sets a foot inside it.
 
-Master Climbing and Acrobatics
-: His climbing, with three specializations, and his dancing let him cross vertical spaces others consider impassable. He can scale walls, traverse rope bridges, and position himself in impossible locations.
-
-Advanced Creative Problem-Solving
-: His creativity gives him fresh approaches to the problems of assassination. When conventional methods are blocked, his mind quickly generates alternatives.
-
-Stealth Mastery
-: His stealth, awareness, and tracking capabilities allow him to observe without being observed and to move through spaces without disturbing them. He can infiltrate secure locations and observe targets for weeks without detection.
-
-Intellectual Capability
-: His reasoning combined with his training makes him excellent at planning complex operations, anticipating counteractions, and adapting to unexpected developments.
-
-Weapons Capability
-: His throwing and melee skills, each with four specializations, and his knowledge of weaponcraft make him dangerous with any instrument of violence.
+Knives and Hands
+: He kills close, quickly, and with either hand, and fights better in a corridor than in a street.
 
 ### Weaknesses
 
-Emotional Atrophy
-: His near-total inability to connect with others emotionally makes him vulnerable to manipulation through the emotions of others. Those he cares about (few as they are) can be used against him.
-
-Questionable Morality
-: His willingness to kill for money and his philosophical distance from the consequences of his work leave him morally isolated. The positions he accepts sometimes place him in conflict with principled opposition.
-
-Limited Empathy
-: He has little feeling for others and cannot reliably predict how people will react to emotional appeals or why some individuals value concepts like loyalty or family above survival.
+Few Ties
+: The few people he does care about can be used against him, and a client who learns who they are holds more than his fee.
 
 Overconfidence
-: His perfect record has created a dangerous certainty that he can execute any contract. This confidence occasionally leads him to accept commissions that contain hidden variables.
+: A long record has made him certain that any contract that passes his checks can be finished, and he has taken one or two that he should have left.
 
-Reduced Physical Resilience
-: His focus on precision and stealth rather than durability means his strength and endurance are modest. Direct confrontation against physically superior opponents is dangerous for him.
-
-Isolation
-: His self-imposed separation from human connection leaves him fragile in ways he does not recognize. Disruption to his solitary routine can produce unexpected consequences.
+Light Frame
+: He is quick and not strong, and he does not win a fight he cannot choose.
 
 ## Social
 
-### Patrons
+### Patrons and Allies
 
-A house of [[affiliation-chendrapur|the Nine]]
-: One of the Nine Houses of the city, which has contracted Anuraja's services repeatedly over eight years, always for high-stakes elimination of political or commercial rivals. They pay extraordinarily well and understand the necessity of discretion.
+A house of the Nine
+: A house that has hired him for eight years and pays in advance.
 
-The Shadow-Brotherhoods of Vedyara
-: While Anuraja operates independently, he maintains loose affiliation with the organizations that trained him. They occasionally provide contracts, intelligence, or assistance when his own projects require additional capability.
+The Broker's Room
+: The ground-floor counter of the Waiting House, which stands between him and every contract.
 
-### Enemies
+### Rivals
 
-Temple-sworn Ritrija
-: Armed Ritrija of the [[affiliation-vrnkpnthn|Varnuka]] temples, who bear arms for the temple and never for pay, hold an assassin an abomination. Several have sworn to hunt Anuraja, though he has so far managed to avoid direct confrontation through his superior intelligence and stealth.
+The Ritrija of the Varnuka temples
+: Several have sworn to hunt the paid killers of the coast, and one of them has begun asking about a death he thinks was not a sleeper's.
 
-Vex the Undying
-: Anuraja's former mentor, Grandmother Vex, has begun to hunt him for reasons he does not fully understand. She seems to believe that Anuraja has strayed from the philosophical principles of shadow-work and must be eliminated. Their war is conducted in shadows, with neither able to gain decisive advantage.
-
-A company of hired blades
-: Sellers of the sword along the coast, who view Anuraja as competition. They have attempted several times to eliminate him or recruit him forcibly, none of which has succeeded.
+A Threshold-keeper
+: One keeper of the city holds a warrant for a counting-room death, and the question it carries could cross the Waiting House's ledger.
 
 ### Affiliations
 
-The Shadow-Brotherhoods
-: While not formally affiliated, Anuraja maintains connections with these organizations, taking contracts through them when it suits him, though his independent commissions generally pay far better.
+[[affiliation-chendrapur|Chendrapur]]
+: A citizen of the city-state, of a merchant household without a seat among the Nine.
+
+[[affiliation-vrnkpnthn|Varnuka Pantheon]]
+: He lays an offering at the family's household shrine and at no temple.
 
 ## Plot Hooks
 
-The Impossible Target
-: Anuraja is approached through his usual channels with an extraordinary contract: eliminate an individual who appears to have no fixed location, no predictable pattern, and no clear identity. The fee is the largest he has ever been offered, and the employer is someone of sufficient power that refusal would be dangerous. As he begins investigation, he discovers that the target may not be human—or may not even be singular. The contract forces him into territories where his usual methods prove inadequate.
+The Warrant
+: The Kulena whose factor died in his counting-room has found a Threshold-keeper willing to frame the question as one of inheritance, and the Broker's Room has heard that the keeper means to ask who bought the death. Anuraja hires the party to learn which keeper it is and what he has been told, before the warrant is granted. If the question is asked and answered, the contracts end, and every house that bought from him has its own reason to bury him.
 
-The Betrayal Revealed
-: An intelligence asset Anuraja has relied upon for verification of contracts turns out to have been feeding him false information. One of his previous "assignments" was actually an innocent person whose death was arranged by a rival assassin attempting to frame him. The revelation that he has broken his own code—killing the wrong target—shakes his carefully ordered existence. He begins investigating who manipulated him and why, determined to correct the error.
+The Cook
+: A Ritrija of the temple that cremated a dyer-factor of one of the Nine Houses swears the death was not a sleeper's, and the dyer-factor's cook is held for it. She will be put out of the order unless the cause is shown. Anuraja asks the party to see that the Ritrija is quieted without the death being opened again. They can clear the cook by pointing at some other cause, or leave her to the judgment.
 
-The Mentor's Ultimatum
-: Grandmother Vex approaches Anuraja directly with an offer rather than an attempt at assassination. She reveals that she is dying and wishes to pass her knowledge to a successor. She believes Anuraja has strayed from the true path of shadow-work, but thinks he can be redeemed. She offers him a choice: spend six months in intensive retraining under her supervision, learning the "philosophy" he abandoned, or face her as an enemy knowing she will dedicate her final years to his elimination.
+The Silent Room
+: The line in the upper rooms of the Waiting House has stopped taking parcels, and the preparer Anuraja needs for his next contract has not come down in a month. The client's deadline falls in the dry season. Anuraja wants the party to learn whether the Waiting House has been noticed, and by whom, and he cannot ask at the counter without telling it who is asking.
 
-The Conscience Awakens
-: A contract goes catastrophically wrong when Anuraja discovers the target is a young woman bearing an uncanny resemblance to his sister—a sister he believed dead in childhood. Investigation reveals that his sister may have survived, that this target may actually be his sister, and that someone deliberately arranged this contract knowing it would create exactly this moral crisis. Faced with the possibility of a living relative, Anuraja sets out to learn whether the resemblance is coincidence, manipulation, or truth.
+:::secret {title="What the referee knows"}
+The dyer-factor in The Cook died of Anuraja's work, and the cook is innocent. He has told no one. If the Ritrija is shown a death that was not a sleeper's, the next question is carried through the Broker's Room to him.
 
-The Sacred Weapon
-: A wealthy collector approaches Anuraja with an unusual proposition: not a contract for murder, but a commission to acquire a famed artifact—a blade of such craftsmanship and alleged supernatural properties that its mere possession has sparked wars. The artifact is currently in the hands of a military order that will defend it to the death. Anuraja must employ assassination, theft, and manipulation in concert to obtain the blade, all while realizing that the artifact is exactly what his mentor Grandmother Vex has been seeking, and that she will kill him to possess it.
+The line in The Silent Room has stopped because a returned parcel carried a Threshold-keeper's seal. Nobody has noticed the Waiting House. The keeper's question concerns a contract of Anuraja's, and the preparer is waiting to see whether it reaches the ledger.
+:::

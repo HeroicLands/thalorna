@@ -34,13 +34,13 @@ data:
       accounts:
         - by: affiliation-mrchntclctvvdyr
           says: >-
-            The third generation of the Shreshthins dated its work from the year after the field. A war that broke both armies was the best argument for a law that made such wars unnecessary.
+            The third generation of the Shroshtins dated its work from the year after the field. A war that broke both armies was the best argument for a law that made such wars unnecessary.
           agrees: full
       unresolved:
         - which of the two kings died on the field; every chronicle of the period records the battle and none agrees on that
 ---
 
-Every chronicle of [[lore-hundredcrwn|the Hundred Crowns]] records **the Field of Elephants**, and none of them records a winner. That is the point a Vedyari teacher makes first: both armies came off the field broken, and the age's Shreshthins took the lesson the kings could not.
+Every chronicle of [[lore-hundredcrwn|the Hundred Crowns]] records **the Field of Elephants**, and none of them records a winner. That is the point a Vedyari teacher makes first: both armies came off the field broken, and the age's Shroshtins took the lesson the kings could not.
 
 ## The War
 
@@ -59,7 +59,7 @@ The slope became [[place-gajastal|Gajastal]], the elephant ground, the second _s
 - **The field.** Gajastal is a recurrence: in the first storms of the monsoon, drums sound along the slope at dusk and elephants trumpet for miles. No elephant will set foot on it at any season.
 - **The river.** Purnatir never recovered its strength. Within a generation its villages had passed to janpodas, and those janpodas still share one circuit-speaker at the [Mahva-Melka]{.name data-type="lore/gathering"} by habit, which is all that remains of the kingdom.
 - **The plateau.** The war was lost and Gomarga returned the wells. The accession oath gained its clause about wells, and every Maharava has sworn it since.
-- **[[lore-thirdcmpct|The Compact]].** [[affiliation-mrchntclctvvdyr|The Merchant Collective]] counts its third generation of Shreshthins from the year after the field, and the law they worked toward became the Third Compact.
+- **[[lore-thirdcmpct|The Compact]].** [[affiliation-mrchntclctvvdyr|The Merchant Collective]] counts its third generation of Shroshtins from the year after the field, and the law they worked toward became the Third Compact.
 - **The ban.** About 280 the kings of the age forbade the [[affiliation-agmipantra|Agmi-pantra]] to burn the field, and the sect went anyway ([[lore-agmipartng|the Three Partings]]).
 
 ## See Also {#see-also}

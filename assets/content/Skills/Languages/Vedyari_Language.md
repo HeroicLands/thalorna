@@ -7457,6 +7457,7 @@ data:
         - "chenduka"
         - "chandita"
         - "chandreli"
+        - "danvika"
         - "devatika"
         - "devisha"
         - "dipala"
@@ -7500,7 +7501,6 @@ data:
         - "tarvika"
         - "umarti"
         - "vamiksha"
-        - "vanika"
         - "vashani"
         - "viduliya"
         - "vikuti"
@@ -7634,7 +7634,7 @@ data:
       - {edge: closeConsonant, sounds: [n, r, t, k, s, l, m, d]}
     clusters: {max: 3}
     joining:
-      - {first: [a], second: [a], written: a, example: _podma_ + _avoli_ = _padmavali_}
+      - {first: [a], second: [a], written: a, example: _podma_ + _avoli_ = _podmavoli_}
       - {first: [a], second: [i], written: e, example: _vyela_ + _ishvora_ = _vyaleshvora_}
       - {first: [a], second: [u], written: o}
       - first: [i]
@@ -7881,7 +7881,7 @@ data:
     - {name: mukhyeshvara, tongue: vedyari, built: [achorya, mokhya, ishvora]}
     - {name: chandreli, tongue: vedyari, built: [chendra, kirta, sundeli]}
     - {name: chandri, tongue: calling, built: [chandreli]}
-    - {name: jayavalli, tongue: vedyari, built: [jaira, valsi]}
+    - {name: jairavalsi, tongue: vedyari, built: [jaira, valsi]}
     - {name: darmapalda, tongue: vedyari, built: [dorma, palda]}
     - {name: darmu, tongue: calling, built: [darmapalda]}
     - {name: vimuktan, tongue: vedyari}
@@ -7895,8 +7895,8 @@ data:
     - {name: parikshuna, tongue: vedyari}
     - {name: narava, tongue: vedyari}
     - {name: tejanand, tongue: vedyari, built: [surta, tejva, mahva, anonda]}
-    - {name: padmavali, tongue: vedyari, built: [podma, avoli]}
-    - {name: padmi, tongue: calling, built: [padmavali]}
+    - {name: podmavoli, tongue: vedyari, built: [podma, avoli]}
+    - {name: podmi, tongue: calling, built: [podmavoli]}
     - {name: danurkirti, tongue: vedyari, built: [danur, bedra, kirta, rajva]}
     - {name: pallovi, tongue: vedyari}
     - {name: draviksha, tongue: vedyari}
@@ -7916,11 +7916,11 @@ data:
     - {name: suvi, tongue: calling, built: [suvarti]}
     - {name: ratnisen, tongue: vedyari}
     - {name: tamura, tongue: vedyari}
-    - {name: vanika, tongue: vedyari, built: [vanta, -ika]}
+    - {name: danvika, tongue: vedyari, built: [danva, -ika]}
     - {name: viranga, tongue: vedyari}
     - {name: viru, tongue: calling, built: [viranga]}
     - {name: dukshana, tongue: vedyari}
-    - {name: vishali, tongue: vedyari}
+    - {name: pavandi, tongue: vedyari, built: [pavanda, -i]}
     - {name: balarnaya, tongue: vedyari}
     - {name: shilabir, tongue: vedyari, built: [shilsa, birda]}
     - {name: shilu, tongue: calling, built: [shilabir]}
@@ -7930,6 +7930,25 @@ data:
     - {name: ratnadasa, tongue: vedyari, built: [ratka, angha, devra, dasu]}
     - {name: vishvara, tongue: vedyari}
     - {name: mahapar, tongue: vedyari, built: [mahva, porha]}
+    - {name: votran, tongue: vedyari, built: [votra, -n]}
+    - {name: doprika, tongue: vedyari, built: [dopra, -ika]}
+    - {name: sandvi, tongue: vedyari, built: [sandva, -i]}
+    - {name: velyara, tongue: vedyari}
+    - {name: sujrika, tongue: vedyari, built: [sujra, -ika]}
+    - {name: shimri, tongue: vedyari, built: [shimra, -i]}
+    - {name: dormendra, tongue: vedyari}
+    - {name: mandavar, tongue: vedyari}
+    - {name: vakhora, tongue: vedyari}
+    - {name: sorita, tongue: vedyari}
+    - {name: davalakar, tongue: vedyari}
+    - {name: jabaloka, tongue: vedyari}
+    - {name: ashuk, tongue: vedyari}
+    - {name: surendor, tongue: vedyari}
+    - {name: devaksha, tongue: vedyari}
+    - {name: jayakaru, tongue: vedyari}
+    - {name: deshani, tongue: vedyari}
+    - {name: arinasha, tongue: vedyari}
+    - {name: anonda, tongue: vedyari, built: [anonda]}
     - {name: vedyari, tongue: vedyari, built: [vedyari]}
     - {name: Vedyaran Banking, tongue: translation}
     - {name: Vedyaran Currency, tongue: translation}
@@ -8407,6 +8426,11 @@ data:
       instead: Ghotranyasa
       why: "an Earth phrase, the title of a book of Earth"
     - {form: Helonic, instead: Helonik, why: respelled to Pronouncing Thalorna}
+    - {form: Padmavali, instead: Podmavoli, why: an Earth personal name}
+    - {form: Vanika, instead: Danvika, why: an Earth personal name}
+    - {form: Vishali, instead: Pavandi, why: an Earth personal name}
+    - {form: Jayavalli, instead: Jairavalsi, why: an Earth personal name}
+    - {form: Yajna, instead: Votran, why: a whole word of the culture's model language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -8578,7 +8602,7 @@ _Nervren borsha narta, mo chambu_ means “Although it rains, I go”; _borsha n
 
 _Vau nu ghuma vau nu jalnu_ offers “Either you eat or you drink”; the two _vau_ mark the alternatives. _Nukva mo ghuma nukva mo jalnu_ means “Neither do I eat nor do I drink”; each _nukva_ excludes its clause. _Mo uvas ghuma nukva mo jalnu_ continues a negative claim with “nor do I drink”. _Le mo ghuma le mo jalnu_ includes both: “I both eat and drink”. _Mo vren nu ghuma vau nu jalnu uvas jnenuk_ means “I do not know whether you eat or drink”; the alternatives stand before the main _uvas jnenuk_, “do not know”.
 
-_Ehu uhu shem samrek orsa_ means “This is like that”; _ehu uhu shem uvas samrek orsa_ means “This is unlike that”. _Mo uhu ro samnu pantra shem ganu_ means “I count as that one does”, in the same way. _Mo shaltun lampu: nu atki orsa_ introduces a clarification: “That is: you are a guest”. _Mo tirma lampu: Darmu le Padmi_ gives the particular names intended: “Namely, Darmu and Padmi”. _Darsika shem, ehu koda_ introduces an example, “For example, this pot”.
+_Ehu uhu shem samrek orsa_ means “This is like that”; _ehu uhu shem uvas samrek orsa_ means “This is unlike that”. _Mo uhu ro samnu pantra shem ganu_ means “I count as that one does”, in the same way. _Mo shaltun lampu: nu atki orsa_ introduces a clarification: “That is: you are a guest”. _Mo tirma lampu: Darmu le Podmi_ gives the particular names intended: “Namely, Darmu and Podmi”. _Darsika shem, ehu koda_ introduces an example, “For example, this pot”.
 
 _Sartu janru, nu nuvrek, mo shempal_ means “Everyone except you helps me”. _Mo aisul jalka jalnu_ means “I drink only water”; _mo levu ghomra ghuma_ adds “I also eat food”. _Mahvel nu mo shempal_ includes an unexpected helper: “Even you help me”. _Mo mokhyal nu shempal_ means “I especially help you”.
 
@@ -8698,7 +8722,7 @@ Vedyari names are cosmologically and philosophically charged. A personal name st
 - Similarly compound, often incorporating elements denoting grace, devotion, or cosmic principle
 - Common endings: _-i_, _-ika_ and _-a_, which close the names of both women and men
 - Deity names and sacred geographical features appear frequently
-- Examples: _Padmavali_ (a row of lotuses), _Chandreli_ (moon, the beautiful), _Vanika_ (of the grove)
+- Examples: _Podmavoli_ (a row of lotuses), _Chandreli_ (moon, the beautiful), _Danvika_ (of the grain)
 
 **Clan Names:**
 
@@ -8713,7 +8737,7 @@ Formal address often includes patronymic constructions (_-suta_, _-vaya_: "offsp
 
 ### Calling Names
 
-Beside the formal name, every Vedyari has a _calling name_, a short form of the given name used by kin and friends and offered rather than taken: _Padmavali_ is _Padmi_ at home. It keeps the first one or two syllables of the given name and closes on _-u_, _-i_ or _-a_, or doubles the first syllable. The lexicon named below gives the rule in full, with the calling names the setting records.
+Beside the formal name, every Vedyari has a _calling name_, a short form of the given name used by kin and friends and offered rather than taken: _Podmavoli_ is _Podmi_ at home. It keeps the first one or two syllables of the given name and closes on _-u_, _-i_ or _-a_, or doubles the first syllable. The lexicon named below gives the rule in full, with the calling names the setting records.
 
 ## Lexicon
 
@@ -8800,6 +8824,7 @@ The words of Vedyari, the rules a word is built by and a register of every Vedya
 - Chandita
 - Chandreli
 - Chenduka
+- Danvika
 - Devatika
 - Devisha
 - Dipala
@@ -8842,7 +8867,6 @@ The words of Vedyari, the rules a word is built by and a register of every Vedya
 - Tarvika
 - Umarti
 - Vamiksha
-- Vanika
 - Varina
 - Vashani
 - Viduliya
@@ -9060,11 +9084,11 @@ A person from a place takes _-i_: a [[place-rajepur|Rajepur]] man is a Rajepuri,
 
 ### Calling names
 
-A woman entered on the temple roll as _Padmavali_ answers to _Padmi_ in her mother's kitchen. The long name is the formal one: it stands in records, in the temple and before a court, and it is the name a stranger uses. The short one is the _calling name_, used by kin and friends, and it is offered, never taken; the [[lore-vedyariclt|Vedyari]] culture note says what follows from that. Every calling name is cut from the given name by one rule, and it is never made from the clan name.
+A woman entered on the temple roll as _Podmavoli_ answers to _Podmi_ in her mother's kitchen. The long name is the formal one: it stands in records, in the temple and before a court, and it is the name a stranger uses. The short one is the _calling name_, used by kin and friends, and it is offered, never taken; the [[lore-vedyariclt|Vedyari]] culture note says what follows from that. Every calling name is cut from the given name by one rule, and it is never made from the clan name.
 
-**Counting syllables.** A syllable is counted by its vowel. Each vowel and diphthong is one syllable, so _Pritimaja_ has four: _pri·ti·ma·ja_. A single consonant between two vowels opens the second syllable; where several stand together, the first closes the syllable before and the rest open the next, as in _chan·dre·li_. A seam adds nothing of its own: where the joining has merged two vowels into one, as _podma_ and _avoli_ merge in _padmavali_, the merged vowel is a single syllable, _pad·ma·va·li_.
+**Counting syllables.** A syllable is counted by its vowel. Each vowel and diphthong is one syllable, so _Pritimaja_ has four: _pri·ti·ma·ja_. A single consonant between two vowels opens the second syllable; where several stand together, the first closes the syllable before and the rest open the next, as in _chan·dre·li_. A seam adds nothing of its own: where the joining has merged two vowels into one, as _podma_ and _avoli_ merge in _podmavoli_, the merged vowel is a single syllable, _pod·ma·vo·li_.
 
-**Cutting the name.** Keep the first one or two syllables of the given name whole, carry over the consonants that open the next syllable, and close on `-u`, `-i` or `-a` where that syllable's vowel stood. Put another way, the given name is cut just before its second or third vowel and a closing is added: _Darmapalda_ is cut to _Darm-_ and gives _Darmu_, and _Padmavali_ is cut to _Padm-_ and gives _Padmi_. The letters before the cut are the given name's own. The other way to make a calling name is to double the first syllable, writing its opening consonants and its vowel twice: _Suvarti_ gives _Susu_. A name that opens on a vowel has no doubled form, since two vowels never stand together.
+**Cutting the name.** Keep the first one or two syllables of the given name whole, carry over the consonants that open the next syllable, and close on `-u`, `-i` or `-a` where that syllable's vowel stood. Put another way, the given name is cut just before its second or third vowel and a closing is added: _Darmapalda_ is cut to _Darm-_ and gives _Darmu_, and _Podmavoli_ is cut to _Podm-_ and gives _Podmi_. The letters before the cut are the given name's own. The other way to make a calling name is to double the first syllable, writing its opening consonants and its vowel twice: _Suvarti_ gives _Susu_. A name that opens on a vowel has no doubled form, since two vowels never stand together.
 
 A calling name is said aloud far more often than it is written, and _Pritimaja_ is cut to _Prit-_ and gives _Pritu_, and _Driksharana_ is cut to _Driksh-_ and gives _Driksha_. Apart from that, everything before the closing comes from the given name, and a calling name always closes on a vowel, so it keeps the word rules without effort.
 
@@ -9074,7 +9098,7 @@ SELECT coalesce('`' || form || '`', 'the first syllable doubled') AS "Closing",
 FROM calling_names WHERE language = 'thalorna-note-skill-vedyarlng' ORDER BY position
 ```
 
-A calling name in _-u_ is a man's and one in _-i_ a woman's, so _Darmu_ names a man and _Padmi_ a woman. The given names themselves are not divided this way: a short _-i_ closes a given name of either.
+A calling name in _-u_ is a man's and one in _-i_ a woman's, so _Darmu_ names a man and _Podmi_ a woman. The given names themselves are not divided this way: a short _-i_ closes a given name of either.
 
 Every Vedyari has a calling name, and the pages record it wherever the given name is long. A person whose given name runs to the number of syllables below or more carries the calling name as an alias, and the register lists it in the tongue `calling`, with the given name it is cut from in its **Built from** cell.
 
@@ -9088,11 +9112,11 @@ The calling names the pages record, each cut before the second vowel of the give
 | Who                                            | Cut             | Calling name |
 | ---------------------------------------------- | --------------- | ------------ |
 | [[being-anrjhrshkr\|Anuraja Harshakar]]        | _An-_           | _Anva_       |
-| [[being-chndrljyvl\|Chandreli Jayavalli]]      | _Chandr-_       | _Chandri_    |
+| [[being-chndrljrvls\|Chandreli Jairavalsi]]    | _Chandr-_       | _Chandri_    |
 | [[being-drmpldvmkt\|Darmapalda Vimuktan]]      | _Darm-_         | _Darmu_      |
 | [[being-drikaranamn\|Driksharana Manrishti]]   | _Driksh-_       | _Driksha_    |
 | [[being-madurvstrpl\|Madurava Sutrapal]]       | _Madr-_         | _Madru_      |
-| [[being-pdmvldnrkrt\|Padmavali Danurkirti]]    | _Padm-_         | _Padmi_      |
+| [[being-pdmvldnrkrt\|Podmavoli Danurkirti]]    | _Podm-_         | _Podmi_      |
 | [[being-prtrkpdmdksh\|Pritarika Padmadiksha]]  | _Pri-_, doubled | _Pripri_     |
 | [[being-prtmjkydr\|Pritimaja Kayadara]]        | _Prit-_         | _Pritu_      |
 | [[being-senpvvkrmd\|Senapavi Vikramada]]       | _Sen-_          | _Senu_       |

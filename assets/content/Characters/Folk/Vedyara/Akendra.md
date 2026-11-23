@@ -405,9 +405,9 @@ Akendra keeps a cookhouse near the temple at [[place-rajepur|Rajepur]], with a k
 
 The style has gone downriver. The great houses of [[place-chendrapur2|the Moon City]] send their cooks to learn it and now and again send for Akendra himself, and Chendrapuri tables serve dishes he invented as if they were old. The traditional cooks call it novelty dressed up, and he calls their cooking pedestrian and artistically limited, in public.
 
-## Vanika
+## Danvika
 
-The traditional cook he means is [[being-vanikartns|Vanika Ratnisen]]. They have quarreled across the town for years, in front of their patrons, and the quarrel sells meals for both of them. It became serious when the Achorya [[being-mandulikulan|Manduli Kulanaya]] gave Vanika the commission to cook Rasikara's feast-meal at the great temple's fire chamber. Akendra had asked for it first.
+The traditional cook he means is [[being-danvikartns|Danvika Ratnisen]]. They have quarreled across the town for years, in front of their patrons, and the quarrel sells meals for both of them. It became serious when the Achorya [[being-mandulikulan|Manduli Kulanaya]] gave Danvika the commission to cook Rasikara's feast-meal at the great temple's fire chamber. Akendra had asked for it first.
 
 ## Psyche
 
@@ -444,11 +444,11 @@ The great houses of Chendrapur
 
 ### Rivals
 
-[[being-vanikartns|Vanika Ratnisen]]
+[[being-danvikartns|Danvika Ratnisen]]
 : The traditional cook he has publicly dismissed for years.
 
 [[being-mandulikulan|Manduli Kulanaya]]
-: Who gave Vanika the feast-meal he wanted.
+: Who gave Danvika the feast-meal he wanted.
 
 ### Affiliations
 
@@ -461,10 +461,10 @@ The great houses of Chendrapur
 ## Plot Hooks
 
 The Summons
-: A steward of the Moon House has come to Rajepur to choose a cook for a feast, and has dined at both Akendra's court and Vanika's table. Akendra hires the party to learn what the steward has been told about him, and by whom.
+: A steward of the Moon House has come to Rajepur to choose a cook for a feast, and has dined at both Akendra's court and Danvika's table. Akendra hires the party to learn what the steward has been told about him, and by whom.
 
 The Spice Barge
 : The season's pepper is late from the forest, and Akendra's rivals have bought up what came. He needs a barge brought up the river before a Chendrapuri house's wedding feast.
 
 The Apprentice
-: Akendra's best apprentice has gone to Vanika's kitchen, taking his recipe book. Akendra wants the book back, and is less sure he wants the apprentice.
+: Akendra's best apprentice has gone to Danvika's kitchen, taking his recipe book. Akendra wants the book back, and is less sure he wants the apprentice.

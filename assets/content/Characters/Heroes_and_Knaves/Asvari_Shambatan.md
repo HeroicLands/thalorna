@@ -3,6 +3,7 @@ shortcode: asvrshmbtn
 name: {full: Asvari Shambatan}
 type: being
 subType: npc
+description: "The Samonta and Clan-Warden of Suryadvar, who holds the warden-right on the road through the Sun-Door and keeps the caravans' fee in her clan's hand."
 tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
@@ -520,3 +521,9 @@ The Eleven
 
 The Vote
 : The Maharava's acclamation of his son needs Asvari's bench. The Priestly Court's candidate, Jagasvar's son, sends her a private promise about the fee. The party carries the answer, and she has not told them which.
+
+:::secret {title="What the referee knows"}
+The pack-frame in The Eleven holds the Collective's payment to the Koshadyoksha for the plan to fold the wardens' fee into the pass-token. The caravan was hurried up the col to deliver it before the season turned, and Asvari has never known why its master risked the date.
+
+She has decided to vote for the Maharava's acclamation, because he is the one who will let the fee alone. The Priestly Court's promise will not outlast its own election, and she has told no one.
+:::

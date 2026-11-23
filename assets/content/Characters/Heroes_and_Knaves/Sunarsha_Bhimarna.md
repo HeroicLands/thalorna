@@ -3,6 +3,7 @@ shortcode: snrshbhmrn
 name: {full: Sunarsha Bhimarna}
 type: being
 subType: npc
+description: "The Samonta of the lowest valley of Bharyastan, who also holds estates on the plain below Suvargeri and is sent for by both courts to settle matters quietly."
 tags: [heroes-and-knaves, administration]
 data:
   icon: icon-person
@@ -434,7 +435,7 @@ He has been doing the arithmetic for thirty years, and he has done it in front o
 
 The Maharava of Bharyastan, [Pritivita]{.name data-type="being/npc"}, is old, and his heir, the **Yuvarava** [Kritakana]{.name data-type="being/npc"}, has never ridden the tribute road. The treaty is renewed at every succession on either side, and the next renewal is coming.
 
-Sunarsha wants the gold tribute's weight raised at the next succession, or the treaty let lapse. He has said the second half of that aloud only once, round a fire on the tribute road a day above [[place-raiderscairn|the Raiders' Cairn]], and it has been repeated in every valley since. He does not want the treaty to lapse. He wants Suvargeri to believe it might, because a janpoda that keeps three hundred guards would pay a great deal not to need three thousand. And there are buyers for four hundred horse: the patron kingdoms of the plain, Chendrapur's houses, and [[affiliation-mrchntclctvvdyr|the Merchant Collective]], whose factors have no standing to weigh the tribute and would like to.
+Sunarsha wants the gold tribute's weight raised at the next succession, or the treaty let lapse. He has said the second half of that aloud only once, round a fire on the tribute road a day above [[place-raiderscairn|the Raiders' Cairn]], and it has been repeated in every valley since. There are buyers for four hundred horse: the patron kingdoms of the plain, Chendrapur's houses, and [[affiliation-mrchntclctvvdyr|the Merchant Collective]], whose factors have no standing to weigh the tribute and would like to.
 
 The tribute leaves the [Gold Constitution]{.name data-type="lore/law"}'s reach as tribute and not as trade, and the [[affiliation-assmblycmpct|Assembly of the Compact]] has raised the point and never raised it twice in the same decade. Sunarsha has written to the Assembly's men too.
 
@@ -501,10 +502,16 @@ The Twenty-Eight of Suvargeri
 ## Plot Hooks
 
 The Price of Horse
-: Sunarsha hires the party to ride down to Chendrapur and carry a sealed letter to a Collective factor, asking what four hundred horse would fetch by the year. The letter is a bluff, and he wants Suvargeri to intercept it. He has not told the party that.
+: Sunarsha hires the party to ride down to Chendrapur and carry a sealed letter to a Collective factor, asking what four hundred horse would fetch by the year. Suvargeri's riders watch the road below the Raiders' Cairn, and a party caught with the letter is a party caught selling the kingdom's horse.
 
 The Heir's Ride
-: The Yuvarava Kritakana has never ridden the tribute road. Sunarsha arranges for him to ride it this spring, with the party in the escort, so that the heir sees how much the gold costs to carry. Someone in the court would rather the heir did not come back.
+: The Yuvarava Kritakana has never ridden the tribute road. Sunarsha arranges for him to ride it this spring, with the party in the escort, so that the heir sees how much the gold costs to carry. The valleys that pay the difference want him to see it, and the court's old guard want him kept at the palace, and the party is on the road when the two meet.
 
 The Boundary
 : A Suvargeri village and a Bharyastani one are fighting over a terrace that both claim, and both courts send for Sunarsha. He settles it in a way that makes the Suvargeri sabhra owe him a favor before the renewal. The losing village wants the party to find out what he was paid.
+
+:::secret {title="What the referee knows"}
+Sunarsha does not want the treaty to lapse. He wants the Twenty-Eight of Suvargeri to believe it might, because a janpoda that keeps three hundred guards would pay a great deal not to need three thousand. The sealed letter in The Price of Horse is a bluff, written to be intercepted, and he has not told the party so.
+
+In The Heir's Ride, a faction at the Maharava's court would rather the Yuvarava Kritakana did not come back from the tribute road, and Sunarsha has heard of it and has not stopped the ride.
+:::

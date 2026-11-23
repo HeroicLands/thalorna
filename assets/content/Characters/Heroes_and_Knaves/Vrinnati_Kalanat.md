@@ -3,6 +3,7 @@ shortcode: vrnntklnt
 name: {full: Vrinnati Kalanat}
 type: being
 subType: npc
+description: "A Sentija horse-soldier of the four hundred of Bharyastan, twenty-six, who has ridden in the tribute escort every spring for ten years and wants the escort placed under one captain."
 tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
@@ -507,10 +508,14 @@ Her own captain
 ## Plot Hooks
 
 Short a Rider
-: This year's escort is short a rider, and Vrinnati's captain offers the place to anyone who can sit a horse. The ride up is easy. The talk round the fire is about who in the court wants the treaty to lapse, and Vrinnati wants the newcomer's opinion of the mule.
+: This year's escort is short a rider, and Vrinnati's captain offers the place to anyone who can sit a horse. The ride up is easy. The talk round the fire is about who in the court wants the treaty to lapse, and Vrinnati wants the newcomer's opinion of the mule. If the newcomer asks about it in her captain's hearing, the place is gone before the escort leaves the horse-ground.
 
 The Washed-Out Ford
 : The escort reaches the same ford in the same weather, and the two captains argue again. Vrinnati crosses with the gold on her own authority, and the party has to decide which bank it is on.
 
 The Renewal
 : The Maharava dies, and the renewal opens. Vrinnati asks the party to carry her proposal for a single escort command to Satuni at Suvargeri, past Sunarsha's people on the road, before the two courts sit down.
+
+:::secret {title="What the referee knows"}
+Her own captain knows who moved the mule. He did it to keep the two halves of the escort from ever agreeing on one command, which is why he does not intend to give up Bharyastan's half. The mule was driven into the stream and the weight was left whole, and Vrinnati is the first rider to put the night beside the treaty.
+:::

@@ -3,6 +3,7 @@ shortcode: senpvvkrmd
 name: {full: Senapavi Vikramada, given: Senapavi, clan: Vikramada, vedy: [senu]}
 type: being
 subType: character
+description: "A senior bosun born in Nilatir who served fifteen years in Chendrapur's war-fleet, and whom captains pay above the rate to turn a green crew into a working one."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -11,7 +12,7 @@ data:
   occupation: Bosun
   lore: []
   culture: vedyariclt
-  homes: [vyalendra3]
+  homes: [nilatir]
   affiliations: {vyalendra2: {rank: 4}, vrnkpnthn: {rank: 1}}
   gender: male
   species: humanflk
@@ -26,7 +27,7 @@ data:
     complexion: []
     nose: straight
     mouth: full
-    extra_features: [a tattoo of a crescent moon on the neck]
+    extra_features: []
   packFolder: ankarisvedyara
   items:
     - {key: scmtr, model: weapongear-scmtr, kind: weapon}
@@ -483,113 +484,91 @@ sohl:
 
 ![[senpvvkrmd|Senapavi Vikramada]]{float=top-left}
 
-Senapavi stands 6'0" tall with a heavy build. He has medium brown skin, graying dark brown hair, and deep brown eyes. His features include a full face, a straight nose, a narrow chin, full lips, and medium brows. He has a tattoo of a crescent moon on his neck.
+Senapavi is a man of 6'0" and heavy build, medium brown, with graying dark brown hair, deep brown eyes, a full face, a straight nose and a narrow chin. He has a bosun's ears, scarred and deaf on the left from forty years of shouting into wind, and a hand that closes on a rope as if it had been shaped to it. He dresses in canvas and a wool cap, and carries a bosun's pipe on a cord at his neck.
 
 # Dossier {#dossier}
 
-Senapavi Vikramada was born in [[place-nilatir|Nilatir]], the port [[place-vyalendra3|Vyalendra]]'s cloth leaves by, to a family of sailors and shipwrights. His father was a bosun before him, and his grandfather before that—a legacy stretching back generations into the merchant hulls and war galleys that carry the coast's trade. Senapavi learned his trade not from books or schools but from the deck itself, rising through competence and an almost instinctive understanding of what a crew needed to hold together under pressure.
+## The Deck
 
-He served for fifteen years in the war-fleet of [[affiliation-chendrapur|Chendrapur]], where he rose to senior bosun and eventually served aboard the great war galley [Rasikara's Wrath]{.name data-type="vehicle"}, the fleet's flagship. Those years taught him that leadership is earned rather than delegated from above, by showing again and again that one knows the difference between rules and wisdom, between discipline and tyranny. When Chendrapur's fleet was reduced after a period of peace, Senapavi chose to leave military service and now works as a contract bosun, hiring himself out to merchant captains who recognize that his presence aboard their vessels means better organized, better run, more loyal crews.
+Senapavi was born in [[place-nilatir|Nilatir]], the port by which the cloth of [[place-vyalendra3|Vyalendra]] leaves, to a family of sailors and shipwrights. His father and grandfather were bosuns. He learned the trade on the deck. Fifteen years in the war-fleet of [[affiliation-chendrapur|Chendrapur]] took him to senior bosun aboard the fleet's flagship, where he learned that a crew follows the man who shows again and again that he knows the difference between a rule and a reason.
 
-For the past decade, he has become something of a legend in the maritime communities of Vedyara and beyond: the senior bosun who can take a chaotic, demoralized crew and forge them into a working crew within weeks. Captains compete for his services, often paying well above the usual rate to secure him for crucial voyages. He has grown wealthy by the standards of the working sailor class, though he lives with the modest means of a man for whom material comfort remains secondary to the work itself.
+For ten years he has hired out to merchant captains who have a green or broken crew and a voyage they must make. He turns the crew into a working one in weeks. He is paid well above the usual rate and lives plainly. He keeps the practices he trusts and distrusts new rigs until he has seen them hold in weather.
 
-His faith in [[affiliation-rasikara|Rasikara]] is practical devotion rather than escape: the fire-aspect deity, [[lore-rasikaradty|Rasikara]], stands for transformation, the burning away of weakness and the forging of strength from raw material. This philosophy guides his handling of a crew, though some have questioned whether his methods border on cruel.
+## The Faith and the Standards
+
+Senapavi's devotion to [[affiliation-rasikara|Rasikara]] is practical. The god of fire and of change appeals to a man who thinks a crew is made of raw stuff that has to be burned clean. Some of the sailors he has trained say that his methods are close to cruelty. He holds that a strict routine keeps a crew alive when the storm comes.
+
+He has refused a permanent post with the merchant [[being-priturajasam|Prituraja Samudraya]], who employs him often and considers him the foundation of his trade. He does not want to command. He wants to make others' commands possible and to leave behind sailors who keep his standards.
 
 ## Psyche
 
 ### Personality
 
-Senapavi is a man of few unnecessary words, his manner of speech molded by years of giving orders in noisy, wind-filled environments where clarity and brevity are survival. When he speaks, people listen, not from volume but from the certainty that his words carry weight and intention. His humor, when it emerges, is dark and situational—appropriate to the grim realities of seafaring life. He can find grim comedy in disaster and maintains philosophical acceptance of dangers that would terrify landlubbers.
-
-His authoritarian manner covers a real care for the sailors under his command, expressed not through coddling but through a steady commitment to their safety and the highest standards of training. He sees discipline not as punishment but as the foundation of safety—a strict routine and clear hierarchies keep people alive when storms come and crises strike. He has been known to advocate fiercely for crew members deserving promotion or compensation, and crews who serve under him generally respect him despite his exacting standards.
-
-His wariness of new devices is earned skepticism rather than stubbornness: he has seen new rigs fail spectacularly, putting lives at risk through untested designs and untrained crews attempting to work unfamiliar gear. Trust must be earned through demonstration, and he will not risk his people on unproven methods.
+Senapavi says little and means all of it. His humor is dry and wholly situational. His strictness covers a plain concern for the people under him, and he has argued hard for crew members he thought were wronged. He distrusts novelty because he has seen untested gear kill people.
 
 ### Motivation
 
-Senapavi's fundamental drive is the pursuit of excellence in maritime endeavor. He believes that the sea demands mastery, that incompetence on deck is a kind of sin against those whose lives depend on collective competence. He works toward a vision of a maritime world where standards are universal, where every sailor is trained to the highest level, where the gap between competent and incompetent is vast enough to be truly meaningful.
-
-More personally, he seeks to leave a legacy of trained sailors and officers who will carry forward the traditions and standards he has worked to establish. He has accepted that he will not command ships himself—his temperament and interests lie in making others' commands possible—but he can see that a generation of sailors carries forward his principles.
+He wants every sailor trained to the standard that keeps a crew alive, and he wants the sailors he has trained to carry it on after him.
 
 ### Strengths
 
-Crew Mastery
-: Has an unequaled ability to read a crew, assess individual capabilities, and organize people into cohesive, effective units that function even under extreme stress.
+Reading a Crew
+: He sees which hand is strong, which is frightened and which will not hold in a storm.
 
-Deck Expertise
-: Thorough knowledge of every aspect of sailing, ship maintenance, and the working of a ship. Can diagnose problems and set them right with minimal consultation.
+The Deck
+: He knows every part of a ship and can set a fault right without consulting anyone.
 
-Crisis Management
-: In emergency situations, his calm clarity and immediate grasp of priorities make him indispensable. When disaster strikes, people instinctively look to him for direction.
-
-Training and Mentoring
-: Can take green sailors and transform them into competent seamen through rigorous but fair training suited to each one's capability.
-
-Authority Without Coercion
-: Commands respect and obedience not through threats but through demonstrated competence and consistent follow-through on his word.
+Crisis
+: In a gale his calm is the one fixed thing aboard.
 
 ### Weaknesses
 
 Resistance to Change
-: His preference for proven methods sometimes blinds him to worthwhile new methods that could improve speed or safety, creating friction with captains eager for them.
+: He dismisses new rigs before he has seen them work.
 
-Interpersonal Rigidity
-: His manner of speech, while effective for command, can come across as harsh or dismissive to those expecting more warmth or diplomacy.
+Bluntness
+: His manner can seem harsh to people who expect courtesy.
 
-Limited Flexibility
-: His adherence to standards and procedures can become problematic when circumstances truly require deviation or improvisation outside established practice.
-
-Age and Injury
-: While still vigorous, he has accumulated various injuries over his decades at sea—creaky joints, old breaks, hearing loss—that occasionally limit his physical capability and make him acutely aware of his mortality.
-
-Vulnerability to Loyalty
-: His strong bonds with crew members and captains can lead him into situations that conflict with his better judgment, particularly when someone he respects asks him to bend his principles.
+Old Injuries
+: Forty years at sea have cost him his hearing in one ear and some of his strength.
 
 ## Social
 
-### Patrons
+### Patrons and Allies
 
-Captain-Merchant [[being-priturajasam|Prituraja]]
-: A successful merchant captain who employs Senapavi regularly and considers him the foundation of his trading success. Prituraja has offered Senapavi a permanent position with significant authority, which Senapavi has declined.
+Captain-Merchant [[being-priturajasam|Prituraja Samudraya]]
+: A merchant captain who employs him often and has offered him a permanent post.
 
 The shipwrights of [[place-chandrmukha|the Moon-Mouth]]
-: Maintains good relationships with the yards that build Chendrapur's galleys, occasionally consulting on matters of crew management and vessel design from the standpoint of practical seamanship.
+: Who consult him on rigging and on how a crew will use a vessel.
 
-[[affiliation-rasikara|Temple of Rasikara]]
-: Devoted practitioner and occasional volunteer in temple activities, though his faith is expressed through work rather than elaborate ceremony.
+### Rivals
 
-### Enemies
-
-Captain [[being-darmejadar|Darmeja]] of the [Crimson Sail]{.name data-type="vehicle"}
-: A merchant captain whom Senapavi once refused to serve because of what he perceived as grossly inadequate safety standards and crew abuse. Darmeja has since built his own reputation for speed and profit, and he views Senapavi as a rival whose standards are "outdated" and "cost-prohibitive."
-
-Modernist Faction
-: A loose coalition of younger seafarers who view Senapavi's traditional methods as obstacles to progress, particularly the adoption of new rigs and instruments.
+Captain [[being-darmejadar|Darmeja Daranir]] of the [Crimson Sail]{.name data-type="vehicle"}
+: A captain whom Senapavi once refused to serve for his crew's treatment, and who calls the bosun's standards too costly.
 
 The coast smugglers
-: A ring of smugglers working the coast, who have attempted to recruit Senapavi, offering enormous payments for his assistance in crew management for their operations. His refusals have made him a target of their resentment.
+: A ring that has tried to hire him to manage their crews and resents his refusals.
 
 ### Affiliations
 
-[[lore-vedyariclt|Vedyaran]] Maritime Tradition
-: Though he works on contract rather than as an official representative, he is deeply connected to and considered an exemplar of Vedyaran maritime culture and values.
+[[affiliation-vyalendra2|Vyalendra City-State]]
+: A Sentija of a Nilatir sailing family.
 
-The senior hands
-: An informal fellowship of senior sailors and officers who maintain standards and traditions, and who respect Senapavi as one of their most honored members.
+[[affiliation-vrnkpnthn|Varnuka Pantheon]]
+: A believer, who keeps the observances of the Pantheon, among them the god [[affiliation-rasikara|Rasikara]], to whom he burns a lamp at the stern on every voyage.
 
 ## Plot Hooks
 
-The Failed Innovation
-: Senapavi is hired for a voyage aboard a vessel equipped with a novel rigging design meant to increase speed and reduce the hands needed. The captain is enthusiastic, the crew is eager, and the promised payment is generous. However, Senapavi quickly identifies critical flaws in the design that he believes make the ship dangerous, particularly in rough seas. The captain dismisses his concerns, insisting that the designer's calculations are sound and Senapavi is merely afraid of anything new. Senapavi can resign on principle, accept the risk and try to manage it, or force changes to the design that might make him appear an obstructionist while saving lives.
+The New Rig
+: Senapavi is hired aboard a vessel fitted with a new rig that is meant to cut the hands needed. He finds a fault that will kill the crew in heavy weather. The captain dismisses him and the owner has already paid the shipwright. He can quit and let the crew sail untrained to it, or stay and cost the owner his speed.
 
-The Captaincy Offer
-: A wealthy merchant approaches Senapavi with an unprecedented offer: command of his own vessel, with full authority over crew and operations, backed by substantial resources. This is the dream Senapavi has supposedly held throughout his working life—autonomy, authority, and the ability to carry out his vision of maritime excellence in full. However, accepting means leaving the mentoring role he has come to cherish and assuming administrative responsibilities that do not suit his temperament. The choice is between what he thought he wanted and what he has discovered he actually needs.
+The Master's Berth
+: Word reaches Senapavi at the quay that Prituraja means him to master the deep-water hull half built at the Moon-Mouth, the first of her size owned in Nilatir. He has refused every post Prituraja offered. He asks the party to learn what the hull is to carry and who else wants her to fail before Prituraja puts the question.
 
-The Corrupt Captain's Loyalty
-: Senapavi is hired as bosun aboard a merchant vessel and gradually discovers that the captain is involved in piracy and trafficking, using merchant voyages as cover for his crimes. Several crew members under Senapavi's care are being exploited or coerced into participation. Senapavi is trapped between his loyalty to crew members (including some he has trained in previous years) and his fundamental principles against lawlessness. He can report the captain and break up the operation, try to protect and extract the exploited crew members, or let the exploitation continue.
+The Sinking Hull
+: Senapavi's ship comes on a vessel taking water in a rising sea. It is the Crimson Sail, Darmeja's ship. The rescue endangers Senapavi's own crew, and the captain leaves the decision to him. He asks the party aboard for advice and does not take it.
 
-The Generational Clash
-: A young, brilliant sailor—perhaps the most talented Senapavi has trained in years—comes to him with a revolutionary idea for restructuring the crew's chain of command and how decisions are made in ways that Senapavi believes would undermine discipline. However, the sailor presents evidence that the new approach could improve both the work and the crew's morale by listening to what they know. Senapavi faces the possibility that his absolute standards are obstacles rather than advantages, and that excellence might look different from the way he has always practiced it.
-
-The Rescue Refusal
-: Senapavi's ship encounters another vessel in distress—likely sinking, crew in mortal danger. However, assisting would involve significant risk to Senapavi's own ship and crew, and the vessel in distress appears to belong to Captain Darmeja, Senapavi's old enemy. The captain gives Senapavi the option: attempt a dangerous rescue or proceed safely onward. Senapavi has to weigh the brotherhood of the sea against his personal enmities.
+:::secret {title="What the referee knows"}
+The keel timber for the hull in The Master's Berth, three months late from the forest, was bought away on the river by the merchant houses that hold shares in the Crimson Sail with Darmeja, who want no new rival on the southern run.
+:::

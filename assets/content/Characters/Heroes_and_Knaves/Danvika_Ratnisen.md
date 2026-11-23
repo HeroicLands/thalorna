@@ -1,8 +1,9 @@
 ---
-shortcode: vanikartns
-name: {full: Vanika Ratnisen, given: Vanika, clan: Ratnisen}
+shortcode: danvikartns
+name: {full: Danvika Ratnisen, given: Danvika, clan: Ratnisen}
 type: being
 subType: character
+description: "The head cook of the Ratnisen House Inn at Rajepur, a devotee of Rasikara, whose traditional table is known to every pilgrim and cook of the Spring Festival."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -442,126 +443,97 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vanikartns|Vanika Ratnisen]]{float=top-left}
+![[vanikartns|Danvika Ratnisen]]{float=top-left}
 
-Vanika stands 5'10" tall with a medium build. She has warm wheat skin, deep black hair, and dark amber eyes. Her features include a heart-shaped face, a broad nose, a small chin, a wide mouth, heavy brows, and full cheeks.
+Danvika is a woman of 5'10" and medium build, with warm wheat-colored skin, thick black hair tied up in a cloth, dark amber eyes and a broad nose. Her face is heart-shaped and her brows are heavy, and her forearms are marked with small old burns. She stands at the hearth with her weight on her left leg to spare the knee that aches in the cold.
 
 # Dossier {#dossier}
 
-## Background
+## The Kitchen at Rajepur
 
-### The Kitchen Born
+Danvika was born in [[place-rajepur|Rajepur]] to the family that keeps the [Ratnisen House Inn]{.name data-type="affiliation/venture"}, and she learned to cook at its fires. At the [Spring Festival of Vyalendra]{.name data-type="lore/gathering"} the inn's kitchen feeds pilgrims on the janpoda's account from the first lamp to the last, and she does not leave the hearth for a week. She has been head cook there for nearly twenty years.
 
-Born in 679 in [[place-rajepur|Rajepur]], the temple town that lodges the pilgrims of the Spring Festival, Vanika grew up in a household where food was the primary language of hospitality and cultural expression as well as sustenance. Her family operated a modest but respected inn, and from earliest childhood she was surrounded by cooking fires, the aromas of spices and roasting meats, and the constant flow of travelers for whom her family's meals became the memorable center of their visits. She apprenticed formally under her mother and later under a succession of respected master cooks, learning recipes and, beyond them, the underlying principles of flavor, texture, and cultural nutrition that make food memorable.
+Her work is plain and exact: dal and flatbread, ghee, the festival rices and the sweets, done to the classical standard every time. In her kitchen her word is law. Outside it she is shy of anyone above her in station.
 
-### The Master of the Craft
+## The Fire
 
-By her early twenties, Vanika had established a reputation as a superb cook—not a novel one, but a master of fundamentals who could produce extraordinary meals from whatever ingredients were available. She worked in a succession of wealthy households before taking up position as head cook at the [Ratnisen House Inn]{.name data-type="affiliation/venture"} operated by her extended family. For nearly two decades, she has maintained the inn's reputation as one of Vedyara's finest establishments, her cooking drawing recognition and loyal patronage from merchants, great houses, and common travelers alike. Her reputation rests not on fashionable novelty but on absolute reliability, on the capacity to transform simple ingredients into meals of real excellence, on the understanding that food is ultimately about sustenance, comfort, and human connection.
+Danvika serves [[affiliation-rasikara|Rasikara]], the god of fire and of the change fire compels, and she holds that a meal is a transformation like any other. For three years [[being-mandulikulan|Manduli Kulanaya]], Achorya of Rasikara's form at the great temple, has had her cook Rasikara's feast-meal, which the town eats at the fire chamber's door. The temple's priests do not touch it, because Danvika is a Danhija, and Manduli means to change that. Manduli counts her a friend.
 
-### The Aging Masterwork
+## The Rivals
 
-Now in her early forties, Vanika has begun to feel the cumulative toll of her trade—her joints ache after long hours on her feet, her hands occasionally stiffen in cold weather, and she no longer possesses the stamina for the extended cooking marathons that once felt natural. Yet her work has reached new peaks of mastery; her accumulated knowledge and experience allow her to move with seemingly effortless grace through complex preparations that would daunt younger cooks. She has begun training younger cooks and taking on increasingly consultative roles, though she remains fundamentally committed to hands-on work. She has also begun to question whether her steadfast commitment to "honest cooking" has perhaps limited her recognition or prevented her from achieving greater prominence in more fashionable circles.
+Across the town [[being-akendra2|Akendra]] keeps a cookhouse near the temple, cooks in a style of his own and says that Danvika's table is pedestrian. He asked for Rasikara's feast-meal before she was given it. A younger set of cooks follows his lead. Her joints ache, and she knows the day is coming when she will not stand through a festival week.
 
 ## Psyche
 
 ### Personality
 
-Vanika is a woman of unpretentious directness and warmth, confident in her particular domain and straightforward in her judgments. In her kitchen, she is absolute authority—her word is law, her standards non-negotiable, her decisions final. Yet this same authority dissolves somewhat when she moves beyond cooking; she becomes less certain, more deferential to those of higher social status, occasionally defensive about her station. She is prone to blunt speech, saying what she believes with little concern for diplomatic softness, which can seem harsh to those unaccustomed to her manner. Yet those who know her well understand that her directness emerges from care—she speaks truthfully because she respects her audience.
-
-Her commitment to the [[affiliation-rasikara|Faith of Rasikara]], devoted to [[lore-rasikaradty|Rasikara]], god of fire and transformation, is expressed through her cooking; she sees in the transformation of raw ingredients through heat a sacred process, a manifestation of divine principle. She approaches her work with reverence and ritual care, and she believes that food prepared with intention and mastery carries spiritual dimension beyond mere nutrition. She is practical and unsentimental about most matters, yet capable of surprising gentleness when engaged with the young, the suffering, or the truly lost. She forms few deep personal relationships but those she does form are characterized by uncommon loyalty and protective fierceness. She possesses a dry humor, often deployed to deflect seriousness or to communicate affection to those with whom she shares particular bonds.
+Danvika is warm, direct and unceremonious, and she says her love in food and not in words. She is exacting in her kitchen and dismissive of anyone who will not learn the standard. She is a poor judge of money and leaves the inn's accounts to her family.
 
 ### Motivation
 
-Vanika is driven by a fundamental commitment to excellence—the conviction that work, no matter how humble, deserves to be done with mastery and integrity. She wants to feed people well, to contribute to their wellbeing and comfort, and to maintain standards of craft in an increasingly careless world. She is also motivated by a desire to be recognized and valued, to have her skill acknowledged by those who might otherwise dismiss her as a mere inn cook. Increasingly, she is motivated by anxiety about aging and relevance—a fear that her knowledge will become outdated, that younger cooks with fashionable ideas will supplant her, that she will find herself dismissed as quaint or obsolete. She is also motivated by love, though she rarely acknowledges this—a real care for the people she feeds and a commitment to their wellbeing expressed through the medium of nourishment.
+She wants the work done well and recognized for it, and she wants to hand her kitchen to a cook who will keep the standard.
 
 ### Strengths
 
-Foundational Mastery
-: Possesses extraordinary competence in all fundamental cooking techniques; she can prepare any traditional [[lore-vedyariclt|Vedyaran]] dish with absolute reliability and excellence, and can adapt techniques across diverse culinary traditions.
+The Classical Table
+: She can cook every traditional dish of [[place-mahanodi|the Mahanodi]] reliably and adapt it to what the season gives.
 
-Intuitive Understanding of Nutrition
-: Understands food as nourishment and not only as flavor; she can construct meals that truly sustain, that address specific physical needs, that contribute to healing and wellbeing.
+Feeding Crowds
+: She can run a kitchen that feeds the pilgrims of a festival day without waste.
 
-Ingredient Knowledge
-: Possesses encyclopedic understanding of herbs, spices, plants, and their properties—both culinary and medicinal; she can work with whatever materials are available and extract maximum value and flavor.
-
-Practical Economy
-: Can manage production of large quantities of food with minimal waste; her kitchen operations are marvels of order and economy that other cooks study and attempt to replicate.
-
-Leadership Authority
-: Her kitchen operates with extraordinary coordination and morale; younger cooks learn discipline and excellence from her, and those working under her direction improve substantially in competence and confidence.
-
-Cultural Authenticity
-: A thorough understanding of Vedyaran culinary traditions and the cultural and spiritual dimensions of food; her cooking honors tradition while adapting pragmatically to available resources.
+Herb-Knowledge
+: She knows which herbs and spices nourish, which settle a stomach and which a sick person should not be given.
 
 ### Weaknesses
 
-Limited Innovation
-: Her commitment to traditional approaches, while it makes her reliable, can leave her unprepared for fashionable cuisines or the demands of patrons seeking novel or exotic preparations; she tends toward dismissal of such demands as frivolous rather than attempting to learn.
+The Knee
+: Long hours have left her with joint pain and shorter stamina.
 
-Social Defensiveness
-: Outside her kitchen domain, she becomes noticeably less confident; she experiences social anxiety around those of higher social status and can become defensive about her station or dismissive of those who "don't understand real cooking."
+Distaste for Novelty
+: She will not learn the fashionable styles and dismisses patrons who ask for them.
 
-Physical Limitations
-: Years of physical labor have taken their toll; she experiences chronic joint pain, reduced stamina, and occasional stiffness that limits her capacity for extended work.
-
-Emotional Inarticulateness
-: While capable of warmth, she struggles to express emotion verbally; she communicates care through food rather than words, which can leave people uncertain of her feelings.
-
-Business Naïveté
-: While an extraordinary cook, she is not naturally skilled at business; she defers to others on pricing, marketing, and financial decisions, which has sometimes worked to her disadvantage.
-
-Intolerance for Incompetence
-: Her standards are exacting and her patience limited with those who lack dedication or competence; she can be harsh in judgment and dismissive of those who do not meet her expectations.
+Business Naivete
+: She defers to the family on price and trade, and it has cost her.
 
 ## Social
 
-### Patrons
+### Patrons and Allies
 
-[Shroshtin Kaliprasod]{.name data-type="being/npc"}
-: One of Vedyara's most prominent merchants and a devoted admirer of Vanika's cooking; he regularly hosts dinners at his residence and specifically requests that Vanika be hired to prepare meals, paying premium fees for her services.
+Priestess [[being-mandulikulan|Manduli Kulanaya]]
+: Achorya of Rasikara's form at Rajepur, who has had her cook Rasikara's feast-meal for three years.
 
-Priestess [[being-mandulikulan|Manduli]]
-: High priestess of Rasikara's temple and a fellow devotee of the fire god; she has commissioned Vanika to prepare ritual meals and has become something of spiritual companion and advocate.
+The Ratnisen household
+: Her extended family, who keep the inn and give her free hand in the kitchen.
 
-[The Ratnisen Family]{.name data-type="affiliation/lineage"}
-: Her extended family, for whom she continues to work as head cook; they have given her unusual autonomy and have supported her work despite its demands.
+### Rivals
 
-Master Musicianist [Madusolva]{.name data-type="being/npc"}
-: A celebrated musician and composer who frequents the inn and has become one of Vanika's few close personal friends; he appreciates her cooking and advocates for her value and importance.
-
-### Enemies
-
-Chef [[being-akendra2|Akendra]]
-: A celebrated and fashionable chef who specializes in exotic and novel cuisine; he views Vanika as representative of outdated culinary traditions and has publicly dismissed her work as pedestrian and artistically limited.
-
-[The Culinary Progressives]{.name data-type="affiliation"}
-: A movement among younger, ambitious cooks toward fashionable novelty and new techniques; they view Vanika's traditional approach as backward and resistant to the evolution of the culinary arts.
-
-Innkeeper [Bhavon]{.name data-type="being/npc"}
-: A rival inn proprietor who employs Chef Akendra and views Vanika's reputation as directly threatening his business; he has attempted to poach her staff and has spread rumors undermining her standing.
+[[being-akendra2|Akendra]]
+: The keeper of a cookhouse near the temple, who calls her cooking pedestrian and wanted the feast-meal for himself.
 
 ### Affiliations
 
-The cooks' shrena of Rajepur
-: A senior member whose counsel is sought on matters of traditional practice and culinary standards; she serves informally as voice for traditional approaches within an organization increasingly given to novelty.
+[[affiliation-rajeprjnpd|Rajepur Janpoda]]
+: A Danhija of the town, with a seat in the household that keeps the Ratnisen House Inn.
 
-The lay devotees of [[affiliation-rasikara|Rasikara]]
-: A lay devotional group honoring the fire god; Vanika participates in ritual observances and has begun to develop deeper theological engagement through this community.
-
-The Ratnisen House Inn
-: Her primary workplace and family enterprise where she maintains full creative authority over all culinary operations.
+[[affiliation-vrnkpnthn|Varnuka Pantheon]]
+: A lay believer, who keeps the household observances of the Pantheon, among them the god [[affiliation-rasikara|Rasikara]], to whom she lights the kitchen fire with a prayer each morning.
 
 ## Plot Hooks
 
-The Culinary Competition and the Poisoned Dish
-: Vanika is approached by the cooks' shrena to represent traditional cooking in a prestigious culinary competition at the Spring Festival of Vyalendra—a showcase of the greatest chefs in Vedyara competing before judges of the temple and the sabhra. The competition promises significant prestige and financial reward for the victor, yet it will require Vanika to showcase her work beside the fashionable cooks she has previously dismissed. As preparation begins, her competitors and rivals intensify, and she begins to discover that someone is subtly sabotaging her preparations—tainting ingredients, damaging her kitchen tools, spreading false rumors about her reliability. The competition becomes a battle of integrity and reputation as much as of culinary skill.
+The Steward's Choice
+: A steward of [[place-moonhouse|the Moon House]] has come to Rajepur to choose a cook for a feast, and has dined at both Danvika's table and Akendra's court. The commission would make the Ratnisen inn's name for a generation. Danvika can cook him the classical table she cooks every day and risk a poorer showing beside Akendra's novelties, or cook to the fashion and lose the point of her own kitchen. She asks the party to learn what the steward has been told about her, and by whom.
 
-The Mysterious Illness and the Culinary Cure
-: A plague or mysterious illness begins afflicting the people of Rajepur and its villages—people become chronically debilitated, weak, unable to gain nutrition from normal food. The temple healers and physicians are baffled. In desperation, someone approaches Vanika with a peculiar request: could her mastery of nutrition and food preparation perhaps address the medical crisis in ways that physicians cannot? This unusual commission forces her into an unfamiliar role as healer and inventor, requiring her to develop new approaches, research unusual ingredients, and collaborate with priestesses and physicians. Success would bring her extraordinary recognition and validate her knowledge in new ways, but failure would be publicly humiliating and potentially dangerous if her efforts are blamed for worsening the crisis.
+The Wasting
+: Pilgrims and villagers begin to weaken after meals, with hunger that food does not ease. The temple healers are baffled, and a party is asked to find what the sick have eaten in common. Danvika's inn is among the places they ate, and Akendra says so loudly.
 
-The Family Secret and the Ancestral Recipe
-: An elderly relative dies and leaves Vanika a collection of handwritten recipes in an archaic dialect—recipes from generations of women in their family who were apparently cooks to great houses or perhaps even royalty in ancient times. The recipes describe dishes of extraordinary complexity and sophistication, suggesting that her family possesses culinary heritage far more distinguished than she realized. Yet some recipes include ingredients she cannot identify, techniques she does not understand, and apparent references to spiritual or magical properties of food. She can pursue mastery of these ancestral recipes (which could dramatically elevate her standing) and risk being changed by this previously unknown family history, or set the recipes aside as impractical nostalgia.
+The Old Recipes
+: An elderly cousin of the family dies and leaves Danvika a box of recipes written in an old hand. They describe feasts of a size no inn has cooked, and [[place-rajavalilib|the Rajavali Library]] would like to copy them. If she gives them up, the family's claim to its old place at the town's tables goes into the library's keeping.
 
-The Invitation to Excellence
-: Chef Akendra, her great rival, mysteriously falls ill and, in what appears to be a deathbed reconciliation, requests that Vanika take over her prestigious position at the court of a major regional Samonta—a position of extraordinary prestige, wealth, and influence. The invitation is both a validation of her skill and a tremendous opportunity, yet it requires leaving her established position, her family's inn, her community, and everything she has built. There are also hints that Akendra's illness may not be entirely natural, and accepting the position might place Vanika in dangerous political circumstances. The opportunity is everything she has never quite achieved, yet accepting it requires abandoning her roots.
+The Apprentice's Book
+: Akendra's best apprentice has come to Danvika's kitchen, carrying Akendra's recipe book. She wants the apprentice and will not have the book under her roof. Akendra has already told two tables that she sent for it. She asks the party to return the book to his cookhouse before the story reaches Manduli and the sabhra.
+
+:::secret {title="What the referee knows"}
+The family cooked for the last kings of Rajepur. The final recipe in the box is the dish served on the night the second of the last six kings died, the one who forbade the pyre to the men who rose against him, and the temple's records name the cook of that night as a Ratnisen.
+
+The feast grain found fouled in her storeroom was fouled by one of her own kitchen hands, paid by the temple kitchen, whose Ritrija cooks lose their place at Rasikara's feast if Manduli has her way. Akendra had no part in it.
+:::

@@ -152,8 +152,8 @@ Suryamaha Hirenya-Padsa
 The Twenty-Eight
 : the heads of the twenty-eight hereditary panning families. They meet quarterly to coordinate the work, settle disputes between families and put one view to the sabhra on any question touching the panning. They are no constitutional body, but they have a recognized voice in any sabhra discussion of the panning, and their joint pronouncements carry weight.
 
-[[being-pdmvldnrkrt|Padmavali Danurkirti]]
-: the most prominent Suvargeri-born scholar of the wider Vedyari classical tradition, who teaches at one of the great academies of Chendrapur. Her commentary on the Gold Constitution is a major contribution to Vedyari political philosophy.
+[[being-pdmvldnrkrt|Podmavoli Danurkirti]]
+: the most prominent Suvargeri scholar of the wider Vedyari classical tradition, who keeps her workshop in the town. Her commentary on the Gold Constitution, written at one of the great academies of Chendrapur, is a major contribution to Vedyari political philosophy.
 
 ## Commerce and Currency {#commerce}
 

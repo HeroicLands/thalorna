@@ -3,6 +3,7 @@ shortcode: nrvtjnnd
 name: {full: Narava Tejanand, given: Narava, clan: Tejanand}
 type: being
 subType: character
+description: "A glassworker of Vyalendra, a merchant's son who became the successor of Davalakar, whose colored glass fills the temples and the great houses and whose workshop is deep in debt."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -24,7 +25,7 @@ data:
     hair_color: black
     skin_color: golden
     complexion: []
-    extra_features: [a tattoo of a compass on the chest]
+    extra_features: []
   packFolder: ankarisvedyara
   items:
     - {key: whmr, model: weapongear-whmr, kind: weapon}
@@ -448,113 +449,97 @@ sohl:
 
 ![[nrvtjnnd|Narava Tejanand]]{float=top-left}
 
-Narava stands 6'2" tall with a heavy build. He has golden brown skin, jet black hair, and dark brown eyes. His features include a diamond-shaped face, a delicate nose, a rounded chin, an expressive mouth, golden brows, and soft cheeks. He has a tattoo of a compass on his chest.
+Narava is a man of 6'2" and heavy build, with golden brown skin, jet black hair, dark brown eyes and a full, expressive mouth. His forearms and hands are a map of small burns, white and pink against the brown, and his eyes are always a little red from the furnace. He wears a leather apron over a stained linen shirt and does not take it off to receive patrons.
 
 # Dossier {#dossier}
 
-## Background
+## The Furnace Born
 
-### The Child of Light
+Narava was born to a merchant family of standing in [[place-vyalendra3|Vyalendra]], the first son of a spice house. At seven his father took him to the workshop of Master [Davalakar]{.name data-type="being/npc"}, the foremost glassworker of the city, and he stood watching a gather of molten glass become a bowl. At twelve he gave up his inheritance and was apprenticed. Five years passed before he was allowed to make anything of his own.
 
-Narava was born to a merchant family of notable standing in [[place-vyalendra3|Vyalendra]], the first son in a line expected to carry on the family's lucrative trade in spices. However, at age seven, his life was transformed by a single encounter. His father took him to the workshop of Master [Davalakar]{.name data-type="being/npc"}, the greatest glassworker in the known world, a man whose pieces were commissioned by temples and great houses across three continents. Narava watched in complete absorption as Master Davalakar drew liquid light from the furnace on the end of a hollow pipe, and with nothing but the master craftsman's breath and skilled hands, transformed it into shapes of impossible beauty—flowers that seemed to bloom, animals that seemed poised to move, abstract forms that captured the essence of light itself.
+He inherited Davalakar's furnaces in his twenties. His reputation is secure, and his pieces fill the clerestory frames of temples and the cabinets of the loom households. He is thirty-seven, and he has spent more on his experiments than his commissions have repaid.
 
-From that moment, Narava knew his destiny. He renounced his inheritance and at age twelve apprenticed himself to Master Davalakar, beginning a decade-long journey of learning that would transform him from a wealthy merchant's son into a true craftsperson. His path through apprenticeship was rigorous—five years devoted entirely to basic techniques, understanding glass composition, learning to judge heat and viscosity by sight and instinct alone. He was not permitted to create anything of his own design for a full ten years.
+## The Workshop
 
-### The Emerging Master
+Vyalendra's great halls are lit from clerestories, and the [Academy of the Shining Pattern]{.name data-type="affiliation"} of the [[affiliation-vyalendravada|Vyalendravada]], whose Achoryas designed those windows, buys research glass from him and gives him access to its laboratory. The temple of [[affiliation-jnanasura|Jnanasura]] at [[place-suryagarha|Suryagarha]] has commissioned its stained glass through him. High Priestess [[being-viduliyadan|Viduliya Danasur]] pays him a stipend. The merchant [Jabaloka]{.name data-type="being/npc"} of [House Chendra]{.name data-type="affiliation/lineage"} buys for his own estates and tolerates the delays.
 
-By his late twenties, Narava had become Master Davalakar's most accomplished student and eventual successor. When his master reached advanced age and could no longer work the furnaces, Narava inherited the workshop and with it the responsibility of maintaining the legacy of excellence that had defined it. He took the complementary name **Tejanand**—"the supreme light of the sun"—marking his ascension to master status, a name that honored both his lineage through Master Davalakar and his own vision of glasswork as the capture and transformation of divine light.
-
-Yet Narava's ascension was not without shadow. His mastery of technique was absolute, but he struggled with the practical and financial aspects of running a successful workshop. He invested too much time and material in experimental pieces that yielded no commission, alienated potential patrons through his perfectionism and casual disregard for their timelines, and proved incapable of managing the apprentices and assistants necessary to handle the volume of work his reputation attracted.
-
-### The Present Struggle
-
-Now thirty-seven years old, Narava stands at a precarious crossroads. His reputation as a master craftsman is unquestionable—his pieces are sought by temples and the richest loom households, and his advances in colored glass work and three-dimensional sculptural forms have influenced glassworkers across the known world. Yet his workshop teeters on financial instability. He carries considerable debt from failed experimental projects and lost investments, and his collaborators have increasingly grown impatient with his perfectionism. He has begun accepting commissions from lesser patrons simply to maintain basic solvency, compromising his standards in ways that trouble him deeply. The tension between his artistic vision and economic necessity grows more acute with each passing season.
+The creditor [Ashuk]{.name data-type="being/npc"}, a moneylender who advanced the cost of a new furnace, has begun threatening to seize the workshop's stock. A rival glassworker, [Surendor]{.name data-type="being/npc"}, makes sound work at a lower price and has begun competing for the commissions Narava once took as his own.
 
 ## Psyche
 
 ### Personality
 
-Narava is an artist first and a craftsman second, though these aspects intertwine inseparably in his work. He is passionate to the point of obsession about his craft, capable of discussing light refraction, glass composition, and the spiritual properties of color with an intensity that makes most people uncomfortable. He has little interest in the social courtesies that smooth human dealings, often offending patrons through his frank assessments of their aesthetic taste or his seeming indifference to their deadlines and their purses.
-
-Yet his difficult manner covers a deep vulnerability. He worries constantly that he will never create the ultimate masterwork he envisions—the piece that perfectly captures the nature of light itself. This fear drives him to continual experimentation and to an almost desperate need for approval from those he respects. The scars on his hands are reminders of the price his craft demands, and he wears them as both badge and curse. In unguarded moments, he reveals a melancholy that suggests he views himself as fundamentally alone, separated from ordinary people by his obsession, forever reaching toward perfection he cannot quite grasp.
+Narava is an artist before he is a tradesman. He can talk about refraction and the color of fire for an hour and has no interest in his patrons' deadlines. His frankness about their taste has lost him commissions. Underneath it is a fear that the piece he is trying to make, glass that holds the nature of light itself, is not possible.
 
 ### Motivation
 
-Narava's primary motivation is the pursuit of an impossible ideal—to create a piece of glass that perfectly expresses the nature of light itself, that captures divinity in a material form. This quest is both his greatest strength and his deepest self-destructive tendency. Secondarily, he is driven by a need to prove that his path—abandoning wealth and merchant status for craft—was the correct choice, that the sacrifices he made were justified by the significance of what he creates. The financial struggles of his workshop threaten this sense of validation, as economic failure seems to contradict the importance he ascribes to his work.
+He wants to make the one piece that shows what light is, and he wants his years of work to have been right.
 
 ### Strengths
 
-Technical Mastery
-: Narava's command of glassworking techniques is absolute. He can execute forms, colors, and effects that other glassworkers consider impossible, and his pieces represent the apex of the craft.
+The Glass
+: He can work colors and forms that other masters call impossible, and he reads heat and viscosity by eye.
 
-Visionary Creativity
-: His imagination is boundless when applied to his craft. He conceives designs that seem to defy the limitations of glass as a material, and somehow finds the technical means to realize them.
+Materials
+: His knowledge of mineral additives rivals an Achorya's, and he tests new compounds without waste.
 
-Passionate Commitment
-: His complete devotion to his craft translates into an intensity of focus that produces work of uncompromising quality. Those who commission him know they are receiving something extraordinary.
-
-Knowledge of Material Science
-: Narava's understanding of glass composition, the behavior of heat, and the behavior of different mineral additives rivals that of academic scholars, allowing him to try new things constantly while maintaining technical integrity.
-
-Aesthetic Judgment
-: His eye for color, balance, and form is trained to a level that allows him to recognize excellence instantly and to identify subtle deficiencies that most would overlook.
+Judgment of Form
+: He sees a flaw in color or balance across a hall.
 
 ### Weaknesses
 
-Financial Recklessness
-: Narava's complete lack of interest in the business aspects of his craft has resulted in chronic financial instability. He spends lavishly on materials and equipment for experimental projects with no clear path to recouping costs, and he frequently extends work beyond contractual deadlines without negotiating additional compensation.
+Debt
+: He spends on materials without a plan to recover the cost, and his deliveries run late.
 
-Difficulty with Authority
-: Narava chafes under any perceived compromise to his artistic vision, making him a difficult collaborator and an impossible employee. He has terminated relationships with important patrons over aesthetic disagreements of relatively minor significance.
+Perfectionism
+: He cannot call a piece finished.
 
-Physical Vulnerability
-: His hands and forearms, the tools of his trade, are constantly at risk of injury. A serious burn or scarring could potentially impair his dexterity and end his working life. He also suffers from recurring eye strain from years of working with intense heat and bright light.
-
-Perfectionist Paralysis
-: He struggles to complete commissions because he becomes fixated on minor details and endless refinement. Several important projects have been delivered years behind schedule, damaging his reputation despite the eventual quality of the work.
-
-Emotional Fragility
-: His moods swing dramatically, and criticism—even well-meant criticism—can send him into periods of dark introspection during which he produces no work. He carries significant shame about his financial struggles and views them as personal failure.
+Ruined Eyes and Hands
+: Years at the furnace have left him with burn scars and eyes that tire.
 
 ## Social
 
-### Patrons
+### Patrons and Allies
 
-[[affiliation-jnanasura|The Temple of Jnanasura]], High Priestess [[being-viduliyadan|Viduliya]]
-: The grand temple of the knowledge deity has commissioned Narava for its sacred stained glass installations, which tell the stories of spiritual enlightenment through light and color. **High Priestess Viduliya** views his work as a form of religious expression and provides him with a stipend that gives his workshop basic financial stability.
+The temple of [[affiliation-jnanasura|Jnanasura]] at [[place-suryagarha|Suryagarha]]
+: Whose High Priestess [[being-viduliyadan|Viduliya Danasur]] pays him a stipend for the stained glass.
 
-Shroshtin [Jabaloka]{.name data-type="being/npc"} of [House Chendra]{.name data-type="affiliation/lineage"}
-: A wealthy spice trader with refined aesthetic tastes, Jabaloka has become Narava's most consistent patron, commissioning pieces for his personal collection and his estates. Though occasionally frustrated by delays, Jabaloka values the prestige of owning Narava's work enough to tolerate the inconvenience.
+The [Academy of the Shining Pattern]{.name data-type="affiliation"} of the [[affiliation-vyalendravada|Vyalendravada]]
+: Whose Achoryas buy research glass and lend him the laboratory.
 
-[[affiliation-vyalendravada|The Academy of the Shining Pattern]]
-: The mother-house of the Vyalendravada's academy, whose Acharyas study light, materials and geometry and designed the clerestories of the city's great halls, commissions research glass pieces from Narava and provides him with laboratory access for experimental work, though the compensation is modest.
+### Rivals
 
-### Enemies
+[Surendor]{.name data-type="being/npc"}
+: A glassworker of sound technique who competes for the commissions Narava refuses.
 
-Master [Surendor]{.name data-type="being/npc"}
-: A rival glassworker of considerable skill who emerged from competing workshops, Surendor creates technically sound work that appeals to merchants and the lesser loom households seeking quality at more affordable prices. Narava views Surendor as a charlatan whose commercial success proves the degraded aesthetic tastes of the age, while Surendor has grown weary of being dismissed by Narava and now actively competes for prestigious commissions as a matter of pride.
-
-Creditor Merchant [Ashuk]{.name data-type="being/npc"}
-: A moneylender who has advanced Narava substantial sums for equipment and materials, Ashuk grows increasingly impatient with delays in repayment and has begun threatening to seize workshop assets to cover the debt. The relationship has soured from businesslike to actively hostile.
+[Ashuk]{.name data-type="being/npc"}
+: The moneylender who holds the furnace's debt and has begun to threaten the workshop.
 
 ### Affiliations
 
 The glassworkers' shrena
-: Narava maintains active membership in the city's glassworkers' shrena and is respected as one of the foremost masters, though his rebellious attitude toward shrena standards occasionally puts him at odds with the conservative shrena leadership.
+: A respected master who is at odds with its older leaders over the standards.
+
+[[affiliation-vyalendra2|Vyalendra City-State]]
+: A Danhija of a spice-merchant house who left the trade for the furnace.
+
+[[affiliation-vrnkpnthn|Varnuka Pantheon]]
+: A lay believer, who keeps the household observances of the Pantheon.
 
 ## Plot Hooks
 
-The Commission from Beyond
-: A mysterious patron, reportedly from distant lands beyond the known trade routes, offers Narava an extraordinary sum to create a specific piece—a glass sphere that somehow must capture the properties of a substance they describe in oblique, mystical terms. The commission both excites and troubles Narava: the work seems aligned with his greatest ambitions, but the mysterious patron's vague specifications and hints at supernatural properties suggest this is no ordinary commission. Accepting means potentially abandoning his other work; refusing means passing up what could be his defining masterwork.
+The Seized Stock
+: Ashuk gives Narava until the next new moon before he seizes the workshop's stock to cover the furnace. Jabaloka has offered to buy the debt at a price that would make Narava his glassworker for life. Narava asks the party to find out what Ashuk has been promised, because the moneylender's patience has changed.
 
-The Shattered Legacy
-: Narava learns that several of his greatest early pieces, now housed in temples and in the collections of merchant houses, have been destroyed—shattered deliberately in a pattern that suggests intentional sabotage rather than accident. Investigating the source of these destructions reveals a hidden enemy, possibly someone who believes Narava's glass work possesses spiritual or magical properties and fears its influence. The attacks may be simple malice, or they may reflect something real about his art that he himself does not fully understand.
+The Clerestory
+: The Achoryas of the Academy offer Narava the clerestories of a new great hall. It is the largest commission of his life and fixes his name, but their geometry requires panes of one size and a single color, and nothing like his work. He can take it and secure the workshop, or refuse and lose it.
 
-The Student's Rebellion
-: Narava accepts a brilliant but troubled apprentice, [Devaksha]{.name data-type="being/npc"}, a young person of undeniable talent but volatile temperament. As Devaksha's skills develop, they begin questioning Narava's philosophy of art, arguing for a more accessible, democratic approach to glasswork that would make beauty available to common people rather than just the wealthy. The philosophical conflict between master and student escalates to open competition when Devaksha opens a rival workshop using techniques learned under Narava's tutelage.
+The Rebel Apprentice
+: A brilliant and difficult apprentice, [Devaksha]{.name data-type="being/npc"}, argues that glass should be cheap enough for the villages and has left to open a rival workshop with his master's compounds. Narava wants the compounds back and does not want the apprentice harmed. The party must find the new workshop before Ashuk does, because a debtor's stock includes the formulae.
 
-The Debt's Terrible Price
-: With his financial situation becoming critical, Narava is approached by a figure operating in shadow—a collector, a sorcerer, or something else entirely—who offers to cancel all his debts in exchange for creating one specific piece of glass. The patron claims to want nothing more than a transparent vessel of certain dimensions and properties, but Narava senses that a darker purpose is intended. Desperation wars with integrity as he considers whether any sum of money or security is worth potentially creating an instrument of harm.
+The Broken Panes
+: Several of Narava's early works in temples and great houses have cracked and fallen in the past season. It looks like sabotage. The houses that own them ask the party to find who is doing it before the commissions in hand are withdrawn.
 
-The Ultimate Commission
-: The most prestigious institution in the land—the Loom-Council's hall, a great temple, or an institution of immense cultural significance—offers Narava the opportunity to create the centerpiece for a renovation project that would establish him as the greatest glassworker of the age and secure his workshop's future. However, the project requires him to work within strict constraints set by architects and patrons, compromising his artistic vision. He can accept the limitations and secure his legacy, or maintain his artistic integrity at the cost of financial survival.
+:::secret {title="What the referee knows"}
+Nobody is breaking the panes. Narava introduced a mineral additive in his early colored glass that crystallizes slowly and splits the pane after some years. He has known for a long time and has told no one, because it would end his name. The pieces he is making now use the same compound.
+:::

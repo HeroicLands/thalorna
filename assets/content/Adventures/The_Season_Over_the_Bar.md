@@ -36,7 +36,7 @@ The stakes are the price of a season's cloth, who commands the only war-fleet in
 ## Who Moves It
 
 [[being-vjrtnsrntk|Vajratan Sirnataka]], Nau-senapavi of Chendrapur
-: A careful seaman and a reckless politician. Vyalendra's offer would confirm him and cost his Maharava a lever the Moon House values.
+: A careful seaman and a reckless politician. Vyalendra's offer, if the Triyacharya stands behind it, would confirm him and cost his Maharava a lever the Moon House values.
 
 [[being-priturajasam|Prituraja Samudraya]], master and owner at Nilatir
 : Careful, exact about money and generous about everything else. He wants the new hull and wants [[being-senpvvkrmd|Senapavi Vikramada]] as her master, and he has not asked him.

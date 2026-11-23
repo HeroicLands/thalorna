@@ -95,7 +95,7 @@ The curriculum is famously rigorous. A graduate recites classical Vedyaran poetr
 
 ## Notable Affiliates
 
-[[being-chndrljyvl|Chandreli Jayavalli]]
+[[being-chndrljrvls|Chandreli Jairavalsi]]
 : a Companion of growing prominence, recruited into [[affiliation-adanshreni|the Adanshreni]] through Twilight House connections. She walks an increasingly precarious line between three masters, her clients, the House and the Shrena.
 
 The Mistress of the Long Evening

@@ -3,6 +3,7 @@ shortcode: drtpjdvtn
 name: {full: Dritapaja Devatuni}
 type: being
 subType: npc
+description: "A Ritrija and Dorshaka of Svapnastambha, the westernmost house of the Svapnasari-sameja, who keeps the dream-record of the caravans that sleep there before crossing the sand."
 tags: [heroes-and-knaves, clergy]
 data:
   icon: icon-person
@@ -502,10 +503,16 @@ The Maharava's Montrin at Sandyapur
 ## Plot Hooks
 
 The Copied Page
-: A page in Dritapaja's own hand, an entry from this season's record, turns up in the post commander's quarters. Somebody in the tower copied it. He asks the party to find out who before the Svopna-Achorya does, because the house will put the copyist out.
+: A page in Dritapaja's own hand, an entry from this season's record, turns up in the post commander's quarters. Somebody in the tower copied it. He asks the party to find out who before the Svopna-Achorya does, because the house will put the copyist out. The party can find who it was and hand him to the Svopna-Achorya, or find him and let the tower keep the matter quiet.
 
 The Sheikh's Son
 : A young [[affiliation-dunhartrbs|Dunhari]] man of a sheikh's house sleeps at the tower on his way east, and the commander wants to know what he dreamed. The young man asks the party to see him safely past the post in the morning, whatever the reading.
 
 The Captain's Question
 : [[being-umrtdrtn|Umarti Daritan]]'s company comes through Marukupa unpaid, and the march-captain asks Dritapaja, as a petitioner, to sleep in the chamber herself. Her dream is hers to give to the Montrin if she chooses. The commander knows she is in the tower and is waiting at the foot of the stair.
+
+:::secret {title="What the referee knows"}
+The copyist is a young Nidrapala of the tower whose brother is held in the post's cells. The commander promised the brother's release for the page.
+
+The record already shows what the Montrin hopes for. The dreams of the masters who crossed this year agree on a raid at the wells of Marukupa. Dritapaja has not said so, and he has told himself that reading it to the crown would make the dream true.
+:::

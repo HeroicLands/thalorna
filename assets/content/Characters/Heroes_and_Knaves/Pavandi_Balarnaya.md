@@ -1,8 +1,9 @@
 ---
-shortcode: vishalblry
-name: {full: Vishali Balarnaya, given: Vishali, clan: Balarnaya}
+shortcode: pavandblry
+name: {full: Pavandi Balarnaya, given: Pavandi, clan: Balarnaya}
 type: being
 subType: character
+description: "A Danhija spice trader's daughter of Rajepur, orphaned young, who travels the janpodas and courts of Vedyara as a fool for hire and speaks the unwelcome truth in jest."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -436,113 +437,93 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vishalblry|Vishali Balarnaya]]{float=top-left}
+![[vishalblry|Pavandi Balarnaya]]{float=top-left}
 
-Vishali stands 5'8" tall with a light build. She has rich brown skin, dark black hair, and warm brown eyes. Her features include a round face, a slightly arched nose, a gentle jawline, generous lips, and rich brows. She has a scar on her right elbow.
+Pavandi is a woman of 5'8" and light build, with rich brown skin, black hair worn loose, warm brown eyes and a round face with a slightly arched nose. A scar runs across the point of her right elbow, from a fall she turned into a bow. She dresses in patched silks of many colors, and she moves as if the floor were a rope.
 
 # Dossier {#dossier}
 
-## Background
+## The Orphan
 
-### Early Life and Training
+Pavandi was born in [[place-rajepur|Rajepur]] to a Danhija spice trader who prided himself on honest dealing. At twelve she lost both parents and the family's trading house to a fire, and she left the town on a performers' wagon rather than wait for her kulpa's elders to find her a bond. Her first master taught her misdirection and tumbling, and by her late teens she was the company's brightest act. At twenty-two she left to work alone.
 
-Vishali was born into the Danhija station in [[place-rajepur|Rajepur]], the daughter of a spice trader who prided himself on honest dealing. Her childhood was one of relative comfort, spent among the marketplaces and river landings of the Mahanodi trade. However, at age twelve, a devastating fire claimed both her parents and the family's trading house, leaving her orphaned and destitute. Rather than fall into indentured servitude or worse, Vishali attached herself to a traveling fair—a caravan of performers, acrobats, and charlatans who moved from town to town across [[place-vedyarargn|Vedyara]].
+She is twenty-seven now, and she travels from the festivals of the janpodas to the courts of the Kulenas and the Samontas, a fool for hire in a country that has little use for one. She returns to Rajepur each spring for the [Spring Festival of Vyalendra]{.name data-type="lore/gathering"}, when every court of the temple wants a performer and she can work them all for a week.
 
-It was here, under the tutelage of [Korvin the Magician]{.name data-type="being/npc"}, a cynical but talented performer with a sharp eye for raw talent, that Vishali discovered her gifts. Korvin taught her the arts of misdirection, sleight of hand, and performance—not to deceive for malice, but to amaze and delight. She proved to be an apt student with natural grace and an almost supernatural dexterity that made her especially suited to acrobatic performance. More importantly, Korvin recognized that Vishali possessed something rare: the courage to push boundaries and make people uncomfortable through comedy that cut close to bone.
+## The Fool's Office
 
-### Coming of Age
+She holds that a fool's duty is to say what the powerful will not hear, and she says it in a song or a tumble that cannot be punished as speech. Her jokes have cost her places at festivals and in great houses. A priest of the temple of [[affiliation-kamavrata|Kamavrata]], [[being-vatesabhasur|Vatesa Bhasura]] of [[place-chendrapur2|Chendrapur]], had her barred from several religious festivals after she mocked the temple's performance of its rites. A Kulena of the great houses has sworn that she will not play again in his quarter.
 
-By her late teens, Vishali had become the star attraction of [Master Korvin's Traveling Spectacular]{.name data-type="affiliation"}, famous across Vedyara for her daring acrobatic feats combined with biting comedy that often left audiences laughing even as they questioned whether they should. She developed a reputation for physical comedy that bordered on the obscene, for jokes that targeted sacred cows and powerful individuals, and for a reckless disregard for propriety that made her beloved by common folk and despised by those of delicate sensibilities.
-
-### Current Situation
-
-Now, at twenty-seven, Vishali operates independently, having parted amicably from Master Korvin's company five years prior. She travels the janpodas, kingdoms and cities of Vedyara and beyond, performing at festivals, fairs, and in the courts of those wealthy enough and broad-minded enough to hire her. She has developed something of a following—a reputation as a court jester without a court, a fool-for-hire who will perform anywhere and for anyone willing to pay. The performance covers a sharp intelligence and a calculating mind. Her relationships with various patrons, sabhras and courts give her access to information and influence that she occasionally uses to help those in real need.
+[Jayakaru]{.name data-type="being/npc"}, a broad-minded Kulena of [House Deshani]{.name data-type="affiliation/lineage"}, hires her for his court and counts her a friend. His protection is her best credential and her greatest debt.
 
 ## Psyche
 
 ### Personality
 
-Vishali's dominant quality is her shameless irreverence. She treats authority with casual dismissal and has perfected the art of making the powerful uncomfortable through humor that borders on insolence. This is more than rebelliousness: it comes from a carefully cultivated philosophy that holds that the greatest duty of a fool is to speak truth through jest, to remind the powerful of their human frailty and folly.
-
-The quick wit and acerbic humor cover a person of real depth and surprising compassion. Having lost everything at a young age, she harbors a particular sympathy for the dispossessed and will often perform for the poor at reduced rates or for free. Her relationships tend to be superficial by design—she has learned that attachment breeds vulnerability—yet she is capable of fierce loyalty to those few she considers true friends. She is also mercurial and impulsive, prone to making decisions based on momentary whim rather than careful consideration, which has sometimes led her into dangerous situations.
+Pavandi is irreverent, quick and generous with the poor. She plays free for the dispossessed and for the price of a meal in a village, and she keeps people at the distance a joke provides. She is loyal to the few she lets near.
 
 ### Motivation
 
-Vishali is driven by a contradictory pair of impulses: a desire for freedom so absolute that she refuses to allow any person, institution, or circumstance to constrain her, and a secret yearning to matter, to use her talents in service of something larger than herself. She performs partly for the coins and partly for the pure joy of making people feel something—whether that is laughter, discomfort, or the unsettling sensation of having their assumptions challenged. Her irreverence covers a young woman trying to build a life of meaning and independence from ashes, while fearing that she is incapable of real connection or lasting purpose.
+She wants freedom from any master, and in secret she wants her performances to matter to someone beyond the coin.
 
 ### Strengths
 
-Virtuosic Physical Performer
-: Vishali's acrobatic abilities are extraordinary. She can scale walls, perform death-defying tumbling sequences, and move through spaces with the fluidity of water. Her body is a precise instrument.
+Tumbling and Climbing
+: She climbs a wall, walks a rope and falls without harm.
 
-Master of Misdirection
-: Her sleight of hand is superb, and her understanding of where an eye goes and how to lead it is nearly supernatural. She can make crowds see what she wants them to see and miss what she intends to hide.
+Misdirection
+: She can lead a room's eyes where she wants them and take what she likes from where they were.
 
-Cutting Wit
-: Vishali possesses a rapier-sharp sense of humor and an ability to craft jokes that disarm even the most guarded audiences. Her timing is impeccable, and her understanding of human nature allows her to land jokes that cut precisely where intended.
-
-Dexterity
-: Beyond acrobatics and sleight of hand, Vishali's manual dexterity extends to fine craftwork, drawing, and any task requiring precise finger control. She is an accomplished artist.
-
-Survival Resourcefulness
-: Having survived loss and homelessness, Vishali possesses practical skills in cooking, herblore, and survival that make her capable of thriving in harsh conditions.
+Wit
+: She finds a joke that fits the person who has to hear it, and times it past their guard.
 
 ### Weaknesses
 
-Reckless Impulsivity
-: Vishali acts on whim without fully considering consequences. This has led her into dangerous situations multiple times, and her ability to talk her way out is not always successful.
+Impulsiveness
+: She acts on a whim and does not always find a way out.
 
-Boundary-Crossing Humor
-: Her comedy, while brilliant, often offends those in power or those with delicate sensibilities. She has made enemies among the great houses and the temples through jokes that crossed the line from clever to plainly insulting.
+Offending the Great
+: Her humor has made her enemies in the temples and the great houses.
 
-Emotional Guardedness
-: Having known great loss, Vishali struggles to form trusting relationships. Her tendency to maintain ironic distance prevents deep connection and leaves her fundamentally isolated.
-
-Physical Limitations in Direct Conflict
-: While acrobatic, Vishali lacks strength and formal combat training. In any situation involving direct physical confrontation with armed opponents, she would be severely outmatched.
-
-Dependency on Performance
-: Like all performers, Vishali's opinion of herself is deeply tied to audience reaction. When performances fail or audiences are unreceptive, she becomes withdrawn and bitter.
+Guardedness
+: She trusts few people and leaves the ones she trusts at a distance.
 
 ## Social
 
-### Patrons
+### Patrons and Allies
 
-Kulena [Jayakaru]{.name data-type="being/npc"} of [House Deshani]{.name data-type="affiliation/lineage"}
-: A broad-minded Kulena of [[place-chendrapur2|Chendrapur]] who has hired Vishali multiple times for court performances. He appreciates her boundary-pushing humor and has developed a real, if platonic, fondness for her. His support provides her with regular employment and credibility.
+[Jayakaru]{.name data-type="being/npc"} of [House Deshani]{.name data-type="affiliation/lineage"}
+: A broad-minded Kulena of Chendrapur who hires her for his court.
 
-Traveling Fair Circuit
-: The various festival organizers, merchants' shrenis, and market masters across Vedyara who regularly book Vishali for performances. These relationships are transactional but reliable.
+The fair circuit
+: Festival organizers and market masters across Vedyara who book her season by season.
 
-### Enemies
+### Rivals
 
-Priest [[being-vatesabhasur|Vatesa]] of a temple of [[affiliation-kamavrata|Kamavrata]]
-: A high-ranking priest of the god of desire and creative joy, whose arts include music and dance, offended by one of Vishali's performances in which she mocked certain temple practices as superstitious theater. He has used his influence to have her banned from several religious festivals and counts her an offender against the temple.
+[[being-vatesabhasur|Vatesa Bhasura]]
+: A priest of a temple of Kamavrata who had her barred from several festivals.
 
-Kulena [Malvina the Austere]{.name data-type="being/npc"}
-: A woman of a great house whose reputation Vishali devastated through a performance that highlighted her well-known hypocrisy regarding virtue and morality. Kulena Malvina has sworn that Vishali will never perform in her territories and has hired informants to track her movements.
-
-[The Masked Collective]{.name data-type="affiliation"}
-: A shadowy group of puritanical extremists who view Vishali's performances as a corruption of traditional [[lore-vedyariclt|Vedyaran]] values. They have threatened her on several occasions, and one member attempted violence against her in a marketplace.
+A Kulena of a great house
+: Whom a performance of hers named for hypocrisy, and who has hired informants to track her.
 
 ### Affiliations
 
-The traveling fairs
-: While technically independent, Vishali maintains close connections with various traveling fairs and circus companies that move through Vedyara. She often collaborates with performers from these groups.
+[[affiliation-rajeprjnpd|Rajepur Janpoda]]
+: A Danhija by birth, with no household of her own since the fire.
+
+[[affiliation-vrnkpnthn|Varnuka Pantheon]]
+: She lights a lamp for her parents at the spring festival and keeps to no school.
 
 ## Plot Hooks
 
-The Royal Commission
-: A desperate royal court summons Vishali to perform for a dying prince whose spirits have grown so dark that nothing can lift them. The king offers a substantial reward if she can make the prince laugh. However, Vishali discovers that the prince's darkness stems from real wounds and political corruption, and making him laugh requires her to become involved in court intrigues that threaten her life and challenge her commitment to remaining uninvolved in others' struggles.
+The Satire
+: A group of villagers in a neighboring kingdom, who want their lord's rule dissolved on the Rajapuri model, ask Pavandi to perform a satire of him at his own harvest fair. She wants the party in the crowd. If the Samonta's men recognize her, the party is sitting in the crowd with the troublemakers.
 
-A Debtor's Gambit
-: A crime boss known as [The Kohl-Eyed Syndicate]{.name data-type="being/npc"} has purchased Vishali's debts from various creditors and demands she use her access to courts of the great houses to steal a particular artifact—a sacred relic stolen years ago that would cement the Syndicate's power if recovered. Vishali faces an impossible choice between bondage to criminals and betraying the trust of the Kulenas who have supported her.
+The Dying Master
+: Her first master sends from his wagon outside Rajepur to say that he is dying and has something to tell her about the fire. He will tell it only at the festival, with a witness. The party is asked to stand as that witness and to see that she hears it before anyone else does. If anyone hears it before her, the house that set the fire learns that the master has talked.
 
-The Forbidden Performance
-: An underground movement of revolutionaries seeking to dissolve one of the kingdoms on the Rajapuri model discovers that Vishali's sharp wit and popularity make her the perfect vehicle for spreading seditious ideas. They approach her with a commission to perform a specific, politically charged satire that would ignite popular sentiment. The commission puts to Vishali whether her art is entertainment alone or a tool for political change.
+The Banned Night
+: The festival organizers want her for the last night. Vatesa Bhasura's temple has said that its offerings will not come if she plays. She will play regardless, and she asks the party to guard the stage against whoever sets the rest of the hall against her.
 
-A Ghost from the Past
-: Korvin the Magician, Vishali's former mentor, resurfaces after five years of absence, bearing news that he is dying. He claims to possess knowledge of Vishali's parents' deaths that was never revealed to her, suggesting that the fire that killed them was no accident. He bequeaths to her a cryptic final performance piece that, when executed, will supposedly reveal the truth. Vishali must complete a series of dangerous performances in specific locations while piecing together the mystery of her past.
-
-The Acrobat's Curse
-: During a particularly daring performance, Vishali begins to experience strange physical maladies—moments of inexplicable weakness, ghostly pain, and sensations of being watched. A mysterious healer suggests that she has inadvertently angered a spirit through her irreverent mockery of sacred traditions, and that the curse can only be broken by performing a sacred ritual in a forbidden location, or by finding and making peace with the wronged spirit itself.
+:::secret {title="What the referee knows"}
+The fire that killed her parents was set by a rival spice trader whose house now supplies the temple hostel. Her first master took coin to look away, and he is dying because he cannot carry it. When she learns it, she has the choice between exposing a house the hostel feeds and keeping a dead man's secret.
+:::

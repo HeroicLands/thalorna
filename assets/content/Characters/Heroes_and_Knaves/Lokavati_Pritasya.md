@@ -3,6 +3,7 @@ shortcode: lkvtprtsy
 name: {full: Lokavati Pritasya}
 type: being
 subType: npc
+description: "A licensed buyer and carrier of the Danhija station, who runs her family's house on the south bank of the Bharava, buying the forest's resin, lac, wax and spice for sale at the coast."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -425,11 +426,9 @@ Lokavati's house, the [Pritasya]{.name data-type="affiliation/lineage"}, has hel
 
 ## The Month
 
-The mother-temples of the lower river consult each other about price, and it is the only question on which they act as one body. When lac moves on the coast, the keepers along three hundred miles of river hear the same instruction within a month and raise or lower what they ask the buyers. A buyer who knew the coast's price before the keepers did could buy a month's lac at last month's price and sell it at this month's.
+The mother-temples of the lower river consult each other about price, and it is the only question on which they act as one body. When lac moves on the coast, the keepers along three hundred miles of river hear the same instruction within a month and raise or lower what they ask the buyers. The temples' letters go upriver by priests on foot, at a pilgrim's pace, and a buyer who knew the coast's price before the keepers did could buy a month's lac at last month's price and sell it at this month's.
 
-Lokavati intends to be that buyer. The temples' letters go upriver by priests on foot, at a pilgrim's pace. She has worked out that the pilgrims themselves move faster, because the free hostels of [[place-bhrvdvstna|the Bharava-Devastena Hostels]] stand a day's walk apart on the busy stretches and three days apart in the forest, and the pilgrims coming up from the sea walk them in an unbroken line. A word given to a pilgrim at the quay reaches the forest margin in days. She has begun paying a few to carry it.
-
-Nothing in the license forbids it. The hostels feed whoever presents himself as a priest or an ascetic, and nobody there asks what he carries or where he is bound. Lokavati is asking them to carry her price in the god's charity, and the doorkeeper of the hostel nearest the quay has noticed.
+The free hostels of [[place-bhrvdvstna|the Bharava-Devastena Hostels]] stand a day's walk apart on the busy stretches and three days apart in the forest. They feed whoever presents himself as a priest or an ascetic, and nobody there asks what he carries or where he is bound.
 
 ## The Collective
 
@@ -447,7 +446,7 @@ She likes being underestimated, and she is underestimated often.
 
 ### Motivation
 
-She wants to know the coast's price for lac a month before the keepers do. Everything else, the Collective's offer and the closed stand of hardwood included, she weighs against that.
+She wants her house to be the largest buyer on the south bank without becoming anyone's weighing-house. Everything else, the Collective's offer and the closed stand of hardwood included, she weighs against that.
 
 ### Strengths
 
@@ -466,7 +465,7 @@ Greed for Information
 : She will pay for any piece of news and use it before she has checked it.
 
 The Hostels
-: Using the god's charity to carry prices is legal, unpleasant and certain to be found out. She has not thought hard about what happens when it is.
+: She owes the hostels more than she gives them, and she has not thought hard about what happens when a doorkeeper decides the account is unequal.
 
 The Closed Stand
 : She does not know why Bhrijivara keeps the hardwood closed, and she is curious enough to find out.
@@ -487,7 +486,7 @@ The Collective's coastal factor
 : The Devapavi who confirms her keepers and refuses her the closed stand.
 
 The doorkeeper of the hostel at the quay
-: Who has noticed which pilgrims leave with a word from her and arrive at the margin a week before the temple's letter.
+: Who keeps the door of the quay hostel and has begun to remember faces.
 
 ### Affiliations
 
@@ -500,10 +499,16 @@ The doorkeeper of the hostel at the quay
 ## Plot Hooks
 
 The Pilgrim Line
-: A pilgrim carrying Lokavati's word upriver has vanished between two hostels in the forest stretch. She needs to know whether he was robbed, stopped by the temples or fell foul of something on the road, and she would rather the party found him before the doorkeeper does.
+: A pilgrim who left the quay with a message from Lokavati has vanished between two hostels in the forest stretch. She needs to know whether he was robbed, stopped by the temples or fell foul of something on the road, and she would rather the party found him before the doorkeeper of the quay hostel does. She will not say what he carried. A keeper who learns of it can refuse her house his estate's license.
 
 The Factor's Terms
 : The Collective's factor sends Lokavati a contract to sign before the rains. The party is hired, by her, to learn what the Collective means to do with a weighing-house on the lower river once it has one.
 
 The Closed Stand
-: Lokavati wants to know what lies past the stand of hardwood Bhrijivara will not license. She hires the party to walk the bounds of the last estate and report what they see. She does not tell them that the Devapavi has asked her not to.
+: Lokavati wants to know what lies past the stand of hardwood Bhrijivara will not license. She hires the party to walk the bounds of the last estate and report what they see. If the Devapavi learns that she sent them, he confirms her keepers and can close their estates to her.
+
+:::secret {title="What the referee knows"}
+Lokavati pays pilgrims to carry the coast's price for lac up the hostel road, so that she knows it a month before the keepers do and buys at last month's price. The doorkeeper of the hostel nearest the quay has begun to count which pilgrims leave on her account. The hostels feed whoever presents himself as a priest or an ascetic, and the practice is lawful and certain to be found out.
+
+Bhrijivara has asked her not to press for the closed stand and has given her no reason. She has not told the party that, and she is curious enough to go and look.
+:::

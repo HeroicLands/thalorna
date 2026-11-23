@@ -3,6 +3,7 @@ shortcode: bhrjvrmdbd
 name: {full: Bhrijivara Madibada}
 type: being
 subType: npc
+description: "The Devapavi of a mother-temple on the south bank of the lower Bharava, who confirms the eleven estate-keepers of its endowment and keeps every license away from the forest's interior."
 tags: [heroes-and-knaves, clergy]
 data:
   icon: icon-person
@@ -431,9 +432,7 @@ Bhrijivara is Devapavi of a mother-temple on the south bank of the lower river, 
 
 The estates around the interior keep no survey of it. An estate-keeper asked about the country past the last gathering ground says that the roll names no such place, and the keepers Bhrijivara confirms say it in exactly those words, because he taught them.
 
-He went past it once, at twenty-four, as a young priest walking the bounds with a felling crew that had lost its way on a season's path. They came out on a causeway of dressed stone under the vines, lined with lamp-posts, and every bowl on the posts was burning. The crew turned back. Bhrijivara was last in the line, and a lamp was held out to him at the height of his hand by someone he could not see. He did not take it. He did not look back, and he walked out to the gathering ground behind the others before dark.
-
-He has never told anyone what he saw except the Devapavi before him, who listened, said nothing, and the next season closed the felling-line on that path for good. Bhrijivara has kept it closed. He has struck every season's path that drifts toward the interior from the licenses, moved two estates' bounds back from it and refused a timber license for a stand of hardwood worth a year's tribute. The other mother-temples think him overcautious, and the coastal buyers think him a fool.
+Bhrijivara has never said why the interior is closed to the estates. The Devapavi before him closed the felling-line on one path for good, and Bhrijivara has kept it closed. He has struck every season's path that drifts toward the interior from the licenses, moved two estates' bounds back from it and refused a timber license for a stand of hardwood worth a year's tribute. The other mother-temples think him overcautious, and the coastal buyers think him a fool.
 
 ## The Fire on the Road
 
@@ -509,10 +508,16 @@ The Agmi-pantra chapter
 ## Plot Hooks
 
 The Closed Path
-: A young Shetrapalda of Bhrijivara's endowment has reopened a season's path toward the interior without leave, for a stand of hardwood the coastal buyers are paying for. A felling crew has gone up it and not come back. Bhrijivara asks the party to bring the crew out and the keeper back, and to tell nobody what they see.
+: A young Shetrapalda of Bhrijivara's endowment has reopened a season's path toward the interior without leave, for a stand of hardwood the coastal buyers are paying for. A felling crew has gone up it and not come back. Bhrijivara asks the party to bring the crew out and the keeper back and to say nothing of the path. A keeper shielded this once has no reason to keep the next season's path closed.
 
 The Chapter
 : The Agmi-pantra chapter arrives at the pilgrim road with ember-vessels and a guide it has hired from the gathering peoples. Bhrijivara cannot stop it by force. He asks the party to delay it until the rains, by any means that sheds no blood on the god's land.
 
 The Lamp
-: A receiver on the coast is offering a bronze lamp with a flame in it that does not go out. Bhrijivara hears of it from Lokavati Pritasya and asks the party to buy it and carry it back to where it came from, as far as the last gathering ground and no farther.
+: A receiver on the coast is offering a bronze lamp with a flame in it that does not go out. Bhrijivara hears of it from [[being-lkvtprtsy|Lokavati Pritasya]] and asks the party to buy it before the Collective's factor does and carry it to the last gathering ground and no farther. He will not say what it is, and Lokavati has already offered the receiver more than the party can match.
+
+:::secret {title="What the referee knows"}
+At twenty-four, walking the bounds with a felling crew that had lost its way, Bhrijivara came out on a causeway of dressed stone under the vines, lined with lamp-posts whose bowls were all burning. The crew turned back. A lamp was held out to him at the height of his hand by someone he could not see. He did not take it, did not look back, and walked out before dark. He told only the Devapavi before him, who closed the felling-line on that path for good.
+
+The bronze lamp in The Lamp is one of the bowls from that causeway. Whoever buys it has taken what he refused, and he does not know what the lamp will ask of its owner.
+:::

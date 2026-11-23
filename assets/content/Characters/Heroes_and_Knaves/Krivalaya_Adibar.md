@@ -3,6 +3,7 @@ shortcode: krvlydbr
 name: {full: Krivalaya Adibar}
 type: being
 subType: npc
+description: "The head of a four-generation bow-trading house of Danurkot, who wants to take a load of bows over the wall in the closed months."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -507,10 +508,14 @@ The customs-house at Suryagarha
 ## Plot Hooks
 
 Which Guide
-: The shrine-ushtaka who asked in the yards comes to Krivalaya directly, and then, when he will not say, to the party he has hired. The ushtaka is polite, patient and offers nothing, and the guide's lineage would be in grave trouble if he were told.
+: The shrine-ushtaka who asked in the yards comes to Krivalaya directly, and then, when he will not say, to the party he has hired. The ushtaka is polite, patient and offers nothing, and the guide's lineage would be in grave trouble if he were told. If Krivalaya will not answer, the ushtaka can refuse his pass-token at Suryagarha, and the party is hired to find out what the ushtaka knows.
 
 The Second Packet
-: The buyer beyond the wall sends for another packet in the closed months. Krivalaya hires the party to carry it to Tsokhar and ask for passage on his behalf, with a fourth offer, larger than the third.
+: The buyer beyond the wall sends for another packet in the closed months. Krivalaya hires the party to carry it to Tsokhar and ask for passage on his behalf, with a fourth offer, larger than the third. If the guide refuses again, the buyer beyond the wall takes his orders elsewhere and Krivalaya's house loses its best trade.
 
 The Man Who Knows the Way
-: A man in the caravanserai at Suryagarha tells Krivalaya he can take him over the sixth road without the Osket, for half what the Osket would charge, and names its first three stages correctly. Krivalaya wants the party to go with them.
+: A man in the caravanserai at Suryagarha tells Krivalaya he can take him over the sixth road without the Osket, for half what the Osket would charge, and names its first three stages correctly. Krivalaya wants the party to go with them. If the man is false, the party and the bows are in the hands of the pass-shrines.
+
+:::secret {title="What the referee knows"}
+The man at Suryagarha is the guide's own nephew, cast out of the Osket lineage for speaking of the road, and he is selling its stages. The three he names are real. The guide has refused Krivalaya's gold because a crossing bought with gold is the first step in the road being sold, and the ushtaka who asks which guide it was means to close the road to the guide's lineage.
+:::

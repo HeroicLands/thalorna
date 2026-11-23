@@ -1,8 +1,9 @@
 ---
 shortcode: pdmvldnrkrt
-name: {full: Padmavali Danurkirti, given: Padmavali, clan: Danurkirti, vedy: [padmi]}
+name: {full: Podmavoli Danurkirti, given: Podmavoli, clan: Danurkirti, vedy: [podmi]}
 type: being
 subType: character
+description: "A cartographer and scholar of Suvargeri who writes her commentary at an academy of Chendrapur and is drawing the Great Map for the Assembly of the Compact."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -449,109 +450,98 @@ sohl:
 
 # Appearance {#appearance}
 
-![[pdmvldnrkrt|Padmavali Danurkirti]]{float=top-left}
+![[pdmvldnrkrt|Podmavoli Danurkirti]]{float=top-left}
 
-Padmavali stands 5'2" tall with a light build. She has warm caramel skin, dark black hair, and deep brown eyes. Her features include an oval face, a delicate nose, a soft jawline, well-shaped lips, deep brows, and full cheeks.
+Podmavoli is a small woman of 5'2" and light build, with warm caramel skin, black hair pinned up with a brush, deep brown eyes and an oval face with a delicate nose. Her fingers are stained with ochre and indigo to the second knuckle, and a roll of drawing-paper under one arm is as much a part of her as a staff is of a pilgrim. She speaks quietly and chooses words as she chooses colors.
 
 # Dossier {#dossier}
 
-**Early Life and Artistic Awakening**
+## The Cartographer
 
-Padmavali was born into the merchant family [Danurkirti]{.name data-type="affiliation/lineage"} in [[affiliation-suvrgrjnpd|Suvargeri]], the gold-bearing temple-republic of the [[place-bharavarivr|Bharava highlands]]. Her father, a successful spice merchant, had little time for his bookish, art-obsessed daughter, but her mother, who never called her anything but Padmi, recognized her talent early. By age seven, Padmavali could sketch the architectural features of buildings with stunning precision, and by twelve, she had begun studying the mathematical principles underlying perspective and proportion. Her formal training came under Master [Anonda]{.name data-type="being/npc"}, a cartographer whose maps were treasured by merchants, military commanders, and great houses across Vedyara. Anonda recognized in her young student a rare combination: the precision and mathematical rigor required for accurate mapmaking, paired with an intuitive artistic sense that transformed functional maps into works of sublime beauty.
+Podmavoli was born into the merchant family [Danurkirti]{.name data-type="affiliation/lineage"} in [[place-suvargeri|Suvargeri]], the gold-bearing temple-republic of the upper [[place-bharavarivr|Bharava]]. Her father kept a spice house and had little time for a daughter who drew buildings on the account-books. Her mother, who never called her anything but Podmi, gave her a box of colors. At twelve she was studying the mathematics of perspective and proportion, and her formal training came under Master [Anonda]{.name data-type="being/npc"}, a cartographer whose maps merchants, captains and great houses prized.
 
-**Journey to Mastery**
+She keeps her workshop in Suvargeri and goes down each dry season to an academy of [[place-chendrapur2|Chendrapur]], where she writes her commentary on the [Gold Constitution]{.name data-type="lore/law"}. It is read across the Vedyari classical tradition. Her maps carry watercolor washes, ochre for deserts and wave-lines for coasts, and they are accurate as well as beautiful.
 
-Padmavali spent her twenties undertaking commissions for increasingly important patrons: merchants seeking detailed maps of trade routes, explorers venturing into uncharted territories, and the great houses desiring illuminated maps of their domains. She developed her distinctive style—cartographic precision rendered with watercolor washes that captured the essence of a place's landscape and character. Her maps were accurate, and they also told stories. A desert region would be rendered in warm ochres and sandy tones, with illustrations of the rare water sources marked both functionally and artistically. Coastal territories were depicted with wave patterns that suggested both the mathematical precision of currents and the living movement of the sea. Her reputation grew steadily, and by age thirty, she had been commissioned for a prestigious project: the creation of a comprehensive map of the lands of all five seats of the [[affiliation-assmblycmpct|Assembly of the Compact]], a work intended to hang in the Assembly's hall at the next renewal of the Compact.
+## The Great Map
 
-**Current Situation**
+For two years she has worked on the [Great Map]{.name data-type="miscgear"}, a comprehensive map commissioned by the [[affiliation-assmblycmpct|Assembly of the Compact]]. Its completion will make her the finest cartographer of the age. Its patrons are the five seats of the Assembly, and each has an interest in how its own ground is drawn. She has begun to sense pressure on the boundaries, on the weight given to the trade routes and on the size of rival seats.
 
-Padmavali stands at a crossroads of opportunity and vulnerability. Her commission to create the [Great Map]{.name data-type="miscgear"} has consumed her for two years, and its impending completion promises to establish her as one of the most accomplished cartographers of the age. However, the work has made her nervous. The project's patronage comes from the Shreshthins of the Assembly, each with political interests in how their own seat is represented. She has begun to sense subtle pressure from her patrons to "adjust" boundaries, emphasize certain trade routes, or downplay the territories of rival seats. Her innocence regarding political power—her belief that cartography should reflect truth rather than serve propaganda—has begun to collide with the realities of patronage. She has also been approached by scholars and explorers seeking her to undertake dangerous expeditions to uncharted lands, offers that both terrify and tempt her.
+[The Twenty-Eight]{.name data-type="affiliation"} of Suvargeri, the hereditary panning families, have wanted their reaches properly surveyed for a generation and have offered her a workshop above the panning reaches, rent-free for life, in exchange for the survey.
 
 ## Psyche
 
 ### Personality
 
-Padmavali is an intensely imaginative soul, prone to losing herself in her work for days at a time, forgetting to eat or sleep. She speaks quietly and deliberately, choosing her words with an artist's care, and she has little patience for small talk or social convention. Her mind moves constantly, analyzing spatial relationships, color harmonies, and the mathematical patterns underlying natural phenomena. She is curious about people, places, and systems, though her curiosity is often abstract rather than personal—she is more interested in understanding how a city functions as a whole than in the gossip of its inhabitants.
-
-Despite her talent, Padmavali harbors deep self-doubt. She questions whether her artistic choices are merely indulgent decoration or real contributions to her craft. She worries constantly about making mistakes that could mislead travelers or explorers. This anxiety, combined with her naïveté regarding human nature and power, makes her vulnerable to manipulation by those with stronger personalities and clearer ambitions. She can be stubborn when defending her artistic vision, but she lacks confidence in other domains of life.
+Podmavoli is imaginative, absorbed and quiet. She works for days without eating and speaks only when she has something exact to say. She is curious about systems and places more than people, and she does not know what to do with flattery. She doubts her own work often and defends it stubbornly.
 
 ### Motivation
 
-Padmavali is driven by the pursuit of truth and beauty working in harmony. She believes that maps are sacred documents—that they represent humanity's relationship with the world and should reflect reality as faithfully as possible. Her deepest motivation is to create works that will endure, that will help people understand their world, and that might prevent suffering caused by ignorance or misdirection. She also secretly harbors a romantic notion of exploration and discovery; part of her dreams of abandoning her workshop to travel to unmapped lands, to see extraordinary places firsthand, and to capture them in her art. She seeks validation—not wealth or fame, but recognition that her work matters and that her artistic choices were right.
+She wants the map true, because a false map sends travelers to their deaths, and she wants the work to matter. She has dreamed of leaving her workshop for the unmapped lands.
 
 ### Strengths
 
-Extraordinary Cartographic Precision
-: Padmavali can render maps of stunning accuracy, capturing spatial relationships, distances, and geographical features with mathematical precision. Her knowledge of projection, scale, and the translation of three-dimensional terrain into two-dimensional representation is nearly comprehensive.
+Cartographic Precision
+: She renders distance, scale and the lie of the land to a degree few can match, and her work holds up to the surveyor's chain.
 
-Masterful Artistic Technique
-: Her skill in drawing, theatrics, and related arts means that her maps go beyond function to become visual art. She can render landscapes, architecture, and decorative elements with beautiful stylization that enhances without distorting information.
+Art
+: She draws and washes a landscape so that the map carries its character as well as its measure.
 
-Mathematical and Analytical Mind
-: Her reasoning and mathematics combine to allow her to solve complex problems of representation and to understand systems and structures intuitively.
-
-Attention to Detail
-: Her perception and the sheer volume of her training in drawing mean she notices subtleties others miss and can translate these into her work.
-
-Physical Capability and Resilience
-: Her dexterity, climbing, and related physical skills make her more capable of fieldwork than her delicate appearance suggests. She can cross rough country and gather firsthand observations.
+Fieldwork
+: She is more capable on rough country than her frame suggests and can climb, camp and take her own sightings.
 
 ### Weaknesses
 
-Naive Regarding Power and Politics
-: Padmavali believes that truth and objectivity matter more than political interests. She is shockingly unprepared for patrons who demand that she falsify or manipulate her maps for political gain, and she struggles when her integrity is in conflict with her patrons' demands.
+Innocence of Power
+: She does not expect that patrons will ask her to lie, and she is unprepared when they do.
 
-Anxiety and Self-Doubt
-: Her weak will and the intense pressure of her current commission have left her emotionally fragile. She is prone to spiraling self-doubt and becomes paralyzed when uncertain about the rightness of her choices.
+Self-Doubt
+: Pressure leaves her paralyzed.
 
-Physical Frailty
-: Her low strength and moderate endurance mean she cannot perform demanding physical labor, carry heavy equipment, or defend herself effectively in combat or survival situations.
-
-Socially Awkward and Withdrawn
-: Her modest charm and tendency to disappear into her work make her poor at maintaining relationships or handling social situations. She can be perceived as distant or even cold by those who don't understand her preoccupation.
-
-Limited Practical Experience Outside Her Craft
-: While talented in her field, Padmavali has little experience with the practical necessities of survival, commerce, or conflict. She would be entirely dependent on companions for protection and basic survival needs.
+Frailty
+: She cannot fight, carry a heavy pack or defend herself.
 
 ## Social
 
-### Patrons
+### Patrons and Allies
 
 [[affiliation-assmblycmpct|The Assembly of the Compact]]
-: Collectively, the Shreshthins of the five seats have commissioned her to create the Great Map, a comprehensive and politically significant project that has both elevated her status and exposed her to their conflicting interests.
+: Its five seats have commissioned the Great Map and have exposed her to their conflicting interests.
 
-Master Anonda
-: Her former teacher, now retired to a house in the countryside, remains her most trusted advisor and occasional patron. He commissions small personal maps and is a source of wisdom about the ethics of cartography.
+Master [Anonda]{.name data-type="being/npc"}
+: Her former teacher, retired to a house in the country, who is her counsel on the ethics of the craft.
 
-The Twenty-Eight of [[affiliation-suvrgrjnpd|Suvargeri]]
-: The hereditary panning-families of her native janpoda continue to patronize her work—they have wanted the panning reaches properly surveyed for a generation—and have offered her a permanent workshop in exchange for priority commissions.
+The Twenty-Eight of Suvargeri
+: The hereditary panning families, who patronize her work and want their reaches surveyed.
 
-### Enemies
+### Rivals
 
-None Named, But Tensions Exist
-: Various political factions among the five seats view her with suspicion, each believing she might be secretly aligned with their rivals. She has not yet made true enemies, but her refusal to manipulate her maps for political advantage is beginning to create tensions.
+The delegates of the seats whose ground has shrunk
+: Who want their territories drawn larger and have begun to suspect her of favoring their rivals.
 
 ### Affiliations
 
-The independent cartographers
-: Padmavali is a member of an informal but respected network of master cartographers who maintain high standards for accuracy and integrity. The Fellowship occasionally commissions collaborative works and provides moral support.
+[[affiliation-suvrgrjnpd|Suvargeri Janpoda]]
+: A Danhija of the town, born to a spice-merchant house.
+
+[[affiliation-vrnkpnthn|Varnuka Pantheon]]
+: She gives to the temple of [[affiliation-mahajaya|Mahajaya]] at the weighing and goes to no school.
 
 ## Plot Hooks
 
-The Great Map's Secret Demand
-: As Padmavali nears completion of the Great Map, the political pressure on her intensifies. A faction of Shreshthins—those whose seats have diminished economically in recent years—secretly approaches her and demands that she adjust the map to make their territories appear larger, more important, or more wealthy. They offer enormous payment and threaten financial ruin if she refuses. Padmavali, caught between her artistic integrity and her economic dependence on these patrons, turns to the party for help. The characters might investigate the political situation, work to broker a compromise that preserves the map's integrity, gather evidence of the attempted bribery to expose the Shreshthins publicly, or help Padmavali secure alternative patronage that would free her from this coercion. The situation escalates when she discovers that one of the Shreshthins has already secretly attempted to alter the nearly-finished map themselves.
+The Adjusted Seat
+: The delegates of the seats whose ground has shrunk ask Podmavoli to draw their territories larger, with a fee that would end her dependence on her patrons. Refusing may cost her the commission, and ground won on a map is cited for a century. She asks the party to find out who is behind the request before she answers.
 
-The Expedition to Uncharted Lands
-: An explorer and scholar named Captain [[being-vamikshaajar|Vamiksha]], whose reputation is both wide and somewhat disreputable, approaches Padmavali with an audacious proposal. She is organizing an expedition to a rumored lost kingdom in the distant jungles beyond the southern border, a place that, if it exists, has never been mapped by anyone from Vedyara. Vamiksha wants Padmavali to accompany the expedition as the official cartographer and historian. The pay is very high, and the opportunity to create the first accurate maps of a completely new region is every cartographer's dream—but the expedition is dangerous, involving travel through disease-ridden lands, encounters with hostile peoples, and the high likelihood of getting hopelessly lost. Padmavali is terrified but tempted. The party might join the expedition as protection, help her prepare physically and mentally, debate with her about the risks and rewards, or alternatively, help her research the legend of the lost kingdom to determine whether the expedition is worthwhile or merely a dangerous waste of resources.
+The Panning Survey
+: The Twenty-Eight ask Podmavoli to survey the panning reaches. The survey would show how much ground each family holds, and several of the families do not wish to see that on paper. She asks the party to escort her up the streams, and the families that would be found wanting have people on the same road.
 
-The Map That Predicts Disaster
-: While working on a commission to map the agricultural lands surrounding [[place-chendrapur2|Chendrapur]], where she teaches, Padmavali notices a pattern in the geology, water systems, and seasonal flood records that suggests a catastrophic flood is likely within the next year or two. The patterns are subtle enough that she alone, with her extraordinary perception and mathematical mind, has noticed them. Sharing her findings with the court at [[place-moonhouse|the Moon House]] would warn the population but would also publicly acknowledge a risk that could destabilize the economy and cause panic. The Shreshthins, hearing rumors of her discovery, try to suppress her warning to protect their interests. The party becomes involved in helping Padmavali decide whether to sound the alarm despite political pressure, gather more evidence to make the warning undeniable, or help evacuate vulnerable populations in secret if the authorities refuse to act on her warnings.
+The Flood Record
+: While mapping the farmland around Chendrapur, Podmavoli notices a pattern in the seasonal flood records and the line of the old river channels that suggests a great flood within two years. A warning would frighten the markets of the city. The Kulena of the Nine hear of it and want it kept quiet. She asks the party to help her gather proof that cannot be denied.
 
-The Cartography of the Soul
-: Padmavali is contacted by a mysterious scholar and priest of [[affiliation-mahajaya|Mahajaya]], the faith of [[lore-mahajayadty|Mahajaya]], the goddess of order, who claims that her maps, besides representing physical geography, are somehow spiritually significant. The priest believes that Padmavali possesses an innate connection to the goddess's order-bringing power, and he invites her to use her cartographic skills in service of a spiritual mission: to map the invisible boundaries of sacred sites, magical ley lines, and places of spiritual power across the land. The priest offers her resources, protection, and partnership—but also hints that the knowledge she might gain could be dangerous or transformative. The party must help Padmavali explore whether this invitation is a true spiritual calling, manipulation, or something stranger still. The investigation might involve traveling to purported sacred sites to verify the priest's claims, uncovering the priest's true motivations and connections, or discovering that the "spiritual maps" she is being asked to create have hidden practical applications in warfare, politics, or the control of magical resources.
+The Cartographer's Answer
+: The explorer [[being-vamikshaajar|Vamiksha Ajaran]] has asked her to come south as the expedition's mapmaker. The offer is the work of a lifetime, and the Great Map is not finished. She asks the party to tell her whether she is leaving a commission or fleeing one.
 
-The Stolen Masterwork
-: Padmavali's nearly-completed Great Map is stolen from her workshop in a carefully planned heist. Initially, she fears the worst—that a rival cartographer or political faction has stolen it to alter or destroy it. However, the truth is stranger: a collector of rare artworks and maps, an eccentric man of high rank from a distant realm, has acquired the map through thieves because he considers it the finest work of its kind and wishes to add it to his private collection. He has no intention of returning it. The party must track the thieves to recover the map, potentially infiltrate the collector's heavily-guarded estate, and negotiate with him—all while protecting the map from further damage. In the process, they discover that the collector actually has access to information about even older, lost maps from ancient civilizations, and he might be convinced to share this knowledge if the party approaches him with the right appeal.
+:::secret {title="What the referee knows"}
+The faction in The Adjusted Seat already has a second map drawn by a hand that copies hers. If she refuses, the copy goes up at the Compact's unveiling in the place of her original.
 
-The Anomaly
-: While researching previous maps in an archive, Padmavali discovers something impossible: two maps created five hundred years apart, by different cartographers working with different tools and in different cities, both show a specific geographical feature—a landmark, river bend, or mountain pass—in slightly different locations, as if the geography itself has shifted. She brings this discovery to Master Anonda, who confirms that ancient texts reference similar anomalies in other locations. Together, they hypothesize that either ancient cartographers were occasionally inaccurate (threatening her faith in her craft) or something far stranger has occurred: the land itself has shifted, moved, or been magically altered over the centuries. The party becomes involved in investigating this mystery, potentially traveling to the sites of the anomalies to gather data, consulting with historians and mages, and uncovering evidence of ancient magical cataclysms or ongoing subtle transformations of the world. The investigation might reveal that the anomalies are expanding or accelerating, suggesting danger to inhabited lands.
+She is right about the flood, and a Kulena among those asking her to stay silent holds river-lands that will drown.
+:::

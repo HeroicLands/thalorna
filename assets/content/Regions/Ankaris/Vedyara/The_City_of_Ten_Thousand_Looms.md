@@ -39,7 +39,7 @@ The temples stand between the halls and not apart from them, and the sanctuary o
 
 In the cloth-court a flame-priest of the [[affiliation-agmipantra|Agmi-pantra]] stands in stone with his ember-vessel in the crook of his arm. About 560 AF he and his fellows scoured Mahajaya's sanctuary, kindling a fire at its threshold until the matter they had named was addressed, and the Council banned the sect from the city for it. A generation later the same Council put up his statue ([[lore-agmipartng|the Three Partings]]). An Agmi-pantra priest who comes to the city today points at it.
 
-The [[affiliation-vyalendravada|Vyalendravada]] keeps the mother-house of the [Academy of the Shining Pattern]{.name data-type="affiliation"} here, which is why the city's public works are better built than its politics would suggest. Its **Acharyas** designed the water-gate, the four bridges and the clerestories of the great halls, and they are consulted on any hall a shrena proposes to raise.
+The [[affiliation-vyalendravada|Vyalendravada]] keeps the mother-house of the [Academy of the Shining Pattern]{.name data-type="affiliation"} here, which is why the city's public works are better built than its politics would suggest. Its **Achoryas** designed the water-gate, the four bridges and the clerestories of the great halls, and they are consulted on any hall a shrena proposes to raise.
 
 ## The Watch
 

@@ -3,6 +3,7 @@ shortcode: vkrbrvrjyr
 name: {full: Vikrabir Virajyara}
 type: being
 subType: npc
+description: "The Maharava of Shikhalaya, acclaimed by the Martial Council over his elder brother thirteen years ago, who wants his son acclaimed while he lives."
 tags: [heroes-and-knaves, administration]
 data:
   icon: icon-person
@@ -500,10 +501,16 @@ The Rajagorva
 ## Plot Hooks
 
 The Early Date
-: Vikrabir wants the far chieftains at Suryagarha in a closed season, which has never been done. He hires a party to escort the senior chieftain of the farthest valley down before the snow lifts, by a route the Osket keep, and to arrive in time for a council the Priestly Court does not know is being called.
+: Vikrabir wants the far chieftains at Suryagarha in a closed season, which has never been done. He hires a party to escort the senior chieftain of the farthest valley down before the snow lifts, by a route the Osket keep, and to arrive in time for a council the Priestly Court does not know is being called. A council sitting unannounced in the closed season is the Court's best proof that his acclamation was improper, and the party is the reason it is known.
 
 The Brother's Letter
 : A letter in Jagasvar's hand reaches the Maharava by way of the Tantsou quarter, months late and unopened. Vikrabir asks the party to learn who held it, and whether Jagasvar meant him to read it or meant him never to.
 
 The Unwritten Crossing
-: The crown holds that the Guides' Road does not exist. Vikrabir needs a packet carried over it to the far side of the wall without the customs-house, the shrines or his own Priestly Court knowing it went. The party is the packet's escort, hooded and holding a cord.
+: The crown holds that the Guides' Road does not exist. Vikrabir needs a packet carried over it to the far side of the wall without the customs-house, the shrines or his own Priestly Court knowing it went. The party is the packet's escort, hooded and holding a cord. If the packet is found, the crown's own position that the road does not exist is shown to be a lie told by the crown.
+
+:::secret {title="What the referee knows"}
+Jagasvar's letter warns that the Rajagorva intends to bring Kankamar to the acclamation as the elder line's heir, and that Jagasvar cannot stop it. It was held on the Rajagorva's order.
+
+The packet in The Unwritten Crossing is Vikrabir's own letter to a house beyond the wall, asking refuge for the Yuvarava should the acclamation go against him. He fears the council more than he shows, and he does not want the customs-house to see the letter.
+:::

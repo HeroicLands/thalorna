@@ -3,6 +3,7 @@ shortcode: pydvrnt
 name: {full: Piyadi Viranat}
 type: being
 subType: npc
+description: "An Outcaste ore-carrier and courier of the Silver Gorges, who carried the smithing clans' gate tally to Suryagarha for eight years and is walking south to find a berth on a ship."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -493,10 +494,14 @@ The Collective's agent at Suryagarha
 ## Plot Hooks
 
 On the Road Behind
-: Two men of the clans have come down the terrace road asking after a woman with a wrapped wrist. Piyadi has been sharing the party's fire for three nights without saying who she is. On the fourth she asks them to walk her as far as the river.
+: Two men of the clans have come down the terrace road asking after a woman with a wrapped wrist. Piyadi has been sharing the party's fire for three nights without saying who she is. On the fourth she asks them to walk her as far as the river. If the clansmen find her first, she is dragged back up the gorge. Whoever stood beside her has been seen.
 
 The Price of a Berth
 : At Chendramukhva a ship's master wants a fee before he will sign on a woman with no papers and no trade. Piyadi has no money. She has the figures, and she offers them to the party for the price of the berth.
 
 The Headman's Question
 : At a well in a lowland village the headman asks to see her wrist before she draws water. The party is standing beside her.
+
+:::secret {title="What the referee knows"}
+The gap between the gate's tally and the customs-house's is a third of the ore, and the clans share in it. The tally Piyadi carried was never meant to reach the crown. The men on the terrace road are looking for her because her figures prove the clans' own part, and not because of what they say about the Collective.
+:::

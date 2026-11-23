@@ -426,7 +426,7 @@ The [[affiliation-hvarnguides|Hvarn]] found her on the margin of the Forest that
 
 ## The Southern Kingdom
 
-Vamiksha has a new expedition and a backer for it. She means to go south, past the farthest country any Vedyari map shows, into the jungle beyond the southern border, where she says a kingdom stands that has never been visited. She wants [[being-pdmvldnrkrt|Padmavali Danurkirti]] of Suvargeri as cartographer and historian, at a fee that would keep Padmavali for years, and she wants two Hvarn guides. The Hvarn work their crossings by turn, and the council has never assigned a guide to a road that is not theirs.
+Vamiksha has a new expedition and a backer for it. She means to go south, past the farthest country any Vedyari map shows, into the jungle beyond the southern border, where she says a kingdom stands that has never been visited. She wants [[being-pdmvldnrkrt|Podmavoli Danurkirti]] of Suvargeri as cartographer and historian, at a fee that would keep Podmavoli for years, and she wants two Hvarn guides. The Hvarn work their crossings by turn, and the council has never assigned a guide to a road that is not theirs.
 
 ## Psyche
 
@@ -483,7 +483,7 @@ The families of the seven
 ## Plot Hooks
 
 The Cartographer
-: Vamiksha asks the party to go to Suvargeri and persuade Padmavali to join the expedition, or to come as her escort if Padmavali will not come without one.
+: Vamiksha asks the party to go to Suvargeri and persuade Podmavoli to join the expedition, or to come as her escort if Podmavoli will not come without one.
 
 Outside the Turn
 : Two young Hvarn guides have agreed to go south with Vamiksha without the council's leave. The Turn-keeper wants them stopped, and their hearth wants them protected. Both ask the party.

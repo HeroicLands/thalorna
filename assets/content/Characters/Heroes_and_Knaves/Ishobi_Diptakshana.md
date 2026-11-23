@@ -3,6 +3,7 @@ shortcode: ishbdptkshn
 name: {full: Ishobi Diptakshana}
 type: being
 subType: npc
+description: "A Ritrija and Ganoka of the Maharava's court at Suryagarha, trained at the Ganoka-shalda, who fixes the auspicious hour for the kingdom's acclamations and coronations."
 tags: [heroes-and-knaves, administration]
 data:
   icon: icon-person
@@ -431,13 +432,13 @@ Ishobi was born to a Ritrija household of [[place-suryagarha|Suryagarha]] and tr
 
 Both sides have understood what that means. The Maharava's Montrin has let her know which months the far chieftains can reach the capital. The Rajagorva, who holds that the elder line was wronged, has let her know which hours the Court would find hard to accept. Neither has asked her for a particular answer. Both have made sure she knows the question.
 
-She has done the reckoning. The hour she has found falls in the closed season, when the passes are shut and the far chieftains are snowed into their valleys and the capital belongs to the Court. She has not given it. She has checked it four times, against the college's tables and against her own sightings, and the answer has not moved.
+She has done the reckoning and has not given it. She has checked it four times, against the college's tables and against her own sightings, and the answer has not moved.
 
 ## The Day Between
 
-The reckoners of the Ganoka-shalda compute the year. The high priests of [[place-surtatempl|the Surta temple]] sight it. The two methods have differed by a day for as long as anyone has checked, and a day is enough to move a coronation. Ishobi's hour sits on that day. By the computed year it falls in the closed season. By the sighted year, if this year's sighting comes out as the last three did, it falls one day into the open season.
+The reckoners of the Ganoka-shalda compute the year. The high priests of [[place-surtatempl|the Surta temple]] sight it. The two methods have differed by a day for as long as anyone has checked, and a day is enough to move a coronation. Ishobi's hour sits on that day.
 
-The Shikhalayan court follows the sighted year. The college she trained in does not. If she gives the hour by her tables, she hands the Court its acclamation. If she gives it by the Surta temple's sighting, and the sighting comes out as the last three did, she hands it to the Maharava. She wants the hour to stand as reckoned, whichever side it serves, and she wants to give it with nobody able to say she chose her year to order.
+The Shikhalayan court follows the sighted year. The college she trained in does not. Whichever year she gives it by, one side receives the hour it wants. She wants the hour to stand as reckoned, whichever side it serves, and she wants to give it with nobody able to say she chose her year to order.
 
 ## Psyche
 
@@ -504,3 +505,9 @@ The Sighting
 
 The Widow's Hour
 : Both councils argue from [[lore-widowaccl|the Widow's Acclamation]]. The record of the hour fixed for it is kept by the Priestly Court, and nobody has looked at it in a century. Ishobi wants to know whether her predecessor fixed that hour by his tables or by somebody's convenience, and the Court will not lend her the record.
+
+:::secret {title="What the referee knows"}
+The hour Ishobi has found falls in the closed season, when the passes are shut and the far chieftains are snowed into their valleys. By the computed year it falls then. By the sighted year, if the sighting comes out as the last three did, it falls one day into the open season. Her tables and her own sightings agree, and she has checked them four times.
+
+The courier in The Tables from the Coast was held at the court's own order, by someone who would rather she gave her hour without the college's tables. She does not know it.
+:::
