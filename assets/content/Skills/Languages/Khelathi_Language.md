@@ -8636,7 +8636,9 @@ The particles are _elu_ (of, upon), _ezu_ (in), _ez_ (to, toward) and _agu_
 
 ## Learned Vocabulary
 
-Two Khelathi words name the learned world's two kinds of undead, and a third names one kind of damut, taken from the funerary texts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] by every scholarly tradition that copied them; see [[lore-undead|Undead]] for their use.
+Two Khelathi words are the learned world's names for the undead, taken from the funerary texts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] by every scholarly tradition that copied them; see [[lore-undead|Undead]] for their use.
+
+A third word names one kind of damut, the one set to keep a door.
 
 terebu
 : root _t-r-b_, to wear, to cloak: _the cloaked one_, the sentient undead ([[being-tereb|tereb]]). Invariant in number: one _terebu_, many _terebu_.

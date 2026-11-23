@@ -2,8 +2,7 @@ name: No Attribution
 
 # Fail a pull request whose title, body, or commit messages carry AI/assistant
 # attribution. The rule, the pattern, and the reason it is anchored to the start
-# of a line live in the shared action every HeroicLands repository calls; this
-# repository carried its own copy of all three until HeroicLands/.github#3.
+# of a line live in the shared action every HeroicLands repository calls.
 #
 # The local .githooks/commit-msg hook enforces the same pattern before a commit
 # is written. A git hook runs from a developer's own checkout, so it cannot move

@@ -8,7 +8,7 @@ import * as helpers from "../trusted-preview-contracts/actions/internal-site-dep
 
 const repository = "HeroicLands/thalorna";
 const sha = "a".repeat(40);
-const revision = "ff345f6c8e0f56de582860d1f8c78d31801ef0d1";
+const revision = "37b1fa7cb6eb63fe6e54531e66a4d0ca61094442";
 const event = (action, changes) => ({
     action,
     changes,

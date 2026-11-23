@@ -5685,16 +5685,16 @@ data:
         - "Mbeko"
         - "Ndoko"
     band:
-      - "Lihola"
       - "Luwala"
       - "Ngotola"
-      - "Wenela"
+      - "Kpalula"
       - "Sewila"
       - "Gbelela"
+      - "Lihola"
+      - "Wenela"
       - "Kirola"
       - "Balola"
       - "Morola"
-      - "Kpalula"
   sounds:
     edges:
       - {edge: openCluster, sounds: [mb, nd, ng]}
@@ -5975,7 +5975,7 @@ A person carries one name, a root of the forest or a thing seen on the day of th
 
 **Given Names:** Sepo, Dano, Wene, Rano, Biko, Sogo, Dipo, Liho, Moro, Kiro, Gbulu, Hira, Dibo, Kele, Sini, Dagbe, Kobolu, Mbeko, Ndoko
 
-**Band Names:** Lihola, Luwala, Ngotola, Wenela, Sewila, Gbelela, Kirola, Balola, Morola, Kpalula
+**Band Names:** Luwala, Ngotola, Kpalula, Sewila, Gbelela, Lihola, Wenela, Kirola, Balola, Morola
 
 ## Ekpelu Lexicon {#lexicon}
 

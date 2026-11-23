@@ -175,7 +175,7 @@ jobs:
               with:
                   repository: HeroicLands/.github
                   github-server-url: https://git.pupluppy.org
-                  ref: ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
+                  ref: 37b1fa7cb6eb63fe6e54531e66a4d0ca61094442 # main
                   path: trusted-preview-contracts
                   persist-credentials: false
 

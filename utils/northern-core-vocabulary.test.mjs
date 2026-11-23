@@ -287,8 +287,13 @@ test("new Nordmal citations preserve interpreted old word and name pieces", asyn
     // The earlier hashes pin these exact original rows and all name metadata.
     // Compare their interpreted meanings too: an added free homonym can override
     // a former loose match to a bound piece without changing that piece's YAML.
+    const lastOriginalName = language.fm.data.register.findIndex(
+        (entry) => entry.name.toLowerCase() === "aldvar",
+    );
+    assert(lastOriginalName >= 0);
     const originalData = {
         ...language.fm.data,
+        register: language.fm.data.register.slice(0, lastOriginalName + 1),
         words: nameWords,
         fields: language.fm.data.fields.slice(0, -1),
     };

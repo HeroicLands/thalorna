@@ -67,7 +67,7 @@ jobs:
               with:
                   repository: HeroicLands/.github
                   github-server-url: https://git.pupluppy.org
-                  ref: 5a31ee2627a7b464710f0942dbfb4c19a4f90f94 # main
+                  ref: 37b1fa7cb6eb63fe6e54531e66a4d0ca61094442 # main
                   path: trusted-deploy
                   persist-credentials: false
             - name: Inventory the internal pages artifact

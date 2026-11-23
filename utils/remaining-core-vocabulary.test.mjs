@@ -220,6 +220,20 @@ const replacedProse = new Map([
                 " Ekpelu is a tonal tongue: every vowel is sung on a high or a low pitch, and the pitch is part of the word.",
                 "",
             ],
+            // A band is named for what it follows or camps by, not only for a river, tree or beast.
+            [
+                "Bands are named for the river, tree or beast they follow,",
+                "Bands are named for what they follow or camp by,",
+            ],
+            [
+                "**A band** is named for the river, tree or beast it follows, with _-la_:",
+                "**A band** is named for what it follows or camps by, with _-la_:",
+            ],
+            // The teaching example names Sini, so the pair Wene and Wenela is not set side by side.
+            [
+                "_Sepo_, _Dano_, _Wene_. A person is known in company by the band set after the name: _Wene Luwala_ is Wene of the river's band.",
+                "_Sepo_, _Dano_, _Sini_. A person is known in company by the band set after the name: _Sini Luwala_ is Sini of the river's band.",
+            ],
         ],
     ],
     [

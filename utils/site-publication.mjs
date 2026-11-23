@@ -17,7 +17,7 @@ import { pathToFileURL } from "node:url";
 import { spawnSync } from "node:child_process";
 
 /** The exact Wrangler release that creates the Pages project. */
-export const WRANGLER_VERSION = "4.162.0";
+export const WRANGLER_VERSION = "4.166.0";
 
 function located(root, key, message) {
     return new Error(`${root}/${key}: error: ${message}`);

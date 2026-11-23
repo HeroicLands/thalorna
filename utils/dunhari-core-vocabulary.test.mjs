@@ -27,6 +27,9 @@ const inventory = read(notePath("doc-coreconcepts"));
 const eligible = new Set(WORD_CLASS_BASES.filter((x) => x.glossary).map((x) => x.token));
 const words = language.fm.data.words;
 const ordinary = words.filter((w) => eligible.has(parseWordClass(w.class).base));
+const addedWords = words.slice(58);
+const isStem = (w) => parseWordClass(w.class).base === "stem";
+const addedCitations = addedWords.filter((w) => !isStem(w));
 const ids = (w) => [w.concept ?? []].flat();
 const record = { ...language.fm, file: language.file, package: "thalorna", system: "note" };
 const dictionary = dictionaryAndTermRows([record]).dictionary;
@@ -95,7 +98,7 @@ test("the current word, schema and name contracts accept the Dunhari declaration
     );
     assert.deepEqual(checkLanguageWords(language), []);
     assert.deepEqual(namesFindings(language, BEING_LOOK_VOCABULARY), []);
-    for (const word of words.slice(58)) {
+    for (const word of addedCitations) {
         assert(eligible.has(parseWordClass(word.class).base), word.form);
         for (const piece of word.form.includes(" ") ? word.form.split(" ") : [])
             assert(
@@ -103,6 +106,11 @@ test("the current word, schema and name contracts accept the Dunhari declaration
                 `${word.form}: free component ${piece}`,
             );
     }
+    for (const word of addedWords.filter(isStem))
+        assert(
+            word.form.endsWith("-"),
+            `${word.form}: a bound stem is written with a final hyphen`,
+        );
 });
 test("new Dunhari citations follow the actual sound edges", () => {
     const ends = new Set(
@@ -111,8 +119,8 @@ test("new Dunhari citations follow the actual sound edges", () => {
     const pairs = new Set(
         language.fm.data.sounds.edges.find((e) => e.edge === "closeCluster").sounds,
     );
-    for (const word of words.slice(58))
-        for (const token of word.form.split(" ")) {
+    for (const word of addedWords)
+        for (const token of word.form.replace(/^-+|-+$/gu, "").split(" ")) {
             assert(/^[a-z]+$/iu.test(token), token);
             assert(!/^kh|od$|ekh$/iu.test(token), token);
             assert(!/th|dh|ph|ch/u.test(token), token);
@@ -127,8 +135,10 @@ test("new Dunhari citations follow the actual sound edges", () => {
                 token + ": cluster",
             );
             const c = clusters.at(-1);
+            // A bound stem takes an ending, so it has no word-final sound of its own.
             assert(
-                !c.length ||
+                isStem(word) ||
+                    !c.length ||
                     (c.length === 1 && ends.has(c[0])) ||
                     (c.length === 2 && pairs.has(c.join(""))),
                 token + ": closing",
