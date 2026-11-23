@@ -8,7 +8,15 @@ tags: [draft, central-rainforests]
 data:
   parents: []
   locations: [lpdkngcrt]
-  cast: [lpdkngldr, leopard, dagbekpalula, ndokokpalula, spottedguard, cordkeeper, liholabearer]
+  cast:
+    - lpdkngldr
+    - leopard
+    - dagbekpalula
+    - ndokokpalula
+    - spottedguard
+    - cordkeeper
+    - liholabearer
+    - ngotolahoney
   factions: [kpalulatribe, liholatribe, ngotolatribe, sengala]
   follows: []
   party: {size: null, archetypes: []}
@@ -25,7 +33,7 @@ Offer the entry that suits the hero.
 
 - **The thief: a share of the gift-stores.** The Court's gift-stores are said to hold ivory, dyes and iron. A river-factor, whose boats the [Spotted Guard]{.name data-type="affiliation"} took for the Court's use, has let it be known at the river landings that he pays a share to whoever brings him the key to the storehouses.
 - **The mercenary or soldier: the withheld gift.** A tribe has sent no gift for a year, and word comes down to the landings that its war-leader pays hired spears for the reckoning to come. The contract carries a safe-conduct to the Court.
-- **The leader: the envoy's terms.** The party's chieftain faces a bad season, a feud, and an offer carried by a [[being-spottedguard|Hunter of the Spotted Guard]]: send the gifts, and the Court will leave the tribe alone and its hunters will stand at the border. The terms are said to be generous. The chieftain wants to see the King before swearing.
+- **The leader: the Court's offer at the border.** The party's chieftain faces a bad season, a feud, and an offer carried by a [[being-spottedguard|Hunter of the Spotted Guard]]: send the gifts, and the Court will leave the tribe alone and its hunters will stand at the border. The terms are said to be generous. The chieftain wants to see the King before swearing.
 - **The lone wanderer: the claw token.** The wanderer carries a leopard's claw token from a [[affiliation-sengala|Sengala]] trader who died on the trail and asked that it be returned. The token's owner was the Court's trade-agent.
 
 The place note is [[place-lpdkngcrt|the Leopard King's Court]].
@@ -64,7 +72,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
 - **Dagbe Kpalula, the Speaker.** A calm, gray-haired woman in a plain cloak, who speaks with open hands and gives the King's judgments in his name. She is intelligent, careful and tired. She does not lie, but she chooses what to say. She tests the party's honesty with small questions.
 - [[being-ndokokpalula|Ndoko Kpalula]], called Red-Spear. The Court's war-leader, a young man with a red-painted spear and a dangerous smile, who wants the King to rule openly and thinks the Speaker is hiding something. He seeks allies among visitors.
-- **The delegations.** The honey-gatherers of the [[affiliation-ngotolatribe|Ngotola Tribe]]'s bands want to send less than they did. The Lihola bearers want iron. A mute envoy from a deep-forest people brings a carved pole and will not say why.
+- **The delegations.** The [[being-ngotolahoney|Honey-Gatherers of the Ngotola]], from the bands of the [[affiliation-ngotolatribe|Ngotola Tribe]] that range near the valley, want to send less than they did. The Lihola bearers want iron. A mute envoy from a deep-forest people sets a carved pole before the empty seat, speaks to no one and leaves.
 
 **Player choices.**
 

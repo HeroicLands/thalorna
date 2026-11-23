@@ -32,7 +32,7 @@ data:
     nose: broad
     brow: straight
     mouth: wide
-  packFolder: centralrainforests
+  packFolder: xerathiacentralrainforests
   items:
     - {key: redspear, model: weapongear-spr, name: "Spear painted red to the haft", kind: weapon}
     - key: leopardcloak

@@ -394,7 +394,7 @@ A river-port salvager wears a patched tunic and breeches, carries a knife and a 
 
 # Dossier {#dossier}
 
-A River-Port Salvager works the crews that leave the [[lore-khelathiclt|Khelathi]] and Okharik river-ports for the ruins of the forest, drawn by the story of a temple roofed in green stone and furnished with bronze. A salt-factor or a trader pays the crew, and the crew takes what it can carry. The few who know the way up the black rivers do not say how they learned it.
+A River-Port Salvager works in the crews that leave the [[lore-khelathiclt|Khelathi]] river-ports for the ruins of the forest, drawn by the story of a temple roofed in green stone and furnished with bronze. A salt-factor or a trader pays the crew, and the crew takes what it can carry. The few who know the way up the black rivers do not say how they learned it.
 
 ## Background
 

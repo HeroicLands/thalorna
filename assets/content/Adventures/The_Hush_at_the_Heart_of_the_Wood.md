@@ -25,7 +25,7 @@ Offer the entry that suits the hero.
 
 - **The thief: the dead hunter's cache.** A dead hunter's tally-cord, sold in a river-port, lists a cache of ivory and trade-iron left at the rim of a place where the birds stopped. The hunter did not come back for it.
 - **The mercenary or soldier: three lost camps.** A deep-forest tribe has lost three camps to the [Quiet Dead]{.name data-type="being/creature"}, and word reaches the river landings that its war-leader pays spears who go to the source and come back to say what they found. The pay is in dyes, hardwood and a promise of tribute.
-- **The leader: the scouts who came back silent.** The chieftain's own scouts came back silent: they could speak but not hear, and they cannot say what they saw. The chieftain must decide whether to take the party's counsel or the shamans'.
+- **The leader: the scouts who came back silent.** The party's chieftain sent scouts who came back silent: they could speak but not hear, and they cannot say what they saw. The chieftain must decide whether to take the party's counsel or the shamans'.
 - **The lone wanderer: the silence on no map.** The wanderer has walked a ten-day trail toward a silence no map shows. Behind them a forest tribe has been moved on by something at night.
 
 The place note is [[place-slntclrng|the Silent Clearing]].
@@ -147,7 +147,7 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 ## Aftermath {#aftermath}
 
-- **If the Listener is killed,** the Rising stops for a season and the tribes return to their villages. The wound keeps growing.
+- **If the Listener is killed,** the Rising stops for a season and the tribes return to their camps. The wound keeps growing.
 - **If the Ash-Warden lives,** he keeps the rim, and the rite of the bells passes to a successor.
 - **If the black stone is carried out,** a sorcerer in the north learns where the wound is.
 - **If the party strikes a bargain with the Listener,** the Shadow follows them to the river-ports.

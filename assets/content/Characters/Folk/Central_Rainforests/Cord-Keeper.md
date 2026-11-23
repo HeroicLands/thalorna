@@ -3,9 +3,10 @@ shortcode: cordkeeper
 name: {full: Cord-Keeper}
 type: being
 subType: npc
-description: "An old woman of the Leopard King's Court who keeps the Court's knotted cords and waits on the King at the Throne Cave."
-tags: []
+description: "An old woman of the Leopard King's Court who ties each name the King forgets into a cord, so that the Court remembers what he cannot."
+tags: [gm]
 data:
+  pack: gm-actors
   icon: icon-person
   templatePriority: null
   archetypes: [scholar]
@@ -385,6 +386,8 @@ The Cord-Keeper is an old woman, frail and upright, in a bark-cloth wrap, with a
 
 The Cord-Keeper is an elder of the [[affiliation-kpalulatribe|Kpalula Tribe]] who keeps the knotted cords of [[place-lpdkngcrt|the Leopard King's Court]]. She waits on [[being-lpdkngldr|the Leopard King]] at [[place-thronecave|the Throne Cave]], where no guest is admitted, and comes down to the terraces seldom.
 
+The Leopard King's rite of the leopard's shape costs him a name for every change. The Cord-Keeper ties each name he forgets into a cord so that the Court remembers what he cannot, and the cords hang in the high chamber of the Throne Cave. Without them he forgets who he is, and she would kill to protect him.
+
 ## Background
 
 She is a Mbeli of the Court, an elder whose memory counts, and she has kept the cords longer than most of the Court's hunters have been alive. The gift-bearers see her rarely and do not speak to her.
@@ -418,7 +421,3 @@ She answers to the King alone.
 1. [[scenario-trbtlpdkng|The Unseen King of the Spotted Court]]: the Cord-Keeper stands beside the King in the Throne Cave and begs strangers who reach it to leave.
 2. **A cord gone from the bundle.** One of her cords is missing, and she asks a stranger, not a hunter, to learn who in the Court took it.
 3. **The dusk walk.** A gift-bearer has watched her climb toward the cave each dusk with something in her arms, and wants a party to learn what she carries.
-
-:::secret {title="The King's rite"}
-**For the GM:** The Leopard King's rite of the leopard's shape costs him a name for every change, and the Cord-Keeper ties each name he forgets into a cord so that the Court remembers what he cannot. The cords hang in the high chamber of the Throne Cave. Without them he forgets who he is. She would kill to protect him.
-:::

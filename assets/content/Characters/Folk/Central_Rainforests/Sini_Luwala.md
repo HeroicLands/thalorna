@@ -33,7 +33,7 @@ data:
     brow: heavy
     mouth: full
     extra_features: [river-fever scars on both forearms]
-  packFolder: centralrainforests
+  packFolder: xerathiacentralrainforests
   items:
     - key: boatcord
       name: "Bark-cord bracelet knotted for the boats of the dead"
@@ -66,6 +66,10 @@ sohl:
     - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 62}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 40}}
     - {model: skill-ekpelulng, system: {masteryLevelBase: 84}}
+    - key: boatcord
+      name: Bark-cord bracelet knotted for the boats of the dead
+      type: miscgear
+      system: {shortcode: boatcord, weight: 0.1}
   system:
     body:
       structure:
@@ -395,7 +399,7 @@ Sini Luwala is the leader of the [[affiliation-luwalatribe|Luwala Tribe]] and si
 
 **The black water.** The Luwala fish the dark water with weirs and spears, and its catch comes and goes without warning. He has had four good seasons and two bad ones.
 
-**The forbidden reach.** The elders hold the water above the camp forbidden, and he does not ask them why. Boats bound for [[place-drwndzgrt|the Drowned Ziggurat]] pass his landing, and he has turned back more of them than he can count.
+**The forbidden reach.** The elders hold the water above the camp forbidden, and he does not ask them why. Boats bound for [[place-drwndzgrt|the Drowned Ziggurat]] pass his landing, and the Warden of the Forbidden Reach turns them back.
 
 ## Psyche
 
@@ -405,7 +409,7 @@ He is grave and economical with words, and he does not argue with the river or t
 
 ### Motivation
 
-He wants the forbidden reach left alone, and he wants the elders to stop speaking against his name before a bad season gives one of them reason to speak at the landing.
+He wants no one of the tribe on the forbidden reach, and he wants the elders to stop speaking against his name before a bad season gives one of them reason to speak at the landing.
 
 ### Strengths
 
@@ -423,6 +427,6 @@ He will not explain the bar to outsiders, and a crew with iron and no patience i
 
 ## Plot Hooks
 
-1. **The woman with iron.** A salvage crew has sent a woman ashore with iron to buy a guide, and Sini wants her turned back without a fight.
+1. **The woman with iron.** A salvage crew has sent a woman ashore with iron to buy a guide past the Warden, and Sini wants to know what she offers before the elders hear of it.
 2. **The elder's word.** An elder has spoken against his name, and he asks a party to listen at the landing and tell him which other elders agree.
 3. **The bark for the dead.** The Maker of the Ewudi needs bark from the forbidden bank, and Sini wants an outsider to cut it.

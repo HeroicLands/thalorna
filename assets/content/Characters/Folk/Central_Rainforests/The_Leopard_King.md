@@ -32,7 +32,7 @@ data:
     nose: broad
     brow: heavy
     mouth: wide
-  packFolder: centralrainforests
+  packFolder: xerathiacentralrainforests
   items:
     - {key: pelts, model: armorgear-ltcloak, name: "Cloak of leopard pelts", kind: clothing}
     - {key: clawnecklace, name: "Necklace of leopard claws", kind: miscgear, system: {weight: 0.4}}
@@ -69,6 +69,10 @@ sohl:
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 50}}
     - {model: skill-ekpelulng, system: {masteryLevelBase: 84}}
     - {key: pelts, model: sohl-sohl-armorgear-ltcloak}
+    - key: clawnecklace
+      name: Necklace of leopard claws
+      type: miscgear
+      system: {shortcode: clawnecklace, weight: 0.4}
   system:
     body:
       structure:
@@ -433,5 +437,5 @@ His standing rests on a fear the neighbors can stop feeding, and each season wit
 :::secret {title="The King's rite"}
 The Leopard King took the leopard's shape as a chieftain, by a rite of his own making, which costs him a name for every change, and he has taken the shape so often that he forgets his own children. The Cord-Keeper, an old woman, ties each forgotten name into a cord so that the Court remembers what he cannot, and the cords hang in the high chamber of the cave. The cave opens as a crack in the rock behind a waterfall. The rite is sorcery, costly, rare and corrupting, and it is not the Shadow's work, though it opens the one who works it to the Shadow's kind.
 
-The Court is a watch on [[place-slntclrng|the Silent Clearing]], where the forest's undead rise, and the King is its sentry. The gifts feed the hunters who patrol the Clearing's rim, and the King's night hunts are patrols: his leopard-shape walks the rim in the dark, where torchlight would draw the dead. The rite will fail within a few years, and the Court knows it.
+The Court is a watch on [[place-slntclrng|the Silent Clearing]], where the forest's undead rise, and the King is its sentry. The gifts feed the hunters who patrol the Clearing's rim, and the King's night hunts are patrols: his leopard-shape walks the rim in the dark, where torchlight would draw the dead. The rite is failing, and the Court knows it has a few years left.
 :::

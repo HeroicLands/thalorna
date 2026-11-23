@@ -32,7 +32,7 @@ data:
     nose: straight
     brow: thin
     mouth: small
-  packFolder: centralrainforests
+  packFolder: xerathiacentralrainforests
   items: [{key: graycloak, model: armorgear-hsclk, name: "Plain gray cloak", kind: clothing}]
 sohl:
   items:
