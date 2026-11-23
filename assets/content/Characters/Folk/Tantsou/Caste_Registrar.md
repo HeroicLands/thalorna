@@ -5,7 +5,7 @@ name:
   en: [the Caste-Registrar]
 type: being
 subType: npc
-description: "The Caste-Registrar of Tantsou, keeper of the rolls on which every subject's caste is entered and chief counselor of the young Emperor, whom every Prince courts for that reason."
+description: "The Caste-Registrar of Tantsou, forty-nine, keeper of the rolls on which every subject's caste is entered and chief counselor of the young Emperor, whom every Prince courts for that reason."
 tags: []
 data:
   icon: icon-person
@@ -19,11 +19,11 @@ data:
   socialTies: {being-tengrauemp: patron}
   gender: male
   species: humanflk
-  born: null
+  born: "670.176"
   died: null
-  height: null
-  weight: null
-  frame: null
+  height: 5' 6"
+  weight: 129 lbs
+  frame: light
   appearance:
     eye_color: null
     hair_color: null
@@ -31,7 +31,9 @@ data:
     complexion: []
     extra_features: []
   packFolder: ankaristantsou
-  items: [{key: lrobe, model: armorgear-lrobe, kind: armor}]
+  items:
+    - {key: lrobe, model: armorgear-lrobe, kind: clothing}
+    - {key: scribekit, model: miscgear-scribekit, name: "Brush case", kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
@@ -64,6 +66,7 @@ sohl:
     - {model: skill-tantsoulng, system: {masteryLevelBase: 84}}
     - {model: skill-tengchouscript, system: {masteryLevelBase: 66}}
     - {key: lrobe, model: sohl-sohl-armorgear-lrobe}
+    - {key: scribekit, model: sohl-sohl-miscgear-scribekit}
   system:
     body:
       structure:
@@ -366,7 +369,7 @@ sohl:
             shockValue: 2
             probWeight: 20
             protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
-      weight: {base: null, calc: "(9 * str) + 50"}
+      weight: {base: 129, calc: "(9 * str) + 50"}
       reachBase: 0
       bodyScaleBase: 1
       personalFatigue: "enc + 5"
@@ -383,7 +386,7 @@ sohl:
 
 # Appearance {#appearance}
 
-The Caste-Registrar is a man in the scholar's blue robe of the [[lore-tanchei|Tanchei]], at a desk in the registry offices of the administrative center on the shore, with a roll open before him and clerks waiting at his elbow. Princes' officers wait longer in his anteroom than they wait anywhere else in the city.
+The Caste-Registrar is a 49-year-old man who stands 5'6" tall and is of light build. He sits in the scholar's blue robe of the [[lore-tanchei|Tanchei]] at a desk in the registry offices of the administrative center on the shore, with a roll open before him and clerks waiting at his elbow. Princes' officers wait longer in his anteroom than they wait anywhere else in the city.
 
 # Dossier {#dossier}
 

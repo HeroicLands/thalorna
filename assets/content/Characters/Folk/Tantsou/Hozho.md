@@ -3,7 +3,7 @@ shortcode: hozhomwnou
 name: {full: Hozho, en: [Fire Dragon, the Prince of Mwonou]}
 type: being
 subType: npc
-description: "The Prince of Mwonou, who holds the terraced uplands of Tantsou through a drought and a famine, buys his rice from the Prince of Wongsen at that Prince's price, and is the bitter rival of the Prince of Kwozheng."
+description: "The Prince of Mwonou, fifty-seven, who holds the terraced uplands of Tantsou through a drought and a famine, buys his rice from the Prince of Wongsen at that Prince's price, and is the bitter rival of the Prince of Kwozheng."
 tags: []
 data:
   icon: icon-person
@@ -17,11 +17,11 @@ data:
   socialTies: {being-tuizhokwzng: rival, being-chengzhodlwn: rival}
   gender: male
   species: humanflk
-  born: null
+  born: "662.058"
   died: null
-  height: null
-  weight: null
-  frame: null
+  height: 5' 7"
+  weight: 151 lbs
+  frame: medium
   appearance:
     eye_color: null
     hair_color: null
@@ -32,6 +32,12 @@ data:
       - painted face
       - painted teeth
   packFolder: ankaristantsou
+  items:
+    - {key: slkrobe, model: armorgear-slkrobe, name: "Prince's robes", kind: clothing}
+    - key: papercasel
+      model: containergear-papercasel
+      name: "Lacquered case for the famine petitions"
+      kind: container
 sohl:
   items:
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
@@ -63,6 +69,8 @@ sohl:
     - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 20}}
     - {model: skill-tantsoulng, system: {masteryLevelBase: 84}}
     - {model: skill-tengchouscript, system: {masteryLevelBase: 52}}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: papercasel, model: sohl-sohl-containergear-papercasel}
   system:
     body:
       structure:
@@ -365,7 +373,7 @@ sohl:
             shockValue: 2
             probWeight: 20
             protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
-      weight: {base: null, calc: "(9 * str) + 50"}
+      weight: {base: 151, calc: "(9 * str) + 50"}
       reachBase: 0
       bodyScaleBase: 1
       personalFatigue: "enc + 5"
@@ -382,7 +390,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Hozho has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. He holds court in the city of Mwonou, in the upland basin below the mountains, where the famine petitions of his districts are read out to him by the dozen. The ancestral hall a Prince of the province raised in a past reign, nine terraces high with nine bells hung in it, stands in his city.
+Hozho is a 57-year-old man who stands 5'7" tall and is of medium build. He has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. He holds court in the city of Mwonou, in the upland basin below the mountains, where the famine petitions of his districts are read out to him by the dozen. The ancestral hall a Prince of the province raised in a past reign, nine terraces high with nine bells hung in it, stands in his city.
 
 # Dossier {#dossier}
 

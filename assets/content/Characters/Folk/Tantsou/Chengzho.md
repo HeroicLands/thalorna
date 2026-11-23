@@ -3,7 +3,7 @@ shortcode: chengzhodlwn
 name: {full: Chengzho, en: [Rising Dragon, the Prince of Doulwen]}
 type: being
 subType: npc
-description: "The Prince of Doulwen, a younger Prince of Tantsou, rising fast: a reformer with the young Emperor's ear, who sponsors the Dúnavarre embassy at court for the foreign weight it adds to his hold."
+description: "The Prince of Doulwen, thirty-one, a younger Prince of Tantsou, rising fast: a reformer with the young Emperor's ear, who sponsors the Dúnavarre embassy at court for the foreign weight it adds to his hold."
 tags: []
 data:
   icon: icon-person
@@ -21,11 +21,11 @@ data:
     being-tuizhokwzng: rival
   gender: male
   species: humanflk
-  born: null
+  born: "688.140"
   died: null
-  height: null
-  weight: null
-  frame: null
+  height: 5' 8"
+  weight: 141 lbs
+  frame: light
   appearance:
     eye_color: null
     hair_color: null
@@ -36,6 +36,9 @@ data:
       - painted face
       - painted teeth
   packFolder: ankaristantsou
+  items:
+    - {key: slkrobe, model: armorgear-slkrobe, name: "Prince's robes", kind: clothing}
+    - {key: pursesilk, model: containergear-pursesilk, name: "Silk purse", kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
@@ -67,6 +70,8 @@ sohl:
     - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 20}}
     - {model: skill-tantsoulng, system: {masteryLevelBase: 84}}
     - {model: skill-tengchouscript, system: {masteryLevelBase: 52}}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: pursesilk, model: sohl-sohl-containergear-pursesilk}
   system:
     body:
       structure:
@@ -369,7 +374,7 @@ sohl:
             shockValue: 2
             probWeight: 20
             protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
-      weight: {base: null, calc: "(9 * str) + 50"}
+      weight: {base: 141, calc: "(9 * str) + 50"}
       reachBase: 0
       bodyScaleBase: 1
       personalFatigue: "enc + 5"
@@ -386,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Chengzho has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. He is the Prince the court watches most closely. When he crosses a bridge to the enclave, his officers already have the day's papers in hand.
+Chengzho is a 31-year-old man who stands 5'8" tall and is of light build. He has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. He is the Prince the court watches most closely. When he crosses a bridge to the enclave, his officers already have the day's papers in hand.
 
 # Dossier {#dossier}
 

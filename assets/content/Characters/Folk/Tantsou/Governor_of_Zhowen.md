@@ -5,7 +5,7 @@ name:
   en: [the Governor of Zhowen]
 type: being
 subType: npc
-description: "The Governor of Zhowen, who holds the capital's two shores, its administrative centers, caste quarters, quays and canal locks for the throne, and whose officers hold the Wongsen rice barges until their seals are checked."
+description: "The Governor of Zhowen, forty-six, who holds the capital's two shores, its administrative centers, caste quarters, quays and canal locks for the throne, and whose officers hold the Wongsen rice barges until their seals are checked."
 tags: []
 data:
   icon: icon-person
@@ -19,11 +19,11 @@ data:
   socialTies: {being-rinzhowngsn: acquaintance}
   gender: male
   species: humanflk
-  born: null
+  born: "673.033"
   died: null
-  height: null
-  weight: null
-  frame: null
+  height: 5' 10"
+  weight: 181 lbs
+  frame: heavy
   appearance:
     eye_color: null
     hair_color: null
@@ -33,7 +33,8 @@ data:
   packFolder: ankaristantsou
   items:
     - {key: plcui, model: armorgear-plcui, kind: armor}
-    - {key: lrobe, model: armorgear-lrobe, kind: armor}
+    - {key: lrobe, model: armorgear-lrobe, kind: clothing}
+    - {key: brdswd, model: weapongear-brdswd, name: "Officer's sword", kind: weapon}
 sohl:
   items:
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 11}}
@@ -67,6 +68,7 @@ sohl:
     - {model: skill-tengchouscript, system: {masteryLevelBase: 44}}
     - {key: plcui, model: sohl-sohl-armorgear-plcui}
     - {key: lrobe, model: sohl-sohl-armorgear-lrobe}
+    - {key: brdswd, model: sohl-sohl-weapongear-brdswd}
   system:
     body:
       structure:
@@ -369,7 +371,7 @@ sohl:
             shockValue: 2
             probWeight: 20
             protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
-      weight: {base: null, calc: "(9 * str) + 50"}
+      weight: {base: 181, calc: "(9 * str) + 50"}
       reachBase: 0
       bodyScaleBase: 1
       personalFatigue: "enc + 5"
@@ -386,7 +388,7 @@ sohl:
 
 # Appearance {#appearance}
 
-The Governor sits in his own hall in the administrative center of the shore, facing the island across the water, in the harness and robe of a [[lore-wohou|Wohou]] officer of the throne. The reports of the quays, the locks and the bridge feet come to his table, and he reads the seals on them before he reads the words.
+The Governor is a 46-year-old man who stands 5'10" tall and is of heavy build. He sits in his own hall in the administrative center of the shore, facing the island across the water, in the harness and robe of a [[lore-wohou|Wohou]] officer of the throne. The reports of the quays, the locks and the bridge feet come to his table, and he reads the seals on them before he reads the words.
 
 # Dossier {#dossier}
 

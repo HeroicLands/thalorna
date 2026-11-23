@@ -78,7 +78,7 @@ The Yanchai Zhau, the House of the Clouded Mountain, is a lesson the court of th
 
 ## The New Head's Gamble {#present}
 
-The present head, [Wengzhwo Zhoja]{.name data-type="being/npc"} ("Wind-Summoning Dragon Spear"), has vowed to restore the house by any means that work, and he has no patience for the slow accumulation of favors the traditional road requires.
+The present head, [[being-wngzhwozhoja|Wengzhwo Zhoja]] ("Wind-Summoning Dragon Spear"), has vowed to restore the house by any means that work, and he has no patience for the slow accumulation of favors the traditional road requires.
 
 :::secret {title="The alliance with the Black Lotus"}
 He has made a secret alliance with the [[affiliation-haluozhao|Ha Lwo Zhau]] (the Black Lotus Society), whose trade is forged tablets, bought omens and the starving of rivals' ancestors, and he has not told most of his own council. The senior kin who know of it call it reckless and dishonorable.

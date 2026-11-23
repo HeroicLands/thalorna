@@ -3,7 +3,7 @@ shortcode: tuizhokwzng
 name: {full: Tuizho, en: [Iron Dragon, the Prince of Kwozheng]}
 type: being
 subType: npc
-description: "The Prince of Kwozheng, who holds the cold north of Tantsou and its marches against the steppe riders of Wogen Henzhwo, and is the bitter rival of the Prince of Mwonou."
+description: "The Prince of Kwozheng, fifty-two, who holds the cold north of Tantsou and its marches against the steppe riders of Wogen Henzhwo, and is the bitter rival of the Prince of Mwonou."
 tags: []
 data:
   icon: icon-person
@@ -17,11 +17,11 @@ data:
   socialTies: {being-hozhomwnou: rival, being-chengzhodlwn: rival}
   gender: male
   species: humanflk
-  born: null
+  born: "667.255"
   died: null
-  height: null
-  weight: null
-  frame: null
+  height: 5' 10"
+  weight: 170 lbs
+  frame: medium
   appearance:
     eye_color: null
     hair_color: null
@@ -32,6 +32,12 @@ data:
       - painted face
       - painted teeth
   packFolder: ankaristantsou
+  items:
+    - {key: slkrobe, model: armorgear-slkrobe, name: "Prince's robes", kind: clothing}
+    - key: papercasel
+      model: containergear-papercasel
+      name: "Lacquered case for the reports of the marches"
+      kind: container
 sohl:
   items:
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
@@ -63,6 +69,8 @@ sohl:
     - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 20}}
     - {model: skill-tantsoulng, system: {masteryLevelBase: 84}}
     - {model: skill-tengchouscript, system: {masteryLevelBase: 52}}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: papercasel, model: sohl-sohl-containergear-papercasel}
   system:
     body:
       structure:
@@ -365,7 +373,7 @@ sohl:
             shockValue: 2
             probWeight: 20
             protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
-      weight: {base: null, calc: "(9 * str) + 50"}
+      weight: {base: 170, calc: "(9 * str) + 50"}
       reachBase: 0
       bodyScaleBase: 1
       personalFatigue: "enc + 5"
@@ -382,7 +390,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Tuizho has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. He holds court in the city of Kwozheng, in the hard-wintered north, where the reports of the watchtowers and the signal fires of the marches come to him before they go on to the capital.
+Tuizho is a 52-year-old man who stands 5'10" tall and is of medium build. He has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. He holds court in the city of Kwozheng, in the hard-wintered north, where the reports of the watchtowers and the signal fires of the marches come to him before they go on to the capital.
 
 # Dossier {#dossier}
 
@@ -390,7 +398,7 @@ Tuizho (Iron Dragon) is the Prince of [[affiliation-kwozhengprv|Kwozheng Provinc
 
 ## The North and the Rival
 
-**The marches.** Beyond the marches lies the steppe of the [Black Wilds]{.name data-type="place/region"}, and the riders of [[being-wogenhenzhuo|Wogen Henzhwo]] have come into the northern districts. His Commandant of the Marches holds the watchtowers and the garrison colonies, and his Keeper of the Muster Rolls keeps the rolls by which each colonist's land is held and each muster called.
+**The marches.** Beyond the marches lies the steppe of [[place-blackwilds|The Black Wilds]], and the riders of [[being-wogenhenzhuo|Wogen Henzhwo]] have come into the northern districts. His Commandant of the Marches holds the watchtowers and the garrison colonies, and his Keeper of the Muster Rolls keeps the rolls by which each colonist's land is held and each muster called.
 
 **The rival.** He and the Prince of [[affiliation-mwonouprv|Mwonou Province]] are bitter rivals, over an old marriage between their houses and an heir who died. In [[lore-weizhairui|The Jade Fan Dance]] (_Wei Zhai Rwi_) each takes the other's loss as his own gain.
 

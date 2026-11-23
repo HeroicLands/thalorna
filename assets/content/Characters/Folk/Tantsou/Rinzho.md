@@ -3,7 +3,7 @@ shortcode: rinzhowngsn
 name: {full: Rinzho, en: [Red Dragon, the Prince of Wongsen]}
 type: being
 subType: npc
-description: "The Prince of Wongsen, strongest and most feared of the four Princes of Tantsou, whose water-gifted Wandwo bring rain to the delta while the rain fails elsewhere and whose granaries sell rice to the dry provinces at the price he names."
+description: "The Prince of Wongsen, fifty-four, strongest and most feared of the four Princes of Tantsou, whose water-gifted Wandwo bring rain to the delta while the rain fails elsewhere and whose granaries sell rice to the dry provinces at the price he names."
 tags: []
 data:
   icon: icon-person
@@ -17,11 +17,11 @@ data:
   socialTies: {being-chengzhodlwn: rival}
   gender: male
   species: humanflk
-  born: null
+  born: "665.302"
   died: null
-  height: null
-  weight: null
-  frame: null
+  height: 5' 9"
+  weight: 192 lbs
+  frame: heavy
   appearance:
     eye_color: null
     hair_color: null
@@ -32,6 +32,9 @@ data:
       - painted face
       - painted teeth
   packFolder: ankaristantsou
+  items:
+    - {key: slkrobe, model: armorgear-slkrobe, name: "Prince's robes", kind: clothing}
+    - {key: sealsignat, model: miscgear-sealsignat, name: "The Prince's seal", kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
@@ -63,6 +66,8 @@ sohl:
     - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 20}}
     - {model: skill-tantsoulng, system: {masteryLevelBase: 84}}
     - {model: skill-tengchouscript, system: {masteryLevelBase: 52}}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: sealsignat, model: sohl-sohl-miscgear-sealsignat}
   system:
     body:
       structure:
@@ -365,7 +370,7 @@ sohl:
             shockValue: 2
             probWeight: 20
             protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
-      weight: {base: null, calc: "(9 * str) + 50"}
+      weight: {base: 192, calc: "(9 * str) + 50"}
       reachBase: 0
       bodyScaleBase: 1
       personalFatigue: "enc + 5"
@@ -382,7 +387,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Rinzho has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. He is seen at Wongsen as the other Princes see him at court: as the Prince whose granaries are full. His factors weigh rice on the quays of the delta port under his seal, and the barges that carry it to the capital travel under the same seal.
+Rinzho is a 54-year-old man who stands 5'9" tall and is of heavy build. He has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. He is seen at Wongsen as the other Princes see him at court: as the Prince whose granaries are full. His factors weigh rice on the quays of the delta port under his seal, and the barges that carry it to the capital travel under the same seal.
 
 # Dossier {#dossier}
 

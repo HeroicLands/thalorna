@@ -3,7 +3,7 @@ shortcode: yanzhortrd
 name: {full: Yanzho, en: [the Retired Emperor, Cloud Dragon]}
 type: being
 subType: npc
-description: "The Retired Emperor of Tantsou, who withdrew from the throne and lives in the background of the court inside the walled enclave of Zhowen, while the young Emperor reigns in his own era."
+description: "The Retired Emperor of Tantsou, sixty-one, who withdrew from the throne and lives in the background of the court inside the walled enclave of Zhowen, while the young Emperor reigns in his own era."
 tags: []
 data:
   icon: icon-person
@@ -17,18 +17,24 @@ data:
   socialTies: {}
   gender: male
   species: humanflk
-  born: null
+  born: "658.094"
   died: null
-  height: null
-  weight: null
-  frame: null
+  height: 5' 6"
+  weight: 138 lbs
+  frame: medium
   appearance:
     eye_color: null
     hair_color: null
     skin_color: null
     complexion: []
-    extra_features: []
+    extra_features:
+      - nails grown almost impossibly long and lacquered in brilliant colors
+      - painted face
+      - painted teeth
   packFolder: ankaristantsou
+  items:
+    - {key: slkrobe, model: armorgear-slkrobe, name: "Robes of the enclave", kind: clothing}
+    - {key: pursesilk, model: containergear-pursesilk, name: "Silk purse", kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
@@ -60,6 +66,8 @@ sohl:
     - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 20}}
     - {model: skill-tantsoulng, system: {masteryLevelBase: 84}}
     - {model: skill-tengchouscript, system: {masteryLevelBase: 52}}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: pursesilk, model: sohl-sohl-containergear-pursesilk}
   system:
     body:
       structure:
@@ -362,7 +370,7 @@ sohl:
             shockValue: 2
             probWeight: 20
             protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
-      weight: {base: null, calc: "(9 * str) + 50"}
+      weight: {base: 138, calc: "(9 * str) + 50"}
       reachBase: 0
       bodyScaleBase: 1
       personalFatigue: "enc + 5"
@@ -379,7 +387,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Nobody outside the enclave sees Yanzho. The city knows him as a name in the chancellery's newest entries and as a household behind the wall on the island, where only the Zhazho and their attendants go.
+Nobody outside the enclave sees Yanzho. The city knows him as a name in the chancellery's newest entries and as a household behind the wall on the island, where only the Zhazho and their attendants go. There he is a 61-year-old man who stands 5'6" tall and is of medium build, with the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth.
 
 # Dossier {#dossier}
 

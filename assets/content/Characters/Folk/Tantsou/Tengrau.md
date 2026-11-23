@@ -3,7 +3,7 @@ shortcode: tengrauemp
 name: {full: Tengrau, en: [Emperor Tengrau, Heaven's Thunder]}
 type: being
 subType: npc
-description: "The young Emperor of Tantsou, newly on the throne in the walled enclave of Zhowen, whom the four Princes each mean to shape and whose chief counselor is the Caste-Registrar."
+description: "The young Emperor of Tantsou, twenty-one, newly on the throne in the walled enclave of Zhowen, whom the four Princes each mean to shape and whose chief counselor is the Caste-Registrar."
 tags: []
 data:
   icon: icon-person
@@ -17,18 +17,24 @@ data:
   socialTies: {being-cstrgstrtnts: friend, being-chengzhodlwn: friend}
   gender: male
   species: humanflk
-  born: null
+  born: "698.211"
   died: null
-  height: null
-  weight: null
-  frame: null
+  height: 5' 7"
+  weight: 128 lbs
+  frame: light
   appearance:
     eye_color: null
     hair_color: null
     skin_color: null
     complexion: []
-    extra_features: []
+    extra_features:
+      - nails grown almost impossibly long and lacquered in brilliant colors
+      - painted face
+      - painted teeth
   packFolder: ankaristantsou
+  items:
+    - {key: slkrobe, model: armorgear-slkrobe, name: "Emperor's robes", kind: clothing}
+    - {key: ringgold, model: miscgear-ringgold, name: "Gold ring", kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
@@ -60,6 +66,8 @@ sohl:
     - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 20}}
     - {model: skill-tantsoulng, system: {masteryLevelBase: 84}}
     - {model: skill-tengchouscript, system: {masteryLevelBase: 52}}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: ringgold, model: sohl-sohl-miscgear-ringgold}
   system:
     body:
       structure:
@@ -362,7 +370,7 @@ sohl:
             shockValue: 2
             probWeight: 20
             protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
-      weight: {base: null, calc: "(9 * str) + 50"}
+      weight: {base: 128, calc: "(9 * str) + 50"}
       reachBase: 0
       bodyScaleBase: 1
       personalFatigue: "enc + 5"
@@ -379,7 +387,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Almost nobody sees Tengrau. A petitioner who crosses the bridge on his written permission waits in the gate-court outside the enclave wall and hears the Speaker give the Emperor's answer; the Emperor himself stays behind the wall, among his attendants. The Princes, who alone besides those attendants may speak to him, see a young man still learning how much of what he says will be obeyed.
+Almost nobody sees Tengrau. A petitioner who crosses the bridge on his written permission waits in the gate-court outside the enclave wall and hears the Speaker give the Emperor's answer; the Emperor himself stays behind the wall, among his attendants. The Princes, who alone besides those attendants may speak to him, see a 21-year-old man who stands 5'7" tall and is of light build, with the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. He is still learning how much of what he says will be obeyed.
 
 # Dossier {#dossier}
 

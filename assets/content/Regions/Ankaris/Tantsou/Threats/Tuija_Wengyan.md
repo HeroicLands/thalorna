@@ -4,34 +4,42 @@ name: {full: Tuija Wengyan, en: [Iron Spear Piercing the Clouds]}
 type: being
 subType: npc
 description: >-
-  Wohou general of the Empire of Tantsou turned rebel—condemned for a disobedience that won the battle it defied, and now leading the revolt that condemnation made inevitable.
-tags: [draft]
+  Forty-four-year-old Wohou general of the Empire of Tantsou turned rebel—condemned for a disobedience that won the battle it defied, and now leading the revolt that condemnation made inevitable.
+tags: []
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior]
-  occupation: null
-  lore: []
+  occupation: Rebel general
+  lore: [wohou]
   culture: tantsouclt
-  homes: []
-  affiliations: {}
+  homes: [tantsouregin]
+  affiliations: {tantsouempr: {rank: 0}}
   gender: male
   species: humanflk
-  age: null
-  born: "unknown"
-  frame: null
+  born: "675.122"
+  died: null
+  height: 5' 9"
+  weight: 152 lbs
+  frame: light
   appearance:
     eye_color: null
     hair_color: null
     skin_color: null
     complexion: []
-    extra_features: []
+    extra_features: [a pale line across the throat where a rank-cord once crossed it]
   packFolder: threats
+  items:
+    - key: plcui
+      model: armorgear-plcui
+      name: "Lacquered harness stripped of every badge of rank"
+      kind: armor
+    - {key: brdswd, model: weapongear-brdswd, name: "Sword", kind: weapon}
 ---
 
 # Appearance {#appearance}
 
-A lean man in his middle years, in a [[lore-wohou|Wohou]] officer's lacquered harness stripped of every badge of rank, stands with his weight square over his feet as if the ground might be taken from him. His face is hard and closed; a pale line where a rank-cord once crossed his throat has never tanned. He speaks with the precise courtesy of the imperial staff and gives orders without raising his voice.
+A lean man of forty-four, 5'9" tall, in a [[lore-wohou|Wohou]] officer's lacquered harness stripped of every badge of rank, stands with his weight square over his feet as if the ground might be taken from him. His face is hard and closed; a pale line where a rank-cord once crossed his throat has never tanned. He speaks with the precise courtesy of the imperial staff and gives orders without raising his voice.
 
 # Dossier {#dossier}
 

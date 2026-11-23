@@ -4,34 +4,40 @@ name: {full: Wogen Henzhwo, en: [Master Tiger of the Steppes]}
 type: being
 subType: npc
 description: >-
-  Warlord risen out of the Hwenhatou, the Black Wilds north of the Empire of Tantsou—a master strategist whose steppe confederation has become the gravest external threat the imperial frontier has faced in a generation.
-tags: [draft]
+  Forty-seven-year-old warlord risen out of the Hwenhatou, the Black Wilds north of the Empire of Tantsou—a master strategist whose steppe confederation has become the gravest external threat the imperial frontier has faced in a generation.
+tags: []
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior, skirmisher]
-  occupation: null
+  occupation: Warlord
   lore: []
   culture: henhatoutsouclt
-  homes: []
+  homes: [blackwilds]
   affiliations: {}
   gender: male
   species: humanflk
-  age: null
-  born: "unknown"
-  frame: null
+  born: "672.287"
+  died: null
+  height: 5' 9"
+  weight: 186 lbs
+  frame: heavy
   appearance:
     eye_color: null
     hair_color: null
     skin_color: null
-    complexion: []
-    extra_features: []
+    complexion: [weathered, scarred]
+    extra_features: [old scars across a face cut by the wind]
   packFolder: threats
+  items:
+    - {key: sbyrn, model: armorgear-sbyrn, name: "Felt coat sewn with iron plates", kind: armor}
+    - {key: scmtr, model: weapongear-scmtr, name: "Saber", kind: weapon}
+    - {key: saddlewar, model: miscgear-saddlewar, name: "War saddle", kind: miscgear}
 ---
 
 # Appearance {#appearance}
 
-A broad, unhurried man in a felt coat sewn with iron plates sits his horse a little apart from his captains and lets them do the talking. He is past his youth, his face cut by wind and old scars, and he watches whoever is speaking rather than the one he is speaking to. When he does talk, it is quietly, in the clipped trade-speech of the frontier markets, and the riders around him go still to hear it.
+A broad, unhurried man in a felt coat sewn with iron plates sits his horse a little apart from his captains and lets them do the talking. He is forty-seven and past his youth, his face cut by wind and old scars, and he watches whoever is speaking rather than the one he is speaking to. When he does talk, it is quietly, in the clipped trade-speech of the frontier markets, and the riders around him go still to hear it.
 
 # Dossier {#dossier}
 
@@ -67,8 +73,8 @@ The confederation is held together by his person and by plunder. A season withou
 
 ### Enemies
 
-The northern Princes
-: the [[lore-zhazho|Zhazho]] lords whose provinces he raids, each of whom would win the court's favor by bringing back his head and none of whom will yet cooperate with the others to do it.
+[[being-tuizhokwzng|Tuizho]]
+: the Prince of Kwozheng, the [[lore-zhazho|Zhazho]] lord whose province he raids, who would win the court's favor by bringing back his head.
 
 ### Affiliations
 
