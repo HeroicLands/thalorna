@@ -3308,6 +3308,7 @@ data:
       gloss: to take; to obtain or remove the object
       source: {kind: coined}
       concept: take
+    - {form: "qavr-", class: stem, field: Everyday speech, gloss: "to take"}
     - form: tamvar
       class: v
       field: Everyday speech
@@ -6323,6 +6324,8 @@ data:
     - {name: The Mirror Sea, tongue: translation}
     - {name: sevrabun, tongue: dunhari, built: [sevr-, -abun], gloss: the keeper of the asking}
     - {name: The Riddle-Warden, tongue: translation}
+    - {name: qavrogar, tongue: dunhari, built: [qavr-, -ogar], gloss: the taker}
+    - {name: The Crag-Roc, tongue: translation}
   retired:
     - {form: Qadi, instead: Vazhmader, why: "an Earth word, the judge of a city"}
     - {form: qadi, instead: vazhmader, why: "an Earth word, the judge of a city"}

@@ -5143,6 +5143,7 @@ data:
     - {name: Censor of Purity, tongue: translation}
     - {name: Chaiwong, tongue: tanvuri, built: [chai, wong]}
     - {name: Chaizho, tongue: tanvuri, built: [chai, zho]}
+    - {name: Chengsou, tongue: tanvuri, built: [cheng, sou], gloss: the rising serpent}
     - {name: Chengzho, tongue: tanvuri, built: [cheng, zho]}
     - {name: Chyau Chai Tui Sen, tongue: tanvuri, built: [chyau, chai, tui, sen]}
     - {name: Champion, tongue: translation}
@@ -5380,6 +5381,7 @@ data:
     - {name: The Doulwen Basins, tongue: translation}
     - {name: The First Classifier, tongue: translation}
     - {name: The First Refusal, tongue: translation}
+    - {name: The Flood-Drake, tongue: translation}
     - {name: The Forger of False Records, tongue: translation}
     - {name: The Forsaken, tongue: translation}
     - {name: the Governor of Zhowen, tongue: translation}
