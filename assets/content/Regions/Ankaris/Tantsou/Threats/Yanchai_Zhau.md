@@ -3,7 +3,7 @@ shortcode: yanchaizhao
 name: {full: Yanchai Zhau}
 type: affiliation
 subType: lineage
-description: "A once-great noble house of Tantsou, brought low in the Jade Fan Dance, whose new head has vowed to restore it by any means that work."
+description: "A noble house of Tantsou of old standing, brought low in the Jade Fan Dance, whose new head has vowed to restore it by any means that work."
 data:
   culture: tantsouclt
   templatePriority: null
@@ -74,7 +74,7 @@ data:
 sohl: {system: {commonSkills: [tantsoulng]}}
 ---
 
-The Yanchai Zhau, the House of the Clouded Mountain, is a lesson the court of the [[affiliation-tantsouempr|Empire of Tantsou]] teaches its sons about the [[lore-weizhairui|Wei Zhai Rwi]]: a house that was once a pillar of the empire and is now one bad season from ruin, and whose new head has decided that the honorable road back is too slow to take. Its name is still spoken with the old respect in the provinces. At court it is spoken with a glance toward the door.
+The Yanchai Zhau, the House of the Clouded Mountain, is a lesson the court of the [[affiliation-tantsouempr|Empire of Tantsou]] teaches its sons about the [[lore-weizhairui|Wei Zhai Rwi]]: a house of old standing that is now one bad season from ruin, and whose new head has decided that the honorable road back is too slow to take. Its name is spoken with respect in the provinces. At court it is spoken with a glance toward the door.
 
 ## The New Head's Gamble {#present}
 
@@ -84,7 +84,7 @@ The present head, [Wengzhwo Zhoja]{.name data-type="being/npc"} ("Wind-Summoning
 He has made a secret alliance with the [[affiliation-haluozhao|Ha Lwo Zhau]] (the Black Lotus Society), whose trade is forged tablets, bought omens and the starving of rivals' ancestors, and he has not told most of his own council. The senior kin who know of it call it reckless and dishonorable.
 :::
 
-The house is split. Some of its kin have noticed that their head keeps company he will not name, and the suspicion between the two halves of the council is itself a weakness any player of the Dance can use.
+The house is split. Some of its kin have noticed that their head keeps company he will not name, and the suspicion this breeds inside the council is itself a weakness any player of the Dance can use.
 
 ## What Failure Costs
 

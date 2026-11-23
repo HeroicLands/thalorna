@@ -26,7 +26,7 @@ The foreign merchants who trade at Wongsen live in a walled quarter of their own
 
 ## History {#history}
 
-The records give the city's past no year. The first years of the young Emperor's reign are the years of the drought in the other provinces ([[lore-southfamine|The Famine in the South]]), when the rain the Prince's Wandwo call kept the delta green and the dry provinces came to the granaries of Wongsen for rice.
+The records give the city's past no year. Since the drought of the young Emperor's first years ([[lore-southfamine|The Famine in the South]]), the rain the Prince's Wandwo call has kept the delta green, and the dry provinces have come to the granaries of Wongsen for rice.
 
 ## See Also {#see-also}
 

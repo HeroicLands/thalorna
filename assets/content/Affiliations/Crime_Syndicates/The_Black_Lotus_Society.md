@@ -110,7 +110,9 @@ The [Merchant Uprising]{.name data-type="affiliation"}
 [[affiliation-nuotsourui|Nwotsou Rwi]] (Cult of the Forsaken)
 : A nihilistic lower-caste cult that preaches the destruction of the classification system. The Lotus's alliance with them is more cynical than ideological; the cult provides deniable violence, disposable operatives, and a useful source of chaos that the Lotus can exploit.
 
-The Black Lotus has also been quietly entangled with specific noble houses—most notably [[affiliation-yanchaizhao|Yanchai Zhau]], whose fall illustrates what happens when a great house becomes dependent on the Society's services and then finds itself no longer able to afford the price.
+:::secret {title="Yanchai Zhau"}
+The new head of [[affiliation-yanchaizhao|Yanchai Zhau]], a noble house brought low in the Jade Fan Dance, has made a secret alliance with the Society to restore the house, and most of his own council does not know of it.
+:::
 
 ## Spiritual and Moral-Ledger Consequences
 
@@ -138,7 +140,7 @@ Members carry no visible identification. Recognition passes through calligraphic
 : The merchant caste under the Society's particular influence
 
 [[affiliation-yanchaizhao|Yanchai Zhau]]
-: Noble house entangled with the Society
+: a fallen noble house of the Jade Fan Dance
 
 [[affiliation-crmsyndctsthlrn|Crime Syndicates]]
 : Parent overview
