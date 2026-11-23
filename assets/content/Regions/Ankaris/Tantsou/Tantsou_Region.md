@@ -70,7 +70,7 @@ The Emperor on the throne at [[place-zhowen|Zhowen]] is young and newly crowned,
 
 The rain has failed in the south. The southern rice harvests have failed several years running, smaller rivers are dry in their beds, and in some districts the hungry [[lore-nouwen|Nouwen]] have risen against their lords and the magistrates who collect the tribute. The delta is the exception: the water-gifted Wandwo of the Prince of [[affiliation-wongsenprv|Wongsen Province]] bring rain to it, and the dry provinces buy his rice at the price he names.
 
-Every frontier is pressed at once. The riders of [[being-wogenhenzhuo|Wogen Henzhwo]] are in the northern districts; the rebel general [[being-tuijawengyan|Tuija Wengyan]] holds gains in the border provinces; the [[lore-chaizho|Chaizho]] range through the remote northwest, where the Senali and Khazari hold them at heavy cost; and Jenchai's raiders work the eastern and southern coasts. The [[affiliation-tantsouempr|Empire of Tantsou]] note gives the court's side of each.
+Every frontier is pressed at once. The warlord [[being-wogenhenzhuo|Wogen Henzhwo]] has united the tribes of [[place-blackwilds|the Black Wilds]], and his riders are in the northern districts; the rebel general [[being-tuijawengyan|Tuija Wengyan]] holds gains in the border provinces; the [[lore-chaizho|Chaizho]] range through the remote northwest, where the Senali and Khazari hold them at heavy cost; and Jenchai's raiders work the eastern and southern coasts. The [[affiliation-tantsouempr|Empire of Tantsou]] note gives the court's side of each.
 
 ## Trade
 
@@ -86,7 +86,7 @@ To the southwest, beyond the eastern arc of the Grazian Mountains, contact with 
 
 To the west, beyond the mountain passes, the Khazrin Desert is a buffer crossed by caravans and, now and then, by an imperial expedition. The Aureldian kingdoms beyond it are real and remote, a faint rumor of cathedrals and princes.
 
-To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a fortified marchland of watchtowers and garrison colonies. The Empire treats Grukar raids as a nuisance. The steppe beyond, [[place-blackwilds|the Black Wilds]], is another matter this generation: the warlord [[being-wogenhenzhuo|Wogen Henzhwo]] has united its tribes, and his riders are already in the northern districts.
+To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a fortified marchland of watchtowers and garrison colonies. The Empire treats Grukar raids as a nuisance. The steppe beyond, [[place-blackwilds|the Black Wilds]], is another matter this generation.
 
 ## See Also {#see-also}
 

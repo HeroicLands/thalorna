@@ -68,9 +68,15 @@ sohl: {system: {commonSkills: [tantsoulng]}}
 
 Wongsen Province is the richest of the four provinces of the [[affiliation-tantsouempr|Empire of Tantsou]]. It holds the delta where the great rivers reach the sea, the rice country behind it and the coasts to the east and the south, with about 34 million people. Its Prince, of the [[lore-zhazho|Zhazho]], rules from the port city of [[place-wongsen|Wongsen]] and is the most feared of the four.
 
+The southern coast is the country of the [[lore-tantsoutribclt|Tantsou Tributary Peoples]], whose older kingdoms keep their rulers under the Empire's seal, and the eastern coast faces [[place-easternstrt|the Eastern Strait]] and the raiders of [[affiliation-jenchaiempr|Jenchai]].
+
+## Current Situation {#present}
+
 The province's strength is water. Among the Prince's [[lore-wanduo|Wandwo]] is a gifted set with an affinity for water, and the rain they call falls on the delta and its coast and has raised his harvests while other provinces go dry. The other Princes come to his granaries to buy rice, and some at court say his sorcerers are behind the drought elsewhere. Nobody has proven it.
 
-The southern coast is the country of the [[lore-tantsoutribclt|Tantsou Tributary Peoples]], whose older kingdoms keep their rulers under the Empire's seal, and the eastern coast faces [[place-easternstrt|the Eastern Strait]] and the raiders of [[affiliation-jenchaiempr|Jenchai]].
+## History {#history}
+
+The records give the province's past no year. Jenchai broke away from the empire more than a thousand years ago, and its raiders have worked the eastern and southern coasts ever since, in a stalemate of raid and counter-raid. The first years of the young Emperor's reign are the years of the drought in the other provinces ([[lore-southfamine|The Famine in the South]]), when the rain the Prince's Wandwo call raised his harvests and the dry provinces came to his granaries for rice.
 
 ## See Also {#see-also}
 
