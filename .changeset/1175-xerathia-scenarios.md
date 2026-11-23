@@ -13,3 +13,4 @@ thalorna: patch
 - In the Lubemo's war, a party stands witness at the reading of a dry channel at the new Dry Reach, and at the Ékunda spring the two warring clans water their herds on separate days.
 - The places these adventures are set in link to them, and most of the people a party meets in the Bethuan, Marches and Savannah adventures have notes with stat blocks and gear.
 - The people and creatures a party meets in three older adventures, The House of Sealed Mouths, The Unwritten Vault and The Hearth Without Light, are listed with their adventures and have notes with stat blocks and gear.
+- The people and creatures a party meets in the three Central Rainforests adventures, Hands That Never Stop Turning, The Hush at the Heart of the Wood and The Unseen King of the Spotted Court, are listed with their adventures and have notes with stat blocks and gear.

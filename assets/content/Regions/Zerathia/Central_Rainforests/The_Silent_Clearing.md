@@ -23,7 +23,7 @@ What is certain is that the dead come out of it. The undead that roam the forest
 
 ## What Lies There
 
-At the edge of the circle, the forest bears the marks of generations of watchers. Bell-posts of dark wood stand at intervals around the rim, each hung with a bronze bell with its clapper cut away. A ring of burned earth lies outside them, scorched each season. The paths into the Clearing are marked in ash and renewed by a hand that does not show itself.
+At the edge of the circle, the forest bears the marks of generations of watchers. Bell-posts of dark wood stand at intervals around the rim, each hung with a bronze bell with its clapper cut away. A ring of burned earth lies outside them, scorched each season. The paths into the Clearing are marked in ash and renewed by a warden whom strangers seldom see.
 
 At the center, according to those few who have approached, there is a place where the gray ground is darker and the light dims. Nothing there reflects. A figure is said to sit at the center, motionless, facing outward.
 
