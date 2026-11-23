@@ -2,6 +2,7 @@ contentPackage: thalorna
 currentDate: "720.1"
 defaultCalendar: commoncal
 packageKind: modules
+userAgentUrl: https://www.heroiclands.org/
 
 compatibility:
     minimum: "14.359"
