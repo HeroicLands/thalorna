@@ -45,7 +45,7 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 - _Force:_ fight the Ash-Warden. He is tough, knows the ground and burns what he fights.
 - _Stealth:_ circle the rim and cross at a gap in the bells.
-- _Guile:_ claim to be the [Leopard King]{.name data-type="being/npc"}'s men. The Warden knows the [[place-lpdkngcrt|Court's hunters]] and may know the lie.
+- _Guile:_ claim to be [[being-lpdkngldr|the Leopard King]]'s men. The Warden knows the [[place-lpdkngcrt|Court's hunters]] and may know the lie.
 - _Parley:_ the Warden answers gesture. He has lived for years among those who do not speak, and he shows the safe paths to a party that signs honestly.
 
 **Clues and rewards.** The ash-paths run in spiral lines, each one marked at its end with a skull. The Warden's tally-cord records the dead he has burned: more than a person can count.
