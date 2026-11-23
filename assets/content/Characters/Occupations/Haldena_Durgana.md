@@ -3,6 +3,7 @@ shortcode: hldndrgn
 name: {full: Haldena Durgana}
 type: being
 subType: npc
+description: "The senior watch commander of the gates of Ornetho, from a family of gate keepers, who has served in the gate watch for twenty years."
 tags: [soldiery]
 data:
   icon: icon-person
@@ -415,6 +416,6 @@ Haldena is respected and feared alike. She has few friends outside her work fami
 2. **The traitor in her ranks.** Haldena suspects that one of her own captains takes money from [[being-garrutsagalt|Garrutsa Galtsuregi]], and she asks a party to watch the gate shifts before she names anyone.
 3. **The castellan's request.** Castellan Hilther approaches Haldena privately with a request to let one man through the gate without inspection. She asks a party to learn who the man is.
 
-:::secret {title="The wain's buyers"}
+:::secret {title="What the referee knows"}
 The crossbows are bound for a separatist faction, and Haldena learns it only after the castellan's court has had her evidence.
 :::

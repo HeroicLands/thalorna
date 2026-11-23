@@ -14,7 +14,7 @@ data:
   culture: tarvenanclt
   homes: [kavrenath]
   affiliations: {kngdmstrth: {rank: 3, office: Warden of the March}}
-  socialTies: {being-tarsilathelv: patron}
+  socialTies: {being-zltthlvrs: patron}
   gender: male
   species: humanflk
   born: "680.15"
@@ -63,7 +63,7 @@ His orders from Lezkora are weeks old when they arrive, and his rivals among the
 
 ### Companions
 
-Társila Thelvaris commands one of his garrison units and has his confidence. The garrison's captains and the town assembly's elders report to him.
+Zolta Thelvaris commands one of his garrison units and has his confidence. The garrison's captains and the town assembly's elders report to him.
 
 ### Patrons
 

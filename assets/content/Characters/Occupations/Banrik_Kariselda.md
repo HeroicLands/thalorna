@@ -3,6 +3,7 @@ shortcode: banrkcrsld
 name: {full: Banrik Káriselda}
 type: being
 subType: npc
+description: "A bodyguard of Herthema's back streets, hired by the town's merchants for his skill at seeing trouble before it arrives, who is on the sellswords' roll and belongs to no company."
 tags: [soldiery]
 data:
   icon: icon-person

@@ -3,6 +3,7 @@ shortcode: alethraornet
 name: {full: Alethra Ornetis}
 type: being
 subType: npc
+description: "A field priestess of Lizelas at Nebralis who blesses nets, attends births and mediates disputes for the fishing families, and whose hair grayed young."
 tags: [clergy]
 data:
   icon: icon-person

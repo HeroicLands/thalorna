@@ -1,8 +1,9 @@
 ---
-shortcode: lzthbrnthr
-name: {full: Lizéth Bránthira}
+shortcode: ervthbrnthr
+name: {full: Ervotho Bránthira}
 type: being
 subType: npc
+description: "A semi-skilled laborer of Nebralis who leads a hired gang on construction and heavy-lifting jobs and lives in the town as a Resident."
 tags: [common-folk]
 data:
   icon: icon-person
@@ -395,13 +396,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Lizéth Bránthira is a 40-year-old man who stands 6'4" tall and is broad and heavily built. His olive skin is weathered by work in the open, his black hair is short and swept back, and his green eyes are wide-set and open. He carries a load on one shoulder as easily as another man carries a cloak, and his hands are scarred across the knuckles from rope and crate.
+Ervotho Bránthira is a 40-year-old man who stands 6'4" tall and is broad and heavily built. His olive skin is weathered by work in the open, his black hair is short and swept back, and his green eyes are wide-set and open. He carries a load on one shoulder as easily as another man carries a cloak, and his hands are scarred across the knuckles from rope and crate.
 
 # Dossier {#dossier}
 
-Born in [[place-nebralis|Nebralis]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Lizéth Bránthira is a laborer (semi-skilled).
+Born in [[place-nebralis|Nebralis]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Ervotho Bránthira is a laborer (semi-skilled).
 
-Lizéth has spent his life working in construction and manual labor. Known for his strength and stamina, he has taken on various roles, from bricklaying to heavy lifting. Lizéth takes pride in his work and often leads teams of laborers. While he has a tough exterior, he is known for his sense of humor and willingness to lend a hand to those in need.
+Ervotho has spent his life working in construction and manual labor. Known for his strength and stamina, he has taken on various roles, from bricklaying to heavy lifting. Ervotho takes pride in his work and often leads teams of laborers. While he has a tough exterior, he is known for his sense of humor and willingness to lend a hand to those in need.
 
 ## Psyche
 
@@ -411,7 +412,7 @@ Can be overly critical, struggles with finer details of work.
 
 ### Motivation
 
-Lizéth wants steady work on the harbor's new walls and wants his gang to be paid by a house that pays.
+Ervotho wants steady work on the harbor's new walls and wants his gang to be paid by a house that pays.
 
 ### Strengths
 
@@ -419,13 +420,13 @@ Physically strong, experienced in various labor roles, good leadership skills.
 
 ## Social
 
-Lizéth belongs to no guild or company. He hires his gang out by the job and lives in Nebralis as a Resident under its council.
+Ervotho belongs to no guild or company. He hires his gang out by the job and lives in Nebralis as a Resident under its council.
 
 ## Companions
 
 ### Patrons
 
-Lizéth's primary patrons are local builders and contractors.
+Ervotho's primary patrons are local builders and contractors.
 
 ### Enemies
 
@@ -433,6 +434,6 @@ Few; respected by his peers.
 
 ## Plot Hooks
 
-1. **The quay gang.** The merchant houses are building a longer quay at [[place-nebralis|Nebralis]], and Lizéth's gang has not been paid for three weeks. He asks a party to carry his request to the council.
-2. **The priestess's wall.** The temple's garden wall fell in the last storm, and the bishop's recommended oversight would put the rebuilding out of the assembly's hands. Lizéth asks a party to carry stone before the vote.
-3. **The teamsters' vote.** Lizéth's brother-in-law is a teamster who may lose his seat to the guild's vote. He asks a party to learn who is paying for it.
+1. **The quay gang.** The merchant houses are building a longer quay at [[place-nebralis|Nebralis]], and Ervotho's gang has not been paid for three weeks. He asks a party to carry his request to the council.
+2. **The priestess's wall.** The temple's garden wall fell in the last storm, and the bishop's recommended oversight would put the rebuilding out of the assembly's hands. Ervotho asks a party to carry stone before the vote.
+3. **The teamsters' vote.** Ervotho's brother-in-law is a teamster who may lose his seat to the guild's vote. He asks a party to learn who is paying for it.

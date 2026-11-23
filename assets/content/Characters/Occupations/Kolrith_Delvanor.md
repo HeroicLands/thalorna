@@ -3,6 +3,7 @@ shortcode: klrthdlvnr
 name: {full: Kolrith Delvanor}
 type: being
 subType: npc
+description: "A master pilot of the Pilots' Guild of Valthari, known for fast, bold crossings of the harbor bar."
 tags: [tradesfolk]
 data:
   icon: icon-person
@@ -402,7 +403,7 @@ Kolrith Delvanor is a 24-year-old man who stands 5'11" tall and is of medium bui
 
 Born in [[place-valthari|Valthari]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Kolrith Delvanor is a pilot.
 
-Kolrith is a daring pilot of the Pilots' Guild of Valthari known for his adventurous spirit and quick reflexes. He often takes on challenging crossings of the harbor bar and is not afraid to push the limits of his boat. With a background in racing, he enjoys the thrill of speed and competition. While his boldness can lead to risky situations, Kolrith has a knack for finding innovative solutions on the water, making him a respected figure among his peers.
+Kolrith is a daring pilot of the Pilots' Guild of Valthari, known for his adventurous spirit and quick reflexes. He often takes on challenging crossings of the harbor bar and is not afraid to push the limits of his boat. With a background in racing, he enjoys the thrill of speed and competition. While his boldness can lead to risky situations, Kolrith has a knack for finding innovative solutions on the water, making him a respected figure among his peers.
 
 ## Psyche
 
@@ -434,6 +435,6 @@ Few; generally well-liked, but some competitors may resent his success.
 
 ## Plot Hooks
 
-1. **The bar in the storm month.** A merchant house has offered a charter that would clear Kolrith's debts, for a crossing in the month the pilots of [[place-valthari|Valthari]] do not sail. He asks a party to ride with him and see that the cargo is what the manifest says.
+1. **The bar in the storm month.** [[being-dalenavlrn|Dálena Valaron]]'s house has taken a charter for the month the pilots of [[place-valthari|Valthari]] do not sail, and she wants Kolrith to pilot her ship over the bar. He asks a party to ride with him and see that the cargo is what the manifest says, since a pilot who crosses in the closed month answers to his guild.
 2. **The strike-breaker.** The seamen refuse to sign until the owners raise the share, and the owners' council has asked Kolrith to pilot the strike-breaking ship across the bar. He asks a party to learn what the guild will do to him if he agrees.
-3. **A pilot's secret.** The bar has shifted in the night and Kolrith alone knows where. A house offers a fortune for the channel.
+3. **The shifted channel.** The bar has shifted in the night and Kolrith alone knows where the new channel runs. A merchant house offers a fortune for the chart, and the Pilots' Guild holds that a channel belongs to every pilot who works the bar.

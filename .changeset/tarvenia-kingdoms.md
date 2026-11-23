@@ -14,4 +14,4 @@
 
 **Characters**
 
-- Alethra, Társila and Eldira take the house names Ornetis, Thelvaris and Garrundeta.
+- Alethra, Zolta and Eldira take the house names Ornetis, Thelvaris and Garrundeta.
