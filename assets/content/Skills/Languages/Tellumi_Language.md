@@ -6677,6 +6677,10 @@ data:
       tongue: tellumi
       built: [turem]
       gloss: "the Breaking: the Atarzád conquest, as the Tellumi call it"
+    - name: Varmesh Hagmen
+      tongue: tellumi
+      built: [varmesh, hagmen]
+      gloss: "the keeper of the branchings: the maze-keeper"
   older:
     - {form: Ashkarad}
     - {form: Kaldar}

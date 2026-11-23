@@ -5270,6 +5270,8 @@ data:
     - {name: Prelate, tongue: translation}
     - {name: Canon, tongue: translation}
     - {name: Townsman, tongue: translation}
+    - {name: Hretholvo, tongue: tarveni, built: [hreth, holvo], gloss: the ford-comrade}
+    - {name: The Ford-Warden, tongue: translation}
   retired:
     - form: Consejarath
       instead: Konsezarath

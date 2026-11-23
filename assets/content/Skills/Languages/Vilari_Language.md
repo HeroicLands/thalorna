@@ -10017,6 +10017,11 @@ data:
     - {name: The Lusar, tongue: translation}
     - {name: Thelvaran, tongue: vylari}
     - {name: Sergeant Thelvaran, tongue: translation}
+    - name: Thaurandon
+      tongue: vylari
+      built: [thaurathen, -andon]
+      gloss: "keeping, guarding; a statue named for its office"
+    - {name: The Threshold Statue, tongue: translation}
   retired:
     - {form: Campus Vylaris, instead: Vilarpolthamis, why: an Earth phrase for the city commons}
     - {form: Viridarium, instead: Velmiros, why: an Earth word for the city green}

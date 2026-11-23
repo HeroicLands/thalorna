@@ -6935,6 +6935,8 @@ data:
     - {name: Nazzuna Tarshuni, tongue: taruzeli}
     - {name: Zilmar Ezzinu, tongue: taruzeli}
     - {name: Taruzelian, tongue: taruzeli}
+    - {name: Qaturum, tongue: taruzeli, built: [qatur-, -um], gloss: the one that stops}
+    - {name: The Hull-Gripper, tongue: translation}
   retired:
     - {form: Tamavar, instead: Besikar, why: one letter from an Earth word}
     - {form: Kethara, instead: Yamuzel, why: an Earth word}
