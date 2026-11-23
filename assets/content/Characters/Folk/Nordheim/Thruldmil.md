@@ -1,18 +1,18 @@
 ---
 shortcode: thruldmyl
-name: {full: Thruldmil, en: [Duke Thruldmil]}
+name: {full: Thruldmil, en: [Hersvald Thruldmil]}
 type: being
 subType: npc
-description: Duke of Vithgard and the primary patron who employs Tvalgthann Bletholl for court entertainment.
+description: Hersvald of the district of Marvstead and the primary patron who employs Tvalgthann Bletholl for hall entertainment.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Duke
+  occupation: Hersvald
   lore: []
   culture: nordheimnclt
-  homes: [vithgard]
+  homes: [marvstead]
   affiliations: {}
   gender: male
   species: humanflk
@@ -42,4 +42,4 @@ Thruldmil is a 52-year-old man who stands 5'11" tall with a medium build. He has
 
 # Dossier {#dossier}
 
-Thruldmil is the duke of [[affiliation-kngdmvthgrd|Vithgard]] and the primary patron who employs [[being-tvlgthnblthl|Tvalgthann Bletholl]] for court entertainment. He employs Tvalgthann's talents for court entertainment and subtle political messaging.
+Thruldmil is the hersvald of the district of [[place-marvstead|Marvstead]] in [[affiliation-kngdmvthgrd|Vithgard]] and the primary patron who employs [[being-tvlgthnblthl|Tvalgthann Bletholl]] for hall entertainment. He employs Tvalgthann's talents for hall entertainment and subtle political messaging.

@@ -3,6 +3,7 @@ shortcode: hrndmylsnrvrkh
 name: {full: Hrundmil Snarvaruk}
 type: being
 subType: npc
+description: "The head jailer of the king's prison at Knalthstead, a Nordman freeman of thirty years' service who keeps the rules the same for every prisoner and has never been bought."
 tags: [draft, soldiery]
 data:
   icon: icon-person
@@ -400,7 +401,7 @@ Hrundmil Snarvaruk is a 51-year-old man who stands 6'0" tall and is broad and so
 
 Hrundmil Snarvaruk is head jailer of the king's prison at [[place-knalthstead|Knalthstead]], the seat of [[affiliation-kngdmnrdhm|Nordheim]], a [[lore-nordheimnclt|Nordman]] freeman who has spent thirty years inside its walls and now runs them.
 
-Hrundmil came to the prison as a young guard because the [Tingward]{.name data-type="affiliation"} was hiring and the fjord was not. The prison holds men awaiting the king's judgment, men held for ransom between clans, and men whose kin outside would kill them given an hour's opportunity. His answer to all of it is the rules. Every man inside is fed the same, locked the same and treated the same, whatever his clan or his jarl, and every guard under him keeps to the same book or leaves. It is not a popular way to run a prison in a country where a jarl expects to be obliged, and it has kept the feuds of Nordheim outside the walls.
+Hrundmil came to the prison as a young guard because the Tingverdir were hiring and the fjord was not. The prison holds men awaiting the king's judgment, men held for ransom between clans, and men whose kin outside would kill them given an hour's opportunity. His answer to all of it is the rules. Every man inside is fed the same, locked the same and treated the same, whatever his clan or his jarl, and every guard under him keeps to the same book or leaves. It is not a popular way to run a prison in a country where a jarl expects to be obliged, and it has kept the feuds of Nordheim outside the walls.
 
 ## Psyche
 
@@ -418,13 +419,13 @@ Experienced, authoritative, strong sense of duty.
 
 ## Social
 
-Hrundmil holds his post under the Tingward, the _Tingvordr_, the sworn men who keep the ting-peace within Knalthstead's walls, and answers to the Landvordur, the king's reeve.
+Hrundmil holds his post under the Tingverdir, the sworn men who keep the ting-peace within Knalthstead's walls, and answers to the Landvordur, who collects the king's dues.
 
 ## Companions
 
 ### Patrons
 
-Hrundmil's patrons are the reeve at Knalthstead and the senior officers of the Tingward, who trust his judgment because it has never once been bought.
+Hrundmil's patrons are the Landvordur at Knalthstead and the senior officers of the Tingverdir, who trust his judgment because it has never once been bought.
 
 ### Enemies
 
@@ -432,14 +433,14 @@ Inmates who have been through his hands more than once; and a jarl of the fjord 
 
 ## Plot Hooks
 
-The Jarl's Kinsman
-: A jarl's nephew is inside for a killing, his clan is outside demanding him, and the dead man's clan is outside demanding him too. Hrundmil will give him to nobody but the king.
+Two Clans at One Door
+: A jarl's nephew is inside for a killing at [[place-knalthstead|Knalthstead]]. His clan stands outside demanding him, and the dead man's clan stands outside demanding him too. Hrundmil will give him to nobody but the king. He can hold the door against both clans and risk a fight at the gate, or ask the Tingverdir to put sworn men on the wall before the crowd grows.
 
-New Methods
-: The reeve has appointed a younger warden over the prison, a man with ideas about informers and separate cells, and told Hrundmil to work under him.
+The Younger Warden
+: The Landvordur places a younger warden over the prison, a man who wants informers and separate cells, and tells Hrundmil to work under him. Hrundmil holds that the same rules for everyone are the only thing that keeps the staff safe and the prisoners alive. He can bend to the Landvordur and watch the book change, speak against the new warden before the Landvordur, or obey in the letter and watch the new methods fail on their own.
 
-The Freed Man
-: A prisoner Hrundmil held for five years and treated exactly like everyone else has come back to Knalthstead a rich man, and has asked to see him. He has not said why.
+The Freed Man Returns
+: A man whom Hrundmil held for five years, and treated exactly as he treated everyone else, comes back to Knalthstead rich and asks to see him. He does not say why. Hrundmil can receive him as he would any visitor, or refuse a man who may be about to offer thanks, a bribe or a grudge.
 
-The Ting
-: With the clans assembled for the ting, a purse has reached Hrundmil through his own steward: an hour's carelessness with one door on one night. He has not touched it and he knows which of his guards it came through.
+The Purse at the Ting
+: With the clans assembled for the ting, a purse reaches Hrundmil through his own steward, the price of an hour's carelessness with one door on one night. He has not touched it, and he knows which of his guards it came through. He can bring the purse and the guard to the Landvordur, which names the clan that sent it, or hold the guard to account within his walls and keep the purse as proof.

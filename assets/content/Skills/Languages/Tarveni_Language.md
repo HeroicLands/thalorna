@@ -4771,6 +4771,7 @@ data:
       meaning: "a name in another tongue of the setting, as its speakers give it"
     - {tag: other, meaning: a name in no tongue these pages name}
   register:
+    - {name: "Zenotha Tholmaris", tongue: tarveni}
     - {name: "Átseka", tongue: tarveni}
     - {name: "Betsa", tongue: tarveni}
     - {name: "Ekutsa", tongue: tarveni}

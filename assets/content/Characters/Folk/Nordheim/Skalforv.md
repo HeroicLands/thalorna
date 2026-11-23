@@ -1,15 +1,15 @@
 ---
 shortcode: skalforv
-name: {full: Skalforv, en: [Duke Skalforv]}
+name: {full: Skalforv, en: [Jarl Skalforv]}
 type: being
 subType: npc
-description: Duke of a neighboring realm who believes all wilderness should be exploited for profit, named in Svulthira Solvargur.
+description: Jarl of a neighboring kingdom who believes all wilderness should be exploited for profit, named in Svulthira Solvargur.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Duke
+  occupation: Jarl
   lore: []
   culture: nordheimnclt
   homes: []
@@ -42,4 +42,4 @@ Skalforv is a 43-year-old man who stands 5'10" tall with a light build. He has t
 
 # Dossier {#dossier}
 
-Skalforv is the duke of a neighboring realm who believes all wilderness should be exploited for profit. He has contracted poachers to slaughter the rare silver elk. Skalforv is named in [[being-svlthyrslvrgr|Svulthira Solvargur]].
+Skalforv is a jarl of a neighboring kingdom who believes all wilderness should be exploited for profit. He has contracted poachers to slaughter the rare silver elk. Skalforv is named in [[being-svlthyrslvrgr|Svulthira Solvargur]].

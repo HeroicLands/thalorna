@@ -3,6 +3,7 @@ shortcode: vrldrvdrtgr
 name: {full: Vruldorv Drottgar, given: Vruldorv, clan: Drottgar}
 type: being
 subType: character
+description: "A paid watchman of Nalthmark on the Nordheim frontier, a veteran of the northern passes who escorts caravans and looks for a cause greater than the pay."
 tags: [heroes-and-knaves, guilded, soldiery]
 data:
   icon: icon-person
@@ -444,15 +445,15 @@ Vruldorv stands 5'11" tall with a medium build. He has light fair skin, red hair
 
 ### The Boy from Nordheim
 
-Vruldorv was born in the remote northern settlements of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], where the winters are merciless and survival itself is victory. His father, [Inthvir Drottgar]{.name data-type="being/npc"}, was a militia captain; his mother, [Snilthrinna Ironhand]{.name data-type="being/npc"}, kept their small homestead functioning through brutal seasons. At fourteen, following his clan's traditions, Vruldorv began his formal training with the city guard, apprenticed under the stern but capable **Commander [[being-gnurthmyl|Gnurthmil]]**, learning the mechanics of combat and the philosophy of protection—that the warrior's true purpose is to bear the burden of safety so others may live without fear.
+Vruldorv was born in the remote northern settlements of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], where the winters are merciless and survival itself is victory. His father, [Inthvir Drottgar]{.name data-type="being/npc"}, was a militia captain; his mother, [Snilthrinna Jarnvald]{.name data-type="being/npc"}, kept their small homestead functioning through brutal seasons. At fourteen, following his clan's traditions, Vruldorv began his formal training with the frontier watch, apprenticed under the stern but capable **Commander [[being-gnurthmyl|Gnurthmil]]**, learning the mechanics of combat and the philosophy of protection—that the warrior's true purpose is to bear the burden of safety so others may live without fear.
 
 ### The Long Wars
 
-In his early twenties, Vruldorv distinguished himself during the [Frontier Conflicts]{.name data-type="lore"}, defending the northern passes against raiders from the [Wastes]{.name data-type="place/region"}. It was during these campaigns that he received the shoulder scar that nearly killed him—a wound that saw him bedridden for three months, learning the patience required for healing. Upon recovery, he had earned both a reputation for reliability and the recognition that he was no mere soldier but a leader of men. He rose steadily through the ranks of the [Nordheim Mercenaries' Guild]{.name data-type="affiliation/guild"}, commanding caravan protection details and small garrison forces. His specialty became the escort of merchant caravans through treacherous terrain—a role that demanded not only martial prowess but intimate knowledge of geography, of provisioning, and of the careful weighing of risk.
+In his early twenties, Vruldorv distinguished himself during the [Frontier Conflicts]{.name data-type="lore"}, defending the northern passes against raiders from the [Wastes]{.name data-type="place/region"}. It was during these campaigns that he received the shoulder scar that nearly killed him—a wound that saw him bedridden for three months, learning the patience required for healing. Upon recovery, he had earned both a reputation for reliability and the recognition that he was no mere soldier but a leader of men. He rose steadily through the ranks of the paid watchmen of the frontier, commanding caravan protection details and small garrison forces. His specialty became the escort of merchant caravans through treacherous terrain—a role that demanded not only martial prowess but intimate knowledge of geography, of provisioning, and of the careful weighing of risk.
 
 ### The Current Path
 
-Now thirty-four, Vruldorv has stepped back from direct command, preferring the honest work of escort duties. He is respected in the guild, trusted by major trading houses, and regarded as unfailingly reliable. Yet a subtle weariness has settled into his bones—a sense that while he has excelled at protection, he has never discovered what he is meant to protect toward. The endless cycle of caravan runs, the repetition of routes and dangers, the transient nature of merchant relationships—these have begun to feel hollow, despite the steady income and solid reputation.
+Now thirty-four, Vruldorv stands a paid watch on the palisaded yard at [[place-nalthmark|Nalthmark]] and has stepped back from direct command, preferring the honest work of escort duties. He is respected among the paid watchmen, trusted by major trading houses, and regarded as unfailingly reliable. Yet a subtle weariness has settled into his bones—a sense that while he has excelled at protection, he has never discovered what he is meant to protect toward. The endless cycle of caravan runs, the repetition of routes and dangers, the transient nature of merchant relationships—these have begun to feel hollow, despite the steady income and solid reputation.
 
 ## Psyche
 
@@ -481,49 +482,58 @@ Vruldorv seeks meaningful work—a cause or purpose greater than the mere accumu
 - **Emotional Constraint** - His difficulty expressing emotion and forming close personal ties limits his ability to inspire loyalty beyond the obligations of hire
 - **Speed Deficiency** - His considerable strength comes at the cost of agility and quickness, making him vulnerable to faster opponents
 - **Intellectual Limitation** - His reasoning and creative faculties, while adequate, are his weakest attributes, sometimes leaving him at a disadvantage against cunning foes
-- **Caravan Dependency** - His long specialization in escort work has made him somewhat dependent on the merchant houses; life outside the guild would challenge him
+- **Caravan Dependency** - His long specialization in escort work has made him somewhat dependent on the merchant houses; life outside the watch would challenge him
 - **The Warrior's Trap** - His whole notion of himself is built upon martial competence; circumstances that render his combat skills irrelevant would unmoor him
 
 ## Social
 
 ### Patrons
 
-The Nordheim Mercenaries' Guild
-: His official employer and the organization that provides most of his contracts; the guild master, [Arnthor Knalthumak]{.name data-type="being/npc"}, values his reliability and occasionally consults him on matters of planning
+The Watch of Nalthmark
+: His employer and the source of most of his contracts; its captain, [Hlurthorv Knalthumak]{.name data-type="being/npc"}, values his reliability and occasionally consults him on matters of planning
 
-[Merchant House Alderthor]{.name data-type="affiliation/venture"}
-: A prominent trading company that specifically requests Vruldorv for major caravans; their agent, **Lady [[being-hlarthrinna|Hlarthrinna]]**, has developed respect for his workmanlike approach
+[Merchant House Althendik]{.name data-type="affiliation/venture"}
+: A prominent trading company that specifically requests Vruldorv for major caravans; their agent, **[[being-hlarthrinna|Hlarthrinna]]**, has developed respect for his workmanlike approach
 
 Commander Gnurthmil
 : His aging former mentor, now retired from active service, whom Vruldorv visits regularly and whose counsel he seeks on matters of honor and purpose
 
 ### Enemies
 
-Jarl [[being-snalthseldag|Snalthselda Gnarthidrok]]
-: A rival warrior within the guild who views Vruldorv's success as a personal affront and spreads rumors that his reputation is exaggerated; they have not yet come to open conflict
+[[being-snalthseldag|Snalthselda Gnarthidrok]]
+: A rival warrior within the watch who views Vruldorv's success as a personal affront and spreads rumors that his reputation is exaggerated; they have not yet come to open conflict
 
-[The Blackthorn Bandits]{.name data-type="affiliation/criminal"}
+A Band of Mountain Raiders
 : An organized band of mountain raiders whose operations Vruldorv has disrupted multiple times, causing significant losses; they have sworn vengeance against the "Northern Ox"
 
-Merchant Lord [[being-snalthmylthe|Snalthmil the Greedy]]
+The merchant [[being-snalthmylthe|Snalthmil the Greedy]]
 : A crooked trader whose smuggling operations Vruldorv once refused to protect; Snalthmil now uses his considerable wealth to undermine Vruldorv's reputation
 
 ### Affiliations
 
-Nordheim Mercenaries' Guild
-: - His guild and source of contracts
+The Watch of Nalthmark
+: - His watch and source of contracts
 
 [[affiliation-gronverdir|The Green Wardens]]
 : - A loose spiritual fellowship of warriors devoted to protection and the sacred duty of strength in service of others
 
 ## Plot Hooks
 
-1. **The Caravan That Changes Everything** - A prominent merchant approaches Vruldorv with an unusual commission: escort a caravan deep into uncharted territory to establish a new trading post. The route passes through lands where his guild has never ventured, where old maps are unreliable and the local powers are unknown. The promised payment is extraordinary, but the risks are unknown. Vruldorv can break his patterns and venture into true danger, or maintain his safe reputation.
+Beyond the Last Fence
+: A merchant offers Vruldorv extraordinary pay to escort a caravan past [[place-nalthmark|Nalthmark]], where no hersvald's writ runs, to found a trading post in land his watch has never worked. The old maps are unreliable and the local powers are unknown. He can break the habits that keep him safe and take the road, or stay at the palisade and keep to the reputation he has.
 
-2. **The Broken Oath** - A man matching the description of a merchant Vruldorv once failed to protect—someone he believed dead in a bandit attack he couldn't prevent—suddenly appears in a distant town. The man is alive, but bitterness fills his voice; he claims Vruldorv abandoned him for insufficient payment, that the guard captain's failure to pursue bandits deeper was due to mercenary calculations rather than military judgment. Vruldorv must investigate whether he failed this man years ago, and whether his current guilt is justified or manipulated.
+The Hersvald's Silver
+: The hersvald counts silver against four demands, and Nalthmark's pay for holding the line falls short again this season. The watch's captain, Hlurthorv Knalthumak, asks Vruldorv to speak for the watchmen when the hersvald next visits, which is rare. Vruldorv can speak and be known as a complainer, or take the offer of Merchant House Althendik, whose caravans pay better and leave the yard under-watched.
 
-3. **The Rival's Downfall** - Jarl Snalthselda Gnarthidrok is found brutally murdered, and circumstantial evidence points directly at Vruldorv: weapons matching his style, witnesses who swear they saw "the Northern Ox" fleeing the scene. The guild investigates, and Vruldorv must find the true killer while defending himself against guild scrutiny and possible execution. The conspiracy runs deeper than mere rivalry.
+Snalthselda in the Snow
+: Snalthselda Gnarthidrok, a watchwoman of [[place-nalthmark|Nalthmark]] and a rival of Vruldorv's, is found murdered, with weapons matching his style and witnesses who saw "the Northern Ox" flee. The hersvald will call a ting to weigh the charge, and the watch's captain will speak at it. Vruldorv can find the killer while he stands accused, or run and make himself an outlaw.
 
-4. **The Child of the Frontier** - A desperate refugee from the Wastes arrives seeking Vruldorv's protection, claiming to be his illegitimate daughter from a relationship during the Frontier Conflicts. She is gifted with weapons but emotionally broken, seeking guidance and safety Vruldorv isn't sure how to provide. Her arrival complicates his solitary life and forces him to confront his past, while powerful enemies pursue her for reasons she doesn't fully understand.
+The Man Who Lived
+: A man Vruldorv believed killed in a bandit raid he could not prevent appears in a distant town, alive and bitter. He says Vruldorv left him because the pay was not enough. Vruldorv can go to him and learn whether he failed him, which the man would use, or refuse to hear it and keep his belief about that day.
 
-5. **The Guild's Hidden War** - Vruldorv discovers evidence that the Mercenaries' Guild has been secretly hired to eliminate a prominent political figure, contrary to the guild's official charter and codes of honor. The order comes from someone with significant authority within the guild. Vruldorv can expose the corruption from within and risk guild civil war, or maintain silence and compromise the honor that defines his life.
+The Refugee's Claim
+: A refugee from the Wastes asks Vruldorv's protection and says she is his daughter from the Frontier Conflicts. She is gifted with weapons and shaken, and powerful enemies are following her for reasons she does not know. He can take her in and complicate the solitary life he has built, or send her to a hearth that will keep her and live with it.
+
+:::secret {title="What the referee knows"}
+Vruldorv finds that someone with real authority in the watch has been paid to kill a prominent figure, against the watch's own oaths. The order comes from within the watch. He can bring it to the hersvald and risk splitting the watch, or keep silent and break the honor that defines him.
+:::

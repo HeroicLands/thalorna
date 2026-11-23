@@ -27,7 +27,7 @@ The name comes from the deep-winter groan of pack-ice grinding against itself ou
 
 Gnaldurfjord is known throughout Norgaad as a place where the veil between worlds grows thin. A seid, a velva or seeress, keeps a modest stead at the fjord's head, and people from across the kingdom make the pilgrimage to ask her counsel on fate, weather and the will of the gods. She is neither young nor old, neither wholly of this world nor entirely absent from it, and she guards her knowledge jealously. Those who come must be ready to pay, though not always in coin: the price may be services rendered, secrets shared or trials undertaken.
 
-[[being-grosdrnrgd|Groa the Seid of Norgaad]] grew up in the Gnaldurfjord region, in a clan that fished and hunted the sparse lowlands along the fjords.
+[[being-grosdrnrgd|Tvarninda the Seid of Norgaad]] grew up in the Gnaldurfjord region, in a clan that fished and hunted the sparse lowlands along the fjords.
 
 ## Livelihood
 
@@ -48,5 +48,5 @@ Gnaldurfjord is the only place in the north whose boats have crossed the western
 [[affiliation-asguardian|Asguardian Pantheon]]
 : the gods of the north
 
-[[being-grosdrnrgd|Groa the Seid of Norgaad]]
+[[being-grosdrnrgd|Tvarninda the Seid of Norgaad]]
 : a seeress who grew up in the region

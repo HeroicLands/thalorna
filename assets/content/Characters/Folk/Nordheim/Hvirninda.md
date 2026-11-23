@@ -1,15 +1,15 @@
 ---
 shortcode: hvirnynda
-name: {full: Hvirninda, en: [Master Hvirninda]}
+name: {full: Hvirninda}
 type: being
 subType: npc
-description: A wealthy scholar who commissions Hvarnthann Stormrót to sail to the Shattered Archipelago in search of ancient ruins of the Old Kingdom.
+description: A wealthy scholar who pays Hvarnthann Stormrót to sail to the old ruins of the north.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [scholar]
-  occupation: Master
+  occupation: Scholar
   lore: []
   culture: nordheimnclt
   homes: []
@@ -42,4 +42,4 @@ Hvirninda is a 48-year-old woman who stands 5'7" tall with a medium build. She h
 
 # Dossier {#dossier}
 
-Hvirninda is a wealthy scholar who commissions [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] to sail to the [Shattered Archipelago]{.name data-type="place/feature"} in search of ancient ruins of the [Old Kingdom]{.name data-type="affiliation/polity"}. She is willing to pay extraordinary sums for the voyage.
+Hvirninda is a wealthy scholar who pays [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] extraordinary sums for a voyage to the old ruins of the north, and counts on him to find the way.

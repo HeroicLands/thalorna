@@ -1,15 +1,15 @@
 ---
 shortcode: gnuldurthyra
-name: {full: Gnuldurthira, en: [Priest Gnuldurthira]}
+name: {full: Gnuldurthira, en: [Gudja Gnuldurthira]}
 type: being
 subType: npc
-description: A priest of Frodvin's Temple who has taken an interest in Svulthira Solvargur.
+description: A gudja of the hov of Frodvin who has taken an interest in Svulthira Solvargur.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [cleric]
-  occupation: Priest
+  occupation: Gudja
   lore: []
   culture: nordheimnclt
   homes: []
@@ -42,4 +42,4 @@ Gnuldurthira is an 18-year-old woman who stands 5'6" tall with a medium build. S
 
 # Dossier {#dossier}
 
-Gnuldurthira is a priest of [Frodvin's Temple]{.name data-type="place/structure"} who has taken an interest in [[being-svlthyrslvrgr|Svulthira Solvargur]]. She takes an interest in Svulthira's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings.
+Gnuldurthira is a gudja of the hov of [[affiliation-frodvin|Frodvin]] who has taken an interest in [[being-svlthyrslvrgr|Svulthira Solvargur]]. She takes an interest in Svulthira's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings.

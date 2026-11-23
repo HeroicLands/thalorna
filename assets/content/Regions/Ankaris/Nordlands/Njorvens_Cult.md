@@ -43,7 +43,7 @@ Njorven was overthrown long ago—by Thrunvald, according to the tellings—and 
 
 ## How It Spreads
 
-As Njorven's influence grows, some coastal clans begin to abandon the [[affiliation-thrunvald|Faith of Thrunvald]], whose god is said to have vanquished the Sea Wraith, and turn to the sea spirit instead. The cult is an active faction, not a background color. Its cultists work to undermine [[being-grosdrnrgd|Groa the Seid of Norgaad]]'s efforts and spread chaos along the coast, and exposing and dismantling the cult, while persuading the people to resist Njorven's allure, is part of what her campaign asks of her.
+As Njorven's influence grows, some coastal clans begin to abandon the [[affiliation-thrunvald|Faith of Thrunvald]], whose god is said to have vanquished the Sea Wraith, and turn to the sea spirit instead. The cult is an active faction, not a background color. Its cultists work to undermine [[being-grosdrnrgd|Tvarninda the Seid of Norgaad]]'s efforts and spread chaos along the coast, and exposing and dismantling the cult, while persuading the people to resist Njorven's allure, is part of what her campaign asks of her.
 
 ## What Its Own Tellings Say
 
@@ -57,5 +57,5 @@ The cult's tellings of its god are the most confident anyone gathers and the lea
 [[lore-njordurritlbinding|The Ritual of Binding]]
 : the rite the cult stands against
 
-[[scenario-groascmpgn|Groa's Campaign]]
+[[scenario-groascmpgn|Tvarninda's Campaign]]
 : the campaign in which the cult is an active faction

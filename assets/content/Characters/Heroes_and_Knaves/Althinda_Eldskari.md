@@ -3,6 +3,7 @@ shortcode: althyndeldskr
 name: {full: Althinda Eldskari, given: Althinda, clan: Eldskari}
 type: being
 subType: character
+description: "A chandler of Hnarvdal in Vithgard, a follower of Frodvin who makes candles that are both useful and beautiful and supplies the valley with light through the polar night."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -450,7 +451,7 @@ Born in 691 to a modest family in [[place-vithgard|Vithgard]]'s timber country, 
 
 ### The Venture into Independence
 
-Three years ago, following her mother's retirement, Althinda took control of the family chandlery and began transforming it from a simple functional workshop into something far more ambitious. She developed distinctive styles blending practical illumination with real artistic merit—candles with embedded botanical elements, subtle color gradations achieved through careful wax layering, and scents that complemented the spiritual purposes for which candles were purchased. Her work attracted notice from temple clergy, who began commissioning candles for significant religious observances. Local nobility discovered her creations, and her reputation began to grow.
+Three years ago, following her mother's retirement, Althinda took control of the family chandlery in the valley of [[place-hnarvdal|Hnarvdal]], where her tallow lights carry the settlement through the polar night, and began transforming it from a simple functional workshop into something far more ambitious. She developed distinctive styles blending practical illumination with real artistic merit—candles with embedded botanical elements, subtle color gradations achieved through careful wax layering, and scents that complemented the spiritual purposes for which candles were purchased. Her work attracted notice from temple clergy, who began commissioning candles for significant religious observances. Local nobility discovered her creations, and her reputation began to grow.
 
 ### The Current Struggle
 
@@ -517,29 +518,29 @@ Physical Frailty
 Priestess [Skraldthira]{.name data-type="being/npc"}
 : High priestess of the temple of the [[affiliation-frodvin|Faith of Frodvin]] who has commissioned multiple candle sets for significant religious observances; she actively promotes Althinda's work and has provided spiritual guidance alongside patronage.
 
-Master Craftsman [Vraldvir]{.name data-type="being/npc"}
+The craftsman [Vraldvir]{.name data-type="being/npc"}
 : A respected woodworker and fellow member of the artisan community who has become something of an informal adviser in trade; he provides practical guidance while respecting her artistic vision.
 
 The Widow [[being-hvurnrinna|Hvurnrinna]]
 : An elderly woman of considerable means who has adopted Althinda as something of a spiritual protégé; she has purchased candles regularly and has begun subtly promoting Althinda's work to her social circle.
 
-Lord [[being-hlirthmyl|Hlirthmil]]
+[[being-hlirthmyl|Hlirthmil]]
 : A minor nobleman who discovered Althinda's candles and has begun commissioning elaborate custom orders; his patronage provides crucial steady custom and social standing.
 
 ### Enemies
 
-Master Chandler [Draskorv]{.name data-type="being/npc"}
+The chandler [Draskorv]{.name data-type="being/npc"}
 : An established chandler of twenty years' standing who views Althinda's new methods and rising reputation as threatening to his business; he has begun undercutting her prices and spreading rumors about the quality of her work.
 
-[The Guild of Established Crafts]{.name data-type="affiliation/guild"}
-: The formal guild, while not directly opposed to Althinda, maintains standards and requirements that effectively exclude her; their members view her as an outsider and resist her attempts to join their organization.
+The Established Chandlers
+: The older chandlers and their customers, while not directly opposed to Althinda, keep standards and habits that effectively exclude her; they view her as an outsider and resist her attempts to join their circle.
 
 Merchant [Dunred]{.name data-type="being/npc"}
 : A supplier and dealer who sees Althinda's inexperience as opportunity; he has deliberately sold her substandard materials at inflated prices and encourages her poor business decisions that benefit his interests.
 
 ### Affiliations
 
-[The Artisan's Collective]{.name data-type="affiliation"}
+A Circle of Craftspeople
 : An informal association of craftspeople—weavers, woodworkers, metalcrafters—who meet periodically to discuss craft, techniques, and challenges; Althinda is a recent and tentative member.
 
 [Frodvin's Grove]{.name data-type="affiliation"}
@@ -547,14 +548,18 @@ Merchant [Dunred]{.name data-type="being/npc"}
 
 ## Plot Hooks
 
-The Commission of Impossible Beauty
-: A stranger arrives in the city offering an enormous commission—extraordinary compensation for a single, massive candle to be created according to highly specific (and unusual) requirements: specific herbs, specific color gradations, and specific symbolic elements that suggest esoteric knowledge. The stranger's appearance is peculiar, their questions oddly probing, and their manner of payment unusual. As Althinda works on the commission, she discovers that the specifications align with descriptions of ritual magic components. The stranger is increasingly secretive, the deadline increasingly urgent, and Althinda becomes convinced she is being commissioned to create something intended for magical purposes. The commission could provide financial security, but potentially at cost of spiritual integrity and possible danger.
+The Lights for the Notch
+: The elders of [[place-hnarvdal|Hnarvdal]] ask Althinda to light the reckoning-post through the dark months, and the notch cut at midwinter is the one thing the valley trusts to say when the night ends. Her tallow runs short, and the merchant who supplies it has been selling her poor stock at a high price. She can pay him and light the post with poor tallow, buy from the rival chandler who undercuts her, or spend the beeswax she keeps for her best work.
 
-The Corrupted Craft
-: Althinda begins to notice subtle symptoms in her work—finished candles that burn irregularly, colors that fail to match her intentions, scents that become malodorous without cause. Initially she attributes this to bad materials, but deeper investigation suggests something worse: someone may be deliberately sabotaging her materials or her process. She begins to suspect Merchant Dunred, her unscrupulous supplier, but investigation reveals the interference originates elsewhere—possibly from Master Chandler Draskorv, or even from someone within her own workshop. The sabotage threatens to destroy her reputation and her fragile business, and Althinda must discover the culprit and determine whether the motive is mere rivalry in trade or something darker.
+Hlirthmil's Order
+: [[being-hlirthmyl|Hlirthmil]] commissions a set of elaborate custom candles for a feast at midwinter, enough to pay her debts. It is the same week the valley needs her tallow. She cannot make both in the hours the dark gives her. She can take the lord's silver and leave the valley dim, hold the valley's lights and risk his patronage, or hire hands she cannot afford.
 
-The Unexpected Inheritance
-: An elderly distant relative whom Althinda has never met dies and inexplicably leaves her a substantial sum of money and a workshop facility in a different city. The inheritance comes with a condition: Althinda must travel to claim it and work the family workshop for a minimum of one year. The opportunity is too significant to refuse, yet it would require abandoning her established practice and spiritual community. When she arrives at the inherited workshop, she discovers it is in significantly worse condition than represented, comes with mysterious arrangements from the previous tenant that she must untangle, and is located in a trading town hostile to her artistic approach. The year-long commitment will show whether her art can thrive in different circumstances and whether she is ready to truly establish herself as a significant artisan rather than remaining a local craftsperson.
+The Sanctuary That Will Not Stay Lit
+: Priestess Skraldthira tells Althinda in confidence that candles and lamps in the temple's main sanctuary burn badly during services. Althinda knows her own wax is among those used there. She can admit her candles may be at fault and risk the priestess's patronage, or say the sanctuary is the problem and risk being wrong.
 
-The Temple's Desperate Request
-: Priestess Skraldthira approaches Althinda with a confidential request: the temple's primary sanctuary has been struck by curse or malevolent magic, and candles and light sources consistently fail or burn incorrectly within it, disrupting religious services. Skraldthira believes that Althinda's spiritually authentic candles might possess the capacity to counteract the curse, but creating such candles would require Althinda to develop new techniques, possibly study spiritual practices beyond her current knowledge, and work in collaboration with priestesses versed in theological magic. The project would be immensely prestigious and spiritually significant, but would also expose Althinda to forces and knowledge she does not fully understand, require her to work at the limits of her capacity, and potentially put her at risk if she becomes entangled in temple politics and spiritual conflicts.
+Draskorv's Rumor
+: The chandler Draskorv tells the valley that Althinda's candles burn short and smoke. The rumor reaches the elders at the reckoning-post before she hears it. She can answer him publicly with a trial of the two chandlers' candles, which a nervous woman would rather avoid, or let the rumor stand and trust the valley's winter to prove it wrong.
+
+:::secret {title="What the referee knows"}
+Her finished candles burn irregularly, their colors fail, and their scents turn rank for no reason she can find. Someone is spoiling her stock at night. The referee chooses whether it is Dunred, Draskorv or the same hand that has fouled the temple's sanctuary, and what that person wants.
+:::

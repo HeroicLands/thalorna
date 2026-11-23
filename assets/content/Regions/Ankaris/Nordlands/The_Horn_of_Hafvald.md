@@ -2,7 +2,7 @@
 shortcode: hornnjordur
 name: {full: The Horn of Hafvald}
 type: miscgear
-description: "One of the three regalia of Groa's quest—the horn of an older sea-power, whose name unsettlingly resembles that of the wraith it is needed to bind."
+description: "One of the three regalia of Tvarninda's quest—the horn of an older sea-power, whose name unsettlingly resembles that of the wraith it is needed to bind."
 tags: [artifact, regalia, nordlands]
 data: {kind: miscgear, templatePriority: null, packFolder: nordlands}
 sohl: {system: {weightBase: 2, valueBase: 0, durabilityBase: 12}}
@@ -28,9 +28,9 @@ younger the first time. Some make them kin. A few, told quietly and not in halls
 thing under two names, which would raise an obvious and unwelcome question about what the Ritual of
 Binding actually invokes.
 
-[[being-grosdrnrgd|Groa]] has been advised not to pursue this question until after the sealing.
+[[being-grosdrnrgd|Tvarninda]] has been advised not to pursue this question until after the sealing.
 
 ## See Also
 
-- [[scenario-groascmpgn|Groa's Campaign]] · [[being-njorven|Njorven]]
+- [[scenario-groascmpgn|Tvarninda's Campaign]] · [[being-njorven|Njorven]]
 - [[lore-njordurritlbinding|The Ritual of Binding]]

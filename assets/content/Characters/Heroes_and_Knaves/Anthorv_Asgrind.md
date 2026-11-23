@@ -3,6 +3,7 @@ shortcode: anthrvasgrnd
 name: {full: Anthorv Asgrind, given: Anthorv, clan: Asgrind}
 type: being
 subType: character
+description: "A jester at the hall of King Braldmil II at Tvalgard in Targud, a performer's son who speaks hard truths in jest and cheers the levy that stands its weeks on the frontier wall."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -476,7 +477,7 @@ Anthorv stands 6'0" tall with a medium build. He has light weathered skin, grayi
 
 # Dossier {#dossier}
 
-**Humble Beginnings:** Anthorv was born fifty winters ago in the common quarters of [[place-targud|Targud]]'s capital, the son of a street performer and a tavern keeper. From childhood, he was immersed in performance—his mother taught him to read crowds, his father to move with confidence, and the streets themselves taught him timing and ruthlessness. While other children learned trades, Anthorv learned the subtle art of making people see what he wanted them to see, feel what he wanted them to feel, and spend what they otherwise intended to keep.
+**Humble Beginnings:** Anthorv was born fifty winters ago in the common quarters of [[place-tvalgard|Tvalgard]], the seat of [[place-targud|Targud]]'s kings, the son of a street performer and a tavern keeper. From childhood, he was immersed in performance—his mother taught him to read crowds, his father to move with confidence, and the streets themselves taught him timing and ruthlessness. While other children learned trades, Anthorv learned the subtle art of making people see what he wanted them to see, feel what he wanted them to feel, and spend what they otherwise intended to keep.
 
 **Rise to Prominence:** He first gained notice at twenty-three, when his elaborate performance sequence at the [Festival of Solrún]{.name data-type="lore/gathering"} so delighted King [Skruldmil III]{.name data-type="being/npc"} that he was invited to the royal court as a permanent jester. For more than a quarter-century, he has remained the primary court entertainer, surviving the reigns of three monarchs through an uncanny ability to understand what each ruler needed from him—to Skruldmil, he was a witty observer of folly; to his successor [Thraldvir]{.name data-type="being/npc"}, a trusted confidant hidden in plain sight; to the current King [Braldmil II]{.name data-type="being/npc"}, he is an occasionally dangerous reminder of inconvenient truths wrapped in humor.
 
@@ -541,7 +542,7 @@ Aging Jester Syndrome
 King Braldmil II
 : The current monarch of [[affiliation-kingdmtrgd|Targud]], who values Anthorv's ability to speak uncomfortable truths while maintaining plausible deniability. Braldmil has publicly denied ever taking the jester's advice, but privately relies on his insights.
 
-Lady [[being-tvirnrinnadv|Tvirnrinna Dvarnaruk]], Court Mistress
+[[being-tvirnrinnadv|Tvirnrinna Dvarnaruk]], Court Mistress
 : The wife of a powerful noble and one of the few people with whom Anthorv maintains something approaching true friendship; she values his honesty disguised as mockery.
 
 The Innkeeper [Hvilgvir]{.name data-type="being/npc"}
@@ -549,11 +550,11 @@ The Innkeeper [Hvilgvir]{.name data-type="being/npc"}
 
 ### Enemies
 
-Lord [[being-knirvthannth|Knirvthann Thulmaruk]], Duke of the [Southern Marches]{.name data-type="place/region"}
+Jarl [[being-knirvthannth|Knirvthann Thulmaruk]] of the southern holdings
 : A nobleman whose secret ambitions Anthorv publicly mocked through elaborate theatrical sequences that were obviously directed at him. Thulmaruk has sworn vengeance, though he dare not move openly against the king's favored jester.
 
 [[affiliation-wazulu|The Wazulu]]
-: Religious conservatives who believe jesters are agents of demoralization and have lobbied the church to declare his performances blasphemous. While they lack the power to end his position, they make his life difficult.
+: Religious conservatives who believe jesters are agents of demoralization and have lobbied the hovs to declare his performances blasphemous. While they lack the power to end his position, they make his life difficult.
 
 His own reflection, an inner enemy
 : The tragic figure Anthorv most opposes is himself—his cynicism, his fear of closeness, and his slowly weakening ability to maintain the performance that defines him.
@@ -563,22 +564,23 @@ His own reflection, an inner enemy
 None formal
 : Anthorv maintains independence from official guilds and organizations, preferring to be beholden to no one but the king.
 
-[The Performers' Underground]{.name data-type="affiliation"} (unofficial)
+The Wandering Players (unofficial)
 : He maintains loose connections with other entertainers, acrobats, and performers throughout the realm, creating an informal intelligence network.
 
 ## Plot Hooks
 
-The Jester's Final Riddle
-: An elderly jester from a foreign court arrives in Targud, claiming to have known Anthorv's father (a claim Anthorv has long denied). The visitor claims to possess information about Anthorv's origins that would fundamentally change his understanding of himself. Anthorv finds himself unable to dismiss the claim through humor, and recruits adventurers to investigate the truth. What begins as a search for biographical information transforms into a quest touching on magic, prophecy, and the possibility that Anthorv's entire life has been shaped by forces beyond his understanding.
+The Joke Before the Wall
+: At the autumn rotation a frightened levy gathers at [[place-tvalgard|Tvalgard]] to stand its weeks on the wall, and Anthorv is asked to make it laugh. The best joke available is aimed at Jarl Knirvthann Thulmaruk, whose men are among the muster and who has sworn vengeance. A different joke is safe and does not break the fear. He can aim at the jarl and risk the king's protection, or tell the safe one and let the muster go up to the wall afraid.
 
-The Courtier's Conspiracy
-: Anthorv discovers evidence that a faction of nobles is plotting against King Braldmil II. His usual methods—subtle public mockery and private suggestions—are insufficient to stop the conspiracy directly. He must recruit adventurers to gather proof, sabotage the plotters' preparations, and ultimately protect the king without revealing the conspiracy publicly (which would damage the crown). One of the conspirators is someone Anthorv cares for, which leaves him facing a real moral problem rather than a cynical calculation.
+The Conspiracy at the Table
+: Anthorv finds evidence that a faction of nobles is plotting against King Braldmil II. His usual means, mockery in public and counsel in private, will not stop it. The king has publicly denied taking his advice. He can bring proof to the king and show how much he knows, work through the Wandering Players to gather more, or leave it to the ting.
 
-The Traveling Show
-: Anthorv grows restless with the court and decides to tour the kingdom with a traveling theatrical troupe he recruits adventurers to protect. As they move from town to town, they discover that performances he creates inadvertently inspire peasants to rebellion against oppressive local lords. Anthorv can continue the performances knowing they have revolutionary consequences, or abandon the most authentic work he has engaged in for decades.
+The Old Jester's Riddle
+: An elderly jester from a foreign court arrives in Targud and says he knew Anthorv's father, whose existence Anthorv has long denied. The visitor claims information about Anthorv's origins that would change how he sees himself. Anthorv can hear it in the private room at the Silver Wyvern, where Hvilgvir will leave him alone, or turn the visitor away.
 
-The Prophet in Motley
-: Anthorv begins experiencing dreams of true prophetic clarity—visions of future disasters, disasters that can be prevented but only if he reveals knowledge he should not possess. Fighting against his cynical nature, he slowly accepts that something real—magic, destiny, divine will—is breaking through his carefully constructed irony. He recruits adventurers to help prevent the catastrophes while avoiding revealing that a jester is the source of the intelligence.
+The Wazulu Petition
+: The Wazulu ask the hovs to declare Anthorv's performances blasphemous, and a hearing is set. The king will not stand for the jester openly. Anthorv can perform at the hearing and risk the verdict, or let Tvirnrinna Dvarnaruk speak for him and owe her.
 
-The Mask Remembers
-: A mysterious figure from Anthorv's past emerges from hiding—someone he once loved but was forced to abandon because of his position at court. This person has not aged as they should have, suggesting magical preservation or intervention. Their return forces Anthorv to confront what he sacrificed to maintain his position and to consider whether he has been a fool in the most tragic sense. The person needs his help with something dangerous and morally complicated, and Anthorv must find the line between the jester who can speak uncomfortable truths and the man who has spent fifty years avoiding the truth about himself.
+:::secret {title="What the referee knows"}
+Anthorv begins to have dreams of real prophetic clarity, of disasters that could be prevented only if he reveals knowledge he should not have. Against his cynicism he slowly accepts that something real is speaking through him. Someone he once loved and was forced to abandon at court also emerges from hiding, and has not aged as they should. Their return forces him to face what he left behind.
+:::
