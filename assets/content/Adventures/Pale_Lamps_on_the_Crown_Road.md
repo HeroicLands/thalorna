@@ -7,7 +7,7 @@ description: A line of pale lamps lights the old Crown Road at dusk to a relay h
 tags: []
 data:
   parents: []
-  locations: [wenlornestage, dunmere, thornwold, fernbank]
+  locations: [wenlornestage, dunmere, thornwold, fernbank, threndale]
   cast: [wenlornereeve, damut, mirlatssm]
   factions: [kngdmldrth, vrgldhld]
   follows: []
@@ -23,7 +23,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 ## Hooks {#hooks}
 
-- **The thief.** An unsigned note left for the party at an inn in Dunmere offers a purse for the crown strongbox the old reeves kept. It encloses a copy of the stage's plan from a surveyor's book and says the box is under the tower.
+- **The thief.** An unsigned note left for the party at an inn in Dunmere offers a purse for the crown strongbox the old reeves kept, paid to whoever leaves the box with the innkeeper. It encloses a copy of the stage's plan from a surveyor's book and says the box is under the tower.
 - **The mercenary or common soldier.** A notice of the king's foresters at the market cross in Dunmere offers a purse to hired men who find the ninth patrol, which took the old road in the autumn and did not return. The foresters cannot spare their own.
 - **The leader.** [[being-mirlatssm|Mirla Tessem]], Keeper of the Dead of [[lore-vardain|the Vardain]] at [[place-threndale|Threndale]] in the valleys below [[place-ironfells|the Ironfells]], wants the stage's ledger. The [[lore-khazariclt|Khazari]] say it carries a list of the Vardain who passed the gate in the last year of the war, and she wants every name on it kept at Threndale with the valleys' dead.
 - **The lone wanderer.** The wanderer is caught on the old road at dusk, with the forest dark on either side and a line of pale lamps showing the way.

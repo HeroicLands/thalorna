@@ -44,3 +44,4 @@ The Keeper of the Dead, [[being-mirlatssm|Mirla Tessem]], is one of the last Var
 ## See Also {#see-also}
 
 - [[place-vardainvalleys|The Vardain Valleys]] · [[lore-vardain|the Vardain]]
+- [[scenario-lampswenlorne|Pale Lamps on the Crown Road]]

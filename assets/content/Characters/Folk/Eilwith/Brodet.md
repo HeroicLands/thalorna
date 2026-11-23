@@ -25,7 +25,7 @@ data:
   appearance:
     eye_color: null
     hair_color: null
-    skin_color: pale
+    skin_color: null
     complexion: []
     extra_features: []
   packFolder: aureldiaaelwyth
