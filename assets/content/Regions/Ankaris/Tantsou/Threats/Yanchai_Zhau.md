@@ -3,7 +3,7 @@ shortcode: yanchaizhao
 name: {full: Yanchai Zhau}
 type: affiliation
 subType: lineage
-description: "A once-great noble house of Tantsou, brought low in the Jade Fan Dance and now staked by its new head on a secret alliance with the Black Lotus Society."
+description: "A once-great noble house of Tantsou, brought low in the Jade Fan Dance, whose new head has vowed to restore it by any means that work."
 data:
   culture: tantsouclt
   templatePriority: null
@@ -76,19 +76,27 @@ sohl: {system: {commonSkills: [tantsoulng]}}
 
 The Yanchai Zhau, the House of the Clouded Mountain, is a lesson the court of the [[affiliation-tantsouempr|Empire of Tantsou]] teaches its sons about the [[lore-weizhairui|Wei Zhai Rwi]]: a house that was once a pillar of the empire and is now one bad season from ruin, and whose new head has decided that the honorable road back is too slow to take. Its name is still spoken with the old respect in the provinces. At court it is spoken with a glance toward the door.
 
-## The Decline
+## The New Head's Gamble {#present}
 
-The house was formidable in the Jade Fan Dance for generations, and it lost its standing the way houses do: a previous head, incompetent at the game and slow to know it, let the house's petitions be redirected and its allies bought, and the house's reputation went with its influence. Its ancestor altar is still well provisioned and its lands are intact, and neither counts for much in a court that measures a house by what it can make happen.
+The present head, [Wengzhwo Zhoja]{.name data-type="being/npc"} ("Wind-Summoning Dragon Spear"), has vowed to restore the house by any means that work, and he has no patience for the slow accumulation of favors the traditional road requires.
 
-## The New Head's Gamble
+:::secret {title="The alliance with the Black Lotus"}
+He has made a secret alliance with the [[affiliation-haluozhao|Ha Lwo Zhau]] (the Black Lotus Society), whose trade is forged tablets, bought omens and the starving of rivals' ancestors, and he has not told most of his own council. The senior kin who know of it call it reckless and dishonorable.
+:::
 
-The present head, [Wengzhwo Zhoja]{.name data-type="being/npc"} ("Wind-Summoning Dragon Spear"), has vowed to restore the house by any means that work, and he has no patience for the slow accumulation of favors the traditional road requires. He has made a secret alliance with the [[affiliation-haluozhao|Ha Lwo Zhau]] (the Black Lotus Society), whose trade is forged tablets, bought omens and the starving of rivals' ancestors, and he has not told most of his own council.
-
-The alliance has split the house. The senior kin who know of it call it reckless and dishonorable, and the kin who do not know of it have noticed that their head keeps company he will not name, and the suspicion between the two halves of the council is itself a weakness any player of the Dance can use.
+The house is split. Some of its kin have noticed that their head keeps company he will not name, and the suspicion between the two halves of the council is itself a weakness any player of the Dance can use.
 
 ## What Failure Costs
 
-If the gamble fails, the house's remaining influence evaporates and its enemies finish it. If the alliance is exposed, the law does: the Black Lotus connection is treason under the [Teng Lou]{.name data-type="lore/law"} (see [[lore-tseising|Tseising]]), and exposure means execution for the head and his confidants, confiscation of the house's lands, and a debit on its ancestral ledger that its dead will be paying for generations. The Society loses too, since imperial scrutiny of one of its noble patrons reaches its other operations, and that shared exposure is the only thing keeping the alliance honest.
+If the gamble fails, the house's remaining influence evaporates and its enemies finish it.
+
+:::secret {title="If the alliance is exposed"}
+If the alliance is exposed, the law finishes the house: the Black Lotus connection is treason under the [Teng Lou]{.name data-type="lore/law"} (see [[lore-tseising|Tseising]]), and exposure means execution for the head and his confidants, confiscation of the house's lands, and a debit on its ancestral ledger that its dead pay for generations. The Society loses too, since imperial scrutiny of one of its noble patrons reaches its other operations, and that shared exposure is the only thing keeping the alliance honest.
+:::
+
+## History as Told {#history}
+
+The house was formidable in the Jade Fan Dance for generations, and it lost its standing the way houses do: a previous head, incompetent at the game and slow to know it, let the house's petitions be redirected and its allies bought, and the house's reputation went with its influence. Its ancestor altar is still well provisioned and its lands are intact, and neither counts for much in a court that measures a house by what it can make happen.
 
 ## See Also {#see-also}
 
@@ -96,7 +104,7 @@ If the gamble fails, the house's remaining influence evaporates and its enemies 
 : the political game that brought the house low
 
 [[affiliation-haluozhao|Black Lotus Society]]
-: the ally the house has staked itself on
+: the criminal society of forged tablets and bought omens
 
 [[being-tuijawengyan|Tuija Wengyan]]
 : another threat to the empire from within
