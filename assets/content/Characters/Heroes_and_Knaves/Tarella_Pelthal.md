@@ -25,6 +25,7 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [clear]
+    nose: narrow
     extra_features: []
   packFolder: aureldiaelavendre
   items:

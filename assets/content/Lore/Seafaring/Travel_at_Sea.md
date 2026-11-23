@@ -34,7 +34,7 @@ A voyage is planned a day at a time, and how far a ship gets in a day is left to
 
 ## Conditions
 
-The tables describe calm open water, a usable wind and a skilled crew. Contrary currents, storms and heavy seas change a day's run at the table, and the players and the Game Master decide by how much. The tables give no figures for them.
+The tables describe smooth open water, a usable wind and a skilled crew. Contrary currents, storms and heavy seas change a day's run at the table, and the players and the Game Master decide by how much. The tables give no figures for them.
 
 ## How the Sailing Table Is Chosen
 

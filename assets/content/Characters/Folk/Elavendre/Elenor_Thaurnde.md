@@ -29,6 +29,7 @@ data:
     hair_color: chestnut
     skin_color: fair
     complexion: [smooth]
+    hair_style: cropped
     extra_features: [a notched left ear]
   packFolder: aureldiaelavendre
 ---

@@ -30,6 +30,7 @@ data:
     hair_color: silver
     skin_color: pale
     complexion: [smooth, wrinkled]
+    hair_style: knotted
     extra_features: [very long, steady fingers]
   packFolder: aureldiaelavendre
 ---

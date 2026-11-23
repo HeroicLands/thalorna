@@ -17,7 +17,7 @@ data:
 
 ## The Unseen King of the Spotted Court
 
-A sorcerer-leader in the forest is said to take the leopard's shape, and the tribes around him bring him gifts out of fear. The party must enter [[place-lpdkngcrt|the Leopard King's Court]], survive its hospitality, and learn what the gifts buy. The [Leopard King]{.name data-type="being/npc"}'s secret is a cost, not a triumph, and the Court that keeps it is holding back something worse than itself.
+A sorcerer-leader in the forest is said to take the leopard's shape, and the tribes around him bring him gifts out of fear. The party must enter [[place-lpdkngcrt|the Leopard King's Court]], survive its hospitality, and learn what the gifts buy. [[being-lpdkngldr|The Leopard King]]'s secret is a cost, not a triumph, and the Court that keeps it is holding back something worse than itself.
 
 ### Hook
 
@@ -48,7 +48,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 - _Guile:_ join the caravan as porters, wearing its markings.
 - _Parley:_ meet the Guard openly with a gift. A Sengala token or an offered bargain in the name of the [[lore-leopardsengalaspr|Leopard Spirit]], the leopard-guide, is received.
 
-**Clues and rewards.** The caravan's headwoman mutters that the King has not been seen by the gift-bearers in two seasons, only the Speaker. The bundles are tied with knotted cords.
+**Clues and rewards.** The caravan's headwoman mutters that the King has not been seen by the gift-bearers in two seasons, only [[being-dagbekpalula|Dagbe Kpalula]], the Speaker. The bundles are tied with knotted cords.
 
 **Consequences.** Arriving as a porter makes the party a ward of the caravan, and its people owe them hospitality. Arriving by force makes them enemies of the Guard.
 
@@ -63,7 +63,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 **NPCs and threats.**
 
 - **The Speaker.** A calm, gray-haired woman in a plain cloak, who speaks with open hands and gives the King's judgments in his name. She is intelligent, careful and tired. She does not lie, but she chooses what to say. She tests the party's honesty with small questions.
-- [Red-Spear]{.name data-type="being/npc"}. The Court's war-leader, a young man with a red-painted spear and a dangerous smile, who wants the King to rule openly and thinks the Speaker is hiding something. He seeks allies among visitors.
+- [[being-ndokokpalula|Ndoko Kpalula]], called Red-Spear. The Court's war-leader, a young man with a red-painted spear and a dangerous smile, who wants the King to rule openly and thinks the Speaker is hiding something. He seeks allies among visitors.
 - **The delegations.** The honey-gatherers want to send less than they did. The river-folk want iron. A mute envoy from a deep-forest people brings a carved pole and will not say why.
 
 **Player choices.**
