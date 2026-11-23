@@ -12,6 +12,7 @@ data:
   borders:
     - {to: tantsouregin, bearing: W}
     - {to: jenchairgn, bearing: E}
+    - {to: rojai, bearing: E}
     - {to: surtasamdra, bearing: S}
   routes:
     - {to: tantsouregin, bearing: W, mode: ship, days: 1, terrain: [open-sea]}
