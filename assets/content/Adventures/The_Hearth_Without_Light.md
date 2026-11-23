@@ -15,13 +15,13 @@ data:
   packFolder: adventures
 ---
 
-## The Hearth Without Light
+## Overview {#overview}
 
 On the grazing lands east of [[place-zarhanis|The First Flame]] (Zarhanis) stands a ruined temple estate that the clans avoid and the temple does not name. A fire burns beneath its granary that gives no light, and the cattle that stray near it come out as ash on four legs. The party goes in for gold, for a hire, for a captain's order or for a herd, and finds that the wrong done at [[place-shuremis|The Ash-Fold]] (Shuremis) is older than the fire, and that the fire is only the wrong's answer.
 
 Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [[lore-okharinclt|Okharik]]: the Flame renews only what is given to it, a person put out of the Flame is a shurem, and the worst a family can say of a grazing right is that it was yielded once.
 
-### The Truth Behind the Ash
+## What Is Really Happening {#what-is-really-happening}
 
 **What happened.** In a famine year the temple of Zarhanis held the estate of Shuremis, with grain in its pits and a yard of bondsmen. Those who had declined the Flame, and taken up other gods or none, were gathered into the yard as shurem, and when the stores ran short the order came to seal the pens beneath the granary with the shurem inside. The Granary-Keeper's office of that year sealed them. One ordained priest of Zarhanis, sent to witness the closing, lit a three-wick lamp at the granary niche and went down with them. The estate was struck from the rolls the next season.
 
@@ -29,12 +29,14 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 
 **What is true.** The ash has no descent from the [[miscgear-emberfirst|First Ember]] and no one to give it back. Those who died in the pens died with no ashmark, no hearth and no name spoken. [[lore-theshadow|The Shadow]] fills the gaps, and the voice Talitho hears is the dead wearing the Shadow's mouth. The fire takes whatever it is fed and renews none of it. Talitho is cold to the bone and gray to the wrist and cannot tell it. The living shurem of the yard are the descendants of those sealed in the pens, and they are afraid of the fire and fed by it.
 
-### Hooks
+## Hooks {#hooks}
 
 - **The thief.** The drovers on the herders' track tell of the estate's tribute-chest, lost when Shuremis was struck from the rolls, and say the temple would pay quietly to have it returned.
 - **The soldier.** A character posted with the warriors of [[place-vuthraka|The Wild Flame]] to watch a clan's cattle-ground has seen lights in the pens and a herd that moves in step. The captain orders the watch kept and sends no more men.
 - **The leader.** [Ndumbo]{.name data-type="being/npc"}, a chieftain of a herding clan, has lost the best of his herd to the ground and fears what the moot will say of his clan's neglect. His herders, each an [[being-okharikhrdr|Okharik Herder]], carry his offer to strangers on the track: grazing and a seat at his fire for the matter closed.
 - **The wanderer.** A character who walks [[affiliation-yenorzhrng|the Spirit Path]], or who has slept beside a cairn of the grazing, has been told by a cairn to go to the ruin and told nothing else, and cannot say why.
+
+## Scenes {#scenes}
 
 ### Scene One: The Cattle-Ground
 
@@ -158,15 +160,18 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 
 **If bypassed.** A party that never reaches the pens leaves the wrong in its grave and the fire fed. The yard brings a second party within a season.
 
-### Aftermath
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+- **The party bypassed Shuremis.** The cattle-ground widens. A clan loses a valley, and the moot hears of it as neglect.
+
+## Aftermath {#aftermath}
 
 - **The names read, the ashmark set.** The fire sinks to ordinary ash and is still. Talitho, if he lives, is cold for a season and then warm. The yard buries its dead at the cairn with proper rites, and Kwenda's people become a household of the grazing, outside the temple's roll. The clan's herd is its own again.
 - **The names unread, the fire quieted.** The ash-kine stand still and the cattle-ground is quiet. At the [Night of Ashes]{.name data-type="lore/gathering"} the dead walk, and the yard is afraid.
 - **Talitho dead and the fire unfed.** The kine fall. The pens go cold. The dead stay unmarked, and the Shadow keeps its foothold in the gaps, a thin and quiet field at the edge of the grazing.
 - **The tablet taken.** A temple office pays for it or buries it. Whichever does, [[place-zarhanis|Zarhanis]] learns that the order was found and who found it.
-- **The party bypassed Shuremis.** The cattle-ground widens. A clan loses a valley, and the moot hears of it as neglect.
 
-### See Also
+## See Also {#see-also}
 
 [[place-shuremis|Shuremis]]
 : the place

@@ -15,11 +15,11 @@ data:
   packFolder: adventures
 ---
 
-## Hands That Never Stop Turning
+## Overview {#overview}
 
 A serpent-cult died in the deep forest and its priests did not. At [[place-drwndzgrt|the Drowned Ziggurat]], mummified hands turn bronze prayer-wheels without rest, and [[lore-theshadow|the Shadow]] that keeps them turning has begun to want more than hands. The party must cross a flooded temple, survive its rising water, and decide what to do with the wheels. Victory here is partial at best: the wheels can be stopped, but the thing they hold shut does not stay shut.
 
-### Hook
+## Hooks {#hooks}
 
 Offer the entry that suits the hero.
 
@@ -28,9 +28,9 @@ Offer the entry that suits the hero.
 - **The leader: the bar on the black water.** [[being-siniluwala|Sini Luwala]], leader of the [[affiliation-luwalatribe|Luwala Tribe]] at the last camp on the Dark River, has watched dead fish come down from the drowned plain and the black water darken. The tribe's eldest says the serpent-patron is troubled. Sini needs someone to go upriver who is not of the tribe, because no one of the tribe can break the bar on the water above the camp.
 - **The lone wanderer: the wheel in the fever-dream.** The wanderer has a fever-dream of a bronze wheel turning, and has dreamed it for a month. A River-Port Salvager who knows the way owes the wanderer a life and offers to repay it by taking the wanderer there.
 
-The place note is [[place-drwndzgrt|the Drowned Ziggurat]].
+## Scenes {#scenes}
 
-## Scene One: The Flooded Stair
+### Scene One: The Flooded Stair
 
 **Purpose.** Establish dread, the sound of the wheels, and the cost of carelessness. Introduce the guardian.
 
@@ -54,7 +54,7 @@ The place note is [[place-drwndzgrt|the Drowned Ziggurat]].
 
 **If bypassed.** If the party comes by water at the rear of the Ziggurat, they climb a fallen fig-root to the third terrace and skip the stair. The python is still there on the way out.
 
-## Scene Two: The Hall of Wheels
+### Scene Two: The Hall of Wheels
 
 **Purpose.** Show the horror in full, and give the party a puzzle that asks them to understand the cult before they can pass.
 
@@ -77,7 +77,7 @@ The place note is [[place-drwndzgrt|the Drowned Ziggurat]].
 
 **If bypassed.** If the party flees the gallery, the door opens on its own as the wheels race, and the party is driven up the stair to Scene Three.
 
-## Scene Three: The Rising Water
+### Scene Three: The Rising Water
 
 **Purpose.** A setback: the Ziggurat turns on the party, and a rival complicates the climb.
 
@@ -101,7 +101,7 @@ The place note is [[place-drwndzgrt|the Drowned Ziggurat]].
 
 **If bypassed.** A party that avoids the shaft by an outer fig-root climb reaches the sanctum with no rival and no water, but also with no rope and no back channel.
 
-## Scene Four: The Serpent's Bride
+### Scene Four: The Serpent's Bride
 
 **Purpose.** The climax: the cult's last high priestess, and the great wheel.
 
@@ -124,7 +124,7 @@ The place note is [[place-drwndzgrt|the Drowned Ziggurat]].
 
 **If bypassed.** If the party flees the Ziggurat without confronting her, the wheels speed. The next season, the river-tribes find the drowned plain full of the [Quiet Dead]{.name data-type="being/creature"}.
 
-## Scene Five: What the Wheels Held
+### Scene Five: What the Wheels Held
 
 **Purpose.** Reward, revelation and a twist.
 
@@ -152,3 +152,7 @@ The place note is [[place-drwndzgrt|the Drowned Ziggurat]].
 - **If the party robs the Ziggurat and leaves,** salvage crews follow within a year, and the Bride's offer reaches another ear.
 - **If Old Coil is dead,** the river-tribes remember it as the killing of the patron's kin.
 - **If the signet is sold in the north,** a Khelathi scholar asks where it came from.
+
+## See Also {#see-also}
+
+The place note is [[place-drwndzgrt|the Drowned Ziggurat]].

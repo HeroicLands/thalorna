@@ -23,11 +23,11 @@ data:
   packFolder: adventures
 ---
 
-## The Unseen King of the Spotted Court
+## Overview {#overview}
 
 A sorcerer-leader in the forest is said to take the leopard's shape, and the tribes around him bring him gifts out of fear. The party must enter [[place-lpdkngcrt|the Leopard King's Court]], survive its hospitality, and learn what the gifts buy. [[being-lpdkngldr|The Leopard King]]'s secret is a cost, not a triumph, and the Court that keeps it is holding back something worse than itself.
 
-### Hook
+## Hooks {#hooks}
 
 Offer the entry that suits the hero.
 
@@ -36,9 +36,9 @@ Offer the entry that suits the hero.
 - **The leader: the Court's offer at the border.** The party's chieftain faces a bad season, a feud, and an offer carried by a [[being-spottedguard|Hunter of the Spotted Guard]]: send the gifts, and the Court will leave the tribe alone and its hunters will stand at the border. The terms are said to be generous. The chieftain wants to see the King before swearing.
 - **The lone wanderer: the claw token.** The wanderer carries a leopard's claw token from a [[affiliation-sengala|Sengala]] trader who died on the trail and asked that it be returned. The token's owner was the Court's trade-agent.
 
-The place note is [[place-lpdkngcrt|the Leopard King's Court]].
+## Scenes {#scenes}
 
-## Scene One: The Gift Road
+### Scene One: The Gift Road
 
 **Purpose.** Introduce the Court's reach and the cost of arriving without a gift or a guide.
 
@@ -62,7 +62,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
 **If bypassed.** The party can be brought before the Court as prisoners, which skips the road and begins Scene Two in chains.
 
-## Scene Two: The Hall of Pelts
+### Scene Two: The Hall of Pelts
 
 **Purpose.** Roleplay: the Court's politics, the reach of its oaths, and the first sign that something is wrong.
 
@@ -87,7 +87,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
 **If bypassed.** If the party leaves the hall in disorder, the [Night Hunt]{.name data-type="lore/custom"} in Scene Three begins to hunt them rather than welcoming them.
 
-## Scene Three: The Night Hunt
+### Scene Three: The Night Hunt
 
 **Purpose.** A trick and a setback: the Court's hospitality is a test, and the party is its quarry.
 
@@ -111,7 +111,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
 **If bypassed.** If the party leaves the lodge before the Hunt, the King finds them at the Throne Cave's mouth in Scene Four.
 
-## Scene Four: The Throne Cave
+### Scene Four: The Throne Cave
 
 **Purpose.** The climax: the King himself.
 
@@ -136,7 +136,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
 **If bypassed.** If the party never reaches the cave, the Speaker shows them the cords and tells the story.
 
-## Scene Five: What the Gifts Buy
+### Scene Five: What the Gifts Buy
 
 **Purpose.** Reward, revelation and twist.
 
@@ -164,3 +164,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 - **If the King is killed,** the neighboring tribes stop sending gifts and fall back on their feuds, and the Quiet Dead reach the river tribes within a few seasons.
 - **If the party plunders the store,** the iron leaves the interior, and the river-folk pay for it.
 - **If the Sengala learn the secret,** they ask whether the leopard-guide has been called by a false name, and they send a Spirit-Speaker to see.
+
+## See Also {#see-also}
+
+The place note is [[place-lpdkngcrt|the Leopard King's Court]].

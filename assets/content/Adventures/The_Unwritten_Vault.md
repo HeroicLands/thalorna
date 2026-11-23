@@ -15,13 +15,13 @@ data:
   packFolder: adventures
 ---
 
-## The Unwritten Vault
+## Overview {#overview}
 
 In the dry margin west of the river lies a rock-cut common tomb that no temple roll mentions. Its dead were walled in unspoken, and a struck priest of the Houses of [[lore-khelunulekha|Khelunu Lekhau]] now raises them at dusk and sets them to hauling stone. The party goes in for loot, for a debt, for a refuge or for a widow's sake, and finds out why a place unwritten is a dangerous place. The adventure runs in five scenes, each of which can be met with force, stealth, guile or parley, and each of which states how play carries on if the party skips it.
 
 Read [[place-clublstvlt|the Burial Club's Last Vault]] first. The adventure assumes the [[lore-khelathiclt|Khelathi]] ledger-ethic: an open entry follows a person into the [[place-zulaten|Zulaten]], a person's real protection is whoever will stand for them, and the poor fear nothing so much as dying unspoken.
 
-### The Truth Behind the Vault
+## What Is Really Happening {#what-is-really-happening}
 
 **What happened.** The quarrymen of [Zel-Qedlu]{.name data-type="place/settlement"} paid a club that bought each of them the third grade of burial. The club's master, [Wazlegir]{.name data-type="being/creature"}, spent the club's last purse on a gifted boy of the village, [Qeltzin]{.name data-type="being/npc"}, sending him to the temple school and from there into [[affiliation-garqeltnu|Gar-Qelt'nu]], so that the club would one day have a lector of its own and none of its dead would lie unspoken. Qeltzin rose to the rank of Lekhau. He was struck from the House, for reasons the House does not give and keeps no record of, before he could return. The club failed, a fever came, and its dead were walled up with no rite said.
 
@@ -29,12 +29,14 @@ Read [[place-clublstvlt|the Burial Club's Last Vault]] first. The adventure assu
 
 **What is true.** The roll in the sealed chamber shows that the schooling was a prepaid fee. Every account in the club is closed, the dead owe nothing, and the only open entry in the whole roll is Qeltzin's own promise to come home. His working is looser than he knows. Because the Names of the dead were never set, [[lore-theshadow|the Shadow]] fills the gaps where Names should be, and every season the [Unwrapped]{.name data-type="being/creature"} are less themselves. The vault is on its way to becoming a _zelalgit_, a thin blood-field, [Algit]{.name data-type="being/creature"} the Devourer's place.
 
-### Hooks
+## Hooks {#hooks}
 
 - **The thief.** The drovers of the caravan road trade a rumor that a poor club's savings lie in the sealed chamber at the back of its vault and that nobody has ever robbed it. The party takes the caravan road west to find out why.
 - **The soldier or the deserter.** A soldier in flight from the [[affiliation-meglai|Meglai]] hears that the margin is empty. A mercenary hears on the caravan road that three watch-priests walked west and did not return, and that no one above their captain will order a search. Either way the one place with a roof and a door is the vault.
 - **The leader.** A herder-chieftain of the western margin holds grazing under arrangement with the Halzi'a, and three of his men have gone to the red hills in a season. Word comes down the caravan road that he offers pasture-rights for the matter closed, because he cannot pay in anything else.
 - **The wanderer.** A [[being-clubwidow|Burial Club Widow]] in a river town holds her husband's dues receipt in a clay jar and has been refused the rite at two temples, because the club's roll is not in the temples' hands. She asks to be taken to his niche.
+
+## Scenes {#scenes}
 
 ### Scene One: The Haul-Way and the Walled Door
 
@@ -155,15 +157,18 @@ Read [[place-clublstvlt|the Burial Club's Last Vault]] first. The adventure assu
 
 **If bypassed.** A party that leaves without the roll leaves the working unbroken. The widow in the river town still has her receipt, and a new crew comes with the next hook.
 
-### Aftermath
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+- **The party bypassed the vault.** The working continues. Stone goes into a tomb that is no one's. The caravan road shifts east, and the drovers add half a day to their journey.
+
+## Aftermath {#aftermath}
 
 - **The roll read and the rite said.** The dead lie down at dusk and stay down. The caravan road is quiet. The watch-priests of [[place-khelzuret|Khelzuret]] enter Zel-Qedlu on their roll and send keepers. Qeltzin, if he lives, goes to the House with the roll in his hands and may be taken back or struck again. The widow is given her husband's niche and his name, and has the rite said.
 - **The roll read and no rite said.** The Unwrapped lie still, and the vault is quiet in daylight. The thin field forms over a year. Another party is needed before the next fever season, with a priest.
 - **Qeltzin dead and the sign finished.** The hall draws breath. The Unwrapped stay on their feet at dawn. They walk west, then to the canal heads. The Meglai burn the hill, and the margin is closed to herders.
-- **The party bypassed the vault.** The working continues. Stone goes into a tomb that is no one's. The caravan road shifts east, and the drovers add half a day to their journey.
 - **The House learns where its struck man went.** [[affiliation-garqeltnu|Gar-Qelt'nu]] and Gar-Ithnetáu each claim the right to deal with him, and each claims the other should answer for the dead.
 
-### See Also
+## See Also {#see-also}
 
 [[place-clublstvlt|The Burial Club's Last Vault]]
 : the place

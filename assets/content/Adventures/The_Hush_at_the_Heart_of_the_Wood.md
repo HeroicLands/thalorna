@@ -15,11 +15,11 @@ data:
   packFolder: adventures
 ---
 
-## The Hush at the Heart of the Wood
+## Overview {#overview}
 
 In the deep forest there is a circle where nothing grows and no bird calls, and the forest's dead come out of it at dusk. The party must cross [[place-slntclrng|the Silent Clearing]], reach its heart, and face what sits there. The wound cannot be closed. It can only be held, and the cost of holding it is paid by someone.
 
-### Hook
+## Hooks {#hooks}
 
 Offer the entry that suits the hero.
 
@@ -28,9 +28,9 @@ Offer the entry that suits the hero.
 - **The leader: the scouts who came back silent.** The party's chieftain sent scouts who came back silent: they could speak but not hear, and they cannot say what they saw. The chieftain must decide whether to take the party's counsel or the shamans'.
 - **The lone wanderer: the silence on no map.** The wanderer has walked a ten-day trail toward a silence no map shows. Behind them a forest tribe has been moved on by something at night.
 
-The place note is [[place-slntclrng|the Silent Clearing]].
+## Scenes {#scenes}
 
-## Scene One: The Line of Bells
+### Scene One: The Line of Bells
 
 **Purpose.** Introduce the Hush, the rim's watchers and the first guardian.
 
@@ -53,7 +53,7 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 **If bypassed.** A party that crosses without meeting the Warden meets him in Scene Three, at dusk, among the dead.
 
-## Scene Two: The Hush
+### Scene Two: The Hush
 
 **Purpose.** A puzzle of silence: crossing without sound, and with it.
 
@@ -77,7 +77,7 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 **If bypassed.** A party that skips the Hush has no map and reaches the heart blind, arriving at dusk.
 
-## Scene Three: The Rising
+### Scene Three: The Rising
 
 **Purpose.** A setback: dusk comes, and the dead rise.
 
@@ -101,7 +101,7 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 **If bypassed.** A party that stays out of the Clearing until dawn arrives at the heart at first light, with the dead still.
 
-## Scene Four: The Listener
+### Scene Four: The Listener
 
 **Purpose.** The climax: the heart of the wound.
 
@@ -124,7 +124,7 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 **If bypassed.** A party that retreats from the heart meets the Listener's voice at the rim for the rest of their lives.
 
-## Scene Five: What the Wound Holds
+### Scene Five: What the Wound Holds
 
 **Purpose.** Reward, revelation and twist.
 
@@ -145,10 +145,17 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 **If bypassed.** The party can learn the same from the Warden's tally-cord, if they brought it out.
 
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+- **If the Clearing is left alone,** the Court's hunters patrol the rim through another season, and the circle grows.
+
 ## Aftermath {#aftermath}
 
 - **If the Listener is killed,** the Rising stops for a season and the tribes return to their camps. The wound keeps growing.
 - **If the Ash-Warden lives,** he keeps the rim, and the rite of the bells passes to a successor.
 - **If the black stone is carried out,** a sorcerer in the north learns where the wound is.
 - **If the party strikes a bargain with the Listener,** the Shadow follows them to the river-ports.
-- **If the Clearing is left alone,** the Court's hunters patrol the rim through another season, and the circle grows.
+
+## See Also {#see-also}
+
+The place note is [[place-slntclrng|the Silent Clearing]].

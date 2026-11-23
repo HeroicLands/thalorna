@@ -25,6 +25,8 @@ The adventure runs in five scenes. Each can be met with force, stealth, talk, cl
 
 **The story as the party first meets it.** A steward who keeps to the shade and will not eat, a household of the sewn dead, a ledger that counts the party, a needle at the keyhole: the party reads a house that means to kill it and raise it, and every sentence of that holds.
 
+## What Is Really Happening {#what-is-really-happening}
+
 **The story as it is.** The party is the villain of someone else's story. [Gezuhati]{.name data-type="being/creature"} needs living strangers on the witness lines beneath the releases he forged for the dead of [Zu'Lemetu]{.name data-type="affiliation/lineage"}, and the party's names are on them by the end of the first night, from the receipt signed at the gate or copied from the temple's letter. To the dead of the house, the party are the witnesses who closed their mouths for good. The needle at the keyhole is for the party's own mouths, so that it can never disown the witnessing.
 
 > [!IMPORTANT]
@@ -106,7 +108,9 @@ Read or paraphrase this as the skiff grounds:
 > [!TIP]
 > Let the stitches sit before anyone speaks. The opening's job is the first cold certainty that this is not good, and the party should climb the stair already sure it knows what kind of house this is.
 
-## Scene One: The Gate
+## Scenes {#scenes}
+
+### Scene One: The Gate
 
 **Purpose.** To establish the errand and the isolation, to give the party one disturbing detail that still has an ordinary explanation, and to take its names.
 
@@ -142,7 +146,7 @@ Read or paraphrase this as the skiff grounds:
 
 **If bypassed or refused.** Thakete slips out of the house through the drains after dark and crawls across the dry basin to the skiff, and the attendants turn their faces toward her but do not move. She brings a water skin and her brother's name, and points back at the house and down. In the small hours the skiff's water jar is found empty and cracked, and there is no other water this side of the river.
 
-## Scene Two: The Record Room
+### Scene Two: The Record Room
 
 **Purpose.** To discover that the household is dead, that the records lie, and that a living servant is hiding in the house.
 
@@ -185,7 +189,7 @@ Read or paraphrase this as the skiff grounds:
 
 **If bypassed.** If the party never reads the records, Thakete comes to the guest chamber after midnight, and the jar is already there. If they never find Thakete, the knocking under the guest-chamber floor in Scene Three is Wenlegir, and a character who answers it hears him say his name and his sister's. If they never reach the house at all, Thakete brings the jar to the skiff in Scene Three.
 
-## Scene Three: The Needle at the Keyhole
+### Scene Three: The Needle at the Keyhole
 
 **Purpose.** To show that the threat is active and aimed at the party, that the stitches are the binding, and that the party is already entered in the steward's accounts.
 
@@ -225,7 +229,7 @@ Read or paraphrase this as the skiff grounds:
 
 **If bypassed.** A party camped at the skiff is brought the jar in the small hours by Thakete, who crawled out through the drains with it clutched to her chest. She cannot read it. She saw the steward at the lamp with the party's letter, copying, and she says so. A party that ran for the river reaches the canal's head-gate at dawn and finds it closed and sealed in fresh mud with the estate's seal. The river is still a long way off, and the attendants are standing on the bank behind them; the jar the party carried has the daylight to be read by. A party that shut itself in hears the stitches go in round its door, and at the darkest hour the door is cut out of its frame and the attendants take the nearest sleeper below. Either way the next scene is the preparation hall, entered by day through the drains or at night as a captive, a rescuer or a witness come to unsay.
 
-## Scene Four: The Preparation Hall
+### Scene Four: The Preparation Hall
 
 **Purpose.** The confrontation with the steward on his Hallowed Ground, before the dead of the house, where everything the party learned can be turned against him and where its own witnessing can be unsaid.
 
@@ -272,7 +276,7 @@ The steward stands at the second table with a curved needle in his hand, finishi
 
 **If bypassed or failed.** A party that never comes down the stair is brought down: the attendants carry the sleepers below at the darkest hour, and the scene begins with someone on a table, unsewn, the light-shaft over their head and the dead of the house all round. A party beaten in the hall escapes through the drains into the dry canal bed. The steward does not follow into the open. By the next mid-morning he is in his niche, and the hall can be reached while he lies there, and a disowning said in it then counts as surely as one said at night.
 
-## Scene Five: The Vault and the Way Back
+### Scene Five: The Vault and the Way Back
 
 **Purpose.** The treasure, the truth on record and the road out.
 
