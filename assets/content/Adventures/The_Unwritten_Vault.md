@@ -8,8 +8,8 @@ tags: [draft]
 data:
   parents: []
   locations: [clublstvlt]
-  cast: []
-  factions: []
+  cast: [strucklekhau, damut, clubwidow]
+  factions: [garqeltnu, garithnetau, meglai, wethur]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
@@ -31,10 +31,10 @@ Read [[place-clublstvlt|the Burial Club's Last Vault]] first. The adventure assu
 
 ### Hooks
 
-- **The thief.** A drover sells the rumor that a poor club's savings lie in the sealed chamber at the back of its vault and that nobody has ever robbed it. The party takes the caravan road west to find out why.
-- **The soldier or the deserter.** A soldier in flight from the [[affiliation-meglai|Meglai]] is told the margin is empty. A mercenary hired to escort a temple's captain finds that three watch-priests walked west and did not return. Either way the one place with a roof and a door is the vault.
-- **The leader.** A herder-chieftain of the western margin holds grazing under arrangement with the Halzi'a, and three of his men have gone to the red hills in a season. He offers pasture-rights in exchange for the matter being closed, and he cannot pay in anything else.
-- **The wanderer.** A widow in a river town holds her husband's dues receipt in a clay jar and has been refused the rite at two temples, because the club's roll is not in the temples' hands. She asks to be taken to his niche.
+- **The thief.** The drovers of the caravan road trade a rumor that a poor club's savings lie in the sealed chamber at the back of its vault and that nobody has ever robbed it. The party takes the caravan road west to find out why.
+- **The soldier or the deserter.** A soldier in flight from the [[affiliation-meglai|Meglai]] hears that the margin is empty. A mercenary hears on the caravan road that three watch-priests walked west and did not return, and that no one above their captain will order a search. Either way the one place with a roof and a door is the vault.
+- **The leader.** A herder-chieftain of the western margin holds grazing under arrangement with the Halzi'a, and three of his men have gone to the red hills in a season. Word comes down the caravan road that he offers pasture-rights for the matter closed, because he cannot pay in anything else.
+- **The wanderer.** A [[being-clubwidow|Burial Club Widow]] in a river town holds her husband's dues receipt in a clay jar and has been refused the rite at two temples, because the club's roll is not in the temples' hands. She asks to be taken to his niche.
 
 ### Scene One: The Haul-Way and the Walled Door
 
@@ -44,7 +44,7 @@ Read [[place-clublstvlt|the Burial Club's Last Vault]] first. The adventure assu
 
 **NPCs and threats.**
 
-- The Unwrapped. Quarrymen dead for years, still in the cheap brown linen of the third grade, rotted at the hem. Their hands are the same hands, scarred and blunt, and their faces are slack and turned a little aside. They haul in step to a work-song nobody sings, and their lips move on the second line. They do not run, do not tire and do not pursue past the foot of the ramp. They strike whoever breaks the line of work, and they ignore whoever works with them. A gang of six moves at a time.
+- The Unwrapped. [[being-damut|Damutu]] bound without their Names, quarrymen dead for years, still in the cheap brown linen of the third grade, rotted at the hem. Their hands are the same hands, scarred and blunt, and their faces are slack and turned a little aside. They haul in step to a work-song nobody sings, and their lips move on the second line. They do not run, do not tire and do not pursue past the foot of the ramp. They strike whoever breaks the line of work, and they ignore whoever works with them. A gang of six moves at a time.
 - **The cornerstone.** A block at the ramp's head carries a half-cut sign in the sacred hand, repeated down the face, and is the cornerstone of the thing being built below.
 
 **Player choices.**
@@ -68,7 +68,7 @@ Read [[place-clublstvlt|the Burial Club's Last Vault]] first. The adventure assu
 
 **NPCs and threats.**
 
-- Wazlegir. The club's master, dead with his accounts closed and his wits partly intact, because no working could bind a man who had entered his own Name in the roll. He is one of the few things in the vault not entirely Qeltzin's. He keeps the hall as he kept it in life and remembers his office better than his face. His jaw is bound with a linen strip, and his speech is slow and exact. He wants dues from every visitor, a copper gezan a head, or a member's word. He does not fight unless the hall is robbed, and then he fights as a man whose purse is being taken: without art, with no sense of mercy, with total persistence.
+- Wazlegir, a [[being-damut|damut]] with more of himself left than the rest. The club's master, dead with his accounts closed and his wits partly intact, because no working could bind a man who had entered his own Name in the roll. He is one of the few things in the vault not entirely Qeltzin's. He keeps the hall as he kept it in life and remembers his office better than his face. His jaw is bound with a linen strip, and his speech is slow and exact. He wants dues from every visitor, a copper gezan a head, or a member's word. He does not fight unless the hall is robbed, and then he fights as a man whose purse is being taken: without art, with no sense of mercy, with total persistence.
 - **The tally.** Wazlegir's stick is notched and the shelves are full. A character who reads the jars finds one stamped _Qeltzin_ with the seal broken.
 
 **Player choices.**
@@ -117,7 +117,7 @@ Read [[place-clublstvlt|the Burial Club's Last Vault]] first. The adventure assu
 
 **NPCs and threats.**
 
-- Qeltzin. A struck Lekhau of Gar-Qelt'nu, gray with lime-dust, thin in the way of a man who has not eaten for the work. His hands are black to the wrist, and a close look shows the black is not dirt and does not rub off. He speaks the formal diction of the House, precise, tired, and slightly wrong in a way that is hard to name: the voice comes out a half-beat behind his lips. He holds the Unwrapped by speech and by a knotted cord at his belt, and they stop when he stops. He can seal a threshold against the party, bind a tongue to silence and strike a name from a person's hearing, so that those who give their names freely to him find that they are not remembered by anyone for an hour. He is not a coward and not a fool. He is a man who has been right about everything except one thing.
+- Qeltzin, a [[being-strucklekhau|Struck Lekhau]] of Gar-Qelt'nu. He is gray with lime-dust and thin in the way of a man who has not eaten for the work. His hands are black to the wrist, and a close look shows the black is not dirt and does not rub off. He speaks the formal diction of the House, precise, tired, and slightly wrong in a way that is hard to name: the voice comes out a half-beat behind his lips. He holds the Unwrapped by speech and by a knotted cord at his belt, and they stop when he stops. He can seal a threshold against the party, bind a tongue to silence and strike a name from a person's hearing, so that those who give their names freely to him find that they are not remembered by anyone for an hour. He is not a coward and not a fool. He is a man who has been right about everything except one thing.
 - **The hall's Unwrapped.** Twenty or thirty, hauling and setting, who turn on his word and fight as a block, without hurry.
 
 **Player choices.**
