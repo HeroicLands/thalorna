@@ -83,3 +83,4 @@ None living.
 
 1. **The old names.** Mirla wants someone to write down the names of the plain's villages from her before she dies, and she will tell them anything they ask in return.
 2. **A grave on the plain.** Mirla's grandmother's sister is buried at a steading of the Stormplain, and Mirla wants the stone that marks her grave brought up to Threndale.
+3. **The stage's ledger.** Mirla wants the ledger of [[place-wenlornestage|Wenlorne Stage]] on the old Crown Road, which the Khazari say lists the Vardain who passed its gate in the last year of the war, so that every name on it is kept at Threndale with the valleys' dead ([[scenario-lampswenlorne|Pale Lamps on the Crown Road]]).

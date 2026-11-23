@@ -52,7 +52,7 @@ data:
         - whether the Khazari knew the Grukar had landed before the forest peoples did
 ---
 
-In The Grukar Come to Eilwìth, nobody on [[place-eilwith|Eilwìth]] remembers the landing, which is the usual way for the [[lore-grukarfolk|Grukar]] to arrive in a country. A tribe that outgrows its ground sheds a faction outward, and a faction needs no fleet when the trading hulls of the northern lands are putting in along the island's coast with room to spare below the deck. Grukar cannot build a ship. They can sit in the hold of one.
+Nobody on [[place-eilwith|Eilwìth]] remembers the landing, which is the usual way for the [[lore-grukarfolk|Grukar]] to arrive in a country. A tribe that outgrows its ground sheds a faction outward, and a faction needs no fleet when the trading hulls of the northern lands are putting in along the island's coast with room to spare below the deck. Grukar cannot build a ship. They can sit in the hold of one.
 
 ## The Third of the Island
 

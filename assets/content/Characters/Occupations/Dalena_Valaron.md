@@ -3,6 +3,7 @@ shortcode: dalenavlrn
 name: {full: Dálena Valaron}
 type: being
 subType: npc
+description: "A pilot of Dúrgalis from a noble house, who has the con of her family's cargo ship out of Valthari and argues for the crews' share and rations against the ship-owners' council."
 tags: [tradesfolk]
 data:
   icon: icon-person

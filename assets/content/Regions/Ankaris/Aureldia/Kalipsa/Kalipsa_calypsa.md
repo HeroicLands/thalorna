@@ -67,6 +67,10 @@ data:
       Consul Abroad: The city's agent in a foreign port, holding its seal for trade disputes there.
       Clerk of the Council: >-
         A salaried officer of the city, not a Councilor. Keeps the census roll, the record of every sitting of the Captains' Council, its charters, its seal and its correspondence, and counts the voices when the Harbormaster puts the question.
+      Keeper of the Lantern: >-
+        Hereditary keeper of the Lantern of Kalipsa, who relights its beacon every night.
+      Village Elder: >-
+        Chosen by a village of the South Shore by its own custom. The villages have no seat on the Council.
   seat: calypsacity
   population: {actual: 45000}
   territorial_population: {actual: 45000}

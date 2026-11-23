@@ -9,11 +9,11 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior, courtier]
-  occupation: Jarl
+  occupation: High Jarl
   lore: []
   culture: nordheimnclt
   homes: [stormveil]
-  affiliations: {jrldmstrmvld: {rank: 7, office: Jarl}}
+  affiliations: {jrldmstrmvld: {rank: 7, office: [High Jarl, Jarl]}}
   socialTies:
     being-draskmilglrv: rival
     being-vrithorvmrvd: acquaintance
@@ -69,7 +69,7 @@ His household men are the best in the Jarldom, and the jarls who are not quarrel
 
 ### Weaknesses
 
-He is old, his son commands his household, and every jarl can see what that means.
+He is old, and his son commands his household.
 
 ## Social
 

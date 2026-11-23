@@ -3,6 +3,7 @@ shortcode: grthnjthrn
 name: {full: Gerthan Gútharen}
 type: being
 subType: npc
+description: "A tentmaker of Thórgila whose workshop has made tents and tarpaulins for the companies that march from the valleys for more than thirty years."
 tags: [tradesfolk]
 data:
   icon: icon-person
@@ -435,6 +436,6 @@ Younger tentmakers who see him as outdated.
 
 ## Plot Hooks
 
-1. **The tents of the fair.** Riders of Nizel Ganotis ask Gerthan for forty tents on credit for the autumn fair, and the lord's credit is bad. He asks a party to learn whether the lord means to pay.
-2. **The company's contract.** A captain at the fair offers Gerthan the tents of a whole company, and the contract is written in a hand he does not know. He asks a party to read it.
+1. **The tents of the fair.** Riders of [[being-nizelganotis|Nizel Ganotis]] ask Gerthan for forty tents on credit for the autumn fair, and the lord's credit is bad. He asks a party to learn whether the lord means to pay.
+2. **The company's contract.** A captain at the fair offers Gerthan the tents of a whole company, and the contract is written in a hand he does not know. He asks a party to read it, and signing a bad clause would bind his workshop for the season.
 3. **The apprentices.** The two best apprentices have gone under contract with a company, as Thórgila's men do. Gerthan asks a party to bring one of them back.

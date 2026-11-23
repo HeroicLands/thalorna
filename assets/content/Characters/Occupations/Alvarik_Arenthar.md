@@ -3,6 +3,7 @@ shortcode: alvrkrnthl
 name: {full: Alvarik Árenthar}
 type: being
 subType: npc
+description: "A farmer of the slope above Nebralis who grows wheat and barley on land his family has held for generations and speaks in the Freemen's Assembly."
 tags: [common-folk]
 data:
   icon: icon-person

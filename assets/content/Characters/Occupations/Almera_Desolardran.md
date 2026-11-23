@@ -3,6 +3,7 @@ shortcode: almrdslrdrn
 name: {full: Álmera Desolardran}
 type: being
 subType: npc
+description: "A caravan guard of Valthari who rides scout for the caravans on the road from Bruthena to the port and trains younger guards."
 tags: [soldiery]
 data:
   icon: icon-person
@@ -429,5 +430,5 @@ The smugglers who work the salt marsh beside the Bruthena road, who have learned
 ## Plot Hooks
 
 1. **The Bruthena road.** The caravan Álmera guards runs from [[place-bruthena|Bruthena]] to [[place-valthari|Valthari]], and a house has proposed a channel through the salt marsh that would make the caravan unnecessary. She asks a party to join the survey that the marsh people want stopped.
-2. **The quiet factor.** A factor of the Thordimalon in Valthari hires guards who will not ask why the quarter has gone quiet around him. Álmera has been offered the work and asks a party to find out what he is afraid of.
+2. **The quiet factor.** A factor of the [[affiliation-ordoarcanis|Thordimalon]] in Valthari hires guards who will not ask why the quarter has gone quiet around him. Álmera has been offered the work and asks a party to find out what he is afraid of.
 3. **The carters at the quay.** The seamen refuse to sign until the owners raise the crew's share, and Álmera's caravan carries the owners' cargo to the quay. She asks a party to learn who is paying the carters to cross the picket.

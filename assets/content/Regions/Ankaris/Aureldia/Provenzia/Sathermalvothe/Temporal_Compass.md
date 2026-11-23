@@ -21,7 +21,7 @@ bearer**, which is enough to make the passage survivable and no more.
 
 ## Who Holds It {#who-holds-it}
 
-The Royal Loremaster of Élavendre, [[being-aelithraenewyn|Áelithra Énevin]], owns it, and it is the one instrument that can take a living party through Úkua-Araelwen in something like the time it expects. She keeps it at [[place-beravel|Péravel]] and carries it at court in her writing-case. She means to lend it to the party she sends into the Araelwen after the [[miscgear-heartofdhirikri|Heart of Dirikri]] ([[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]).
+The Royal Loremaster of Élavendre, [[being-aelithraenewyn|Áelithra Énevin]], owns it, and it is the one instrument that can take a living party through Úkua-Araelwen in something like the time it expects. She keeps it at [[place-beravel|Péravel]] and carries it at court in her writing-case. She means to lend it to the party she sends into the Araelwen after the [[miscgear-heartofdhirikri|Heart of Dirikri]] ([[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]).
 
 ## What It Does {#what-it-does}
 

@@ -4,7 +4,12 @@ name: {full: Heart of Dirikri}
 type: miscgear
 description: "A crystalline artifact holding the essence of the elemental spirits called the Dirikri—it quickens natural growth around it and manipulates time within its Araelwen, and lies at the center of Úkua-Araelwen behind the Maze of Echoes."
 tags: []
-data: {kind: miscgear, templatePriority: null, unique: true, packFolder: elavendre}
+data:
+  kind: miscgear
+  icon: crystalgrowth
+  templatePriority: null
+  unique: true
+  packFolder: elavendre
 sohl: {system: {weightBase: 1, valueBase: 0, durabilityBase: 10}}
 ---
 
@@ -26,7 +31,7 @@ Growth quickens near it, and time within its Araelwen runs slow. The [[miscgear-
 
 ## Who Wants It {#who-wants-it}
 
-The Royal Loremaster wants a party sent into Úkua-Araelwen to retrieve it, and at a party at Péravel in honor of the ambassador of Dúnavarre she has proposed exactly that ([[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]). The [[affiliation-ordoarcanis|Order]] would study it. The Wardens forbid the Araelwen to every outsider, and a device of the art carried inside one counts with them as a working, and a working there as desecration.
+The Royal Loremaster wants a party sent into Úkua-Araelwen to retrieve it, and at a party at Péravel in honor of the ambassador of Dúnavarre she has proposed exactly that ([[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]). The [[affiliation-ordoarcanis|Order]] would study it. The Wardens forbid the Araelwen to every outsider, and a device of the art carried inside one counts with them as a working, and a working there as desecration.
 
 ## See Also {#see-also}
 

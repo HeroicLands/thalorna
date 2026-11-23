@@ -61,7 +61,7 @@ The [[affiliation-alndnwrdns|Áelendan Wardens]] keep outsiders away from the fo
 
 ## Combat Strategy
 
-The guardians’ defense uses the grove’s close terrain and moving growth. A party can retreat, force its way at a cost or renew a negotiation. [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]] describes the glade’s encounter.
+The guardians’ defense uses the grove’s close terrain and moving growth. A party can retreat, force its way at a cost or renew a negotiation. [[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]] describes the glade’s encounter.
 
 ## Attack Methods
 

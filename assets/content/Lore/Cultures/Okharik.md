@@ -40,6 +40,8 @@ data:
     complexion: {weathered: 4, sun_kissed: 3, smooth: 2, clear: 2}
     hair_texture: {coily: 4, curly: 4, wavy: 2}
     hair_style: {cropped: 3, braided: 3, short: 2, locked: 1, long: 1, shaved: 1}
+    facial_hair: {none: 3, short_beard: 3, long_beard: 2, braided_beard: 1, moustache: 1}
+    facial_hair_genders: [male]
     face_shape: {long: 3, oval: 3, angular: 2, heart: 2}
     nose: {straight: 4, narrow: 3, aquiline: 2, broad: 1}
     brow: {arched: 3, straight: 3, thin: 2, bushy: 1}

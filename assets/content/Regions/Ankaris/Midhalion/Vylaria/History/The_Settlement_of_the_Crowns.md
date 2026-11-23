@@ -116,13 +116,13 @@ The terms were not a defeat for the Tarmeks and were not presented as one. The c
 
 ## What It Made
 
-The Aureldian kingdoms became what every Aureldian commerce section calls the post-imperial commonwealth: realms that answer to their own crowns and bank through Orzara. The Bizarian League stayed outside it, a province in law whose councils govern its cities and whose merchants bank through Orzara beside the crowns. The Tarmeks has refused to reopen the fee in every generation since, and the crowns have never had a way to refuse it.
+The Aureldian kingdoms became the post-imperial commonwealth: realms that answer to their own crowns and bank through Orzara. The Bizarian League stayed outside it, a province in law whose councils govern its cities and whose merchants bank through Orzara beside the crowns. The Tarmeks has refused to reopen the fee in every generation since, and the crowns have never had a way to refuse it.
 
 Provénzia's Charter was tested within a lifetime, in a succession war the Empire watched from outside ([[lore-warprinces|The War of the Princes]]).
 
 ## What It Left {#what-it-left}
 
-- **The post-imperial commonwealth.** The phrase in every Aureldian commerce section.
+- **The post-imperial commonwealth.** The Aureldian crowns, each answering to itself and banking through Orzara.
 - **The two-percent fee.** The Empire's largest standing revenue from lands it does not govern.
 - **Helionis as a province on paper.** The chancery's roll and the cities' practice, side by side.
 - **The unpaid forts.** Hereditary commanders in the Hellád who file a yearly report and wait for an answer ([[place-unpaidfort|The Unpaid Fort]]).

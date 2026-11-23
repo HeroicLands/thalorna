@@ -73,6 +73,8 @@ data:
     complexion: {sun_kissed: 4, smooth: 3, clear: 3, weathered: 1}
     hair_texture: {wavy: 4, curly: 4, straight: 2}
     hair_style: {long: 3, shoulder_length: 3, short: 3, braided: 1, knotted: 1}
+    facial_hair: {none: 8, stubble: 1, short_beard: 1}
+    facial_hair_genders: [male]
     face_shape: {oval: 3, long: 2, heart: 2, angular: 2, round: 1}
     nose: {aquiline: 3, straight: 3, broad: 2, hooked: 1, narrow: 1}
     brow: {arched: 3, heavy: 2, bushy: 2, straight: 1}

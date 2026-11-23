@@ -3,6 +3,7 @@ shortcode: trsrthldrn
 name: {full: Tórsaro Thalidran}
 type: being
 subType: npc
+description: "A young yeoman of Dúrgalis, a freeman of the barley farms who serves in the valley's militia against the bandits who raid the farms below the pass."
 tags: [soldiery]
 data:
   icon: icon-person
@@ -430,5 +431,5 @@ Bandits who often raid the countryside.
 ## Plot Hooks
 
 1. **The raiders on the pass road.** Bandits raid the farms below the pass, and the militia leader who took Tórsaro in wants them followed to wherever they winter. Tórsaro has the legs and asks a party to bring experience.
-2. **The hail.** A field was struck out of a clear sky the day after its owner swore in the square. Tórsaro is the owner's cousin and asks a party to find the lie before the autumn count.
+2. **The hail.** Hail struck his cousin's field out of a clear sky the day after the cousin swore in the square, and the cousin's accusers mean to have [[being-dmthrnthrn|Dometh Ornethran]] play the scene in the square. Tórsaro asks a party to find the lie before the play shames his cousin.
 3. **The note on the ship.** [[being-dalenavlrn|Dálena Valaron]]'s father has borrowed against the ship, and Tórsaro is asked to guard the family's coin. He asks a party to learn who in the valley is watching it.

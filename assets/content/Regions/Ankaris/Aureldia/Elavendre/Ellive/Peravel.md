@@ -79,4 +79,4 @@ Péravel was the market of the Berav's lower houses before it was a capital, and
 - [[scenario-kprscphr|The Keeper's Cipher]], a scenario set here
 - [[scenario-thprncssmmr|The Prince's Summer]], a scenario set here
 - [[scenario-smmrpsttrln|The Summer Past the Tree Line]], a scenario set here
-- [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]
+- [[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]

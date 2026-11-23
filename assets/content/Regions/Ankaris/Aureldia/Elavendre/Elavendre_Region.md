@@ -237,5 +237,5 @@ The Áelendan reckon themselves from the band that came over the eastern pass in
 [[lore-flkkhazar|Khazari]]
 : The second elder race (no known presence in Élavendre)
 
-[[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]
+[[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]
 : a scenario set here

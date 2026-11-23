@@ -3,6 +3,7 @@ shortcode: glvrrnthrn
 name: {full: Galver Ornethran}
 type: being
 subType: npc
+description: "A veteran mason of Nebralis who has built the town's houses, warehouses and quays for more than thirty years and keeps a yard of his own with journeymen and apprentices."
 tags: [tradesfolk]
 data:
   icon: icon-person

@@ -72,7 +72,7 @@ The hold holds the valleys: the Vardain there are admitted as refugees, protecte
 ### The Officers
 
 Elder of a House
-: [[being-valdantnvgrz|Valdan Tanv-guráz]] of the house of the guarding of the gate, and [[being-rimiktbrslth|Rimik Tabar-suláth]] of the house of the pouring of the deep water, among the elders of the council.
+: the [[being-vorgaldelder|Elder of Vorgald]], who holds no other office. [[being-valdantnvgrz|Valdan Tanv-guráz]] of the house of the guarding of the gate and [[being-rimiktbrslth|Rimik Tabar-suláth]] of the house of the pouring of the deep water also sit for their houses at the council, and hold the offices below.
 
 Speaker at the Gate
 : Valdan Tanv-guráz.

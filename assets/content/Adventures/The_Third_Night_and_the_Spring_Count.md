@@ -28,7 +28,7 @@ data:
 
 ## Overview {#overview}
 
-The [[affiliation-hsenorodari|Norodari]] lose three hulls in the autumn fog. Their insurer refuses all three bonds, saying the masters refuse pilots. The hearing at [[place-sealawhall|The Sea-Law Hall]] precedes the spring census of 720, which decides the next Harbormaster. Strangers hired to find evidence or count hulls discover that neither party’s simple story fits all three nights.
+The [[affiliation-hsenorodari|Norodari]] lose three hulls in the autumn fog. Their insurer refuses all three bonds, saying the masters refuse pilots. The hearing at [[place-sealawhall|the Sea-Law Hall]] precedes the spring census of 720, which decides the next Harbormaster. Strangers hired to find evidence or count hulls discover that neither party’s simple story fits all three nights.
 
 ## What Is Really Happening {#what-is-really-happening}
 

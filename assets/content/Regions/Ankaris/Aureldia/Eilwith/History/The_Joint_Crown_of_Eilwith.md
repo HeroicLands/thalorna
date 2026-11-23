@@ -82,7 +82,7 @@ The subjects were [[lore-vardain|the Vardain]], the farmers the Khazari had long
 
 - **The Crown Roads.** Stretches of fitted-stone road run across Eilwìth's interior and highlands where no later road runs, and one of them goes straight to Seirasto's edge and stops. They are described under [[place-eilwith|Eilwìth]].
 - **Footings under three towns.** Cut stone nobody has dated lies beneath the oldest quarters of [[place-veldareth|Veldareth]] and two other towns, and one cellar in Veldareth has a door cut in the footing that does not open.
-- **Six centuries of being assured.** The Khazari reckon the Senali's withdrawal from the Three Sisters the worse for coming after it, and [[place-vorgald|Vorgald]]'s archive counts it as the second abandonment in fourteen hundred years.
+- **Six centuries of trust, and its end.** The Khazari reckon the Senali's withdrawal from the Three Sisters the worse for coming after it, and [[place-vorgald|Vorgald]]'s archive counts it as the second abandonment in fourteen hundred years.
 - **A people's standing.** The Vardain are farmers of a crown and a hold, and they tell the crown without wonder, as a thing that was ordinary once.
 
 The joint kingdom ended in [[lore-threesistrs|the Battle of the Three Sisters]], and what followed from the end of the war is told in [[lore-endgreatwar|the Ending of the Great War]]. No capital of the crown has been found.
