@@ -1370,10 +1370,10 @@ export function assertEncodingMigrationPreserved(
             'The council of the five is a _lubemo_, a sitting that talks until the objections stop, and the [Great Lubemo]{.name data-type="affiliation/governmental"} is the one that renews the Pact. It meets at _[[place-hetolubemo|Heto Lubemo]]_, the enclosure of the council, one of the Old Hetos of the stone-builders.',
             "The council of the five is a _lubemo_, a sitting that talks until the objections stop, and the [[affiliation-greatlubemo|Great Lubemo]] is the one that renews the Pact. It meets at _[[place-hetolubemo|Heto Lubemo]]_, the enclosure of the council, one of the Old Hetos of the stone-builders.",
         );
-    // The two clan-naming lines of the Nyáluban reading promote exactly five
-    // clan spans to links, each to its own lineage address.
+    // The Nyáluban reading promotes exactly the listed name spans to links:
+    // five clans to their lineage addresses and one spirit-speaker to her note.
     if (isNote(file, "skill-nyalbnlng"))
-        for (const [span, link] of nyalubanClanPromotions)
+        for (const [span, link] of nyalubanLinkPromotions)
             originalBody = originalBody.replace(span, link);
     // Existing English and sample lines retain their bytes and order. New
     // explanatory prose may be added; an old reading cannot disappear.
@@ -1387,10 +1387,14 @@ export function assertEncodingMigrationPreserved(
 }
 
 /**
- * The clan spans of the Nyáluban reading that are promoted to links, as the
- * exact baseline span and its replacement, each clan keeping its own address.
+ * The name spans of the Nyáluban reading that are promoted to links, as the
+ * exact baseline span and its replacement, each name keeping its own address.
  */
-const nyalubanClanPromotions = [
+const nyalubanLinkPromotions = [
+    [
+        '[Lusheya nu Kolembozi]{.name data-type="being/npc"}',
+        "[[being-lusheyaklm|Lusheya nu Kolembozi]]",
+    ],
     [
         '_[Ruwozi]{.name data-type="affiliation/lineage"}_ is the clan of the lion',
         "_[[affiliation-ruwozi|Ruwozi]]_ is the clan of the lion",
