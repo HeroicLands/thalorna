@@ -40,6 +40,7 @@ data:
     form: narrow_hull
     material: wood
     extra_features: [long narrow hull, battened lug sails on two masts, stern sculls]
+sohl: {system: {}}
 ---
 
 # Appearance {#appearance}

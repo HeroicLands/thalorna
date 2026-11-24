@@ -33,6 +33,7 @@ data:
     form: flat_bottomed_hull
     material: wood
     extra_features: [flat floor, square ends, leeboards, battened lug sails on two masts]
+sohl: {system: {}}
 ---
 
 # Appearance {#appearance}

@@ -38,6 +38,7 @@ data:
       - steering oar on the starboard quarter
       - half-decked fore and aft
       - open hold amidships covered by hides
+sohl: {system: {}}
 ---
 
 # Appearance {#appearance}

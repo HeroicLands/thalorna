@@ -46,6 +46,7 @@ data:
       - stone-throwing engines on the upper decks
       - tall superstructure
       - battened sails on two masts
+sohl: {system: {}}
 ---
 
 # Appearance {#appearance}

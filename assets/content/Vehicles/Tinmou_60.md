@@ -33,6 +33,7 @@ data:
     form: narrow_hull
     material: wood
     extra_features: [rawhide-covered upper works, long low hull, single bank of oars, no mast]
+sohl: {system: {}}
 ---
 
 # Appearance {#appearance}

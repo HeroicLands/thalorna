@@ -38,6 +38,7 @@ data:
       - full decks
       - single square sail
       - sternpost rudder
+sohl: {system: {}}
 ---
 
 # Appearance {#appearance}

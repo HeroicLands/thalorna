@@ -41,6 +41,7 @@ data:
     form: round_hull
     material: wood
     extra_features: [clinker planking, single square sail, oar-ports along the hull]
+sohl: {system: {}}
 ---
 
 # Appearance {#appearance}

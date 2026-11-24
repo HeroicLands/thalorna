@@ -42,6 +42,7 @@ data:
     form: narrow_hull
     material: wood
     extra_features: [clinker planking, long low hull, single square sail, single bank of oars]
+sohl: {system: {}}
 ---
 
 # Appearance {#appearance}

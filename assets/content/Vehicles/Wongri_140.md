@@ -37,6 +37,7 @@ data:
       - V-shaped bottom
       - battened lug sails on five masts
       - rudder hung on the sternpost
+sohl: {system: {}}
 ---
 
 # Appearance {#appearance}

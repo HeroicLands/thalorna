@@ -33,6 +33,7 @@ data:
     form: round_hull
     material: wood
     extra_features: [fully enclosed hull, paddle wheels at the sides, no mast, no exposed rowers]
+sohl: {system: {}}
 ---
 
 # Appearance {#appearance}
