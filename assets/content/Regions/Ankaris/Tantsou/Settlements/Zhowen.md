@@ -26,7 +26,7 @@ The city's hallmark is order. Each bank is the mirror of the other, street for s
 
 ## Arriving {#arriving}
 
-Most travelers come to Zhowen by water. Grain barges, tribute boats and passenger junks come down the river and in along the canals, which run straight across the basin to the city and enter it at right angles to the river. From the water a newcomer sees the enclave first, a long wall on the island with the roofs of the palace rising behind it, and then the two cities on either side, so alike that the two skylines cannot be told apart from the water.
+Most travelers come to Zhowen by water. Grain barges, tribute boats and passenger boats come down the river and in along the canals, which run straight across the basin to the city and enter it at right angles to the river. From the water a newcomer sees the enclave first, a long wall on the island with the roofs of the palace rising behind it, and then the two cities on either side, so alike that the two skylines cannot be told apart from the water.
 
 At the quays the city's officers board each boat before anything comes ashore. They read every passenger's classification tablet, the _Zhau Mou_, and the cargo master's manifest, and a traveler outside the district where he is known by face goes no farther without a tablet that the registry can confirm ([[lore-castelaws|Caste Laws]]). A Tantsou merchant pays his dues at the quay and walks into the city. A foreign merchant is classified by the commercial officers of the quay, who issue him the _Shwonong Dou Chou_, the merchant transit document, for the length of his business. A foreign envoy waits on the boat, or in the customs hall, until the chancellery says where he is to be lodged.
 

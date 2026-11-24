@@ -568,6 +568,41 @@ data:
     - {form: "no", class: "n", field: "Needs and common things", gloss: "honey"}
     - {form: ran, class: "n", field: "Needs and common things", gloss: "lacquer"}
     - {form: shi, class: "n", field: "Needs and common things", gloss: "comb"}
+    - form: wongri
+      class: "n"
+      field: "Needs and common things"
+      gloss: "a sea sail; the seagoing merchant junk"
+      built: [wong, ri]
+    - form: kantong
+      class: "n"
+      field: "Needs and common things"
+      gloss: "a wide floor; the flat-bottomed sand ship"
+      built: [kan, tong]
+    - form: haimou
+      class: "n"
+      field: "Needs and common things"
+      gloss: "carrying wood; the tribute barge of the canals"
+      built: [hai, mou]
+    - form: tinmou
+      class: "n"
+      field: "Needs and common things"
+      gloss: "striking wood; the hide-covered charging boat"
+      built: [tin, mou]
+    - form: twenmou
+      class: "n"
+      field: "Needs and common things"
+      gloss: "walking wood; the treadmill-driven paddle-wheel ship"
+      built: [twen, mou]
+    - form: shouwou
+      class: "n"
+      field: "Needs and common things"
+      gloss: "a river hall; the many-storied tower ship"
+      built: [shou, wou]
+    - form: jari
+      class: "n"
+      field: "Needs and common things"
+      gloss: "a blade sail; the war junk"
+      built: [ja, ri]
     - form: gaihwo
       class: "n"
       field: "Senses and passions"
@@ -5143,6 +5178,7 @@ data:
     - {name: Censor of Purity, tongue: translation}
     - {name: Chaiwong, tongue: tanvuri, built: [chai, wong]}
     - {name: Chaizho, tongue: tanvuri, built: [chai, zho]}
+    - {name: Charging Boat, tongue: translation}
     - {name: Chengsou, tongue: tanvuri, built: [cheng, sou], gloss: the rising serpent}
     - {name: Chengzho, tongue: tanvuri, built: [cheng, zho]}
     - {name: Chyau Chai Tui Sen, tongue: tanvuri, built: [chyau, chai, tui, sen]}
@@ -5199,6 +5235,7 @@ data:
     - {name: Genhwen, tongue: tanvuri, built: [gen, hwen]}
     - {name: "Genhwen, The Minister of Entropy", tongue: translation}
     - {name: Governor of Zhowen, tongue: translation}
+    - {name: Haimou, tongue: tanvuri, built: [hai, mou]}
     - {name: Halei, tongue: tanvuri, built: [ha, lei]}
     - {name: Ha Lwo Zhau, tongue: tanvuri, built: [ha, lwo, zhau]}
     - {name: Handler, tongue: translation}
@@ -5229,10 +5266,12 @@ data:
     - {name: Iron Gate of the Winter Mountain, tongue: translation}
     - {name: Iron Spear Piercing the Clouds, tongue: translation}
     - {name: Jade Fan Dance, tongue: translation}
+    - {name: Jari, tongue: tanvuri, built: [ja, ri]}
     - {name: Jaunou, tongue: tanvuri, built: [jau, nou]}
     - {name: Jenshou, tongue: tanvuri, built: [jen, shou]}
     - {name: Jingdou, tongue: tanvuri, built: [jing, dou]}
     - {name: Jingdou Bridge, tongue: translation}
+    - {name: Kantong, tongue: tanvuri, built: [kan, tong]}
     - {name: Keeper of Leverage, tongue: translation}
     - {name: Keeper of the District Granaries, tongue: translation}
     - {name: Keeper of the Forms, tongue: translation}
@@ -5274,9 +5313,11 @@ data:
     - {name: Nwotsou Rwi, tongue: tanvuri, built: [nwo, tsou, rwi]}
     - {name: Nwowo, tongue: tanvuri, built: [nwo, wo]}
     - {name: "Nwowo, The Minister of Dissolution", tongue: translation}
+    - {name: Ocean Junk, tongue: translation}
     - {name: Officer, tongue: translation}
     - {name: Omen-Reader, tongue: translation}
     - {name: Outlaw, tongue: translation}
+    - {name: Paddle-Wheel Ship, tongue: translation}
     - {name: Personal Names, tongue: translation}
     - {name: Petitioner, tongue: translation}
     - {name: Philosophy of Leiwo, tongue: translation}
@@ -5321,6 +5362,7 @@ data:
     - {name: "Ritual: Zhinho", tongue: translation}
     - {name: "Ritual: Zhoushou Zho", tongue: translation}
     - {name: Road Assessor, tongue: translation}
+    - {name: Sand Ship, tongue: translation}
     - {name: Seal-Forger, tongue: translation}
     - {name: Seal-Holder, tongue: translation}
     - {name: Second, tongue: translation}
@@ -5334,6 +5376,7 @@ data:
     - {name: Shadow Folk, tongue: translation}
     - {name: Shadow Sect, tongue: translation}
     - {name: Shopkeeper, tongue: translation}
+    - {name: Shouwou, tongue: tanvuri, built: [shou, wou]}
     - {name: Shwonong, tongue: tanvuri, built: [shwo, nong]}
     - {name: Singwou, tongue: tanvuri, built: [sing, wou]}
     - {name: Speaker, tongue: translation}
@@ -5371,6 +5414,12 @@ data:
     - {name: The Bureau of Transformation, tongue: translation}
     - {name: The Bureau of Unraveling, tongue: translation}
     - {name: The Burning Dissolution, tongue: translation}
+    - {name: Tinmou, tongue: tanvuri, built: [tin, mou]}
+    - {name: Tower Ship, tongue: translation}
+    - {name: Tribute Barge, tongue: translation}
+    - {name: Twenmou, tongue: tanvuri, built: [twen, mou]}
+    - {name: War Junk, tongue: translation}
+    - {name: Wongri, tongue: tanvuri, built: [wong, ri]}
     - {name: the Caste-Registrar, tongue: translation}
     - {name: The Celestial Dragon, tongue: translation}
     - {name: The Chief Auditor of Souls, tongue: translation}
@@ -6415,6 +6464,20 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | Ha Lwo Zhau | Black Lotus Society (criminal organization) |
 | Ha Zhau     | Shadow Sect (subversive cult)               |
 | Nwotsou Rwi | Cult of the Forsaken                        |
+
+### Vessels
+
+Each kind of hull the yards build is named as one word. The two [[doc-vesseljunks|junks]] close on _ri_, sail, for the battened sail that makes a junk; the oared, towed and treadmill craft close on _mou_, wood, as _den mou_ names a chair by its use.
+
+| Tantsou | Literal Meaning | Vessel            |
+| ------- | --------------- | ----------------- |
+| Wongri  | Sea Sail        | Ocean Junk        |
+| Jari    | Blade Sail      | War Junk          |
+| Kantong | Wide Floor      | Sand Ship         |
+| Haimou  | Carrying Wood   | Tribute Barge     |
+| Tinmou  | Striking Wood   | Charging Boat     |
+| Twenmou | Walking Wood    | Paddle-Wheel Ship |
+| Shouwou | River Hall      | Tower Ship        |
 
 ### Sample Place Names
 

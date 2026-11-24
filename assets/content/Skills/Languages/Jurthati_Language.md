@@ -1958,6 +1958,12 @@ data:
       source: {kind: coined}
       concept: defecate
       built: [bu, jo]
+    - form: rija
+      class: "n"
+      field: "Needs and common things"
+      gloss: "a sail-blade; the war junk"
+      source: {kind: coined}
+      built: [ri, ja]
     - form: zenbu
       class: "n"
       field: "Needs and common things"
@@ -6968,6 +6974,7 @@ data:
     - {name: House Zenjai, tongue: translation}
     - {name: Iron Hall, tongue: translation}
     - {name: Iron Peak, tongue: translation}
+    - {name: Jari, tongue: exonym:tanvuri, built: [ja, ri]}
     - {name: Jenchai, tongue: kept, built: [jen, chai]}
     - {name: Jenchai Archipelago, tongue: translation}
     - {name: Jenchai Empire, tongue: translation}
@@ -6995,6 +7002,7 @@ data:
     - {name: Red Hall, tongue: translation}
     - {name: Red Peak, tongue: translation}
     - {name: Retainer, tongue: translation}
+    - {name: Rija, tongue: jurthati, built: [ri, ja]}
     - {name: Rinjai, tongue: jurthati, built: [rin, -jai]}
     - {name: Rinjai Domain, tongue: translation}
     - {name: Rinwu, tongue: jurthati, built: [rin, wu]}
@@ -7118,6 +7126,8 @@ The short examples use plain forms for acts of no standing. Relative standing go
 _Ku_ marks the doer and _un_ the object: _tsei ku jumo un zi_ means I find a thing. The final _zi_ has its established finding meaning. _Ri_ links a possessor to its noun: _mou ri ko_ names a bone of the body, and _tsei ri jumo_ my thing. These full expressions retain the distinct readings of words the islands say alike. _Fo_ names the nose and also the separate inherited word for conviction; confidence concerns what a person believes, while _he jumo_ names truth, what is actually the case.
 
 A sensory description can use an ordinary noun with _kai_, have: _rayo fai un kai_ means have a good smell, or be fragrant. _Mou rayo_, bodily good, means healthy; _mou rano_, bodily bad, means sick. The body-view expression _mou ri je_ names a sensory impression. Each expression's dictionary entry gives its actual meaning. In the ordinary phrase _jen chai_, nine mountains, the words stand apart; the joined place name _jenjai_ follows the voicing table.
+
+The [[doc-vesseljunks|war junk]] is _rija_, sail-blade, which turns round the two words of the mainland's _Jari_, blade-sail.
 
 A question closes on _bo_: _she ku tsin wan shu un kai bo_ asks how much water you have, and _she ku tsin wan ja un kai bo_ how many blades. _Ren tsure sui nou_ means more people than two; _ren_ supplies the count being compared and _nou_ the people counted. The ordinary words for ability, _yui_, permission, _yo_, possibility, _heno_, and duty, _jun_, keep those meanings distinct: _min yui un kai_ can sleep, _min yo un kai_ may sleep, _min heno un kai_ might sleep, and _min jun un kai_ must sleep.
 

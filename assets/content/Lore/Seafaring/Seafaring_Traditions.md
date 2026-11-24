@@ -35,11 +35,11 @@ Northern yards build clinker, each plank lapping the one beneath it, and rig squ
 
 ## Tantsou
 
-The war junk of the [[affiliation-tantsouempr|Empire of Tantsou]] is a merchant junk made lighter and sharper, manned by sailors and marines; it guards convoys and runs down pirates. On rivers and in still water the empire also uses the paddle-wheel ship, whose enclosed hull is driven by men walking treadmills that turn its wheels, so it makes way upstream or with no wind; its walkers count as oarsmen ([[doc-vesselcrew|Vessel Crew and Oarsmen]]).
+The war junk, the **Jari** (War Junk), is a merchant junk made lighter and sharper, manned by sailors and marines; it guards convoys and runs down pirates. The yards of the [[affiliation-tantsouempr|Empire of Tantsou]] and of the [[affiliation-jenchaiempr|Jenchai Empire]] both build it, and the Jenchai call it the Rija. On rivers and in still water the empire also uses the **Twenmou** (Paddle-Wheel Ship), whose enclosed hull is driven by men walking treadmills that turn its wheels, so it makes way upstream or with no wind; its walkers count as oarsmen ([[doc-vesselcrew|Vessel Crew and Oarsmen]]). The **Tinmou** (Charging Boat) is a rowed assault boat with no mast and rawhide over its upper works, built to close, grapple and board. The **Shouwou** (Tower Ship) is a fortress of several decks for river and estuary fighting, too top-heavy for open water.
 
-Two hulls carry the trade. The deep-sea junk has a V-shaped bottom, planks laid in several thicknesses and between three and five masts, and its rudder draws up for shallow water. The estuary junk settles level on the mud at low tide, which lets it into channels too shallow for a keeled hull.
+Three hulls carry the trade. The **Wongri** (Ocean Junk) has a V-shaped bottom, planks laid in several thicknesses and between three and five masts, and its rudder draws up for shallow water. The **Kantong** (Sand Ship) settles level on the mud at low tide, which lets it into channels too shallow for a keeled hull. The **Haimou** (Tribute Barge) carries the grain tax along the canals to [[place-zhowen|Zhowen]] and the garrisons of the north.
 
-Every [[lore-tantsouclt|Tantsou]] hull is divided by bulkheads into sealed compartments, hangs its rudder on the sternpost and is worked with long sculls over the stern. Every one under sail carries the battened rig and the grade step that comes with it ([[doc-vesselrigs|Vessel Rigs]]).
+Every [[lore-tantsouclt|Tantsou]] hull is divided by bulkheads into sealed compartments, hangs its rudder on the sternpost and is worked with long sculls over the stern. Every one under sail carries the battened rig and the grade step that comes with it ([[doc-vesselrigs|Vessel Rigs]]). Only the Wongri and the Jari are [[doc-vesseljunks|junks]].
 
 ## Vedyara
 
