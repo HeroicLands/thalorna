@@ -29,8 +29,17 @@ Hunters from the upper villages work the margin and do not go deep. The forest p
 
 Ascetics go in. It is one of the places a renunciant disappears into for years at a time, and the ones who come back are received with reverence and are not cross-examined. The accounts that reach the hostels come from them, at third hand, and are the least reliable of all.
 
+## Layers {#history}
+
+The forest has never been endowed, federated or cut. The pilgrim road runs up the river past its margin and does not enter it, and its boundary with [[place-bharavaban|Bharavaban]] downriver is the line of the last estate on the upper river. The tellings of the lights are old, and renunciants have gone in and come out again for as long as the hostels have fed them. Six years ago the surveyor [[being-vamikshaajar|Vamiksha Ajaran]] led a party of nine into the forest; two came out with her. She tells it only in the words she used on the first day, and the two who came out with her say less.
+
+## What Is There Now {#present}
+
+The hostel-keepers and the gatherers name two places in the forest. [[place-standlights|The Standing Lights]] is a ridge three or four days above the last estate on the river, where the pale lights are seen and which nobody has reached. An estate keeper has licensed gatherers toward it this season, and one band has not come back. [[place-hermitshollw|The Hermits' Hollow]] is a shaded valley on the forest's western side, up the stream the renunciants follow, and the one place in the forest they come back from with anything to tell. A renunciant who came down from it this spring has forty pilgrims waiting at a hostel for him to lead them in.
+
 ## See Also {#see-also}
 
 - [[place-estrnreach|The Eastern Reach]] · [[place-bharavarivr|the Bharava]]
 - [[place-bhrvdvstna|The Bharava-Devastena Hostels]]—the road that stops at the margin
 - [[place-bharavaban|Bharavaban]]—the endowed forest downriver, which begins where the last estate does
+- [[place-standlights|The Standing Lights]] · [[place-hermitshollw|the Hermits' Hollow]]—the two places in the forest that have names

@@ -64,6 +64,8 @@ They speak their own languages, [[skill-osketlng|Osket Language]] and [[skill-hv
 
 The trans-Grazian peoples number thirty thousand across the entire range. They live in villages of stacked stone built into south-facing slopes: [[place-oskhelt|Oskhelt]] above the greatest pass, [[place-tsokhar|Tsokhar]] in the western valleys, [[place-nurvhrn|Nurvharn]] under the Eastern Reach. They raise yaks and the small mountain horses bred to their altitudes, and spend about a third of every year hosting and guiding caravans through the passes whose keys they alone hold. Out of the trade season the lowlands forget them until the next caravan needs to cross.
 
+Each Osket lineage keeps a high pasture of its own. One of them, [[place-qorshel|Qorshel]], is a hanging valley on the Vedyari face west of [[place-forestnoroad|the Forest of No Road]], greener than its height allows, around a ring of junipers that the charcoal-burners of [[place-slvrgorges|the Silver Gorges]] have begun to cut.
+
 ## The Northern High Country
 
 In the high northern country where the arc begins, far above the last trees, the Hvarn drive their yaks to summer grazing that no caravan sees. Two places there have names among the herders: [[place-vrundelv|Vrundelv]], "the old door", a bridge of one stone span over a gorge to a meadow nothing else reaches, and [[place-mulvern|Mulvern]], "the empty house", a cliff above terraces and cairns that nobody farms.
@@ -127,6 +129,12 @@ Vedyari and Tellumi folk-tradition sometimes confuses the Grazian Mountains with
 
 [[place-vrundelv|Vrundelv]] · [[place-mulvern|Mulvern]]
 : The bridge and the empty house of the northern high country
+
+[[place-qorshel|Qorshel]]
+: The green valley of an Osket lineage on the Vedyari face
+
+[[place-grazruins|Ruins and Labyrinths of the Grazian Mountains]]
+: The cut passages and sealed halls under the glaciers
 
 [[place-drenavrspn|The Drenavar Spine]]
 : Distant Élavendren range, sometimes confused with the Grazian by folk-tradition (no actual connection)

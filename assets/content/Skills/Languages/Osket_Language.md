@@ -6759,6 +6759,7 @@ data:
         - "Tselbat"
         - "Nureg"
         - "Golkash"
+        - "Ghulmash"
       male:
         - "Tsum"
         - "Orghat"
@@ -6780,6 +6781,7 @@ data:
         - "Tselbat"
         - "Nureg"
         - "Golkash"
+        - "Ghulmash"
     hearth:
       - "Tsokhar"
       - "Oskhelt"
@@ -6789,6 +6791,7 @@ data:
       - "Utenkhar"
       - "Shomber"
       - "Randug"
+      - "Tsolang"
   sounds:
     edges:
       - {edge: openCluster, sounds: [sk, st, kr, gr, bl, tr]}
@@ -6815,6 +6818,7 @@ data:
     - {name: Fee-reckoner, tongue: translation}
     - {name: Fosterling, tongue: translation}
     - {name: Ghelmun, tongue: osket}
+    - {name: Ghulmash, tongue: osket}
     - {name: Ghomse, tongue: osket}
     - {name: Guide-mother, tongue: translation}
     - {name: Hearth-kin, tongue: translation}
@@ -6827,12 +6831,15 @@ data:
     - {name: Osket Language, tongue: translation}
     - {name: Osket Lexicon, tongue: translation}
     - {name: Oskhelt, tongue: osket}
+    - {name: Qorshel, tongue: osket}
     - {name: Road-holder, tongue: translation}
     - {name: Roadless, tongue: translation}
     - {name: Snow-watcher, tongue: translation}
     - {name: Speaker of the Cols, tongue: translation}
+    - {name: The Green, tongue: translation}
     - {name: The Osket, tongue: translation}
     - {name: Tsokhar, tongue: osket}
+    - {name: Tsolang, tongue: osket}
   retired:
     - {form: Tsök, instead: Tsum, why: "an Earth word, in the name lists"}
     - {form: Kelbü, instead: Nushang, why: "an Earth word, in the name lists"}
@@ -7395,9 +7402,9 @@ A personal name is a single word, most often two syllables, drawn from weather, 
 
 ### Name Lists
 
-**Given Names:** Tsum, Orghat, Nushang, Nashken, Urtal, Ghomse, Belkhat, Yulmum, Uchom, Rankel, Ghuqom, Shogme, Ubren, Kharsel, Yolte, Sunash, Omker, Tselbat, Nureg, Golkash
+**Given Names:** Tsum, Orghat, Nushang, Nashken, Urtal, Ghomse, Belkhat, Yulmum, Uchom, Rankel, Ghuqom, Shogme, Ubren, Kharsel, Yolte, Sunash, Omker, Tselbat, Nureg, Golkash, Ghulmash
 
-**Hearth Names:** Tsokhar, Oskhelt, Ghelmun, Burnakh, Qarsolt, Utenkhar, Shomber, Randug
+**Hearth Names:** Tsokhar, Oskhelt, Ghelmun, Burnakh, Qarsolt, Utenkhar, Shomber, Randug, Tsolang
 
 ## Osket Lexicon {#lexicon}
 

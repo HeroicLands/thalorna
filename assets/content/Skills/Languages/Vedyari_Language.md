@@ -8027,6 +8027,8 @@ data:
     - {name: The Drowned Capital, tongue: translation}
     - {name: The Eastern Reach, tongue: translation}
     - {name: The Forest of No Road, tongue: translation}
+    - {name: The Standing Lights, tongue: translation}
+    - {name: "The Hermits' Hollow", tongue: translation}
     - {name: girimarga, tongue: vedyari, built: [girka, margha]}
     - {name: gokshetra, tongue: vedyari, built: [gho, shetka]}
     - {name: The Gold Mountain, tongue: translation}
