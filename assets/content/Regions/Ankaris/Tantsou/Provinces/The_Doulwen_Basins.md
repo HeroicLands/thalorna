@@ -21,7 +21,7 @@ The Doulwen Basins are the land of [[affiliation-doulwenprv|Doulwen Province]], 
 
 ## The Land {#the-land}
 
-The basins are irrigated and grow most of the grain their city eats. Above them the mountains wall in the west of the empire, and beyond the passes lie the high deserts of the Khazrin. The [[lore-flkkhazar|Khazár Folk]] keep halls in the western mountains and seldom come out of them.
+The basins are irrigated and grow most of the grain their city eats. Above them the mountains wall in the west of the empire, and beyond the passes lie the high deserts of the Khazrin. The Elder enclaves lie along the north-western mountain line, and the [[lore-flkkhazar|Khazár Folk]], few in number, serve at [[place-tantsouwall|the wall]]'s gates, along the stretches near the capital and in the north.
 
 ## Peoples {#peoples}
 

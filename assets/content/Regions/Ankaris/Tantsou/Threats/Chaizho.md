@@ -38,3 +38,6 @@ The court is divided. One party holds that the northwest is the Elder peoples' l
 
 [[lore-elderraces|Elder Races]]
 : the Elder enclaves and their compact with the empire
+
+[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+: the wall the Elder peoples were among the first to raise

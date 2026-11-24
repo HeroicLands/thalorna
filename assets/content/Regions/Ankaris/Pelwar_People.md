@@ -31,7 +31,7 @@ None of this was remembered by the Pelwar as an event. It is not in their tradit
 particular villages over centuries and left no story. It is, however, why human communities turn up
 beside Khazari holds far earlier than any human migration accounts for—and
 [[lore-vardain|the Vardain]] of [[place-eilwith|Eilwìth]], who are not Pelwar but an older people, still farm for a hold and cannot say why they were taught to,
-and are the last such community.
+and are the oldest such tie still kept.
 
 ## What Drove Them: the Varkhad
 
