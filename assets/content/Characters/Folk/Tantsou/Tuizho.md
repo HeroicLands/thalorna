@@ -398,7 +398,7 @@ Tuizho (Iron Dragon) is the Prince of [[affiliation-kwozhengprv|Kwozheng Provinc
 
 ## The North and the Rival
 
-**The marches.** Beyond the marches lies the steppe of [[place-blackwilds|The Black Wilds]], and the riders of [[being-wogenhenzhuo|Wogen Henzhwo]] have come into the northern districts. His Commandant of the Marches holds the watchtowers and the garrison colonies, and his Keeper of the Muster Rolls keeps the rolls by which each colonist's land is held and each muster called.
+**The marches.** Beyond the marches lies the steppe of [[place-blackwilds|The Black Wilds]], and the riders of [[being-wogenhenzhuo|Wogen Henzhwo]]'s [[affiliation-hwenhatoucnf|Hwenhatou Confederation]] have come into the northern districts. His Commandant of the Marches holds the watchtowers and the garrison colonies, and his Keeper of the Muster Rolls keeps the rolls by which each colonist's land is held and each muster called.
 
 **The rival.** He and the Prince of [[affiliation-mwonouprv|Mwonou Province]] are bitter rivals, over an old marriage between their houses and an heir who died. In [[lore-weizhairui|The Jade Fan Dance]] (_Wei Zhai Rwi_) each takes the other's loss as his own gain.
 

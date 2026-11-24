@@ -30,6 +30,10 @@ The [[affiliation-tantsouempr|Empire of Tantsou]]'s official position is that th
 
 This is [[affiliation-hvarnguides|Hvarn ground]]. The Hvarn work the eastern crossings as [[affiliation-osketguides|the Osket]] work the western, are a smaller people, and are on noticeably better terms with the temple-republics than with the kingdom—[[place-sangrafort|the Sangra-fort]] two passes east is supplied through Hvarn hands, and everyone on both sides finds it convenient not to discuss what that costs.
 
+## Converging Interests {#present}
+
+Three interests meet at the door. The [[affiliation-tantsouempr|Empire of Tantsou]] calls the shrenis a trade of no administrative consequence and yet registers every traveler who comes through, while the Vedyari are shown nothing of the register. The [[affiliation-hvarnguides|Hvarn]] guide the crossing on better terms with the temple-republics than with the kingdom, and [[place-sangrafort|the Sangra-fort]] is supplied through their hands. Each side keeps the road open for its own reason, and everyone on it finds it convenient not to discuss what that costs.
+
 ## Hooks {#hooks}
 
 - **Instruments for the far side.** A reckoner of the [[affiliation-ganokashalda|Reckoners' College]] must take a case of instruments over to a colleague beyond the wall, and the case will not survive a fall. He asks the party to carry it with him and bring it to the way-station whole.
@@ -42,3 +46,4 @@ This is [[affiliation-hvarnguides|Hvarn ground]]. The Hvarn work the eastern cro
 - [[affiliation-hvarnguides|The Hvarn]] · [[affiliation-tantsouempr|Empire of Tantsou]]
 - [[scenario-wallopenwks|The Weeks the Wall Is Open]]
 - [[scenario-doornvrexst|A Door That Has Never Existed]]
+- [[scenario-pgrgstrhld|A Page the Register Can Hold]]

@@ -4,7 +4,7 @@ name: {full: Rinho Dauweng}
 type: lore
 subType: deity
 description: "Lord of Wood in the Tengwou Rong Lei—one of the five Elemental Lords, holding wood as an office of the celestial bureaucracy."
-tags: [draft]
+tags: []
 data: {packFolder: deitiestengwouronglei, culture: tantsouclt}
 ---
 

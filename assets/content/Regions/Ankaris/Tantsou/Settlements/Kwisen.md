@@ -28,7 +28,7 @@ Inside the gate everything happens in order. Porters in undyed hemp set a travel
 
 The station feeds every traveler who comes down the pass and houses him for as long as the weather requires. Its [[lore-tanchei|Tanchei]] classify each one and enter him in a register that has been kept without a gap for four hundred years, and no Vedyari visitor is ever shown it. A merchant carrying foreign coin is told here what it is worth in the empire, and the figure is not negotiable.
 
-The [[affiliation-tantsouempr|Empire of Tantsou]] holds that the Vedyari shrenis are a tributary trade of no administrative consequence, and its frontier officers keep an exact register of every Vedyari caravan all the same. They send an escort to meet a party at the col and not a step sooner, and [[affiliation-hvarnguides|the Hvarn]] who guide travelers over the pass go no farther than the station, where they are fed at a table of their own. The Tanchei who receives foreigners is [[being-kwisenregdtr|Second Daughter of the Registrar of the Clan of Moon Rises Over Still Water]], near [[place-weichai|Weichai]]. She names herself by her description and opens a fresh page for each newcomer.
+The [[affiliation-tantsouempr|Empire of Tantsou]] holds that the Vedyari shrenis are a tributary trade of no administrative consequence, and its frontier officers keep an exact register of every Vedyari caravan all the same. They send an escort, led by [[being-kwisenescrt|Third Son of the Gate Warden of the Clan of Red Gate in Autumn]], to meet a party at the col and not a step sooner, and [[affiliation-hvarnguides|the Hvarn]] who guide travelers over the pass go no farther than the station, where they are fed at a table of their own. The Tanchei who receives foreigners is [[being-kwisenregdtr|Second Daughter of the Registrar of the Clan of Moon Rises Over Still Water]], near [[place-weichai|Weichai]]. She names herself by her description and opens a fresh page for each newcomer.
 
 ## Hooks {#hooks}
 
@@ -52,3 +52,6 @@ The [[affiliation-tantsouempr|Empire of Tantsou]] holds that the Vedyari shrenis
 
 [[scenario-doornvrexst|A Door That Has Never Existed]]
 : a scenario in which a party passes the Scholars' Door into Tantsou
+
+[[scenario-pgrgstrhld|A Page the Register Can Hold]]
+: an adventure in which the registrar's daughter must hold an account of a party with no caste before it goes down the valley

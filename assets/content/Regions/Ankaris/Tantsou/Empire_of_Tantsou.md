@@ -77,7 +77,7 @@ data:
   economy: []
   lore: [humanflk]
   parents: []
-  relations: {tengwouronglei: aligned, kingdmdnvr: unaligned}
+  relations: {tengwouronglei: aligned, kingdmdnvr: unaligned, hwenhatoucnf: nemesis}
   packFolder: tantsou
   culture: tantsouclt
 sohl: {system: {commonSkills: [tantsoulng]}}
@@ -132,7 +132,7 @@ The Princes stand in no fixed order. The Prince of [[affiliation-wongsenprv|Wong
 
 The south is hungry. Its rice harvests have failed several years running, smaller rivers are dry in their beds, and in some districts the [[lore-nouwen|Nouwen]] have risen against their lords and the magistrates who collect the tribute. The [[lore-tanchei|Tanchei]] are divided over the cause, between a breakdown of classification in the domains of Earth and Water and a weakening of the [[lore-mandatehvn|Mandate of Heaven]], a reading no scholar puts in writing. In some corners of the court the quiet question is whether the Emperor's filing is still in order.
 
-Every frontier is pressed at once. The steppe warlord [[being-wogenhenzhuo|Wogen Henzhwo]] holds the tribes of [[place-blackwilds|the Black Wilds]] together under one banner, and his riders are in the northern districts. The general [[being-tuijawengyan|Tuija Wengyan]] is in open revolt with disaffected soldiers and minor Zhazho nobles behind him, and his forces hold real gains in the border provinces while the alliance that carried them there begins to crack. The house of [[affiliation-yanchaizhao|Yanchai Zhau]], brought low in the court's game, has a new head who has vowed to restore it by any means that work. In the remote northwest the [[lore-chaizho|Chaizho]] range through the country the great earthquake broke, and the [[lore-flksenali|Senali]] and [[lore-flkkhazar|Khazari]] hold them there at heavy cost. Across the eastern strait [[affiliation-jenchaiempr|Jenchai]], in practice a sovereign kingdom, raids the eastern and southern coasts and chokes the coastal trade.
+Every frontier is pressed at once. The steppe warlord [[being-wogenhenzhuo|Wogen Henzhwo]] holds the tribes of [[place-blackwilds|the Black Wilds]] together under one banner, the [[affiliation-hwenhatoucnf|Hwenhatou Confederation]], and his riders are in the northern districts. The general [[being-tuijawengyan|Tuija Wengyan]] is in open revolt with disaffected soldiers and minor Zhazho nobles behind him, and his forces hold real gains in the border provinces while the alliance that carried them there begins to crack. The house of [[affiliation-yanchaizhao|Yanchai Zhau]], brought low in the court's game, has a new head who has vowed to restore it by any means that work. In the remote northwest the [[lore-chaizho|Chaizho]] range through the country the great earthquake broke, and the [[lore-flksenali|Senali]] and [[lore-flkkhazar|Khazari]] hold them there at heavy cost. Across the eastern strait [[affiliation-jenchaiempr|Jenchai]], in practice a sovereign kingdom, raids the eastern and southern coasts and chokes the coastal trade.
 
 :::secret {title="Yanchai Zhau and the Black Lotus"}
 The new head of Yanchai Zhau has staked what is left of the house's standing on a secret alliance with the [[affiliation-haluozhao|Ha Lwo Zhau]], the Black Lotus Society, and most of his own council does not know of it.
@@ -282,6 +282,9 @@ The newest entries are the Retired Emperor's withdrawal from the throne and the 
 
 [[being-wogenhenzhuo|Wogen Henzhwo]]
 : the steppe warlord on the northern frontier
+
+[[affiliation-hwenhatoucnf|Hwenhatou Confederation]]
+: the steppe tribes sworn to him
 
 [[being-tuijawengyan|Tuija Wengyan]]
 : the condemned general and his revolt

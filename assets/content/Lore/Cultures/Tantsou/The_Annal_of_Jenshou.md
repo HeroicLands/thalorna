@@ -4,7 +4,7 @@ name: {full: The Annal of Jenshou, tant: [Jenshou Nye Chou]}
 type: lore
 subType: literature
 description: "The first nine years of a district annal kept under the Houweng Emperor by the Tanchei recorder of Jenshou, a river town of nine channels: the corvée taken upriver to raise a Prince's ancestral hall, the dikes left unmended, the flood of the seventh year written with the verb the Prince's office required and the one it did not, the magistrate given Rwising, the recorder's note at the end of the reign, and the two readings the schools still argue."
-tags: [draft, tantsou]
+tags: [tantsou]
 data:
   culture: tantsouclt
   packFolder: settinglore
@@ -137,7 +137,7 @@ A new magistrate came from the provincial seat in Jwiyou: [Fourth Son of the Tre
 
 The four hundred and six tablets of the lines with no heir are fed at the district hall from the district stores, at every death-day and at the Festival of the Dead. The cost is entered to the district.
 
-The breach of the Tablet Bank was closed in Touyou by the corvée of Jenshou and of the two neighbouring districts, two thousand men for sixty days.
+The breach of the Tablet Bank was closed in Touyou by the corvée of Jenshou and of the two neighboring districts, two thousand men for sixty days.
 
 The upper terraces were drained in Shouyou. Their boundary-stones were set again by the Tanchei from the district register, which was kept in the lower town and was not reached. Not one terrace was lost to the register.
 

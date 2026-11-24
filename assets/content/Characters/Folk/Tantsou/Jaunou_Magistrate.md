@@ -31,6 +31,11 @@ data:
     complexion: []
     extra_features: []
   packFolder: ankaristantsou
+  items:
+    - {key: slkrobe, model: armorgear-slkrobe, name: "Silk robe of his office", kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: sealsignat, model: miscgear-sealsignat, name: "The magistrate's seal", kind: miscgear}
+    - {key: scribekit, model: miscgear-scribekit, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
@@ -62,6 +67,10 @@ sohl:
     - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 20}}
     - {model: skill-tantsoulng, system: {masteryLevelBase: 84}}
     - {model: skill-tengchouscript, system: {masteryLevelBase: 52}}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: sealsignat, model: sohl-sohl-miscgear-sealsignat}
+    - {key: scribekit, model: sohl-sohl-miscgear-scribekit}
   system:
     body:
       structure:

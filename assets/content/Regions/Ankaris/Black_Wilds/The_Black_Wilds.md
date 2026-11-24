@@ -10,6 +10,7 @@ data:
   lore: [humanflk, grukarfolk]
   parents: [ankrscntnnt]
   population: {actual: null}
+  government: hwenhatoucnf
   borders: [{to: tantsouregin, bearing: S}, {to: kwozhngmrch, bearing: S}]
   packFolder: tantsou
   culture: henhatoutsouclt
@@ -29,7 +30,7 @@ The people of the wilds are the [[lore-henhatoutsouclt|Hwenhatoutsou]], the Trib
 
 ## Who Holds It {#who-holds-it}
 
-No register of the empire covers the wilds. The tribes swear to [[being-wogenhenzhuo|Wogen Henzhwo]], the Master Tiger of the Steppes, as their single war-leader, in the [Hwenhatou confederation]{.name data-type="affiliation/polity"}. He began as the war-leader of a minor tribe and bound the others to him by marriage, by treaty and by slaughter. The confederation is held together by Wogen himself and by plunder.
+No register of the empire covers the wilds, so how many people they hold is unknown. The tribes swear to [[being-wogenhenzhuo|Wogen Henzhwo]], the Master Tiger of the Steppes, as their single war-leader, in the [[affiliation-hwenhatoucnf|Hwenhatou Confederation]]. He began as the war-leader of a minor tribe and bound the others to him by marriage, by treaty and by slaughter. The confederation is held together by Wogen himself and by plunder.
 
 ## Current Situation {#present}
 
@@ -48,7 +49,7 @@ Wogen talks in the clipped trade-speech of the frontier markets; the notes name 
 Wogen's riders in the northern districts, and the raids of the Grukar nests.
 
 :::secret {title="What the notes leave open"}
-How far the wilds run to the north and west, how many people they hold, the names of the tribes, their chiefs, wells and camps, and where Wogen keeps his own camp are the game master's choice. So is whether the wilds reach the Grukar country of [[place-grkrhlmrgn|Grukarholm]]; the notes state only the border with Tantsou.
+How far the wilds run to the north and west, how many people they hold, the names of the tribes, their chiefs, wells and camps, and where Wogen keeps his own camp are the Game Master's choice. So is whether the wilds reach the Grukar country of [[place-grkrhlmrgn|Grukarholm]]; the notes state only the border with Tantsou.
 :::
 
 ## History {#history}
@@ -62,6 +63,9 @@ For generations the tribes of the wilds fought one another over grazing, wells a
 
 [[being-wogenhenzhuo|Wogen Henzhwo]]
 : the Master Tiger of the Steppes, the tribes' war-leader
+
+[[affiliation-hwenhatoucnf|Hwenhatou Confederation]]
+: the tribes sworn to Wogen, who govern the wilds
 
 [[place-kwozhngmrch|The Kwozheng Marches]] and [[affiliation-kwozhengprv|Kwozheng Province]]
 : the fortified northern marches the riders raid

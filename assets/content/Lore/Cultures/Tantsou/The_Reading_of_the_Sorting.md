@@ -4,7 +4,7 @@ name: {full: The Reading of the Sorting}
 type: lore
 subType: literature
 description: "The recitation a Tanchei reads in every audit hall of the empire on the first day of Jwiyou, before the year's ledger is opened: the world before the first distinction, the stroke, the five and the eight, the appointment of the gods and the first Emperor, the five who refused, how the world would end if the sorting failed, and why it is the hall's to keep."
-tags: [draft, tantsou]
+tags: [tantsou]
 data:
   culture: tantsouclt
   packFolder: settinglore

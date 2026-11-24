@@ -6,7 +6,7 @@ name:
 type: lore
 subType: literature
 description: "The last record a Wohou administrator of the Jenshou district wrote before Tseising, when his Prince ordered the village of Rinnou entered whole as Nwitsou and its tablets broken: his account of himself and of his name, the order quoted entire, the nine readings and the Tanchei's answer, the shelves of Rinnou counted, the question of jurisdiction he set out instead of a refusal, his dispositions, and the one request the Prince granted."
-tags: [draft, tantsou]
+tags: [tantsou]
 data:
   culture: tantsouclt
   packFolder: settinglore

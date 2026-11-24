@@ -73,6 +73,10 @@ archetypeAbsences:
         commoner: "No commoner is cast in a Jenchai scenario; the Nouwen villages stand in the domains' tables and prose, and every cast is drawn from a lord's household or the court."
         entertainer: "No note names a performer in Jenchai, and no scenario casts one."
         guildsperson: "No note names a guild in Jenchai; trade runs through merchant lineages and trading-house alliances under each Dauzhwo, and none is cast in a scenario."
+    tantsou:
+        artisan: "No artisan is cast in a Tantsou scenario; the Tsaihwo are the caste of artisans, and the notes describe their craft and workshops without casting a craftsman."
+        entertainer: "No note names a performer in Tantsou, and no scenario casts one."
+        guildsperson: "No guild is cast in a Tantsou scenario; the Tsaihwo district guilds register their members' craft, and no note or scenario gives a guild's agent a part."
 
 # Addresses of affiliations whose shared governance block an owner ruling keeps.
 sharedGovernance:

@@ -25,7 +25,7 @@ data:
     - mwonouprv
     - kwozhengprv
     - vylarinmpr
-  follows: [embsydnvrtantsou]
+  follows: [pgrgstrhld]
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
@@ -212,3 +212,9 @@ Whatever the ending, carry three things forward: where the papers are, who in th
 
 [[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]
 : the embassy and its household
+
+[[scenario-doornvrexst|A Door That Has Never Existed]]
+: the campaign frame for the embassy's eastern leg
+
+[[scenario-pgrgstrhld|A Page the Register Can Hold]]
+: the adventure at Kwisen that comes before the filing

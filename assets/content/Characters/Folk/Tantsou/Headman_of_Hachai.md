@@ -30,6 +30,12 @@ data:
     complexion: []
     extra_features: []
   packFolder: ankaristantsou
+  items:
+    - {key: rtunic, model: armorgear-rtunic, kind: clothing}
+    - {key: rtrsr, model: armorgear-rtrsr, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: clothing}
+    - {key: kni, model: weapongear-kni, name: "Knife", kind: weapon}
 sohl:
   items:
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 13}}
@@ -61,6 +67,11 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 34}}
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 34}}
     - {model: skill-tantsoulng, system: {masteryLevelBase: 68}}
+    - {key: rtunic, model: sohl-sohl-armorgear-rtunic}
+    - {key: rtrsr, model: sohl-sohl-armorgear-rtrsr}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
   system:
     body:
       structure:

@@ -12,7 +12,7 @@ data:
   occupation: Ship Captain
   lore: []
   culture: tantsouclt
-  homes: []
+  homes: [wongsen]
   affiliations: {tantsouempr: {rank: 5}}
   socialTies: {}
   gender: male

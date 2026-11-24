@@ -4,7 +4,7 @@ name: {full: The Tribes of the Black Wilds, tant: [Hwenhatoutsou]}
 type: lore
 subType: culture
 description: "The Hwenhatoutsou—the steppe tribes of the Black Wilds north of the Empire of Tantsou."
-tags: [draft]
+tags: []
 data:
   lang: tant
   appearanceProfile:
@@ -30,6 +30,6 @@ For generations the tribes fought one another over grazing, wells and blood debt
 
 ## The Master Tiger's confederation
 
-[[being-wogenhenzhuo|Wogen Henzhwo]], the Master Tiger of the Steppes, began as the war-leader of a minor tribe and bound the others to him by marriage, by treaty and by slaughter. The tribes now swear to him as their single war-leader. Their horsemen ride in disciplined companies, strike supply lines and outposts rather than towns, and withdraw before an imperial army can force a battle.
+[[being-wogenhenzhuo|Wogen Henzhwo]], the Master Tiger of the Steppes, began as the war-leader of a minor tribe and bound the others to him by marriage, by treaty and by slaughter. The tribes now swear to him as their single war-leader, in the [[affiliation-hwenhatoucnf|Hwenhatou Confederation]]. Their horsemen ride in disciplined companies, strike supply lines and outposts rather than towns, and withdraw before an imperial army can force a battle.
 
-Hard winters and failing grazing drove the tribes south, and their riders raid the empire's northern provinces. The confederation is held together by Wogen himself and by plunder.
+Hard winters and failing grazing drove the tribes south, and their riders raid the empire's northern districts. The confederation is held together by Wogen himself and by plunder.

@@ -54,7 +54,7 @@ data:
   economy: []
   lore: [humanflk]
   parents: [tantsouempr]
-  relations: {tantsouempr: aligned, mwonouprv: rival}
+  relations: {tantsouempr: aligned, mwonouprv: rival, hwenhatoucnf: nemesis}
   packFolder: tantsou
   culture: tantsouclt
 sohl: {system: {commonSkills: [tantsoulng]}}
@@ -66,7 +66,7 @@ The soldier-settlers of the marches are of the [[lore-tantsoumrchclt|Tantsou Fro
 
 ## Current Situation {#present}
 
-The steppe beyond the marches is united under [[being-wogenhenzhuo|Wogen Henzhwo]], and his riders are in the northern districts. The empire treats Grukar raids as a nuisance; the Black Wilds under Wogen are another matter.
+The steppe beyond the marches is united under [[being-wogenhenzhuo|Wogen Henzhwo]] in the [[affiliation-hwenhatoucnf|Hwenhatou Confederation]], and his riders are in the northern districts. The empire treats Grukar raids as a nuisance; the Black Wilds under Wogen are another matter.
 
 The Prince of Kwozheng and the Prince of [[affiliation-mwonouprv|Mwonou Province]] are bitter rivals, and in the [[lore-weizhairui|Wei Zhai Rwi]] each takes the other's loss as his own gain.
 
@@ -88,6 +88,9 @@ The marches sing of the Grukar. [[lore-unnumberedtwr|The Song of the Unnumbered 
 
 [[affiliation-mwonouprv|Mwonou Province]]
 : the rival province
+
+[[affiliation-hwenhatoucnf|Hwenhatou Confederation]]
+: the steppe tribes whose riders raid the province
 
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : the empire the province belongs to

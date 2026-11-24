@@ -3,7 +3,8 @@ shortcode: toradhtaravren
 name: {full: Dame Torad Taravren, given: Torad, clan: Taravren}
 type: being
 subType: character
-tags: [draft, embassy-to-tantsou]
+description: "Knight-Captain of the Order of the Just Blade, who holds the Dúnavarre embassy’s compound for the ambassador and gives him military counsel."
+tags: [embassy-to-tantsou]
 data:
   templatePriority: null
   archetypes: [warrior, courtier]
@@ -15,6 +16,13 @@ data:
   gender: female
   species: humanflk
   packFolder: adventures
+  items:
+    - key: mhbk
+      model: armorgear-mhbk
+      name: "Mail hauberk marked with the Order's badge"
+      kind: armor
+    - {key: brdswd, model: weapongear-brdswd, name: "Broadsword", kind: weapon}
+    - {key: dgr, model: weapongear-dgr, name: "Dagger", kind: weapon}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -386,3 +394,14 @@ Dame Torad Taravren wears her armor as though she has slept in it, with the Orde
 :::secret {title="What the referee knows"}
 Secretly despises that crusade, holding it contrary to the true principles of the Order and of the [[affiliation-ardavon|Faith of Árdavon]]—and may act on her own conscience rather than the Order's official stance.
 :::
+
+## Plot Hooks
+
+The warning
+: Torad asks the party to hear the [[affiliation-alndnwrdns|Áelendan Wardens]]’ position directly before anyone acts in the embassy’s name. She has reason to distrust a commission that treats sacred ground as empty country ([[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]).
+
+The compound gate
+: At [[place-zhowen|Zhowen]], Torad asks the party to receive the chancellery’s clerks at the gate in the ambassador’s name, and to let no paper leave without her word ([[scenario-flngnwrgn|A Filing in the New Reign]]).
+
+The way down
+: At [[place-kwisen|Kwisen]], Torad asks the party to bring the embassy to the place where the escort waits, with the Reach-guide’s leave, and to keep the ambassador from waiting on a thaw ([[scenario-pgrgstrhld|A Page the Register Can Hold]]).

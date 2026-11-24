@@ -4,7 +4,7 @@ name: {full: Tanzho}
 type: lore
 subType: deity
 description: "The First Classifier of the Tengwou Rong Lei, who set the categories the celestial bureaucracy sorts the world into."
-tags: [draft]
+tags: []
 data: {packFolder: deitiestengwouronglei, culture: tantsouclt}
 ---
 

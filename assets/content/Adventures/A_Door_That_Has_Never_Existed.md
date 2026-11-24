@@ -23,6 +23,13 @@ data:
     - kwisenregdtr
     - chnclryclrk
     - brdgofcrzhwn
+    - kwisenescrt
+    - vrndzlbrn
+    - frgnmrchntwng
+    - wrdnfrgnqrtr
+    - shwnngfctrwng
+    - tbltsllrwng
+    - fnrlshpkprwng
   factions:
     - kingdmdnvr
     - dunavarsynod
@@ -97,15 +104,15 @@ The stakes are whether the embassy is heard at all, whether the Kingdom of Dúna
 : Courteous, exact and without deference to a foreigner, she receives every newcomer down the pass and opens a fresh page for each in the station's register.
 
 The bodies
-: [[affiliation-hvarnguides|The Hvarn]], who guide travelers over the pass and go no farther than the station; the clerks of the chancellery, one of whom is a [[being-chnclryclrk|Chancellery Clerk of Zhowen]], who receive papers, carry them between the halls and are for sale; the officers at each bridge foot, such as the [[being-brdgofcrzhwn|Bridge Officer of Zhowen]], who keep the day's list; the Speaker, heard only by those the day's list names, whom this frame never puts before the party; the Warden of the Foreign Quarter of Wongsen, Rinzho's officer, who keeps its walls and gates and watches the merchants inside them; and [[affiliation-haluozhao|the Black Lotus Society]], which trades in forged tablets.
+: [[affiliation-hvarnguides|The Hvarn]], who guide travelers over the pass under Reach-guides such as [[being-vrndzlbrn|Vurn Dzelbern]] and go no farther than the station; the clerks of the chancellery, one of whom is a [[being-chnclryclrk|Chancellery Clerk of Zhowen]], who receive papers, carry them between the halls and are for sale; the officers at each bridge foot, such as the [[being-brdgofcrzhwn|Bridge Officer of Zhowen]], who keep the day's list; the Speaker, heard only by those the day's list names, whom this frame never puts before the party; the Warden of the Foreign Quarter of Wongsen, [[being-wrdnfrgnqrtr|Second Son of the Tower Captain of the Clan of Banners Above the Harbor, near Wongsen]], Rinzho's officer, who keeps its walls and gates and watches the merchants inside them; the people of the quarter, among them the Shwonong factor [[being-shwnngfctrwng|First Daughter of the Grain-Factor of the Clan of Scales at the Open Door, near Wongsen]], who buys the foreign merchants' goods, the seller [[being-tbltsllrwng|Ninth Bondman of the Rope-Maker of the Clan of Tar on the Slipway, near Wongsen]], who works the court behind the warehouses, and the funeral-goods shopkeeper [[being-fnrlshpkprwng|Third Daughter of the Spirit-Paper Seller of the Clan of Paper Boats on the Tide, near Wongsen]], whose shop stands at the mouth of that court; and [[affiliation-haluozhao|the Black Lotus Society]], which trades in forged tablets.
 
 ## The Arcs
 
 The frame follows the embassy from the pass to the court's verdict, and each arc turns one strand of the game.
 
-1. **The door.** The leg as this frame runs it brings the embassy down by the Scholars' Door to Kwisen, where the Hvarn turn back, the escort meets it at the col and not a step sooner, and the registrar's daughter opens the first page the empire holds on it. The Kwisen adventure, set at [[place-kwisen|Kwisen]], runs the station's two hooks: weather shuts the col with the embassy still above the place where the escort waits, and the registrar's daughter finds a party with no caste to answer with and wants an account of it that her register can hold. Below the station the road runs down into [[place-mwonouplnd|The Mwonou Uplands]], Hozho's terrace country, where the southern famine has its heart.
+1. **The door.** The leg as this frame runs it brings the embassy down by the Scholars' Door to Kwisen, where the Hvarn turn back, the escort under [[being-kwisenescrt|Third Son of the Gate Warden of the Clan of Red Gate in Autumn]] meets it at the col and not a step sooner, and the registrar's daughter opens the first page the empire holds on it. [[scenario-pgrgstrhld|A Page the Register Can Hold]], set at [[place-kwisen|Kwisen]], runs the station's two hooks: weather shuts the col with the embassy still above the place where the escort waits, and the registrar's daughter finds a party with no caste to answer with and wants an account of it that her register can hold. Below the station the road runs down into [[place-mwonouplnd|The Mwonou Uplands]], Hozho's terrace country, where the southern famine has its heart.
 2. **The filing.** In Zhowen the embassy lodges in the compound the chancellery assigns it and keeps to it until it is summoned. [[scenario-flngnwrgn|A Filing in the New Reign]] runs its papers: two clerks come to the compound gate for them, each for a different hall, the roll for the next hearing closes at sunset on the fourth day, and the hearing itself is held at the bridge foot and the gate-court.
-3. **The port.** [[place-wongsen|Wongsen]] is Rinzho's seat and port, and its foreign merchants live in [[place-wongsenfrgnqrtr|The Foreign Quarter of Wongsen]], walled, watched and taxed. The Wongsen adventure, set in the quarter, runs its two hooks: a foreign merchant's trading classification is about to run out with his goods still in a warehouse, and a tablet bought from the wrong person in the quarter is either a forgery or a trap. A party of the embassy in Wongsen is in the port of the strongest of the three Princes who want the embassy turned, and it carries whatever classification the embassy holds by then.
+3. **The port.** [[place-wongsen|Wongsen]] is Rinzho's seat and port, and its foreign merchants live in [[place-wongsenfrgnqrtr|The Foreign Quarter of Wongsen]], walled, watched and taxed. [[scenario-tbltwrnghnd|A Tablet from the Wrong Hand]], set in the quarter, runs its two hooks: a foreign merchant, [[being-frgnmrchntwng|First Son of the Merchant of No Clan, from Beyond the Border]], finds his trading classification about to run out with his goods still in a warehouse, and a tablet bought from the wrong person in the quarter is either a forgery or a trap. A party of the embassy in Wongsen is in the port of the strongest of the three Princes who want the embassy turned, and it carries whatever classification the embassy holds by then.
 4. **The game.** Through every arc the Princes' households move. Chengzho's officers want the embassy's papers in the right hall and its people classified high. The other three households pay for a misfiled paper, a delayed classification or a shaming at the bridge foot. Rinzho's rice barges wait at a canal lock above Zhowen on a question of seals, and the price of rice moves on both shores while they wait.
 
 The door comes before the filing, because the embassy reaches Zhowen by the road down from Kwisen. The port runs whenever the embassy has a classification to travel on and a reason to send someone to the coast, before the hearing or after it. Each arc moves the game whether or not the party finishes it.
@@ -131,7 +138,7 @@ The door comes before the filing, because the embassy reaches Zhowen by the road
 
 **The households.** A household of one of the three Princes pays a clerk of the chancellery to collect the embassy's papers for the hall of the old era. Loris has never dealt with that household; the two serve one end without knowing each other.
 
-This frame does not say whether the court grants direct relations, whether the Emperor's decree classifies the embassy, or which Prince gains by the outcome. Nor does it say whether Rinzho's sorcerers are behind the drought, which nobody has proven. The referee decides, and may let the party's actions decide.
+This frame does not say whether the court grants direct relations, whether the Emperor's decree classifies the embassy, or which Prince gains by the outcome. Nor does it say whether Rinzho's sorcerers are behind the drought, which nobody has proven. The Game Master decides, and may let the party's actions decide.
 
 ## The Hooks It Gathers {#hooks}
 
@@ -157,6 +164,15 @@ This frame does not say whether the court grants direct relations, whether the E
 
 [[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]
 : the embassy, its household and the leg before this one
+
+[[scenario-pgrgstrhld|A Page the Register Can Hold]]
+: the door, at the way-station of Kwisen
+
+[[scenario-flngnwrgn|A Filing in the New Reign]]
+: the filing, at the chancellery in Zhowen
+
+[[scenario-tbltwrnghnd|A Tablet from the Wrong Hand]]
+: the port, in the Foreign Quarter of Wongsen
 
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : the throne, the Princes and the Speaker

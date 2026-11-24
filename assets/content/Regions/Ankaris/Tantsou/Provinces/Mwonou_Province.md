@@ -44,6 +44,8 @@ data:
       Warden of the Southern Passes: >-
         Wohou officer commanding the garrisons on the long passes across the Grazian Mountains toward Vedyara.
       Magistrate: Reads the Teng Lou in the Prince's courts and hears the famine petitions of a district.
+      Escort Captain: >-
+        Wohou officer commanding the soldiers who meet every party at the col below Kwisen and walk it down to the station.
   seat: mwonou
   population: {actual: 26000000}
   territorial_population: {actual: 26000000}

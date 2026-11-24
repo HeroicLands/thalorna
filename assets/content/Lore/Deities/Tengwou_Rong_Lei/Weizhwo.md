@@ -4,7 +4,7 @@ name: {full: Weizhwo}
 type: lore
 subType: deity
 description: "The Jade Sovereign of the Tengwou Rong Lei, at the head of the celestial bureaucracy and answerable for its whole administration."
-tags: [draft]
+tags: []
 data: {packFolder: deitiestengwouronglei, culture: tantsouclt}
 ---
 

@@ -3,7 +3,8 @@ shortcode: arrenthabavel
 name: {full: Sir Arren Thábavel, given: Arren, clan: Thábavel}
 type: being
 subType: character
-tags: [draft, embassy-to-tantsou]
+description: "Knight and bodyguard to the ambassador of Dúnavarre’s embassy to Tantsou, champion of the Royal Kelivren Tournament of Chivalry."
+tags: [embassy-to-tantsou]
 data:
   templatePriority: null
   archetypes: [warrior]
@@ -15,6 +16,10 @@ data:
   gender: male
   species: humanflk
   packFolder: adventures
+  items:
+    - {key: mhbk, model: armorgear-mhbk, name: "Mail hauberk", kind: armor}
+    - {key: cscoat, model: armorgear-cscoat, name: "Bright tournament surcoat", kind: armor}
+    - {key: brdswd, model: weapongear-brdswd, name: "Broadsword", kind: weapon}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -385,3 +390,14 @@ Sir Arren Thábavel is a knight in a tournament winner's bright surcoat, with hi
 :::secret {title="What the referee knows"}
 Feels overshadowed by [[being-toradhtaravren|Dame Torad Taravren]], whose distinctions come from real campaigns rather than tournaments. His jealousy drives him to outshine her in any confrontation, and could produce reckless decisions.
 :::
+
+## Plot Hooks
+
+The names
+: At [[place-zhowen|Zhowen]], a permission to cross names the petitioner and two attendants. Arren claims the place behind the ambassador and resents any suggestion that Torad should have it, and the party can settle the list with him, Torad and the translator ([[scenario-flngnwrgn|A Filing in the New Reign]]).
+
+The bridge foot
+: On the morning of the hearing, Arren means to stand behind the ambassador whether the list names him or not. An unnamed member who follows onto the bridge is shot by the archers on the wall, so someone must warn Torad or hold him back before he crosses ([[scenario-flngnwrgn|A Filing in the New Reign]]).
+
+The margin
+: A quarrel at the mark-stones of [[place-ukuaraelwen|Úkua-Araelwen]] can become a chance for the ambassador’s guard to show courage. A fight at the boundary damages the embassy’s standing whether or not the Heart is found ([[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]).

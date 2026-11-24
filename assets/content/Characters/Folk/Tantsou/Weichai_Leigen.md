@@ -31,6 +31,10 @@ data:
     complexion: []
     extra_features: []
   packFolder: ankaristantsou
+  items:
+    - {key: lrobe, model: armorgear-lrobe, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: incense, model: miscgear-incense, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 8}}
@@ -61,6 +65,9 @@ sohl:
     - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 22}}
     - {model: skill-tantsoulng, system: {masteryLevelBase: 80}}
     - {model: skill-tengchouscript, system: {masteryLevelBase: 60}}
+    - {key: lrobe, model: sohl-sohl-armorgear-lrobe}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: incense, model: sohl-sohl-miscgear-incense}
   system:
     body:
       structure:

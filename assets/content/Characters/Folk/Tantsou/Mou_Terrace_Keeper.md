@@ -31,6 +31,11 @@ data:
     complexion: []
     extra_features: []
   packFolder: ankaristantsou
+  items:
+    - {key: rtunic, model: armorgear-rtunic, kind: clothing}
+    - {key: rtrsr, model: armorgear-rtrsr, kind: clothing}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: clothing}
+    - {key: terracemattock, model: miscgear-terracemattock, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 11}}
@@ -59,6 +64,10 @@ sohl:
     - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 24}}
     - {model: skill-tantsoulng, system: {masteryLevelBase: 72}}
     - {model: skill-tengchouscript, system: {masteryLevelBase: 24}}
+    - {key: rtunic, model: sohl-sohl-armorgear-rtunic}
+    - {key: rtrsr, model: sohl-sohl-armorgear-rtrsr}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - {key: terracemattock, model: sohl-sohl-miscgear-terracemattock}
   system:
     body:
       structure:

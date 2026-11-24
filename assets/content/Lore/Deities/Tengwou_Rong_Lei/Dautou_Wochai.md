@@ -4,7 +4,7 @@ name: {full: Dautou Wochai}
 type: lore
 subType: deity
 description: "Lord of Metal in the Tengwou Rong Lei—one of the five Elemental Lords, holding metal as an office of the celestial bureaucracy."
-tags: [draft]
+tags: []
 data: {packFolder: deitiestengwouronglei, culture: tantsouclt}
 ---
 

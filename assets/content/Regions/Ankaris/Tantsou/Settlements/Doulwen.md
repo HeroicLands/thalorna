@@ -22,6 +22,10 @@ Doulwen, the Road's End, is the seat of [[affiliation-doulwenprv|Doulwen Provinc
 
 The caravans unload here. Their silver, amber and horses are documented, classified and taxed before they go on to the river cities, and the silk, porcelain and tea bound west are weighed and sealed for the road. The irrigated basin around the city grows most of its grain, and the silver of the road trade buys the rest.
 
+## History {#history}
+
+The Prince of Doulwen rose at the young Emperor's side in the first years of the new reign, the years of the drought in the south ([[lore-tantsouaccsn|The Young Emperor's Accession]]). The records give those years no number.
+
 ## See Also {#see-also}
 
 [[affiliation-doulwenprv|Doulwen Province]]

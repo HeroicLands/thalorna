@@ -4,7 +4,7 @@ name: {full: The Petition with Every Seal}
 type: lore
 subType: literature
 description: "The hearth tale the old women of the Tengmou valley tell at the Moon Festival with a lantern kept lit: how a fourth son with one string of cash and a cracked tablet, in a White Ape year, addressed a petition to whichever office it was not, and how it went round every bureau of heaven, came to the Jade Sovereign's desk with every seal on it, and one more."
-tags: [draft, tantsou]
+tags: [tantsou]
 data:
   culture: tantsouclt
   packFolder: settinglore
@@ -91,11 +91,11 @@ The fourth son never knew about that. I am telling you so that you know.
 
 It came to the Bureau of Passage, which keeps the roads and the crossroads and every journey. A clerk of the Bureau of Passage read the petition and saw that it was not his, and he stamped it, _not this office_, and he sent it on, the way a road sends you on. And it went the way of things the Bureau of Passage sends, and that is to say it was lost for a year at a crossroads in heaven where four roads meet, which nobody had ever counted, because four belongs to no domain and nobody counts a crossing of four. A year it lay there. Then a clerk who was passing picked it up, because it had so many seals on it already that it looked important, and carried it to the next office.
 
-So it went round. I will not take you through every door. The Bureau of Creation, where everything is made, made it a little thicker, because it had been sealed so often. The Bureau of Returns, where everything that rots is sent back, left a spot of green mould on the corner. The Bureau of Unraveling, which keeps the floods that renew the soil and is watched closer than any bureau in heaven, stamped it upside down, because that is how they stamp everything there and they are very exact about it. The Archive of All Records read it twice to be sure and wrote _we know_ in the margin. And every one of them stamped it _not this office_, and sent it on, because it was not their office, and they were all correct.
+So it went round. I will not take you through every door. The Bureau of Creation, where everything is made, made it a little thicker, because it had been sealed so often. The Bureau of Returns, where everything that rots is sent back, left a spot of green mold on the corner. The Bureau of Unraveling, which keeps the floods that renew the soil and is watched closer than any bureau in heaven, stamped it upside down, because that is how they stamp everything there and they are very exact about it. The Archive of All Records read it twice to be sure and wrote _we know_ in the margin. And every one of them stamped it _not this office_, and sent it on, because it was not their office, and they were all correct.
 
 And when it had been round the whole of heaven, it came at last to the place where everything comes that does not belong to one bureau. You know where that is. It went up to the desk of the Jade Sovereign herself.
 
-You have seen her in the temple paintings. She sits behind the biggest desk there is, with the papers stacked around her like a city wall, with the jade seal in one hand and the ledger in the other, and her face is not kind and not cruel, because she is working. Everything in heaven that nobody else can settle goes up to her, so her desk is never clear, and she does not look up from it. That is why you write to the right bureau, children. Because otherwise you are asking the Jade Sovereign to stop what she is doing, and you are a ditch-keeper's son.
+You have seen her in the temple paintings. She sits behind the biggest desk there is, with the papers stacked around her like a city wall, with her seal in one hand and the ledger in the other, and her face is not kind and not cruel, because she is working. Everything in heaven that nobody else can settle goes up to her, so her desk is never clear, and she does not look up from it. That is why you write to the right bureau, children. Because otherwise you are asking the Jade Sovereign to stop what she is doing, and you are a ditch-keeper's son.
 
 A clerk brought her the fourth son's petition and laid it on the very top of the pile.
 
@@ -109,7 +109,7 @@ So the Jade Sovereign read what it asked.
 
 It asked that one cracked tablet in a ditch-keeper's house be entered at its old post, so that a father could be fed.
 
-And she did not smile, because she does not, and she did not frown either. She took her jade seal and she stamped it, once, at the bottom, under all the others, and she wrote _entered_, and she sent it down.
+And she did not smile, because she does not, and she did not frown either. She took her seal and she stamped it, once, at the bottom, under all the others, and she wrote _entered_, and she sent it down.
 
 And that night the eldest son of the Tui house dreamed of his father for the first time in a year, and his father in the dream had his arms full of paper.
 

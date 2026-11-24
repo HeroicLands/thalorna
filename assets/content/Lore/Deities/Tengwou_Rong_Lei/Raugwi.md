@@ -4,7 +4,7 @@ name: {full: Raugwi}
 type: lore
 subType: deity
 description: "The Minister of Storms in the Tengwou Rong Lei, who holds the weather as a portfolio of the celestial bureaucracy."
-tags: [draft]
+tags: []
 data: {packFolder: deitiestengwouronglei, culture: tantsouclt}
 ---
 

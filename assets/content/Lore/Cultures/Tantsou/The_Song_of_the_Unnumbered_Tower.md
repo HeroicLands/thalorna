@@ -4,7 +4,7 @@ name: {full: The Song of the Unnumbered Tower}
 type: lore
 subType: literature
 description: "The soldiers' song of the Grukar marches, sung month by month through a year at the tower between the third and the fifth that has no number: nine men with no names, the geese, the dust and the inspection, the night in the Month of the Moon when the Grukar came over the ditch, the report that called it a raid of no account, and the clerk who came up the road in the Month of Frost and wrote the three dead down right."
-tags: [draft, tantsou]
+tags: [tantsou]
 data:
   culture: tantsouclt
   packFolder: settinglore

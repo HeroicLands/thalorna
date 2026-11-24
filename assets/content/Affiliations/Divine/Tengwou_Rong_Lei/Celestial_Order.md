@@ -324,3 +324,13 @@ Regional Spirits
 
 Ancestor Spirits
 : Deceased mortals whose moral ledger earned them a favorable posting in the spirit world. They serve as advocates and intermediaries for their living descendants—not out of love, but because familial advocacy is their assigned function.
+
+---
+
+## Politics {#present}
+
+The Celestial Order is practiced under a young Emperor on the throne at [[place-zhowen|Zhowen]], and the mounting troubles of the [[affiliation-tantsouempr|Empire of Tantsou]] weigh on it. A steppe warlord raids the northern districts, a general is in revolt in the border provinces, and famine has settled on the south. Because the [[lore-mandatehvn|Mandate of Heaven]] is an appointment and not a blessing, some in the court have begun to ask whether the Emperor's filing is still in order, never whether he is a good man.
+
+The failed southern rains are a matter for the Bureau of Thunder and Rain, which allocates rainfall by schedule and by approved petition and may divert it from a region in spiritual deficit. The southern rice harvests have failed several years running and smaller rivers are dry in their beds, and the south has reason to petition Raugwi's bureau. The delta keeps its rain through the water-gifted Wandwo of the Prince of [[affiliation-wongsenprv|Wongsen Province]], and the dry provinces buy his rice at the price he names. Some at court say his sorcerers are behind the drought, and nobody has proven it.
+
+The celestial bureaucracy is as contested as the court. A powerful ancestor advocates for descendants against rival families' petitions, and the eleven bureaus compete for jurisdiction; the court's [[lore-weizhairui|Wei Zhai Rwi]] is understood as the reflection of that rivalry. The Tanchei hold that the tension tests the classification and keeps it correcting itself. In [[affiliation-jenchaiempr|Jenchai]], across the Eastern Strait, the same order is kept in its own regional form.

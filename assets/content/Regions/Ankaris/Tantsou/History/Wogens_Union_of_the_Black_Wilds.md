@@ -35,7 +35,7 @@ data:
 
 Wogen's Union of the Black Wilds is the binding of the steppe tribes north of the [[affiliation-tantsouempr|Empire of Tantsou]] under one war-leader, and the raids that followed it into the empire's northern districts. The records give it no year.
 
-For generations the tribes of [[place-blackwilds|the Black Wilds]] fought one another over grazing, wells and blood debts, and the empire's border garrisons kept them divided with gifts to one chief and raids against another. [[being-wogenhenzhuo|Wogen Henzhwo]] began as the war-leader of a minor tribe and bound the others to him one at a time: by marriage where a chief had a daughter, by treaty where a chief had sense, and by slaughter where he had neither. Infighting among the [[lore-wohou|Wohou]] lords of the north had thinned the frontier garrisons, and the court was too busy with its own intrigues to notice the steppe uniting. By the time a Prince's report reached the capital, the border was porous and the tribes answered to one man.
+For generations the tribes of [[place-blackwilds|the Black Wilds]] fought one another over grazing, wells and blood debts, and the empire's border garrisons kept them divided with gifts to one chief and raids against another. [[being-wogenhenzhuo|Wogen Henzhwo]] began as the war-leader of a minor tribe and bound the others to him one at a time: by marriage where a chief had a daughter, by treaty where a chief had sense, and by slaughter where he had neither. Infighting among the [[lore-wohou|Wohou]] lords of the north had thinned the frontier garrisons, and the court was too busy with its own intrigues to notice the steppe uniting. By the time a Prince's report reached the capital, the border was porous and the tribes answered to one man, in the [[affiliation-hwenhatoucnf|Hwenhatou Confederation]].
 
 A run of hard winters and failing grazing drove the tribes south in any case, and with the tribes answering to him, Wogen turned that hunger into a war aim. His riders came into the northern districts of [[affiliation-kwozhengprv|Kwozheng Province]], striking supply lines and outposts instead of towns and withdrawing before an imperial army could force a battle.
 
@@ -46,6 +46,9 @@ A run of hard winters and failing grazing drove the tribes south in any case, an
 
 [[place-blackwilds|The Black Wilds]]
 : the steppe the tribes hold
+
+[[affiliation-hwenhatoucnf|Hwenhatou Confederation]]
+: the union of the tribes under Wogen
 
 [[place-kwozhngmrch|The Kwozheng Marches]]
 : the marches the riders raid

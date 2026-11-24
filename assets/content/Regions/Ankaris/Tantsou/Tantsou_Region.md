@@ -158,3 +158,9 @@ To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] ne
 
 [[scenario-doornvrexst|A Door That Has Never Existed]]
 : a scenario in which a party passes the Scholars' Door into Tantsou
+
+[[scenario-pgrgstrhld|A Page the Register Can Hold]]
+: an adventure in which weather shuts the col and the registrar's daughter opens a fresh page
+
+[[scenario-tbltwrnghnd|A Tablet from the Wrong Hand]]
+: an adventure in the foreign quarter of Wongsen, where a merchant's classification runs out

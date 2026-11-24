@@ -5147,6 +5147,7 @@ data:
     - {name: Chengzho, tongue: tanvuri, built: [cheng, zho]}
     - {name: Chyau Chai Tui Sen, tongue: tanvuri, built: [chyau, chai, tui, sen]}
     - {name: Champion, tongue: translation}
+    - {name: Chief, tongue: translation}
     - {name: Chief Intendant, tongue: translation}
     - {name: Chougen, tongue: tanvuri, built: [chou, gen]}
     - {name: Choulei, tongue: tanvuri, built: [chou, lei]}
@@ -5211,6 +5212,7 @@ data:
     - {name: Hozho, tongue: tanvuri, built: [ho, zho]}
     - {name: Hwenhatoutsou, tongue: tanvuri, built: [hwen, ha, tou, tsou]}
     - {name: Hwenhatou, tongue: tanvuri, built: [hwen, ha, tou]}
+    - {name: Hwenhatou Confederation, tongue: translation}
     - {name: Hwen Sei, tongue: tanvuri, built: [hwen, sei]}
     - {name: Hwenwo, tongue: tanvuri, built: [hwen, wo]}
     - {name: Hwenzhwo, tongue: tanvuri, built: [hwen, zhwo]}
@@ -5292,6 +5294,7 @@ data:
     - {name: Rinho Dauweng, tongue: tanvuri, built: [rin, ho, dau, weng]}
     - {name: Rinnou, tongue: tanvuri, built: [rin, nou]}
     - {name: Rinzho, tongue: tanvuri, built: [rin, zho]}
+    - {name: Rider, tongue: translation}
     - {name: Rising Dragon, tongue: translation}
     - {name: "Ritual: Dautou Wochai", tongue: translation}
     - {name: "Ritual: Douyo", tongue: translation}
@@ -5429,12 +5432,14 @@ data:
     - {name: Tseising, tongue: tanvuri, built: [tsei, sing]}
     - {name: Tuija Wengyan, tongue: tanvuri, built: [tui, ja, weng, yan]}
     - {name: Tuizho, tongue: tanvuri, built: [tui, zho]}
+    - {name: Unsworn, tongue: translation}
     - {name: Wai Singzhwo, tongue: tanvuri, built: [wai, sing, zhwo]}
     - {name: Wandwo, tongue: tanvuri, built: [wan, dwo]}
     - {name: Wansou Zhwo, tongue: tanvuri, built: [wan, sou, zhwo]}
     - {name: "Wansou Zhwo, The Chief Auditor of Souls", tongue: translation}
     - {name: Wantou, tongue: tanvuri, built: [wan, tou]}
     - {name: "Wantou, The Keeper of the Celestial Archive", tongue: translation}
+    - {name: War-Leader, tongue: translation}
     - {name: Warden of the Bound, tongue: translation}
     - {name: Warden of the Foreign Quarter, tongue: translation}
     - {name: Warden of the Passes, tongue: translation}

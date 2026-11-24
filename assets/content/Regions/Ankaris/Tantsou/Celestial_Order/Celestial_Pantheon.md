@@ -27,7 +27,7 @@ Art shows Tanzho as a single vertical line, the First Distinction, the stroke th
 
 Weizhwo Daunei is the chief administrator of heaven, the official who makes the system work. Tanzho set the classifications; Weizhwo keeps them. She settles disputes between bureaus, hears appeals between departments and keeps the Dau Choulei, the Master Registry, the index of every classified thing in existence.
 
-She is the most petitioned power in Tantsou, because every matter that does not fall clearly to one bureau goes up to her office. Artists show her seated behind a vast desk walled in by stacks of documents, a jade seal in one hand and a ledger in the other. Her face is always neutral, neither kind nor stern, because she is working.
+She is the most petitioned power in Tantsou, because every matter that does not fall clearly to one bureau goes up to her office. Artists show her seated behind a vast desk walled in by stacks of documents, her seal in one hand and a ledger in the other. Her face is always neutral, neither kind nor stern, because she is working.
 
 The [[lore-tanchei|Tanchei]] count themselves servants of her office and model their scholarship on its procedures.
 

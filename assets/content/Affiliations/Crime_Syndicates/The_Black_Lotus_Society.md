@@ -89,17 +89,27 @@ The Ha Lwo Zhau's power is not exercised through street-level thuggery. It is ex
 
 **Smuggling:** The Lotus controls the principal smuggling routes that move contraband, restricted magical substances, and unregistered persons across Tantsou borders and through the empire's interior. It operates outside the formal caravan system and is therefore beyond the reach of most imperial oversight.
 
+**Forged tablets:** The Lotus sells classification tablets that no bureau issued, sealed well enough to pass a gate for a day, to foreigners and unregistered persons whose standing has run out or never existed. Forging a tablet is punished by execution in public, and a buyer found with one is a forger whoever sold it.
+
 **Forbidden magic:** The Black Lotus has access to magical practices that the empire's authorities have classified and prohibited—dead-letter summonings, ledger-manipulation rituals, and certain necromantic techniques developed by renegade [[lore-wohou|Wohou]] sorcerers. These services are offered only to the Lotus's most trusted and most compromised clients.
 
 **Assassination:** Rare, extremely discreet, and priced accordingly. The Black Lotus's assassins are not numerous, but they are feared. Their preferred method is to arrange deaths that appear as the _natural consequence of the victim's own disgrace_—an illness brought on by shame, a fall that happens at a politically convenient moment, a suicide that the deceased's household reluctantly confirms. This style of killing is considered elegant because it compounds the victim's posthumous ledger damage rather than shifting the spiritual cost to the killer.
 
 ## Organization
 
-Like [[affiliation-velvethand|the Velvet Hand]], the Black Lotus operates in isolated cells whose members know only their immediate handler. Unlike the Velvet Hand, its structure is shaped by the caste system it operates within: cells are typically organized around Shwonong merchant houses, with handlers drawn from the [[lore-noutsou|Nwitsou]] caste and higher coordinators from bureaucratically placed [[lore-zhazho|Zhazho]] who have chosen service with the Lotus over service with their own families.
+Like [[affiliation-velvethand|the Velvet Hand]], the Black Lotus operates in isolated cells whose members know only their immediate handler. Unlike the Velvet Hand, its structure is shaped by the caste system it operates within: cells are typically organized around Shwonong merchant houses, with handlers usually drawn from the [[lore-noutsou|Nwitsou]] caste and higher coordinators from bureaucratically placed [[lore-zhazho|Zhazho]] who have chosen service with the Lotus over service with their own families.
 
 The highest leadership is effectively unknown. Tantsou rumor holds that the Society is governed by a secret council of seven, though no confirmed identification of any council member has ever been made. Those who claim to have identified a member have had brief and educational careers.
 
 The Black Lotus maintains legitimate fronts throughout Tantsou commerce: trading houses, caravanserais, scribal services, printing workshops, and—most distinctively—funeral and offering-goods shops, which provide perfect cover for its bureaucratic-magical operations. A shop that legitimately sells spirit paper and funeral incense is also, inevitably, in contact with every household that performs ancestor worship.
+
+:::secret {title="The shop in Zhowen"}
+One of the funeral and offering-goods shops is kept in [[place-zhowen|Zhowen]] by [[being-zhowenincdtr|Shwonong, Second Daughter of the Incense-Seller of the Clan of Lamps Before the Altar, near Zhowen]], an Informant who knows nothing of the cell above her.
+:::
+
+:::secret {title="The cell in Wongsen"}
+A cell in [[place-wongsen|Wongsen]] sells forged tablets in [[place-wongsenfrgnqrtr|The Foreign Quarter of Wongsen]], in the court behind the warehouses. Its Handler is [[being-fnrlshpkprwng|Third Daughter of the Spirit-Paper Seller of the Clan of Paper Boats on the Tide, near Wongsen]], a Shwonong who keeps the funeral-goods shop at the mouth of that court as the cell's front, and she knows none of the Society's council.
+:::
 
 ## Alliances and Clientele
 

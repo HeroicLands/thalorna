@@ -22,6 +22,10 @@ Kwozheng, the Old Wall, is the seat of [[affiliation-kwozhengprv|Kwozheng Provin
 
 The garrisons of the marches take their pay, their orders and their grain through Kwozheng, and the Prince's commanders sit here. The north's own fields are thin and its winters long, so the barges that carry the tribute grain north to the garrisons feed the city as well.
 
+## History {#history}
+
+The marches Kwozheng supplies are the country [[lore-wogenunion|Wogen's Union of the Black Wilds]] struck. Hard winters drove the united tribes south, and Wogen's riders raided the northern districts of the province, striking supply lines and outposts and withdrawing before an imperial army could force a battle. The records give the raids no year. The frontier garrisons had been thinned by infighting among the [[lore-wohou|Wohou]] lords of the north.
+
 ## See Also {#see-also}
 
 [[affiliation-kwozhengprv|Kwozheng Province]]

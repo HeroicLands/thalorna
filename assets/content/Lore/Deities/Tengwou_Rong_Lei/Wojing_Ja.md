@@ -4,7 +4,7 @@ name: {full: Wojing Ja}
 type: lore
 subType: deity
 description: "Lord of Fire in the Tengwou Rong Lei—one of the five Elemental Lords, holding fire as an office of the celestial bureaucracy."
-tags: [draft]
+tags: []
 data: {packFolder: deitiestengwouronglei, culture: tantsouclt}
 ---
 

@@ -3,7 +3,8 @@ shortcode: loristaravel
 name: {full: Loris Taravel, given: Loris, clan: Taravel}
 type: being
 subType: character
-tags: [draft, embassy-to-tantsou]
+description: "Diplomatic aide and translator of Dúnavarre’s embassy to Tantsou, who made the embassy’s Tantsou fair copy on the road."
+tags: [embassy-to-tantsou]
 data:
   templatePriority: null
   archetypes: [courtier, infiltrator]
@@ -15,6 +16,13 @@ data:
   gender: male
   species: humanflk
   packFolder: adventures
+  items:
+    - key: satchltmd
+      model: containergear-satchltmd
+      name: "Leather portfolio of treaties and drafts"
+      kind: container
+    - {key: penquill, model: miscgear-penquill, name: "Quill pen", kind: miscgear}
+    - {key: parchment, model: miscgear-parchment, name: "Parchment", kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -387,3 +395,14 @@ Loris Taravel dresses in the neat, unmarked cloth of a diplomatic aide and carri
 :::secret {title="What the referee knows"}
 A double agent for [[affiliation-vylarinmpr|Viléria]], paid in coin and promises of advancement. Manipulates [[being-elowyrnimavren|Elowir]] for information and regards him as a pawn. Knows [[being-marricharavrel|Marrik]] is Spymaster, thinks him an amateur, and feeds him falsehoods.
 :::
+
+## Plot Hooks
+
+The fair copy
+: At [[place-zhowen|Zhowen]], the embassy’s papers go to the chancellery in the Tantsou fair copy that Loris made on the road. The ambassador, through Torad, wants someone besides the translator to read it before it is filed ([[scenario-flngnwrgn|A Filing in the New Reign]]).
+
+The account
+: At [[place-kwisen|Kwisen]], Loris puts the embassy’s answers into Tantsou for the registrar’s daughter, and the page the halls read carries his wording. The ambassador asks the party to read a second copy of what he puts into Tantsou before it goes to her ([[scenario-pgrgstrhld|A Page the Register Can Hold]]).
+
+The unverified report
+: At the margin of [[place-ukuaraelwen|Úkua-Araelwen]], Loris offers a report that court sponsorship settles the matter. It is unverified, and the Wardens’ own words show how far it can be trusted ([[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]).
