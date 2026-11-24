@@ -7874,6 +7874,23 @@ data:
     - {name: Enclave of Helsaisto, tongue: translation}
     - {name: The Place of Shade, tongue: translation}
     - {name: The Keeper of the Shade, tongue: translation}
+    - {name: nelpesto, tongue: senali, built: [nelpe, -sto]}
+    - {name: nelpenno, tongue: senali, built: [nelpe, -nno]}
+    - {name: eikkasto, tongue: senali, built: [eikka, -sto]}
+    - {name: eikkanno, tongue: senali, built: [eikka, -nno]}
+    - {name: orvakkasto, tongue: senali, built: [orvakka, -sto]}
+    - {name: orvakkanno, tongue: senali, built: [orvakka, -nno]}
+    - {name: kalpisto, tongue: senali, built: [kalpi, -sto]}
+    - {name: Enclave of Nelpesto, tongue: translation}
+    - {name: The Place of Herbs, tongue: translation}
+    - {name: The Keeper of the Herbs, tongue: translation}
+    - {name: Enclave of Eikkasto, tongue: translation}
+    - {name: The Place of the Yew, tongue: translation}
+    - {name: The Keeper of the Yew, tongue: translation}
+    - {name: Enclave of Orvakkasto, tongue: translation}
+    - {name: The Place of the Living Wood, tongue: translation}
+    - {name: The Keeper of the Living Wood, tongue: translation}
+    - {name: The Place of Pale Wood, tongue: translation}
   negation: {particle: ahi, mutation: wearing}
   naming: {shapes: [{of: given, syllables: {min: 2, max: 4}}]}
   retired:

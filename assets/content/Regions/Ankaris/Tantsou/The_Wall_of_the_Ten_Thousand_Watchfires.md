@@ -49,7 +49,7 @@ A subject of the empire carries a _Zhau Mou_, the classification tablet that sta
 
 - **The garrisons.** Every garrison is commanded by an officer of the [[lore-wohou|Wohou]], the only caste that may lead soldiers. Khazari of proven courage or generalship are given Wohou rank and hold the garrisons at the wall's strategic places: its gates, the stretches near the capital and the north. The men under them are human: the common soldiers are the Wonong of the [[lore-tsaihuo|Tsaihwo]], and in the north the [[lore-nouwen|Nouwen]] of the garrison colonies stand beside them. An Elder recruit is assigned to the northern garrisons only now and then. Every northern garrison also has its Wandwo, sent by the Zhazho houses that own them.
 - **The dress-kit guards** on the watchtowers of the stone wall near the capital.
-- **The Khazari** who are in charge of the wall's key parts and maintain it at its strategic places: the gates, the stretches near the capital and the north. A Khazari master of engineering who serves an imperial work is classified [[lore-tanchei|Tanchei]], and Khazari masons and engineers are classified Tsaihwo.
+- **The Khazari** who are in charge of the wall's key parts and maintain it at its strategic places: the gates, the stretches near the capital and the north. Those who keep the gates and the north live in the strongholds of [[place-garnguraz|Garn-guráz]] and [[place-tanvdurakh|Tanv-durákh]] and serve by turns. A Khazari master of engineering who serves an imperial work is classified [[lore-tanchei|Tanchei]], and Khazari masons and engineers are classified Tsaihwo.
 - **The human builders and keepers** of the great majority of the wall, which humans alone build and maintain.
 - **The frontier peoples.** The garrison colonies of the northern marches and the soldier families of the western passes are of the [[lore-tantsoumrchclt|Tantsou Frontier Peoples]], and a march village keeps its signal fires and its muster rolls as carefully as the core keeps its registers.
 
@@ -100,6 +100,12 @@ The wall is thousands of years old. It has stood through many dynasties, each a 
 
 [[lore-flkkhazar|Khazari]]
 : the Elder people in charge of the wall's key parts
+
+[[place-garnguraz|Garn-guráz]] and [[place-tanvdurakh|Tanv-durákh]]
+: the Khazari strongholds whose people keep the gates and the north by turns
+
+[[place-nalpnugar|Nalp-nugár]]
+: the Khazari hold behind the sigil-carved northern stretch
 
 [[lore-celestialroad|The Celestial Road]]
 : the caravan road that comes through the wall on the western pass

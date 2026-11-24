@@ -35,11 +35,33 @@ The empire places the Elder peoples by function. The placement is binding in law
 
 The empire recognizes the lands of the Senali and the Khazari, which lie along the north-western mountain line, facing the Khazrin and [[place-blackwilds|the Black Wilds]]. Within them the Elder peoples govern themselves, magic included, and the empire watches the enclaves closely for any sign of rebellion.
 
-The wall, the great wall on the empire's boundary, stands beyond the northern enclaves, which lie inside it and south of the Black Wilds. The Elder peoples were among those who first raised it, as they raised the enclaves. The wall is long and the Khazari are few. They are in charge of its key parts and maintain it at its strategic places, which are the gates on the major transit roads, the stretches near the capital and the north. Humans alone build and maintain the great majority of the wall.
+The wall, the great wall on the empire's boundary, stands beyond the northern enclaves, which lie inside it and south of the Black Wilds. The Elder peoples were among those who first raised it, as they raised the enclaves. The wall is long and the Khazari are few. They are in charge of its key parts and maintain it at its strategic places, which are the gates on the major transit roads, the stretches near the capital and the north. Humans alone build and maintain the great majority of the wall. The Khazari who keep its gates and the north live in the strongholds of [[place-garnguraz|Garn-guráz]] and [[place-tanvdurakh|Tanv-durákh]] and serve on the wall by turns.
 
 **The Senalian forests** are old woods where few humans go. The Senali keep their traditions there and work their own magic, and to the human villages at the forest edge the woods are strange country. The empire leaves the forests to them on the understanding that they stay loyal, and the Senali send out rare herbs, medicinal plants and, now and then, an enchanted thing in return.
 
 **The Khazárian strongholds** are holds found, not made, in the cliff faces of high places, with deep refuges in the rock behind them. They are all but impregnable, and they are the centers of Khazárian mining, metallurgy and smithing. The Khazari keep their inner life to themselves and share a fraction of what they know. The empire depends on their weapons, armor and fortifications, and in exchange leaves the strongholds alone, on condition that the Khazari help defend the empire in war.
+
+The empire's registers enter the enclaves and strongholds of the line under names of their own:
+
+[[place-nelpesto|Nelpesto]]
+: the Herb Wood, the largest enclave, below the middle of the line
+
+[[place-eikkasto|Eikkasto]]
+: the Yew Wood, toward the western end of the line, known at court for its sages
+
+[[place-orvakkasto|Orvakkasto]]
+: the Half Wood, on the edge of the country the Earthshatter broke
+
+[[place-garnguraz|Garn-guráz]]
+: the Ridge Stronghold, the largest, toward the northern end of the line
+
+[[place-tanvdurakh|Tanv-durákh]]
+: the Western Stronghold, toward the gate on the western pass
+
+[[place-nalpnugar|Nalp-nugár]]
+: the Stronghold at the Wall, behind the sigil-carved northern stretch of the wall
+
+The Earthshatter brought down Khazari holds and tore up Senalian woods on the line. [[place-sarvrumak|Sarv-rumák]], the Fallen Stronghold, and [[place-kalpisto|Kalpisto]], the Torn Wood, are among them, and the [[lore-chaizho|Chaizho]] range through both.
 
 ## Suspicion on Both Sides
 

@@ -5431,6 +5431,7 @@ data:
     - {name: The District Hall of Jenshou, tongue: translation}
     - {name: the District Registrar of Jenshou, tongue: translation}
     - {name: The Doulwen Basins, tongue: translation}
+    - {name: The Fallen Stronghold, tongue: translation}
     - {name: The First Classifier, tongue: translation}
     - {name: The First Refusal, tongue: translation}
     - {name: The Flood-Drake, tongue: translation}
@@ -5438,6 +5439,8 @@ data:
     - {name: The Forsaken, tongue: translation}
     - {name: the Governor of Zhowen, tongue: translation}
     - {name: The Guide Who Leads Astray, tongue: translation}
+    - {name: The Half Wood, tongue: translation}
+    - {name: The Herb Wood, tongue: translation}
     - {name: The Infernal Functionaries, tongue: translation}
     - {name: The Infernal Realms, tongue: translation}
     - {name: The Jade Fan Dance, tongue: translation}
@@ -5461,14 +5464,19 @@ data:
     - {name: the Prince of Mwonou, tongue: translation}
     - {name: the Prince of Wongsen, tongue: translation}
     - {name: the Retired Emperor, tongue: translation}
+    - {name: The Ridge Stronghold, tongue: translation}
     - {name: The Seal-Thief, tongue: translation}
     - {name: The Shadow Sect, tongue: translation}
+    - {name: The Stronghold at the Wall, tongue: translation}
     - {name: the Terrace-Keeper of the Third Terrace, tongue: translation}
+    - {name: The Torn Wood, tongue: translation}
     - {name: The Tribes of the Black Wilds, tongue: translation}
     - {name: The Unmaker, tongue: translation}
     - {name: The Unsorted, tongue: translation}
     - {name: The Walking Contradiction, tongue: translation}
+    - {name: The Western Stronghold, tongue: translation}
     - {name: The Wongsen Delta, tongue: translation}
+    - {name: The Yew Wood, tongue: translation}
     - {name: The Youweng, tongue: translation}
     - name: Third Son of the Archivist of the Clan of Lanterns Along the Bank
       tongue: translation

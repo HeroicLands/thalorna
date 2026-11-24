@@ -41,3 +41,15 @@ The court is divided. One party holds that the northwest is the Elder peoples' l
 
 [[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
 : the wall the Elder peoples were among the first to raise
+
+[[place-garnguraz|Garn-guráz]]
+: the Khazari stronghold toward the northern end of the line
+
+[[place-orvakkasto|Orvakkasto]]
+: the Senali enclave on the front, half its forest torn up
+
+[[place-sarvrumak|Sarv-rumák]]
+: a Khazari hold the Earthshatter brought down
+
+[[place-kalpisto|Kalpisto]]
+: a Senali wood the Earthshatter tore up by the roots

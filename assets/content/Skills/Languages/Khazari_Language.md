@@ -13153,6 +13153,17 @@ data:
     - {name: Magar-thubád Hold, tongue: translation}
     - {name: The Following of the Grain, tongue: translation}
     - {name: The City of the Seven Towers, tongue: translation}
+    - {name: garn-guráz, tongue: khazari, built: [g-r-n, g-r-z, compound]}
+    - {name: Garn-guráz Hold, tongue: translation}
+    - {name: The Guarding of the Ridge, tongue: translation}
+    - {name: tanv-durákh, tongue: khazari, built: [t-n-v, d-r-kh, compound]}
+    - {name: Tanv-durákh Hold, tongue: translation}
+    - {name: The Holding of the Gate, tongue: translation}
+    - {name: nalp-nugár, tongue: khazari, built: [n-l-p, n-g-r, compound]}
+    - {name: Nalp-nugár Hold, tongue: translation}
+    - {name: The Watching of the Cold, tongue: translation}
+    - {name: sarv-rumák, tongue: khazari, built: [s-r-v, r-m-k, compound]}
+    - {name: The Laying of the Slate, tongue: translation}
   tongues:
     - {tag: khazari, meaning: a Khazari name, language: skill-khazarlng}
     - {tag: older, meaning: "a word older than the rules, which keeps a shape no frame makes"}
