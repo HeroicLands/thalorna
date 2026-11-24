@@ -19,7 +19,7 @@ data:
 # terran_analog: Japanese archipelago (mountainous volcanic islands)
 ---
 
-The Jenchai Region is the Nine Mountains, a maritime, feudal and warrior-aristocratic archipelago shaped at every turn by the discipline of life on steep, narrow islands. It is the eastern archipelago of the [[place-ankrscntnnt|Ankaris Continent]]—a great volcanic island, a lesser island and their islets, carrying nine mountains and separated from the [[place-tantsouregin|Tantsou]] mainland by a treacherous strait. The islanders call the land Teyan Jenjai, the Nine Mountains Above the Clouds of Heaven, and Jenjai in everyday speech; the mainland's dismissive name for it is Chaiwong. It is dominated politically by the sovereign [[affiliation-jenchaiempr|Jenchai Empire]], which the [[affiliation-tantsouempr|Empire of Tantsou]] has for a thousand years refused to recognize—considering the archipelago a rebellious province rather than an independent state. The islanders return the compliment, viewing themselves as heaven's favored inheritors of the [[lore-mandatehvn|Celestial Mandate]] that Tantsou, in their telling, has long since forfeited.
+The Jenchai Region is the Nine Mountains, a maritime, feudal and warrior-aristocratic archipelago shaped at every turn by the discipline of life on steep, narrow islands. It lies off the east of the [[place-ankrscntnnt|Ankaris Continent]]: a great volcanic island, a lesser island and their islets, separated from the [[place-tantsouregin|Tantsou]] mainland by a treacherous strait. The islanders call the land Teyan Jenjai, the Nine Mountains Above the Clouds of Heaven, and Jenjai in everyday speech; the mainland's dismissive name for it is Chaiwong. It is dominated politically by the sovereign [[affiliation-jenchaiempr|Jenchai Empire]], which the [[affiliation-tantsouempr|Empire of Tantsou]] has for a thousand years refused to recognize—considering the archipelago a rebellious province rather than an independent state. The islanders return the compliment, viewing themselves as heaven's favored inheritors of the [[lore-mandatehvn|Celestial Mandate]] that Tantsou, in their telling, has long since forfeited.
 
 Where the Tantsou Region is a continental civilization of imperial bureaucracy and ordered plains, Jenchai is its mirror-opposite: a realm of great lords, each with his own army, fleet and justice, under an Emperor who distributes honor and commands nothing.
 
@@ -51,7 +51,7 @@ The ceremonial Emperor of Jenchai serves this fragmented theology well: his role
 
 ## Politics and Power
 
-Real authority lies with a handful of **Dauzhwo**—Great Lords—who rule their provinces as effectively independent fiefdoms, each with its own army, justice, taxes, and foreign policy. Below them sit the **Shwizhwo**, lesser lords who pledge personal allegiance in exchange for land. The **Rongleng Tengzhei** ("Son of Heaven of Ten Thousand Dawns") sits at the ceremonial apex, distributing honor but commanding nothing.
+Real authority lies with the eight **Dauzhwo**—Great Lords—who rule their provinces as effectively independent fiefdoms, each with its own army, justice, taxes, and foreign policy. Below them sit the **Shwizhwo**, lesser lords who pledge personal allegiance in exchange for land. The **Rongleng Tengzhei** ("Son of Heaven of Ten Thousand Dawns") sits at the ceremonial apex, distributing honor but commanding nothing.
 
 The current balance rests on three or four roughly equal Dauzhwo, none willing to risk open war against a coalition of the others. Every generation or so this balance collapses into open civil war before a new equilibrium emerges; the last collapse was the [[lore-empseatwar|War of the Empty Seat]], 709–712 AF ([[lore-hstryjenchai|The History of Jenchai]]). The office of Teng Ja, the Emperor's sword-arm and the one lord the others obey while it is held, has stood vacant since 709 AF, and the race to fill it drives the politics of the eight domains. See [[affiliation-jenchaiempr|Jenchai]] for the detailed political structure.
 
@@ -100,19 +100,28 @@ To the **north**, the archipelago's outer islands trail off into frozen seas the
 : parent continent
 
 [[place-hojai|Hojai]]
+: the burning mountain in the south of the great island that House Hojujai holds
 
 [[place-tsuijai|Tsuijai]]
+: an iron-bearing mountain in the north-west uplands of the great island that House Tsuijai holds
 
 [[place-yujai|Yujai]]
+: a mountain on the south coast of the great island that House Wojai holds above the realm's best harbor
 
 [[place-rinjai|Rinjai]]
+: the mountain on the lesser island at the strait's mouth that House Rinjai holds
 
 [[place-zenjai|Zenjai]]
+: a mountain in the cold north of the great island that House Zenjai holds
 
 [[place-rojai|Rojai]]
+: the westernmost mountain on the great island, facing the strait, that House Shuiwojai holds
 
 [[place-wejai|Wejai]]
+: a mountain on the east of the great island that House Wejai holds, first in the path of the summer typhoons
 
 [[place-zijai|Zijai]]
+: a cedar mountain in the interior of the great island that House Muwojai holds beside Zojai
 
 [[place-zojai|Zojai]]
+: the Emperor's own mountain in the interior of the great island, seat of the Dawn Rite

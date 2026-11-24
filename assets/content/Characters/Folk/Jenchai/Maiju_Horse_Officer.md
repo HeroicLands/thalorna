@@ -428,7 +428,7 @@ He serves Zenjai Tsuiwo and the Zenjai Domain through the Maiju's office. The gr
 3. **The pastures at Maidu.** The officer wants the horses at the pastures of Maidu counted against his roll before the levy's mounts come down to the stable-yard.
 
 :::secret {title="The short count"}
-The officer has found a short count on the horse roll and has reported mounts missing from the levy. The roll is the one document in Buiwu that his lord does not want a bidder to read, because it tells a bidder how few riders the north can mount. The lord wants the horses found before the bidders learn it, and the referee decides whether they strayed, were sold or were taken. A trail of frozen dung leads to the shoulder road in any case.
+The officer has found a short count on the horse roll and has reported mounts missing from the levy. The roll is the one document in Buiwu that his lord does not want a bidder to read, because it tells a bidder how few riders the north can mount. The lord wants the horses found before the bidders learn it, and the Game Master decides whether they strayed, were sold or were taken. A trail of frozen dung leads to the shoulder road in any case.
 
 1. [[scenario-rcbfrsnw|Rice Before the Snow]]: a Maiju officer has found mounts missing from the levy's roll, and the lord wants them found before the bidders learn how few he can field.
 2. **The carters' horses.** The carters who took charcoal south last week took horses with them, and the officer wants to know whose.

@@ -425,7 +425,7 @@ Each agent serves one house. The same template serves for a house's agent at [[p
 3. [[scenario-prfctrdhll|The Prefect in the Red Hall]]: a liaison stands by the door of the red hall and reminds a raider lord whose oath he swore.
 
 :::secret {title="What the agents are sent to do"}
-A house's agent waits on the far bank at Zuju for the throne's courier, and the referee chooses whose. He knows the courier's name and the hour he crossed, which only the roll can tell. Henzo's agent offers to take the letter on to Hawu in the courier's place and to pay for the favor. Another house's agent offers to look at the seal and promises to put it back as he found it.
+A house's agent waits on the far bank at Zuju for the throne's courier, and the Game Master chooses whose. He knows the courier's name and the hour he crossed, which only the roll can tell. Henzo's agent offers to take the letter on to Hawu in the courier's place and to pay for the favor. Another house's agent offers to look at the seal and promises to put it back as he found it.
 
 The Shuiwojai envoy in Yanwu reports to Hawu what the granary above the town holds, and the Strait learns of any shortfall from him whether or not anyone else tells it.
 

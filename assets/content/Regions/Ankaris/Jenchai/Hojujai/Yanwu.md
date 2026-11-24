@@ -12,6 +12,8 @@ data:
   population: {actual: 6000}
   market: regional
   type: town
+  stronghold: castle
+  holder: affiliation-hojujaidmn
   government: hojujaidmn
   packFolder: jenchai
   culture: jenchaiclt

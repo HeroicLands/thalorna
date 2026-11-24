@@ -12,6 +12,8 @@ data:
   population: {actual: 7500}
   market: international
   type: town
+  stronghold: castle
+  holder: affiliation-shuiwojaidmn
   government: shuiwojaidmn
   packFolder: jenchai
   culture: jenchaiclt

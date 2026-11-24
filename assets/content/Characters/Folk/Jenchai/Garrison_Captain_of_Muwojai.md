@@ -424,7 +424,7 @@ He serves [[being-chaiwomuwoj|Muwojai Chaiwo]] and the Muwojai Domain, and the s
 3. **The post at dusk.** The weather closes the pass at dusk, and a party caught below the gate lodges at the post and watches how its captain keeps it.
 
 :::secret {title="The captain who has accepted"}
-One of the three captains has accepted his bloc's offer, and the referee chooses which. He does not say it, and he shows it in his garrison before he shows it in his speech: his men's arrears are paid in new silver that no stipend from Kowu covers, they wear new winter coats, and he sends a runner down the road to the house that bought him whenever someone of note passes his gate. That bloc pays him for word of who passes. The two who refused have nothing new at their gates.
+One of the three captains has accepted his bloc's offer, and the Game Master chooses which. He does not say it, and he shows it in his garrison before he shows it in his speech: his men's arrears are paid in new silver that no stipend from Kowu covers, they wear new winter coats, and he sends a runner down the road to the house that bought him whenever someone of note passes his gate. That bloc pays him for word of who passes. The two who refused have nothing new at their gates.
 
 1. [[scenario-ltrforhawu|A Letter for Hawu]]: a courier of the throne reaches the gate of the captain who has accepted, and the captain asks him to wait while a runner goes to a house.
 2. **New silver.** A captain's men are paid their arrears in new silver, and the paymaster at Kowu wants to know where it came from.

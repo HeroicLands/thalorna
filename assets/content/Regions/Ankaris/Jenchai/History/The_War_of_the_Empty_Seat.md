@@ -19,7 +19,7 @@ data:
         - affiliation-wojaidmn
         - affiliation-hojujaidmn
       summary: >-
-        Hojujai Henwo dies holding the office of Teng Ja, and his heir is a small child whom his widow will govern for. The court is ready to confer the office on the regency. Shuiwojai and Wojai press it not to, so that no house holds the sword-arm and the balance among the Nine stands.
+        The court is ready to confer the office of Teng Ja on the regency that governs for Henwo's small heir. Shuiwojai and Wojai press it not to, so that no house holds the sword-arm and the balance among the Nine stands.
       standing: attested
       where:
         locus: [place-zojai]

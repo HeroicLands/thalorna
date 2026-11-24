@@ -20,7 +20,7 @@ The [[place-jenchairgn|Jenchai Region]] is nine volcanic mountains on two island
 
 The [[affiliation-jenchaiempr|Jenchai Empire]] is a realm in which the title is greater than the power. The Emperor lives on [[place-zojai|Zojai]], the Dragon's Mountain, which no lord holds, and the imperial person may not set foot beyond it. So the realm comes to him: every envoy, every petition and every bale of rice, and yours with them. If you carry an ambassador's errand, you are received at [[place-lengwou|Lengwou]], the Dawn Court on Zojai's lowest slope, and you go no farther.
 
-The eight domains are the great lords' own. Their castle towns are the only towns you will find besides the capital:
+The eight domains are the great lords' own. Their castle towns and the capital are the only towns:
 
 ```sql
 WITH RECURSIVE jenchai(place) AS (
@@ -32,7 +32,7 @@ WITH RECURSIVE jenchai(place) AS (
 )
 SELECT address.slug AS _ref,
        name.full AS "Town",
-       data.population.apparent AS "People"
+       format('{:,}', CAST(data.population.apparent AS BIGINT)) AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
@@ -42,12 +42,12 @@ WHERE type = 'place'
 ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
-You will hear wealth counted in bales, rice enough to feed one adult for a year. Each village is assessed in bales once and pays in kind: rice, salt, fish, charcoal, whatever its shore or forest yields. The holder of a village, whether the lord's granary, a retainer's fief, the court or a summit shrine, takes four parts in ten; the village keeps six and owes thirty days of labor on top. Its headman answers for the whole assessment, so a village that falls short owes the debt together. The houses you meet differ in what they have:
+Wealth is counted in bales, rice enough to feed one adult for a year. Each village is assessed in bales once and pays in kind: rice, salt, fish, charcoal, whatever its shore or forest yields. The holder of a village, whether the lord's granary, a retainer's fief, the court or a summit shrine, takes four parts in ten; the village keeps six and owes thirty days of labor on top. Its headman answers for the whole assessment, so a village that falls short owes the debt together. The houses you meet differ in what they have:
 
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "House",
-       data.population.apparent AS "People"
+       format('{:,}', CAST(data.population.apparent AS BIGINT)) AS "People"
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
@@ -64,7 +64,7 @@ The [[affiliation-shuiwojaidmn|Shuiwojai Domain]] on the strait coast has the la
 
 You will meet the Emperor, if you meet him at all, as [[being-weilengjnch|Weileng]], nineteen, enthroned at eleven when his father abdicated as the price of the peace that ended [[lore-empseatwar|The War of the Empty Seat]]. He is of age now, and the eight lords are testing whether he rules or is ruled. His court receives less than half what it spends, and what it receives depends on what each lord chooses to forward from the one village in his domain that is the court's own. The silver of one house has covered the gap for three years.
 
-What the Emperor can give costs him nothing, and the lords prize it above gold. He issues the patent of each mountain on every succession. He grants court dignities that carry precedence and no function. He sets the seating at the [Dawn Rite]{.name data-type="lore/custom"}, the New Year rite on Zojai's summit, where the order in which the lords' envoys stand is the year's political map. And he alone can confer the office of Teng Ja, Heaven's Blade, the Emperor's sword-arm: the lord who holds it speaks for the throne to the other lords and keeps the peace between them by force. You will hear the name of the last holder, [[being-henwohojujai|Hojujai Henwo]], who held it for sixteen years until he died in 709 AF. It has stood vacant since.
+What the Emperor can give costs him nothing, and the lords prize it above gold. He issues the patent of each mountain on every succession. He grants court dignities that carry precedence and no function. He sets the seating at the [Dawn Rite]{.name data-type="lore/custom"}, the New Year rite on Zojai's summit, where the order in which the lords' envoys stand is the year's political map. And he alone can confer the office of Teng Ja, Heaven's Blade, the Emperor's sword-arm: the lord who holds it speaks for the throne to the other lords and keeps the peace between them by force. The last holder was [[being-henwohojujai|Hojujai Henwo]], who held it for sixteen years until he died in 709 AF. It has stood vacant since.
 
 The Emperor's father, [[being-fuzoretired|Fuzo]], took vows and keeps a household in Lengwou below the palace. He advises and holds no authority, and the lords resent the cost of his table.
 
@@ -84,13 +84,13 @@ The letter withholds the office and asks Henzo for more silver toward the court'
 
 ## The Strait and the Mainland
 
-[[place-easternstrt|The Eastern Strait]] is narrow enough to cross in a day or two and treacherous enough that it has wrecked every invasion fleet the [[affiliation-tantsouempr|Empire of Tantsou]] has sent against the islands. The Jenchai call it the moat of the Nine Mountains. You will hear them call the empire decadent and scheming, and the mainland calls them crude and violent. Each finds the other's manners unbearable and needs the other's goods: the islands send blades, salt, dried fish, lacquer and silk, and take jade, tea, bronze and silver in return. The strait is busy and it is watched. [[place-rinjai|Rinjai]]'s raiders lie in the coves at its mouth and Shuiwojai's fleet keeps the water in front of [[place-rojai|Rojai]], and your hull crosses on the sufferance of whichever house holds that stretch.
+[[place-easternstrt|The Eastern Strait]] is narrow enough to cross in a day or two and treacherous enough that it has wrecked every invasion fleet the [[affiliation-tantsouempr|Empire of Tantsou]] has sent against the islands. The Jenchai call it the moat of the Nine Mountains. The Jenchai call the empire decadent and scheming, and the mainland calls them crude and violent. Each finds the other's manners unbearable and needs the other's goods: the islands send blades, salt, dried fish, lacquer and silk, and take jade, tea, bronze and silver in return. The strait is busy and it is watched. [[place-rinjai|Rinjai]]'s raiders lie in the coves at its mouth and Shuiwojai's fleet keeps the water in front of [[place-rojai|Rojai]], and your hull crosses on the sufferance of whichever house holds that stretch.
 
-The raids cross it too. The lords of the Nine count the mainland's southern coast as their ancestral right, and if you sail from the mainland you will hear its coastal magistrates demand that the raids stop. Rinjai holds a Tantsou prefect whom the court wants returned and Henzo wants ransomed.
+The raids cross it too. The lords of the Nine count the mainland's southern coast as their ancestral right, and the mainland's coastal magistrates demand that the raids stop. Rinjai holds a Tantsou prefect whom the court wants returned and Henzo wants ransomed.
 
 ## Honor and the Blade
 
-Honor is the organizing principle of the islands. A lord's word is sacred, and you will hear of broken oaths remembered for generations. An insult demands satisfaction, and the challenge and the duel follow fixed forms. The islanders use the mainland's word [Rwising]{.name data-type="lore/custom"} for every ritual death, ordered or chosen, and on the islands it can express protest, preserve a secret or prove loyalty to a fallen lord. A lord who orders one wields the power carefully, because it reflects on his own judgment.
+Honor is the organizing principle of the islands. A lord's word is sacred, and broken oaths are remembered for generations. An insult demands satisfaction, and the challenge and the duel follow fixed forms. The islanders use the mainland's word [Rwising]{.name data-type="lore/custom"} for every ritual death, ordered or chosen, and on the islands it can express protest, preserve a secret or prove loyalty to a fallen lord. A lord who orders one wields the power carefully, because it reflects on his own judgment.
 
 Favor is visible, and you learn to read it. A retainer is rewarded with a granted name, a stipend raised by so many bales, a village held as a fief or a seat nearer his lord. A lord is rewarded by the throne with a dignity or a place nearer the front at the Dawn Rite. Penalty runs from the lowered seat to the burned writ, which strips a man of his name, to outcasting among the [[lore-noutsou|Nwitsou]], who may hold no name the law recognizes.
 
@@ -107,6 +107,7 @@ WHERE type = 'being'
   AND data.culture = 'thalorna-note-lore-jenchaiclt'
   AND subType IN ('npc', 'character')
   AND state = 'full'
+  AND data.died IS NULL
 ORDER BY name.full COLLATE NOCASE
 ```
 

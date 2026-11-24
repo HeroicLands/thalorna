@@ -9,7 +9,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [mariner, warrior]
-  occupation: Lord
+  occupation: Dauzhwo
   lore: []
   culture: jenchaiclt
   homes: [zuwu]

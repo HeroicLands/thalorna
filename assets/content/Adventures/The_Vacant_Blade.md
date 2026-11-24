@@ -145,7 +145,7 @@ The arcs run in any order, and each moves the contest whether or not the party f
 
 **The household's unpaid bills.** The household owes the rice factor in Lengwou for months of deliveries, and it hides the bills from the Dauzhwo. If the factor stops delivering or talks, every lord learns that the court's poverty has reached the Retired Emperor's table.
 
-This frame does not say whom the office goes to, or whether it is conferred at all. The referee decides, and may let the party's actions decide.
+This frame does not say whom the office goes to, or whether it is conferred at all. The Game Master decides, and may let the party's actions decide.
 
 ## The Hooks It Gathers {#hooks}
 

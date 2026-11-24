@@ -428,5 +428,5 @@ Each Tanchei serves the summit shrine of one mountain, and through it the domain
 3. **The record read aloud.** A domain asks for the mountain record of a disputed year to be read aloud, and two houses send witnesses.
 
 :::secret {title="Whose silver bought the reading"}
-The reading of Rinjai that favors Henzo's claim was bought, and the referee chooses by whom. The Tanchei who brought it knows whose silver paid for it, and a party that asks him learns it.
+The reading of Rinjai that favors Henzo's claim was bought, and the Game Master chooses by whom. The Tanchei who brought it knows whose silver paid for it, and a party that asks him learns it.
 :::

@@ -3,7 +3,7 @@ shortcode: hstryjenchai
 name: {full: The History of Jenchai, en: [History of Jenchai]}
 type: lore
 subType: history
-description: "A referee's reading history of the Nine Mountains from the Secession to 720 AF: the thousand-year stalemate with Tantsou, the balance of the great lords, Hojujai Henwo's sixteen years as Teng Ja, and the war and the abdication that left the office empty."
+description: "A Game Master's reading history of the Nine Mountains from the Secession to 720 AF: the thousand-year stalemate with Tantsou, the balance of the great lords, Hojujai Henwo's sixteen years as Teng Ja, and the war and the abdication that left the office empty."
 tags: [history, jenchai]
 data:
   culture: jenchaiclt
@@ -44,7 +44,7 @@ data:
       unresolved:
         - which of the houses Henwo brought to heel before the Emperor conferred the office on him
     - id: henwodeath
-      when: 709
+      when: "709.120"
       kind: death
       depth: region
       sources: [affiliation-hojujaidmn, place-yanwu]

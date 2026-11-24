@@ -37,14 +37,14 @@ The party enters as the escort Chaiwo hires at [[place-kowu|Kowu]], as the hand 
 
 **The road.** Chaiwo's toll-keepers see every name. The Strait bloc wants the roll read, the loyalists want the gate kept shut, and the independent houses want to cross without being watched. Each of them has asked something of Chaiwo's household this season.
 
-**The garrisons.** Chaiwo has no grown heir, and three of his retainers are named as possible successors. Each has received an approach from a different bloc, and each would admit it if asked. One of them has accepted, and Chaiwo cannot tell which; the referee chooses. The three hold the garrisons of the passes on the far side of the ferry, each a [[being-mwjgrrcapt|Garrison Captain of Muwojai]], and the one who has accepted shows it in his garrison rather than in his speech: his men's arrears are paid in new silver that no stipend from Kowu covers, they wear new winter coats, and whenever someone of note passes his gate he sends a runner to the house that bought him.
+**The garrisons.** Chaiwo has no grown heir, and three of his retainers are named as possible successors. Each has received an approach from a different bloc, and each would admit it if asked. One of them has accepted, and Chaiwo cannot tell which; the Game Master chooses. The three hold the garrisons of the passes on the far side of the ferry, each a [[being-mwjgrrcapt|Garrison Captain of Muwojai]], and the one who has accepted shows it in his garrison rather than in his speech: his men's arrears are paid in new silver that no stipend from Kowu covers, they wear new winter coats, and whenever someone of note passes his gate he sends a runner to the house that bought him.
 
 **Henzo's side.** Henzo pays for the letter to reach him unopened, and he pays a second time for knowing who touched it on the way. A letter delivered to him with a broken seal, or not at all, tells him something as well.
 
 **What the Sealed Letter asks.** The letter withholds the office and asks Henzo for more silver toward the court's budget, and it names no price at which the office would follow. It is Weileng's way of deferring: while the office stays unconferred, both blocs need him.
 
 > [!IMPORTANT]
-> The seal is the scenario. Nobody in it is a villain, and nearly everyone wants to read the letter before Henzo does. The referee decides whether the seal reaches Hawu whole, and the party's choices decide what each side learns from the attempt.
+> The seal is the scenario. Nobody in it is a villain, and nearly everyone wants to read the letter before Henzo does. The Game Master decides whether the seal reaches Hawu whole, and the party's choices decide what each side learns from the attempt.
 
 ## What the Party Can Learn {#what-the-party-can-learn}
 
@@ -126,7 +126,7 @@ A party of travelers begins here and plays Scene Two at once. A party hired by C
 
 **Purpose.** Learn whether anyone waits, and meet them.
 
-**Situation.** The landing on the far side and the road that climbs from it. Someone is waiting. The referee chooses who from the houses that have asked about the letter, an agent of the [[affiliation-shuiwojaidmn|Shuiwojai Domain]] among them.
+**Situation.** The landing on the far side and the road that climbs from it. Someone is waiting. The Game Master chooses who from the houses that have asked about the letter, an agent of the [[affiliation-shuiwojaidmn|Shuiwojai Domain]] among them.
 
 **NPCs and threats.** The one who waits, another house agent. If it is Henzo's, he offers to take the letter on to Hawu in the party's place and to pay for the favor. If it is another house's, he offers to look at the seal and promises to put it back as he found it.
 
@@ -169,7 +169,7 @@ A party of travelers begins here and plays Scene Two at once. A party hired by C
 
 **Clues and rewards.** Henzo pays for faithful delivery and for each name he has not heard before. Any party that brought the seal whole earns his regard, and one that brought it broken earns his questions.
 
-**Consequences.** Henzo knows the Emperor's answer, and what he does with it is for the referee to decide. Every season the office stays unconferred, his silver buys a debt and not the office.
+**Consequences.** Henzo knows the Emperor's answer, and what he does with it is for the Game Master to decide. Every season the office stays unconferred, his silver buys a debt and not the office.
 
 **If bypassed.** The courier delivers the letter alone and the party hears the hall's answer from the quay.
 

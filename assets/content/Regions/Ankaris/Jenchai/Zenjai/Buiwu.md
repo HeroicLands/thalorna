@@ -12,6 +12,8 @@ data:
   population: {actual: 2800}
   market: local
   type: town
+  stronghold: castle
+  holder: affiliation-zenjaidmn
   government: zenjaidmn
   packFolder: jenchai
   culture: jenchaiclt

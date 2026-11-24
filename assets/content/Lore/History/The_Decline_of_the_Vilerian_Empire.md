@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [affiliation-vylarinmpr, place-ankrscntnnt]
       summary: >-
-        The Vilérian Empire begins losing what it holds—to overextension, internal corruption, barbarian pressure from the north, and the gradual independence of provinces. Provénzia and Tarvénia become successor states in all but name, Helionis regains practical independence while keeping formal ties, and twelve years ago Taruzel fought and won a war of independence with Khelathi gold behind it. The Empire has retreated to its core territories and still claims authority over regions that have long since gone their own way.
+        The Vilérian Empire begins losing what it holds—to overextension, internal corruption, barbarian pressure from the north, and the gradual independence of provinces. Provénzia and Tarvénia become successor states in all but name, and Helionis regains practical independence while keeping formal ties. The Empire has retreated to its core territories and still claims authority over regions that have long since gone their own way.
       standing: attested
       where:
         locus: [place-midhalnrgn]

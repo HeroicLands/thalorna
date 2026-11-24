@@ -420,7 +420,7 @@ He serves the Empire of Tantsou. His officers and marines follow him, and the te
 3. **The strange water.** The captain, far from any harbor of his empire, asks a party for the set of the coves before he decides whether to lower a boat.
 
 :::secret {title="The captain's orders"}
-The captain is ordered to hold at anchor until word comes to him from the envoy or from the shore, or until he is attacked. He does not know what the envoy has asked at [[place-lengwou|Lengwou]], and Rinjai's lord does not know what the captain has been told. The referee decides his errand: to fetch the prefect, to carry a message for the lord of Rinjai, or to burn the harbor at [Jawo]{.name data-type="place/settlement"}. A parley is the word from the shore he waits for, and he answers it according to his errand. A party that fires on the junk, or lets the raiders fire, releases him from his orders to hold.
+The captain is ordered to hold at anchor until word comes to him from the envoy or from the shore, or until he is attacked. He does not know what the envoy has asked at [[place-lengwou|Lengwou]], and Rinjai's lord does not know what the captain has been told. The Game Master decides his errand: to fetch the prefect, to carry a message for the lord of Rinjai, or to burn the harbor at [Jawo]{.name data-type="place/settlement"}. A parley is the word from the shore he waits for, and he answers it according to his errand. A party that fires on the junk, or lets the raiders fire, releases him from his orders to hold.
 
 1. [[scenario-prfctrdhll|The Prefect in the Red Hall]]: a party that goes aboard under a flag of parley learns what the junk has come for and what the captain knows of the envoy's request.
 

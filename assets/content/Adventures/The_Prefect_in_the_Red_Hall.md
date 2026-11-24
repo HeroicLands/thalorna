@@ -45,7 +45,7 @@ The party enters as the envoy's hired hands, as Henzo's, as hands the court send
 
 **The Strait.** Henzo's silver and fleet keep the water in front of [[place-rojai|Rojai]], and the ransom he wants adds to the silver he spends on the court's behalf. The mainland's coastal magistrates want the raids stopped and their captured officers returned. The empire has no fleet that can clear the strait and wants the islands' ships off it.
 
-**The war junk.** A mainland war junk has been sighted off the coves. It may have come to fetch the prefect, to carry a message for Hoja or to burn the harbor at [Jawo]{.name data-type="place/settlement"}, and the referee decides which. Whatever its errand, its captain, a [[being-tantsoujunkcpt|Tantsou War-Junk Captain]], is ordered to hold at anchor until word comes to him from the envoy or from the shore, or until he is attacked. He does not know what the envoy has asked at Lengwou, and Hoja does not know what he has been told. The [[being-rinjairaider|Rinjai Raider]] crews on the rocks watch the junk and are held from the first arrow by Hoja's word.
+**The war junk.** A mainland war junk has been sighted off the coves. It may have come to fetch the prefect, to carry a message for Hoja or to burn the harbor at [Jawo]{.name data-type="place/settlement"}, and the Game Master decides which. Whatever its errand, its captain, a [[being-tantsoujunkcpt|Tantsou War-Junk Captain]], is ordered to hold at anchor until word comes to him from the envoy or from the shore, or until he is attacked. He does not know what the envoy has asked at Lengwou, and Hoja does not know what he has been told. The [[being-rinjairaider|Rinjai Raider]] crews on the rocks watch the junk and are held from the first arrow by Hoja's word.
 
 > [!IMPORTANT]
 > Nobody here is a villain and nobody wants a war. The scenario ends when Hoja has handed the prefect to someone, or has chosen to hand him to no one.
@@ -150,7 +150,7 @@ A crew already in the strait begins here, on the evening it reaches Rinwu, and p
 
 **Player choices.** Go aboard under a flag of parley, carry a letter from Hoja, send word to Hawu, or ask the Tanchei who paid for the reading.
 
-**Clues and rewards.** The referee decides what the junk wants, from the three options of the prefect, the harbor or a message for Hoja. A party that goes aboard learns what the captain knows of the envoy's request. A party that asks the Tanchei learns whose silver bought the reading.
+**Clues and rewards.** The Game Master decides what the junk wants, from the three options of the prefect, the harbor or a message for Hoja. A party that goes aboard learns what the captain knows of the envoy's request. A party that asks the Tanchei learns whose silver bought the reading.
 
 **Consequences.** A parley is the word from the shore the captain waits for: he answers it according to his errand, and the way to an exchange opens. A party that fires on the junk, or lets the raiders fire, releases him from his orders to hold. A refusal to go aboard leaves the junk at anchor and the raiders restless.
 

@@ -9,7 +9,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier, trader]
-  occupation: Lord
+  occupation: Dauzhwo
   lore: []
   culture: jenchaiclt
   homes: [yuwu]
