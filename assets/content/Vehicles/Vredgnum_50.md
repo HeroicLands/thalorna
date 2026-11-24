@@ -40,13 +40,17 @@ data:
       - sternpost rudder
 ---
 
+# Appearance {#appearance}
+
+A flat-floored clinker hull with high straight sides, full decks and a rudder hung on the sternpost. The hull is 50 feet long.
+
 # Dossier {#dossier}
 
 The **Vredgnum** is the bulk carrier of the [[lore-nordheimnclt|Nordheimn]] of the [[place-nrdlndsrgn|Nordlands]]. The name is [[skill-nordmalng|Nordmal]]: _vred-_, from _vredi_, wide, and _gnum_, a clay pot. Together they mean the wide pot, said VRED-gnoom.
 
 ## The Vessel
 
-A flat-floored clinker hull with high straight sides, full decks and a rudder hung on the sternpost. It is slow and wallows, but it carries much more cargo than a Hafthresk of the same length, and its freeboard lets it fight off raiders. Merchants favor it and traditionalists mock it. Its high sides make it the best candidate for conversion to a warship ([[doc-vesselwar|Merchant Ships in War]]).
+It is slow and wallows, but it carries much more cargo than a Hafthresk of the same length, and its freeboard lets it fight off raiders. Merchants favor it and traditionalists mock it. Its high sides make it the best candidate for conversion to a warship ([[doc-vesselwar|Merchant Ships in War]]).
 
 Northern yards build clinker, each plank lapping the one beneath it ([[doc-vesseltradtn|Seafaring Traditions]]), and the finest shipyards in the north stand at [[place-gnarthborg|Gnarthborg]].
 
@@ -65,13 +69,13 @@ Northern yards build clinker, each plank lapping the one beneath it ([[doc-vesse
 | Build time     | 2,500 man-days              |
 | Cost           | 15,000 Pence                |
 
-A sailing hull at sea carries about twice its operating crew, to stand watches and cover sickness and losses ([[doc-vesselcrew|Vessel Crew and Oarsmen]]). The number of passengers a hull takes aboard is the game master's choice.
+A sailing hull at sea carries about twice its operating crew, to stand watches and cover sickness and losses ([[doc-vesselcrew|Vessel Crew and Oarsmen]]). The number of passengers a hull takes aboard is the Game Master's choice.
 
 Length, beam, hull depth and burthen follow [[doc-vesselhulls|Vessel Dimensions and Burthen]], the crew follows [[doc-vesselcrew|Vessel Crew and Oarsmen]], and the time and cost, counted in [[miscgear-pence|Pence]], follow [[doc-vesselbuild|Shipbuilding Time and Cost]]. The grades are explained in [[doc-vesselgrades|Vessel Grades]] and the rig in [[doc-vesselrigs|Vessel Rigs]].
 
 ## A Day's Passage
 
-Under sail the Vredgnum rolls on the grade D table for a square rig in [[doc-seatravel|Travel at Sea]]. On 15% of days it makes no useful progress, and the other days end at 10 leagues (3%), 20 leagues (20%), 30 leagues (40%), 40 leagues (20%) or 50 leagues (2%), an average of 25.3 leagues. A league is 3 nautical miles. It has no oar table. The figures assume smooth open water, a usable wind and a skilled crew; contrary currents, storms and heavy seas are for the players and the game master to settle.
+Under sail the Vredgnum rolls on the grade D table for a square rig in [[doc-seatravel|Travel at Sea]]. On 15% of days it makes no useful progress, and the other days end at 10 leagues (3%), 20 leagues (20%), 30 leagues (40%), 40 leagues (20%) or 50 leagues (2%), an average of 25.3 leagues. A league is 3 nautical miles. It has no oar table. The figures assume smooth open water, a usable wind and a skilled crew; contrary currents, storms and heavy seas are for the players and the Game Master to settle.
 
 ## Sizes
 

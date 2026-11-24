@@ -40,13 +40,17 @@ data:
       - open hold amidships covered by hides
 ---
 
+# Appearance {#appearance}
+
+A clinker hull, broader and deeper than a warship's, half-decked fore and aft, with an open hold amidships covered by hides. One square sail drives it, and a steering oar hangs on the starboard quarter. A few sweeps stand ready for harbor work. The hull is 60 feet long.
+
 # Dossier {#dossier}
 
 The **Hafthresk** is the open-sea trader of the [[lore-nordheimnclt|Nordheimn]] of the [[place-nrdlndsrgn|Nordlands]]. The name is [[skill-nordmalng|Nordmal]]: _haf-_, the open sea, and _thresk_, a keel. Together they mean the open-sea keel, said HAHF-thresk.
 
 ## The Vessel
 
-A clinker hull, broader and deeper than a warship's, built for long passages in open water. One square sail drives it, and a steering oar hangs on the starboard quarter. The hull is half-decked fore and aft, with an open hold amidships covered by hides. A few sweeps serve for harbor work, but the hull is not rated for oars.
+The Hafthresk is built for long passages in open water. The hull is not rated for oars.
 
 Ships of the Nordlands carry amber, furs, whale ivory and iron south to [[place-midhalnrgn|Midhalión]]. Northern yards build clinker, each plank lapping the one beneath it ([[doc-vesseltradtn|Seafaring Traditions]]), and the finest shipyards in the north stand at [[place-gnarthborg|Gnarthborg]].
 
@@ -65,13 +69,13 @@ Ships of the Nordlands carry amber, furs, whale ivory and iron south to [[place-
 | Build time     | 3,000 man-days              |
 | Cost           | 18,000 Pence                |
 
-A sailing hull at sea carries about twice its operating crew, to stand watches and cover sickness and losses ([[doc-vesselcrew|Vessel Crew and Oarsmen]]). The number of passengers a hull takes aboard is the game master's choice.
+A sailing hull at sea carries about twice its operating crew, to stand watches and cover sickness and losses ([[doc-vesselcrew|Vessel Crew and Oarsmen]]). The number of passengers a hull takes aboard is the Game Master's choice.
 
 Length, beam, hull depth and burthen follow [[doc-vesselhulls|Vessel Dimensions and Burthen]], the crew follows [[doc-vesselcrew|Vessel Crew and Oarsmen]], and the time and cost, counted in [[miscgear-pence|Pence]], follow [[doc-vesselbuild|Shipbuilding Time and Cost]]. The grades are explained in [[doc-vesselgrades|Vessel Grades]] and the rig in [[doc-vesselrigs|Vessel Rigs]].
 
 ## A Day's Passage
 
-Under sail the Hafthresk rolls on the grade C table for a square rig in [[doc-seatravel|Travel at Sea]]. On 10% of days it makes no useful progress, and the other days end at 10 leagues (1%), 20 leagues (11%), 30 leagues (38%), 40 leagues (33%) or 50 leagues (7%), an average of 30.4 leagues. A league is 3 nautical miles. It has no oar table. The figures assume smooth open water, a usable wind and a skilled crew; contrary currents, storms and heavy seas are for the players and the game master to settle.
+Under sail the Hafthresk rolls on the grade C table for a square rig in [[doc-seatravel|Travel at Sea]]. On 10% of days it makes no useful progress, and the other days end at 10 leagues (1%), 20 leagues (11%), 30 leagues (38%), 40 leagues (33%) or 50 leagues (7%), an average of 30.4 leagues. A league is 3 nautical miles. It has no oar table. The figures assume smooth open water, a usable wind and a skilled crew; contrary currents, storms and heavy seas are for the players and the Game Master to settle.
 
 ## Sizes
 
