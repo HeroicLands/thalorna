@@ -12,6 +12,18 @@ data: {packFolder: adventurersguides, culture: tantsouclt}
 >
 > A woman in a scholar's blue robe, her hair pinned with a single plain comb, comes to the edge of the veranda and bows to you, precisely and not deeply. She greets you with _«lai nau!»_, good coming, the welcome a Tantsou gives a person received into their company. "[[being-kwisenregdtr|Second Daughter of the Registrar of the Clan of Moon Rises Over Still Water]], near [[place-weichai|Weichai]]," she says. "[[lore-tanchei|Tanchei]]." She waits. When it is plain that you have no caste to answer with, she inclines her head, leads you to the lowest end of a long bench, sets a bowl of millet and a cup of pale tea in front of you, and opens a fresh page in a bound register you are not allowed to see.
 
+::: {.verse form=recitation lang=en}
+The world was sorted once, and the sorting is not done./
+Each caste has its column, and each column has its seal./
+A clerk lays down his brush, and the next clerk takes it up;/
+the way-station's register has no gap in four hundred years./
+The wall runs out to the mountains under ten thousand fires./
+At every gate the papers, and at every desk the ledger,/
+and the dead are kept in it, owed and owing, carried forward./
+What comes without a number is not yet in the world./
+Here nobody says no. A thing is only not yet sealed.
+:::
+
 The [[affiliation-tantsouempr|Empire of Tantsou]] is the oldest continuously governed state in the world, a realm of river basins, terraced hills and crowded cities in the far east of [[place-ankrscntnnt|Ankaris]], with some 120 million people on its rolls. It holds that the cosmos was made by sorting, that the sorting is unfinished, and that every person's work is to keep the sorted world apart from the unsorted. Its Emperor is the Son of Heaven, holder of the [[lore-mandatehvn|Mandate of Heaven]], who reigns from the capital of [[place-zhowen|Zhowen]]; its gods are a celestial bureaucracy that the imperial bureaucracy mirrors; and its people live in eight castes that fix their trade, dress, marriage and the name, if any, they may bear. To the frontier clerk you are a document that arrived without a filing number.
 
 The empire ends at [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], which runs thousands of miles from the far northern frontiers to the Grazian Mountains in the far south and has stood through many dynasties. To a Tantsou it is where the law ends and the sorted world with it: outside its gates are the barbarian lands of the Khazrin and its peoples. Nobody passes the wall, in or out, without proper papers and approvals.

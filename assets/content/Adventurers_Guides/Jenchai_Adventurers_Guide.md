@@ -12,6 +12,12 @@ data: {packFolder: adventurersguides, culture: jenchaiclt}
 >
 > A man in plain dark silk stands at the head of the quay with a house blade at his belt and a knotted tally-cord turning in his left hand. A clerk at his elbow reads out a berth and a toll, and the man repeats each figure under his breath and nods. When the plank touches the stone he looks at you instead of the roll. He greets you with _«rayo nou!»_, good coming, the welcome a house gives a guest it has decided to receive. "[[being-wojaidoja|Wojai Doja]], of Yujai, at the mooring roll. House first, as you see." He waits. "Whose hull is this, and whose letter do you carry?" Behind him a captain who has been standing very still on the next berth turns away and begins, carefully, to count his own bales.
 
+::: {.verse form=counted-verse lang=en}
+First frost on the strait./
+Nine peaks above the clouds, and one/
+blade that no hand holds.
+:::
+
 The [[place-jenchairgn|Jenchai Region]] is nine volcanic mountains on two islands: eight on one great island and one on a lesser island at the mouth of the strait that divides them from the mainland, with about 500,000 people between them. The islanders call it Teyan Jenjai, the Nine Mountains Above the Clouds of Heaven, and they mean the name as a ranking. Each mountain is a domain held by a house, each house is led by a great lord called a _Dauzhwo_, and each lord has his own army, his own justice, his own taxes and often his own fleet. Above them stands one Emperor, who commands a household guard and nothing else.
 
 **The one thing to understand first: faith kept is the whole of virtue.** A Jenchai stands where his lord's word puts him, and his worth is the faith he keeps with that lord. Evil is faith broken, and the person the Jenchai fear most is the one who belongs to no lord at all. Doja's question at the mooring roll, whose letter you carry, asks whom you serve. The retainer who does as he is told, argues once in the humble form and serves one name for fifty years is the admired man of the islands. The lord's wife who holds the keys of the hall until the heir is of age and then gives them up is the admired woman. Everything below runs on that bond, and so does every quarrel in this guide.
