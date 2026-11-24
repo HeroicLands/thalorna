@@ -256,9 +256,9 @@ folder.
 A pull request whose title starts with `WIP:`, in any letter case, runs the
 light checks: formatting, markdown, localization, changesets and attribution.
 One readiness job reads the title, and four jobs follow its answer: the
-reference-people and utility tests (`guards`), the font lexicon guards
-(`fonts`), the content pack compile (`build`) and the aggregate content, prose
-and registry check (`lint`). The first three are skipped. The aggregate runs a
+reference-people, outline and coverage guards and the utility tests
+(`guards`), the font lexicon guards (`fonts`), the content pack compile
+(`build`) and the aggregate content, prose and registry check (`lint`). The first three are skipped. The aggregate runs a
 short guard and fails, so the required check blocks the merge. Remove the prefix
 with `earl pr ready`; it starts fresh required checks before scheduling a merge.
 Changing the title by hand does not start those checks. Pushes to `main` and

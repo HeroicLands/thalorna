@@ -53,6 +53,18 @@ that can run concurrently within that slice with headroom. The slice size is
 recorded in the runner records under `infrastructure/systems/`. Raise the limit
 in `deploy-site.yml`, and the value the publishing fixtures require, in the same
 change as that evidence.
+
+The content pack compile in the Lint workflow runs `npm run build:db` with
+`NODE_OPTIONS=--max-old-space-size=4096`, set on the compile step only. The cap
+bounds the V8 old-space heap; DuckDB's `sql.memoryLimit` of 6 GB in
+`package-build.config.yaml` is native memory outside that heap. The `build`
+runner has one slot, so one build job runs at a time, and its 4 GiB heap plus 6 GB
+DuckDB limit stay under the 12 GiB high-water mark of the build slice. To run the
+compile locally with the same limit, run
+`NODE_OPTIONS=--max-old-space-size=4096 npm run build:db`. Raise the limit in
+`lint.yml` only with the same evidence as the site build, and keep the sum of the
+caps that run in the slice under that mark.
+
 The build job has no SSH, Cloudflare or R2 deployment secrets, and only the
 `public` job receives the Cloudflare credentials. The build verifies the package
 prefix, nonempty landing/404/root headers and at least 1,001 index pages. Root

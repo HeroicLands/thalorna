@@ -179,6 +179,16 @@ jobs:
                   path: trusted-preview-contracts
                   persist-credentials: false
 
+            # Heading outlines and land definitions of done, read from the notes.
+            - name: Check note outlines
+              if: ${{ !cancelled() }}
+              run: npm run lint:outline
+
+            # Land coverage rules; a finding in a finished land is an error.
+            - name: Check content coverage
+              if: ${{ !cancelled() }}
+              run: npm run lint:coverage
+
             # The tree's own guards, the deployment headers among them. Two
             # pull requests that pass alone can fail together, and this catches
             # that before merge.
@@ -347,6 +357,11 @@ jobs:
             # Prepare dependencies and assets, then validate and compile the
             # content in one session.
             - name: Compile the content packs
+              env:
+                  # V8 old-space cap for the compile, beside DuckDB's own 6 GB
+                  # `sql.memoryLimit`, which is native memory outside the heap.
+                  # Heap and DuckDB limit stay under the build slice's high-water mark.
+                  NODE_OPTIONS: --max-old-space-size=4096
               run: npm run build:db
 
             # The marker survives failures after publication. Missing publication
