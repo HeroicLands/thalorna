@@ -126,7 +126,7 @@ homedBeingExceptions:
 # Ids of the lands held to this registry. A finding in a finished land is an
 # error; in every other land it is a warning, except `see-also-not-last`, which
 # is an error in every land.
-finished: [tarvenia, elavendre, provenzia]
+finished: [tarvenia, elavendre, provenzia, tantsou, jenchai]
 
 # Each entry selects notes by `type`, `subType` and tags (`anyTag`: at least one;
 # `noTag`: none) and gives its slots in the order they must appear. The first

@@ -4,7 +4,7 @@ name: {full: A Door That Has Never Existed}
 type: scenario
 subType: campaign
 description: "The campaign frame for the eastern leg of the Dúnavarre embassy, from the way-station at Kwisen to the Speaker's gate-court at Zhowen and the port of Wongsen, while one Prince sponsors the embassy, the other three work to turn it against him, and the court's game decides a request for a door that has never existed."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [jnanadvar, kwisen, mwonouplnd, zhowen, wongsen, wongsenfrgnqrtr, tantsouregin]

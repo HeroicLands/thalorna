@@ -4,7 +4,7 @@ name: {full: A Page the Register Can Hold}
 type: scenario
 subType: adventure
 description: "The Dúnavarre embassy comes over the Scholars' Door with weather shutting the col behind it, and at the way-station of Kwisen the registrar's daughter opens a fresh page for a party with no caste to answer with and will not let it go down the valley until the register can hold an account of it."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [jnanadvar, kwisen, tantsouregin]

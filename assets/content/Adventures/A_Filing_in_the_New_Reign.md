@@ -4,7 +4,7 @@ name: {full: A Filing in the New Reign}
 type: scenario
 subType: adventure
 description: "The Dúnavarre embassy waits in its compound at Zhowen to file the papers that bring it before the Speaker, two clerks of the chancellery come to its gate for them, each for a different hall, and the roll for the next hearing closes at sunset on the fourth day."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [zhowen, tantsouregin]

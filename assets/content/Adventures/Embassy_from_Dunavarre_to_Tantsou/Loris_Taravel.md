@@ -392,7 +392,7 @@ Loris Taravel dresses in the neat, unmarked cloth of a diplomatic aide and carri
 
 **Background.** Skilled in several languages and in international custom.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 A double agent for [[affiliation-vylarinmpr|Viléria]], paid in coin and promises of advancement. Manipulates [[being-elowyrnimavren|Elowir]] for information and regards him as a pawn. Knows [[being-marricharavrel|Marrik]] is Spymaster, thinks him an amateur, and feeds him falsehoods.
 :::
 

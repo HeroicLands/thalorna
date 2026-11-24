@@ -29,7 +29,7 @@ The merchants hold their place by classification. A foreigner is no inhabitant o
 
 The quarter stands on the [[lore-castelaws|Caste Laws]]. A foreigner inside the borders is unclassified until a bureau says otherwise, and an unclassified person in the sorted world is a standing breach, so the empire classifies the foreigners it trades with and keeps them where it can see them. Every port of the empire that trades by sea keeps such a quarter, carefully walled, carefully watched and carefully taxed. A classified foreigner stays marked as other: his petitions, when a bureau accepts them, are handled last, and the quarter's walls put the same rule where it can be seen.
 
-No note gives the number of people in the quarter. The province enters each merchant as a Foreign Resident only for the length of his business, and a trading classification runs out in days, so the merchants who fill the quarter change as their business ends.
+The quarter's population is not counted. The province enters each merchant as a Foreign Resident only for the length of his business, and a trading classification runs out in days, so the merchants who fill the quarter change as their business ends.
 
 ## Places {#places}
 

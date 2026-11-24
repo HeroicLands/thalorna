@@ -65,6 +65,7 @@ data:
       Champion: The house's arm in matters settled by arms, whether duel, feud or war.
       Agent at Court: The house's standing representative where the intrigue is conducted.
   seat: null
+  range: [zhowen]
   population: {actual: null}
   economy: []
   lore: [humanflk]

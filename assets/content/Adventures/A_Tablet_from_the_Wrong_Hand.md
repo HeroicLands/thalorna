@@ -4,7 +4,7 @@ name: {full: A Tablet from the Wrong Hand}
 type: scenario
 subType: adventure
 description: "A party of the Dúnavarre embassy is in the port of Wongsen, where a foreign merchant's trading classification runs out at sunset on the fourth day with his goods still in a warehouse of the Foreign Quarter, and a tablet offered behind the warehouses is either a forgery or a trap."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [wongsen, wongsenfrgnqrtr, tantsouregin]

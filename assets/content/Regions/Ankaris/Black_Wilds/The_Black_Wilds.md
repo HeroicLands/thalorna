@@ -42,14 +42,14 @@ Wogen wants land and grain for the tribes first, and after that a throne: he mea
 
 ## Roads and Trade {#roads-and-trade}
 
-Wogen talks in the clipped trade-speech of the frontier markets; the notes name no road or market inside the wilds.
+Wogen talks in the clipped trade-speech of the frontier markets. The empire knows of no road or market inside the wilds.
 
 ## Dangers {#dangers}
 
-Wogen's riders in the northern districts, and the raids of the Grukar nests.
+The dangers are Wogen's riders, who raid south into the empire's northern districts, and the Grukar nests.
 
-:::secret {title="What the notes leave open"}
-How far the wilds run to the north and west, how many people they hold, the names of the tribes, their chiefs, wells and camps, and where Wogen keeps his own camp are the Game Master's choice. So is whether the wilds reach the Grukar country of [[place-grkrhlmrgn|Grukarholm]]; the notes state only the border with Tantsou.
+:::secret {title="What is left open"}
+How far the wilds run to the north and west, how many people they hold, the names of the tribes, their chiefs, wells and camps, and where Wogen keeps his own camp are the Game Master's choice. So is whether the wilds reach the Grukar country of [[place-grkrhlmrgn|Grukarholm]]; only the border with Tantsou is fixed.
 :::
 
 ## History {#history}

@@ -4,7 +4,7 @@ name: {full: Jenchai Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A player and GM introduction to Jenchai, the Nine Mountains east of Tantsou, where eight great lords hold the mountains, a young Emperor holds the court, and the vacant office of Teng Ja is the contest of the year.
-tags: [draft]
+tags: []
 data: {packFolder: adventurersguides, culture: jenchaiclt}
 ---
 
@@ -106,6 +106,7 @@ FROM notes
 WHERE type = 'being'
   AND data.culture = 'thalorna-note-lore-jenchaiclt'
   AND subType IN ('npc', 'character')
+  AND data.born IS NOT NULL
   AND state = 'full'
   AND data.died IS NULL
 ORDER BY name.full COLLATE NOCASE

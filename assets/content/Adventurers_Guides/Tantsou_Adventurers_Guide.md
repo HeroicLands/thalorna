@@ -4,7 +4,7 @@ name: {full: Tantsou Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A player and GM introduction to the Empire of Tantsou—its eight castes, its celestial bureaucracy, the foreigner's place outside the sorted world, the young Emperor and the four Princes who play their game around him, the hungry south, and the ways a campaign begins there.
-tags: [draft]
+tags: []
 data: {packFolder: adventurersguides, culture: tantsouclt}
 ---
 
@@ -71,7 +71,7 @@ WITH RECURSIVE tantsou(place) AS (
 )
 SELECT address.slug AS _ref,
        name.full AS "Town",
-       data.population.apparent AS "People"
+       format('{:,}', CAST(data.population.apparent AS BIGINT)) AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'

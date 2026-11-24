@@ -6294,7 +6294,7 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | Wohou    | Warrior-Noble     | Warrior Nobility                                     |
 | Tanchei  | Celestial-Scholar | Celestial Scholars                                   |
 | Tsaihwo  | Craft-Hand        | Artisans and Craftsmen                               |
-| Nouwen   | Field-Centre      | Farmers and Peasants                                 |
+| Nouwen   | Field-Center      | Farmers and Peasants                                 |
 | Shwonong | Trade-Folk        | Merchants                                            |
 | Nwitsou  | Bound-Tribe       | Slaves and Outcasts                                  |
 | Wonong   | Warrior-Folk      | Common soldiers and enforcers within the craft caste |
