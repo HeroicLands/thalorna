@@ -55,6 +55,14 @@ A subject of the empire carries a _Zhau Mou_, the classification tablet that sta
 
 No register counts the people of the wall as one place: each garrison is entered on its own roll.
 
+## Command and Labor {#command}
+
+The human-run sections of the wall are commanded by human Wohou officers under the Princes whose provinces the wall crosses. The labor that builds and maintains them is the district corvée, which the Wohou administrators of those districts already answer for to their Princes.
+
+### The Northern Posting
+
+The posting of the [[lore-wanduo|Wandwo]] to the northern garrisons is a duty with many purposes, and it is also used as a sign of disfavor, since the posting is bitter cold and generally miserable, with few opportunities for entertainment or distraction. For some it is a punishment assignment. For most it is a one-year posting, often a mark of distinction for those who have served. For those who are punished it is more like a five-year posting that is not forgotten. A year's service is a mark of pride. Service for longer than that is a permanent mark on a Wandwo's record and a mark of disrepute, and a Wandwo who served longer rarely mentions it except to superiors who already know.
+
 ## The Present {#present}
 
 In the north the steppe warlord [[being-wogenhenzhuo|Wogen Henzhwo]] holds the tribes of [[place-blackwilds|the Black Wilds]] together in the [[affiliation-hwenhatoucnf|Hwenhatou Confederation]], and his riders raid the northern districts of [[affiliation-kwozhengprv|Kwozheng Province]] from beyond the marches. Infighting among the Wohou lords of the north thinned the frontier garrisons, and those garrisons face the riders, the raids of the [[lore-grukarfolk|Grukar]] and the undead hordes.
