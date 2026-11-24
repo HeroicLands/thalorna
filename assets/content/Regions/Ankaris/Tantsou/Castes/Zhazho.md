@@ -39,7 +39,7 @@ The Wandwo
 And they hold it to three duties:
 
 Defense
-: the protection of the empire and all its people.
+: the protection of the empire and all its people. Each noble house of the Zhazho is charged with manning the northern garrisons of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] from its own Wandwo.
 
 Order
 : the preservation of the classification and of harmony with heaven.

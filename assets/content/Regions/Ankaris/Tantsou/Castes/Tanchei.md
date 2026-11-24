@@ -46,7 +46,7 @@ A scholar whose reading of the heavens changes the empire's course may be grante
 
 [[lore-flksenali|Senali]] sages, who know more of the stars and of the natural world than any human school, are often classified Tanchei. Their counsel is valued at court and also mistrusted, because they will not say where their knowledge comes from and seem to care little what humans do with it.
 
-[[lore-flkkhazar|Khazari]] masters of engineering, mining and metallurgy are classified Tanchei when an imperial work—a dam, a mountain road, a fortress cut from the rock—cannot be built without them. Their knowledge of the deep places is held in awe and some fear, and court scholars are uneasy sharing a title with people who will not explain how they find water in stone.
+[[lore-flkkhazar|Khazari]] masters of engineering, mining and metallurgy are classified Tanchei when an imperial work—a dam, a mountain road, a fortress cut from the rock—cannot be built without them. Their knowledge of the deep places is held in awe and some fear, and court scholars are uneasy sharing a title with people who will not explain how they find water in stone. The Khazari are in charge of the key parts of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] and maintain it at its strategic places: the gates on the major transit roads, the stretches near the capital and the north.
 
 ## Philosophy of Lei
 

@@ -39,7 +39,7 @@ No office
 
 ## The Wonong
 
-The _Wonong_ (common soldiers) are the Tsaihwo who bear arms. They are the empire's spearmen and archers in war and its watch in peace: they guard the gates and granaries, walk the market streets, take a thief to the magistrate and stand behind the officer who reads a sentence. They are the only people below the Wohou who may carry a weapon openly, and they are treated with more deference than an ordinary craftsman because their work can kill them.
+The _Wonong_ (common soldiers) are the Tsaihwo who bear arms. They are the empire's spearmen and archers in war and its watch in peace: they guard the gates and granaries, walk the market streets, take a thief to the magistrate and stand behind the officer who reads a sentence. On the frontier they stand the wall. They are the only people below the Wohou who may carry a weapon openly, and they are treated with more deference than an ordinary craftsman because their work can kill them.
 
 When a shopkeeper in a Tantsou town is robbed, it is a Wonong he goes to, and the Wonong who walks that street usually knows already who did it. The watch enforces the Caste Laws at street level, investigates small crimes and keeps order in its own quarter, and it takes larger matters to the Wohou magistrate above it.
 
@@ -64,7 +64,7 @@ The Yaiwo (healers) are the empire's apothecaries and physicians. They are Tsaih
 
 ## The Elder Races
 
-Most [[lore-flksenali|Senali Folk]] and [[lore-flkkhazar|Khazár Folk]] who live within the empire are classified Tsaihwo, because their work fits no other caste so well. Senalian woodcarvers, weavers and jewelers and Khazárian smiths, masons and engineers make work that sells for many times the price of a human master's, and the richest of them live better and wield more influence than many Wohou, whatever their tablets say.
+Most [[lore-flksenali|Senali Folk]] and [[lore-flkkhazar|Khazár Folk]] who live within the empire are classified Tsaihwo, because their work fits no other caste so well. Senalian woodcarvers, weavers and jewelers and Khazárian smiths, masons and engineers make work that sells for many times the price of a human master's, and the richest of them live better and wield more influence than many Wohou, whatever their tablets say. Near the capital the carved and gilded stone of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] is Khazari work.
 
 ## See Also {#see-also}
 

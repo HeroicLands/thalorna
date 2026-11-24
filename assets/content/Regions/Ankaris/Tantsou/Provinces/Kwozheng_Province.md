@@ -60,9 +60,9 @@ data:
 sohl: {system: {commonSkills: [tantsoulng]}}
 ---
 
-Kwozheng Province is the northern province of the [[affiliation-tantsouempr|Empire of Tantsou]], with about 20 million people. It holds the cold coast, the hard-wintered basins of the north and the fortified marchland of watchtowers and garrison colonies toward the far-northern [[lore-grukarfolk|Grukar]] nests. Beyond the marches lies the steppe of [[place-blackwilds|the Black Wilds]]. Its Prince, [[being-tuizhokwzng|Tuizho]], of the [[lore-zhazho|Zhazho]], rules from the city of [[place-kwozheng|Kwozheng]].
+Kwozheng Province is the northern province of the [[affiliation-tantsouempr|Empire of Tantsou]], with about 20 million people. It holds the cold coast, the hard-wintered basins of the north and the fortified marchland of watchtowers and garrison colonies toward the far-northern [[lore-grukarfolk|Grukar]] nests, along the ancient, sigil-carved northern stretch of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], which also keeps out the undead hordes. Beyond the marches, outside the wall, lies the steppe of [[place-blackwilds|the Black Wilds]]. Its Prince, [[being-tuizhokwzng|Tuizho]], of the [[lore-zhazho|Zhazho]], rules from the city of [[place-kwozheng|Kwozheng]].
 
-The soldier-settlers of the marches are of the [[lore-tantsoumrchclt|Tantsou Frontier Peoples]].
+The soldier-settlers of the marches are of the [[lore-tantsoumrchclt|Tantsou Frontier Peoples]]. Along several hundred miles of the northern wall a garrison stands every five miles, with [[lore-wanduo|Wandwo]] constantly present at each to reinforce the wall and give backup against an attack on the wall in their region, and more can be called from nearby garrisons by smoke or fire signals. Each noble house of the [[lore-zhazho|Zhazho]] is charged with manning these garrisons from its own Wandwo.
 
 ## Current Situation {#present}
 
@@ -85,6 +85,9 @@ The marches sing of the Grukar. [[lore-unnumberedtwr|The Song of the Unnumbered 
 
 [[place-kwozhngmrch|The Kwozheng Marches]]
 : the north and the marches the province holds
+
+[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+: the wall the northern garrisons stand
 
 [[affiliation-mwonouprv|Mwonou Province]]
 : the rival province

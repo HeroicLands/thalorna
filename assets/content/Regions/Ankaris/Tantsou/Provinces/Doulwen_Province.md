@@ -60,7 +60,7 @@ data:
 sohl: {system: {commonSkills: [tantsoulng]}}
 ---
 
-Doulwen Province is the western province of the [[affiliation-tantsouempr|Empire of Tantsou]], with about 22 million people. It holds the basins below the western mountains and the passes toward the [[place-khzryndsrtrgn|Khazrin]], where [[lore-celestialroad|the Celestial Road]] comes down into the empire, and its Prince rules from the city of [[place-doulwen|Doulwen]], where the caravans unload.
+Doulwen Province is the western province of the [[affiliation-tantsouempr|Empire of Tantsou]], with about 22 million people. It holds the basins below the western mountains and the passes toward the [[place-khzryndsrtrgn|Khazrin]], where [[lore-celestialroad|the Celestial Road]] passes the gate of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] and comes down into the empire, and its Prince rules from the city of [[place-doulwen|Doulwen]], where the caravans unload. The gate on the western pass, with its garrison and customs-house, is hot and dusty, more a desert village than anything else, and its walls are Khazari stone and fantastic.
 
 The mountain villages above the passes and the soldier families of their garrisons are of the [[lore-tantsoumrchclt|Tantsou Frontier Peoples]].
 
@@ -83,6 +83,9 @@ The present Prince's rise belongs to the first years of the young Emperor's reig
 
 [[place-doulwenbsns|The Doulwen Basins]]
 : the basins and passes the province holds
+
+[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+: the empire's boundary on the western pass
 
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : the empire the province belongs to

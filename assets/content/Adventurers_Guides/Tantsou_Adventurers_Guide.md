@@ -14,6 +14,8 @@ data: {packFolder: adventurersguides, culture: tantsouclt}
 
 The [[affiliation-tantsouempr|Empire of Tantsou]] is the oldest continuously governed state in the world, a realm of river basins, terraced hills and crowded cities in the far east of [[place-ankrscntnnt|Ankaris]], with some 120 million people on its rolls. It holds that the cosmos was made by sorting, that the sorting is unfinished, and that every person's work is to keep the sorted world apart from the unsorted. Its Emperor is the Son of Heaven, holder of the [[lore-mandatehvn|Mandate of Heaven]], who reigns from the capital of [[place-zhowen|Zhowen]]; its gods are a celestial bureaucracy that the imperial bureaucracy mirrors; and its people live in eight castes that fix their trade, dress, marriage and the name, if any, they may bear. To the frontier clerk you are a document that arrived without a filing number.
 
+The empire ends at [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], which runs thousands of miles from the far northern frontiers to the Grazian Mountains in the far south and has stood through many dynasties. To a Tantsou it is where the law ends and the sorted world with it: outside its gates are the barbarian lands of the Khazrin and its peoples. Nobody passes the wall, in or out, without proper papers and approvals.
+
 **The one thing to understand first: a foreigner is unclassified until a bureau says otherwise.** Without classification a stranger cannot own property, sign a contract or seek the law's protection; a crime against him is no crime under the law, and a crime by him is a breach of the order, punished fast. The usual remedy is a bureau's classification, such as the trading classification a merchant receives with a tablet to carry, good for the length of his business. The highest is the Emperor's own decree, rare and kept for dignitaries, ambassadors and those who have done the empire an extraordinary service: it assigns the foreigner a caste, and his standing lasts exactly as long as the Emperor wills it, and his tablet, under the Emperor's own seal, is in practice a safe-conduct anywhere in the empire.
 
 ## The Eight and the Ledger
@@ -42,7 +44,7 @@ The embassy of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] has come ask
 
 The south is hungry. Its rice harvests have failed several years running, smaller rivers lie dry in their beds, and in some districts the Nouwen have risen against their lords and the magistrates who collect the tribute. In the market town of [[place-jaunou|Jaunou]], at the heart of the famine, the district granaries stand open and empty. The Tanchei are divided over the cause, between a breakdown of classification in the domains of Earth and Water and a weakening of the Mandate itself, a reading no scholar puts in writing. In the capital the price of rice on both shores follows the granaries of Wongsen.
 
-Every frontier is pressed at once. The steppe warlord [[being-wogenhenzhuo|Wogen Henzhwo]] holds the tribes of [[place-blackwilds|the Black Wilds]] together, and his riders are in the northern districts. The general [[being-tuijawengyan|Tuija Wengyan]], stripped of his rank and exiled, is in open revolt and holds gains in the border provinces. In the remote northwest the [[lore-chaizho|Chaizho]] range through the country a great earthquake broke. Across the eastern strait the fleets of the [[affiliation-jenchaiempr|Jenchai]] houses take tolls and ransoms and plunder the coast; the coastal magistrates want their captured officers back, and the court has no fleet that can clear the water.
+Every frontier is pressed at once. The steppe warlord [[being-wogenhenzhuo|Wogen Henzhwo]] holds the tribes of [[place-blackwilds|the Black Wilds]] together, and his riders are in the northern districts, where the wall also keeps out the undead hordes. The general [[being-tuijawengyan|Tuija Wengyan]], stripped of his rank and exiled, is in open revolt and holds gains in the border provinces. In the remote northwest the [[lore-chaizho|Chaizho]] range through the country a great earthquake broke. Across the eastern strait the fleets of the [[affiliation-jenchaiempr|Jenchai]] houses take tolls and ransoms and plunder the coast; the coastal magistrates want their captured officers back, and the court has no fleet that can clear the water.
 
 ## What the Registers Keep
 
@@ -81,7 +83,7 @@ ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 
 - [[place-kwisen|Kwisen]], the frontier way-station beyond [[place-jnanadvar|the Scholars' Door]], feeds and houses every traveler for as long as the weather requires, and has kept its register without a gap for four hundred years. Below it the road runs down into [[place-mwonouplnd|The Mwonou Uplands]], terrace country, where the southern famine has its heart.
 - At Jenshou, [[place-jenshouhall|The District Hall of Jenshou]] keeps the district's register, its annal and its seal, and [[place-tabletbank|The Tablet Bank]] carries the sealed boundary-stones of the upper villages and holds the river off the upper town.
-- The western passes toward the [[place-khzryndsrtrgn|Khazrin]], at the eastern end of [[lore-celestialroad|the Celestial Roads]], are quiet and expensively garrisoned.
+- The western passes toward the [[place-khzryndsrtrgn|Khazrin]], where [[lore-celestialroad|the Celestial Roads]] end at a gate of the wall, are quiet and expensively garrisoned.
 - The port cities keep foreign merchants in walled, watched and taxed quarters, such as [[place-wongsenfrgnqrtr|The Foreign Quarter of Wongsen]].
 - [[affiliation-jenchaiempr|Jenchai]], the island realm across [[place-easternstrt|The Eastern Strait]], has raided the coast for more than a thousand years while the Empire calls it a rebellious province.
 - [[affiliation-haluozhao|The Black Lotus Society]] trades in forged tablets, and the Jade Fan Dance draws in anyone useful.
@@ -106,6 +108,7 @@ At court you deal with the Caste-Registrar, [[being-cstrgstrtnts|Third Son of th
 
 ## What Gets a Newcomer into Trouble
 
+- **Have your papers at the wall.** The wall's gates let nobody in or out without papers and approvals, and beyond the wall the empire's law, and its protection, end.
 - **Carry your tablet.** Outside the district where you are known by face, an innkeeper, a quay officer or a street guard reads your tablet before anything else happens. Without one you are not entered, not given a bed and held the first time anyone asks.
 - **Stay off the bridges.** In Zhowen a foot on a bridge without written permission is a death the archers deal on the spot, with no magistrate and no plea.
 - **Do not ask to see the Emperor.** You speak to the Speaker, and the answer he gives is the answer on the record.
@@ -122,6 +125,8 @@ At court you deal with the Caste-Registrar, [[being-cstrgstrtnts|Third Son of th
 - **At the port.** At Wongsen, in [[scenario-tbltwrnghnd|A Tablet from the Wrong Hand]], a merchant's trading classification is about to expire with his goods still in a warehouse of [[place-wongsenfrgnqrtr|The Foreign Quarter of Wongsen]]. A tablet bought from the wrong person in the same quarter is either a forgery or a trap, and each answer has someone who wants it found.
 
 If you come from the empire itself, you might be a Tanchei clerk rotated to a district that does not want you, as the registrars of [[place-jenshouhall|The District Hall of Jenshou]] are rotated, a [[lore-wohou|Wohou]] officer's younger son waiting on a name he has not been granted, or a grain merchant's clerk at a canal lock above [[place-zhowen|Zhowen]], where a string of rice barges from Wongsen is held on a question of seals while the price rises on both shores. The frame's Ways In bring a party like this to the embassy from the other side of the gate.
+
+A party that comes east by the Celestial Road meets [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] first, at the garrison and customs-house on the western pass, and goes no farther without a classification.
 
 ## Where to Read Next
 
@@ -148,6 +153,9 @@ If you come from the empire itself, you might be a Tanchei clerk rotated to a di
 
 [[place-tantsouregin|The Tantsou Region]]
 : the rivers, the terraces and the neighbors
+
+[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+: the wall, its gates and the papers they ask for
 
 [[skill-tantsoulng|The Tantsou language]]
 : pronunciation, vocabulary and names

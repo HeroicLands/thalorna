@@ -40,6 +40,8 @@ Tantsou is one continuous civilization, whose eight castes have outlasted every 
 
 Mountain ranges enclose the region and divide it into a series of great river basins. The northern lands reach a cold coast. To the west lie the passes and high deserts of the [[place-khzryndsrtrgn|Khazrin]] frontier, where [[lore-celestialroad|the Celestial Road]] ends. To the southwest the unaligned range of [[place-graznmntns|the Grazian Mountains]] stands between Tantsou and [[place-vedyarargn|Vedyara]], crossed by the long passes of [[place-suryadvar|Suryadvar]], Jnanadvar and [[place-shankhadvr|Shankhadvar]]. To the east lies the open ocean and [[place-easternstrt|The Eastern Strait]] that separates the mainland from the [[place-jenchairgn|Jenchai]] archipelago.
 
+On land the empire's boundary is [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], which runs thousands of miles from the far northern frontiers to the Grazian Mountains in the far south. The laws and rules of Tantsou end at the wall, and nobody passes its gates, in or out, without papers and approvals.
+
 Three great rivers make the basins. Fed by mountain glaciers, they run through the heartland to the eastern ocean and carry commerce, tribute and imperial edicts on the same water. The valleys between them are the most intensively cultivated land in the world: rice, millet, mulberry for the silkworm, tea and orchard fruit feed the crowded river cities. Above the valleys, terraced hillsides climb the foothills in staircases, kept by villages whose terraces have passed down through named lineages for thirty generations or more. A terrace is the first thing a Tantsou points to when asked what the registers are for.
 
 The climate runs from one extreme of the region to the other. The north is cold-temperate, with hard winters and short summers; the central basins are continental, with sharp seasons and monsoon rains; the southern coast is subtropical, warm and wet, and gives way to mangrove shoreline at its margins. Earthquakes are common everywhere, and the imperial bureaucracy keeps ministries for predicting, tracking and answering them, an administrative tradition older than any other on the continent.
@@ -84,9 +86,9 @@ To the east, across the narrow [[place-easternstrt|Eastern Strait]], is Jenchai.
 
 To the southwest, beyond the eastern arc of the Grazian Mountains, contact with Vedyara is old and substantial and runs on mutual respect with almost no political integration. Vedyaran scholars travel the Tantsou courts and Tantsou monks study Vedyaran philosophical texts, and neither side has ever seriously tried to rule the other.
 
-To the west, beyond the mountain passes, the Khazrin Desert is a buffer crossed by caravans and, now and then, by an imperial expedition. The Aureldian kingdoms beyond it are real and remote, a faint rumor of cathedrals and princes.
+To the west, beyond the mountain passes and the gates of the wall, the Khazrin Desert is a buffer crossed by caravans and, now and then, by an imperial expedition. The Aureldian kingdoms beyond it are real and remote, a faint rumor of cathedrals and princes.
 
-To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a fortified marchland of watchtowers and garrison colonies. The Empire treats Grukar raids as a nuisance. The steppe beyond, [[place-blackwilds|the Black Wilds]], is another matter this generation.
+To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a fortified marchland of watchtowers and garrison colonies, and there the wall also keeps out the undead hordes. The Empire treats Grukar raids as a nuisance. The steppe beyond, [[place-blackwilds|the Black Wilds]], is another matter this generation.
 
 ## See Also {#see-also}
 
@@ -122,6 +124,9 @@ To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] ne
 
 [[lore-castelaws|Caste Laws]]
 : the legal structure of the eight castes
+
+[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+: the great wall that defines the empire's boundary
 
 [[lore-celestialroad|The Celestial Road]]
 : the caravan road west across the Khazrin

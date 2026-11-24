@@ -243,6 +243,8 @@ Teaching is carried by the craft. A Tsaihwo workshop is a household: a master, h
 
 Defense is layered. The Wonong who walks a street takes a thief to the magistrate. The Wohou command the garrisons and field armies. The Princes hold their provinces and their sorcerers. At the frontier the Khazari lay out the fortifications that hold the mountain border, and the Wandwo work the great rites that turn a storm from the rice terraces.
 
+The empire ends at [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], which has stood for thousands of years and through many dynasties. Inside it is the sorted world; outside its gates are the barbarian lands, the Khazrin Desert and its peoples, and the laws and rules of Tantsou end at the wall. Nobody passes it, in or out, without proper papers and approvals, and a Tantsou who travels beyond the district where he is known by face carries his tablet as a matter of course.
+
 ## The Household at Every Age
 
 The unit is the household, a registered merger of two families' standing with one ledger, one set of ancestor spirits and one Hearth Monitor. The clan council, not the couple, arranges the match. The council weighs the combined ledger of the two families, whether their ancestors will agree, the alliance and the astrology of the pair, and a Tanchei or a Leigen consults the dead. Five steps make the wedding: the contract, the petition to [[affiliation-neitsai|Neitsai]], the Bureau of Creation, the consultation with the ancestors, the transfer of tablets from the bride's shrine to the groom's, and the sealing. Only the four higher castes marry in law. The lower three live together and raise children within their caste, and a village Leigen performs a bonding rite that presents the couple to the ancestors of both families, which carries all the weight the village needs. The marrying castes may keep consorts, whose children are acknowledged and named heirs only when no child of the marriage is fit.
@@ -296,6 +298,9 @@ Three peoples share the eight castes, the script and the calendar. The [[lore-ta
 
 [[lore-tantsoumrchclt|Tantsou Frontier Peoples]]
 : the northern marches and western passes
+
+[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+: the wall where the empire and its laws end
 
 [[lore-medicine|Medicine]]
 : the healers and the body as a small sorted world

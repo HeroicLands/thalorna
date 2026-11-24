@@ -129,7 +129,7 @@ To the **southwest** lies the [[affiliation-kngdmmrdd|Kingdom of Amradad]], in t
 
 To the **south** stands the Grazian wall and, below it, Vedyara. The frontier is the highest in the world and the least used: a handful of passes, open a few weeks in late summer, held at their throats by Vedyari powers and crossed under hereditary guides. The trade is small in volume and enormous in value, and the Tellumel lives partly on it.
 
-To the **east** lie the passes to Tantsou, where the tribes of Idvaqor sell the last stage and the Empire has spent centuries treating its frontier with them as a standing problem.
+To the **east** lie the passes to Tantsou, where the tribes of Idvaqor sell the last stage and the Empire has spent centuries treating its frontier with them as a standing problem. Tantsou's boundary is [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]]; its laws end there, and to the empire the desert beyond is barbarian land.
 
 To the **northwest**, beyond Velanthia, lies [[place-vrystwald|Vristwald]], nearly a thousand miles off. Contact is sparse, since the [[lore-varokhiclt|Varokhi]] forest tribes have little use for open steppe, but the few routes across Velanthia carry a trickle of furs, amber and Khazrin silver, with horses going the other way. The hunters of Ghotaqor and the northeastern Varokhi keep the only continuous contact between the two.
 

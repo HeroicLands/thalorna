@@ -17,7 +17,7 @@ The society of Tantsou is divided into eight castes, from the highest:
 : Sons of the Dragon: the Emperor, his family and the Princes, the administrative lineage the celestial bureaucracy designated, holding absolute authority.
 
 [[lore-wanduo|Wandwo]]
-: chattel sorcerers, born with innate magical ability and bound to serve the Zhazho, the one caste permitted to practice magic.
+: chattel sorcerers, born with innate magical ability and bound to serve the Zhazho, the one caste permitted to practice magic. Each noble house of the Zhazho is charged with manning the northern garrisons of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] from its own Wandwo, who reinforce the wall and give backup against an attack on it in their region.
 
 [[lore-wohou|Wohou]]
 : warrior nobility, the commanders and administrators who alone may command armed force.

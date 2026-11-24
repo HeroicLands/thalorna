@@ -3,7 +3,7 @@ shortcode: unnumberedtwr
 name: {full: The Song of the Unnumbered Tower}
 type: lore
 subType: literature
-description: "The soldiers' song of the Grukar marches, sung month by month through a year at the tower between the third and the fifth that has no number: nine men with no names, the geese, the dust and the inspection, the night in the Month of the Moon when the Grukar came over the ditch, the report that called it a raid of no account, and the clerk who came up the road in the Month of Frost and wrote the three dead down right."
+description: "The soldiers' song of the Grukar marches, sung month by month through a year at the tower between the third and the fifth that has no number: nine men with no names, the geese, the dust and the inspection, the night in the Month of the Moon when the Grukar came up to the wall, the report that called it a raid of no account, and the clerk who came up the road in the Month of Frost and wrote the three dead down right."
 tags: [tantsou]
 data:
   culture: tantsouclt
@@ -23,7 +23,7 @@ data:
 # terran_analog: "The Book of Songs' calendar song of the year's labors and its soldiers' songs of the far frontier; the Han and Tang ballads of the garrison wall; the frontier rolls that listed a soldier by his county and his father. Departs: the soldiers' fear is not death but being written down wrong, and the song's victory is an entry."
 ---
 
-**The Song of the Unnumbered Tower** is the song of the Wonong on the northern marches, where a wall of tamped earth and a line of watchtowers face the northern country of the [[lore-grukarfolk|Grukar]] and the garrison colonies farm behind them. The towers of a stretch of wall are numbered from its western end, and the number is cut over each door with the command's seal. The tower between the third and the fifth carries no number and no seal, because four belongs to no domain and no official building is marked with it, and the register calls it "the tower after the third". The soldiers call it the unnumbered tower, and it is the tower of this song wherever along the marches the song is sung.
+**The Song of the Unnumbered Tower** is the song of the Wonong on the northern marches, where the ancient carved stone of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], cut with sigils that help keep out the undead, and a line of watchtowers face the northern country of the [[lore-grukarfolk|Grukar]] and the garrison colonies farm behind them. The towers of a stretch of wall are numbered from its western end, and the number is cut over each door with the command's seal. The tower between the third and the fifth carries no number and no seal, because four belongs to no domain and no official building is marked with it, and the register calls it "the tower after the third". The soldiers call it the unnumbered tower, and it is the tower of this song wherever along the marches the song is sung.
 
 The singers are the common soldiers of the [[lore-tsaihuo|Tsaihwo]], the Wonong, and the [[lore-nouwen|Nouwen]] of the garrison colonies who stand the wall beside them, and none of them carries a name: each is entered in the garrison roll by his description, as he is at home. The song runs through the twelve months of a year, one verse to a month, each verse opening on what the month brings to the wall and closing on the same question and an answer that changes one word. It is sung in the towers to the beat of a spear-butt on the floor, in the garrison colonies at the planting, and in the Tsaihwo households of the river towns whose sons have gone north, where women sing it at the loom with the men's descriptions changed to their own sons'. The descriptions below are the ones the colonies under the Fifth Tower sing. The Empire counts a Grukar raid a nuisance, and the song does not argue the point; it says what one cost.
 
@@ -74,8 +74,8 @@ Who counts us at the tower with no number?/
 The sun counts us, the sun counts us right.
 
 In the Month of Earth the wall is mended all along the march./
-We carry the earth up in baskets and beat it in the frames,/
-course on course, until the frames come off and the wall stands./
+We carry the stones up on our backs and set them in their courses,/
+course on course, under the old carved signs, until the wall stands./
 The dust is in our teeth. The dust is in the millet./
 It is dust from the south, the carters say, from the rivers,/
 from the terraces where our fathers are mending dikes./
@@ -116,12 +116,12 @@ In the Month of the Moon the lanterns are lit at home along the terraces,/
 to hold the line where the nights wear it thin./
 On the wall we hang one lantern over every door./
 We hang ours over the door with no number./
-They came over the ditch in the dark of the third night,/
+They came up to the wall in the dark of the third night,/
 tusked and stinking, more of them than the slots would hold,/
 and the war-cry first, and then the ladders,/
 and the drum at the Third Tower, and the drum at the Fifth./
 We held the door. We held the stair. We held the top of the tower./
-In the morning they were gone back over the ditch, as they go,/
+In the morning they were gone back from the wall, as they go,/
 and the lantern was still burning over the door./
 The Cooper's son was on the stair./
 The Potter's son was at the top, at the slot where the ladder was./

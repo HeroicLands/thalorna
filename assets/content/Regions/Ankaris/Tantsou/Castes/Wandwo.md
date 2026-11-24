@@ -23,6 +23,8 @@ The test cuts the other way too. Most children born in the compounds to Wandwo p
 
 **Ritual.** The great rites need Wandwo and nobody else: the rites that turn a storm from the rice terraces, that strengthen or loosen the classification of a stretch of land, and, it is said, that hasten or slow the passing of time within a ring of stones. They demand precision and great reserves of power, and a province that loses its ritualists in war is a province that cannot answer a flood.
 
+**The northern wall.** In the north, along several hundred miles of the perimeter of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], a garrison stands every five miles, and Wandwo are present at each of them constantly, to reinforce the wall and to give backup against an attack on it in their region. A garrison can call more sorcerers from the garrisons near it by smoke or fire signals. Each noble house of the Zhazho is charged with manning these garrisons from its own Wandwo.
+
 ## The Monopoly
 
 Magic in Tantsou belongs to the Wandwo and to no one else. A person of any other caste found working it is put to death at once, without the long inquiry the [[lore-tseising|courts]] give lesser crimes. The law exists so that every source of arcane power in the empire answers to the Zhazho and no rival school of sorcery can grow in the provinces. The Leigen of the villages, who speak with the dead, are tolerated because the Tanchei class their gift as communion, not sorcery, and the distinction is watched closely.

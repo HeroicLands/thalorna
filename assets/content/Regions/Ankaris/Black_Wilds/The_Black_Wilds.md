@@ -22,7 +22,7 @@ The Black Wilds are grazing and wells fought over by horse-riding tribes, which 
 
 ## The Land {#the-land}
 
-North of the last watchtowers the hard-wintered basins of the [[place-tantsouregin|Tantsou Region]] give way to grass and broken hills. The winters are hard. Nests of the far-northern [[lore-grukarfolk|Grukar]] lie in the wilds as well.
+North of the last watchtowers the hard-wintered basins of the [[place-tantsouregin|Tantsou Region]] give way to grass and broken hills. The wilds lie outside [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], north of the marches, where the laws of Tantsou do not run. The winters are hard. Nests of the far-northern [[lore-grukarfolk|Grukar]] lie in the wilds as well.
 
 ## Peoples {#peoples}
 
@@ -69,6 +69,9 @@ For generations the tribes of the wilds fought one another over grazing, wells a
 
 [[place-kwozhngmrch|The Kwozheng Marches]] and [[affiliation-kwozhengprv|Kwozheng Province]]
 : the fortified northern marches the riders raid
+
+[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+: the wall that defines the empire's boundary
 
 [[place-tantsouregin|Tantsou Region]]
 : the land to the south

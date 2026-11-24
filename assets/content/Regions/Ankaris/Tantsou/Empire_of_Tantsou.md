@@ -113,7 +113,7 @@ The law
 : the [[lore-castelaws|Caste Laws]] and the [[lore-tseising|Teng Lou]], enforced by the Princes' magistrates; every subject is recorded in the census and every traveler carries a classification tablet.
 
 The frontiers
-: [[affiliation-jenchaiempr|Jenchai]] across the eastern strait, the fortified marches to the north toward the far-northern [[lore-grukarfolk|Grukar]] nests, the quiet, expensive passes into the [[place-khzryndsrtrgn|Khazrin]] to the west.
+: [[affiliation-jenchaiempr|Jenchai]] across the eastern strait; on land, [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], which defines the empire's boundary from the far north to the Grazian Mountains in the far south, with the fortified marches to the north toward the far-northern [[lore-grukarfolk|Grukar]] nests and the undead hordes, and the quiet, expensive passes into the [[place-khzryndsrtrgn|Khazrin]] to the west.
 
 The game
 : the [[lore-weizhairui|Wei Zhai Rwi]], the court's contest of manipulation, in which every house of consequence is a player.
@@ -198,11 +198,11 @@ Against the order stand the [[lore-infrnlrlms|Infernal Realms]], the zones where
 
 The Empire's external trade is enormous. It flows west along [[lore-celestialroad|the Celestial Roads]] through the Khazrin toward [[place-midhalnrgn|Midhalión]], and by sea south toward [[place-vedyarargn|Vedyara]]. The bureaucracy taxes, documents and classifies every significant movement of goods; smuggling is a highly developed profession; the port cities keep large foreign merchant quarters, carefully walled and watched.
 
-The northern frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a marchland of watchtowers and garrison colonies that needs constant attention. The western passes into the [[place-khzryndsrtrgn|Khazrin]] are quiet and expensively garrisoned. Within the empire, caste revolts, Wandwo conspiracies and the manipulations of the [[lore-weizhairui|Wei Zhai Rwi]] occupy the court without pause.
+On land the empire ends at the Wall of the Ten Thousand Watchfires, and the laws and rules of Tantsou end with it. Its gates stand near the major transit roads, each with a garrison, and nobody passes them, in or out, without papers and approvals. The northern frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a marchland of watchtowers and garrison colonies that needs constant attention, and there the wall also keeps out the undead hordes. The western passes into the [[place-khzryndsrtrgn|Khazrin]] are quiet and expensively garrisoned. Within the empire, caste revolts, Wandwo conspiracies and the manipulations of the [[lore-weizhairui|Wei Zhai Rwi]] occupy the court without pause.
 
 ## History {#history}
 
-The dynastic record the imperial archive can document begins around 2500 BF ([[lore-tantsoudyn|The Opening of the Tantsou Record]]) and runs through more than a dozen dynasties, each a reassignment of the Mandate from a decaying house to a more correctly classified successor. The Celestial Order traces the same line very much further, to [[lore-greatcnvrg|the Great Convergence]] at the zero of the [Celestial Calendar]{.name data-type="lore/calendar"}; the empire holds both accounts at once and has a doctrine for doing so, set out in [[lore-clndrstrlgy|Calendar and Astrology]]. The Princes have made and unmade emperors in succession disputes more than once, and the worst dangers the empire has met have come from within: succession crises, caste revolts and Wandwo conspiracies.
+The dynastic record the imperial archive can document begins around 2500 BF ([[lore-tantsoudyn|The Opening of the Tantsou Record]]) and runs through more than a dozen dynasties, each a reassignment of the Mandate from a decaying house to a more correctly classified successor. The Celestial Order traces the same line very much further, to [[lore-greatcnvrg|the Great Convergence]] at the zero of the [Celestial Calendar]{.name data-type="lore/calendar"}; the empire holds both accounts at once and has a doctrine for doing so, set out in [[lore-clndrstrlgy|Calendar and Astrology]]. The Princes have made and unmade emperors in succession disputes more than once, and the worst dangers the empire has met have come from within: succession crises, caste revolts and Wandwo conspiracies. The wall on the empire's boundary is thousands of years old and has stood through many of those dynasties.
 
 The most recent reassignment of the Mandate is several centuries old. The present dynasty is in the period its own official historians call mature: past the vigor of its founding centuries, not yet in the terminal corruption that would warrant a transfer of the Mandate, and showing the strains of a late dynasty on every frontier. Its years are counted reign by reign. Each Emperor's reign is its own era, the count begins again when a new Emperor receives the Mandate, and the documents of the old era are cross-referenced to the new one.
 
@@ -312,6 +312,9 @@ The Nwitsou are slaves and outcasts, the caste that is not a caste, whose member
 
 [[place-zhowen|Zhowen]]
 : the capital
+
+[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+: the great wall on the empire's boundary
 
 [[place-jenchairgn|Jenchai Region]]
 : the rebellious eastern archipelago

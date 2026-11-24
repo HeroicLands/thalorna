@@ -18,15 +18,15 @@ data:
 
 ## Overview {#overview}
 
-The Kwozheng Marches are the land of [[affiliation-kwozhengprv|Kwozheng Province]], in the north of the [[place-tantsouregin|Tantsou Region]]: the cold coast, the hard-wintered basins of the north and the fortified marchland of watchtowers and garrison colonies toward the nests of the far-northern [[lore-grukarfolk|Grukar Folk]]. About 20 million people live here. The city of [[place-kwozheng|Kwozheng]], behind the marches, is the province's seat.
+The Kwozheng Marches are the land of [[affiliation-kwozhengprv|Kwozheng Province]], in the north of the [[place-tantsouregin|Tantsou Region]]: the cold coast, the hard-wintered basins of the north and the fortified marchland of watchtowers and garrison colonies toward the nests of the far-northern [[lore-grukarfolk|Grukar Folk]], along the ancient, sigil-carved northern stretch of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], which also keeps out the undead hordes. About 20 million people live here. The city of [[place-kwozheng|Kwozheng]], behind the marches, is the province's seat.
 
 ## The Land {#the-land}
 
-The north is cold-temperate, with hard winters and short summers, and its fields are thin. Beyond the marches lies the steppe of [[place-blackwilds|the Black Wilds]].
+The north is cold-temperate, with hard winters and short summers, and its fields are thin. Beyond the marches, outside the wall, lies the steppe of [[place-blackwilds|the Black Wilds]].
 
 ## Peoples {#peoples}
 
-The soldier-settlers of the marches are of the [[lore-tantsoumrchclt|Tantsou Frontier Peoples]]. A march village keeps its signal fires and its muster rolls as carefully as the core keeps its registers, and the soldiers' song of the northern marches is [[lore-unnumberedtwr|The Song of the Unnumbered Tower]].
+The soldier-settlers of the marches are of the [[lore-tantsoumrchclt|Tantsou Frontier Peoples]]. Along several hundred miles of the northern wall a garrison stands every five miles, with [[lore-wanduo|Wandwo]] of the Zhazho houses constantly present at each to reinforce the wall and give backup against an attack on the wall in their region; more can be called from nearby garrisons by smoke or fire signals. A march village keeps its signal fires and its muster rolls as carefully as the core keeps its registers, and the soldiers' song of the northern marches is [[lore-unnumberedtwr|The Song of the Unnumbered Tower]].
 
 ## Who Holds It {#who-holds-it}
 
@@ -48,7 +48,7 @@ The barges that carry the tribute grain north to the garrisons feed the city of 
 
 ## Dangers {#dangers}
 
-The riders of the Black Wilds in the northern districts, and the Grukar raids from the far-northern nests.
+The riders of the Black Wilds in the northern districts, the Grukar raids from the far-northern nests, and the undead hordes the wall keeps out.
 
 ## See Also {#see-also}
 
@@ -60,6 +60,9 @@ The riders of the Black Wilds in the northern districts, and the Grukar raids fr
 
 [[place-blackwilds|The Black Wilds]]
 : the steppe beyond the marches
+
+[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+: the wall the northern garrisons stand
 
 [[being-wogenhenzhuo|Wogen Henzhwo]]
 : the warlord of the Black Wilds
