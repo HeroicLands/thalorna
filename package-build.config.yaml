@@ -919,3 +919,6 @@ packageBuild:
           reason: an island port that feeds itself through trade and maritime goods
         - address: affiliation-brdrmltia
           reason: a military order whose seat is counted under the kingdom that governs it
+
+sql:
+    memoryLimit: 6 GB
