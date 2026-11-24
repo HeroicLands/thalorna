@@ -62,7 +62,7 @@ He wants every path of the old jungle kept, and no stranger hurt for walking one
 
 ### Strengths
 
-He is the fastest in the conclave and the quietest, and he can follow a trespasser through dense growth without disturbing a leaf.
+He is the fastest in the conclave and the quietest, and he can move through dense growth without disturbing a leaf.
 
 ### Weaknesses
 
@@ -90,7 +90,7 @@ Fire, though he has never seen it in the old trees.
 ## Plot Hooks
 
 1. **Turned at the line.** A party that crosses the line of old trees on a dare is turned back by paths that bend the way they came, and one of them glimpses a tall figure among the trees behind them the whole way out.
-2. **The wandering path.** A path at the edge of the jungle has taken to wandering, and the town's Ha'nalmah has lost two of his hunters in it. He asks a party to find whoever keeps it and to ask that it be mended.
+2. **The wandering path.** A path at the edge of the jungle has taken to wandering, and two of the Ha'nalmah's hunters have come out of it days late, turned the wrong way. He asks a party to find whoever keeps it and to ask that it be mended.
 
 :::secret {title="The blaze inside the line"}
 Kelsipavo has found a forester's blaze cut into a trunk deep inside the old jungle, well beyond the line. It is the first time a path has not turned a man back. He has told the Keeper and told no one else, and he walks the path every night now to learn how the forester came in and how he went out unturned.

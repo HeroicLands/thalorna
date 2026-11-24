@@ -34,7 +34,7 @@ data:
 
 # Appearance {#appearance}
 
-Tessikala Velliranto is a woman of 1,940 years who stands 6' 2" tall and is of light build. Her white hair is worn loose and long, her eyes are a clear grey, and her pale skin has the faint sheen of a pearl. She wears a white heron's feather behind her right ear and a plain gown the color of the reeds. She stands in water to the ankle as readily as on a bank.
+Tessikala Velliranto is a woman of 1,940 years who stands 6' 2" tall and is of light build. Her white hair is worn loose and long, her eyes are a clear gray, and her pale skin has the faint sheen of a pearl. She wears a white heron's feather behind her right ear and a plain gown the color of the reeds. She stands in water to the ankle as readily as on a bank.
 
 # Dossier {#dossier}
 

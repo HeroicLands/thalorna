@@ -3,7 +3,7 @@ shortcode: miskottakklnt
 name: {full: Miskotta Okkelanto}
 type: being
 subType: npc
-description: "The reed-weaver of Ilkaivesto, the southern Senali conclave of Kì'ìch'chik, who grows and weaves the living reed and hums at her work in a key no hearth shares."
+description: "The reed-weaver of Ilkaivesto, the southern Senali conclave of Kì'ìch'chik, who sings the living reed into cloth and hums at her work in a key no hearth shares."
 tags: []
 data:
   icon: icon-person
@@ -42,11 +42,9 @@ Miskotta Okkelanto is a woman of 980 years who stands 5' 7" tall and is of light
 
 Miskotta Okkelanto is the reed-weaver of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]]. The [[lore-flksenali|Senali]] would rather grow what they need than build it, and her work is the reed: she sings the living reed into whatever the hearths ask and weaves it fine enough for cloth. Her hearth is Okkelanto, the hearth of the heron's perch.
 
-A rim hunter who has seen the edge of the swamp has seen her work without knowing it: the reed beds along the channels grow thicker than any natural bed, and the herons stand in them in rows.
-
 ## Background
 
-Miskotta wove her first mat at the edge of her mother's reed bed and has not stopped since. She learned to sing the reed in her second century, and for the last five she has grown the beds along the channels as well as woven what is cut from them.
+Miskotta wove her first mat at the edge of her mother's reed bed and has not stopped since. She learned to sing the reed in her second century.
 
 :::secret {title="The hearths among the herons"}
 Miskotta grows Ilkaivesto's dwellings: she sings the living reed into walls and floors and weaves it into the houses raised on the tree islands around the lagoon.
@@ -64,7 +62,7 @@ She wants her work to outlast the reeds, and the reeds to outlast the hearth.
 
 ### Strengths
 
-She grows the reed beds that hide the deep swamp, and no other weaver of the conclave can match her.
+She sings living reed into cloth and cordage finer than any other weaver of the conclave can make.
 
 ### Weaknesses
 
@@ -91,7 +89,7 @@ None.
 
 ## Plot Hooks
 
-1. **A reed wall.** The reed bed along a channel at the swamp's rim has grown across it in a season, and the rim hunters can no longer pole through. A party is asked to find out who has been growing it.
+1. **The torn thatch.** A storm has stripped the roof of a rim hunter's hut, and he asks a party to carry his request to Miskotta. She will sing the reed whole for anyone who brings her a tune she has not heard.
 2. **Reed cloth.** A trader of the plateau holds a bolt of reed cloth woven so finely that he will not sell it. He wants to know who made it and will pay a party to ask.
 
 :::secret {title="The reed that closes the channel"}

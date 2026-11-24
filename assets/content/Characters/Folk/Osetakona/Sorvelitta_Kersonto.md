@@ -34,7 +34,7 @@ data:
 
 # Appearance {#appearance}
 
-Sorvelitta Kersonto is a woman of 2,050 years who stands 6' 4" tall and is of light build. Her white hair falls straight past her waist and is held at the nape by a cord of braided pine root, her eyes are a steady grey, and her pale skin is without a line. Her left thumb is stained amber by pine resin. She wears a plain tunic of undyed wool the color of dry needles and goes barefoot on the moss.
+Sorvelitta Kersonto is a woman of 2,050 years who stands 6' 4" tall and is of light build. Her white hair falls straight past her waist and is held at the nape by a cord of braided pine root, her eyes are a steady gray, and her pale skin is without a line. Her left thumb is stained amber by pine resin. She wears a plain tunic of undyed wool the color of dry needles and goes barefoot on the moss.
 
 # Dossier {#dossier}
 

@@ -85,7 +85,7 @@ None he would name, though he dislikes the trader who sends men in.
 
 ## Plot Hooks
 
-1. **The whistle.** A rim hunter back from the swamp days late and empty-handed says only that a heron called from the reeds every evening he was gone. His brother asks a party to pole in after the herons and learn where the days went.
+1. **The still herons.** The herons along one channel stand in rows and no longer rise when a canoe passes. A rim hunter who fishes there offers a party a share of his catch to learn whether the birds are sick, and Aspelitti, who knows every channel, is the one who can take them in.
 2. **The same lagoon.** A party poling a shallow channel at dusk hears a heron call from the reeds behind them, then ahead, then behind again, and by full dark their canoe is back in the lagoon they crossed at noon.
 
 :::secret {title="The man he feeds"}

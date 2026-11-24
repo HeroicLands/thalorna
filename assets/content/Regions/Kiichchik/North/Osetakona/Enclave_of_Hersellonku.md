@@ -57,7 +57,7 @@ About ninety Senali live at Hersellonku. The hearths decide in an _ommenda_, a c
 
 ## Current Situation {#present}
 
-The hunting bands driven south from the far woods are crowding the Pine People's hills and turning toward the ridges the Pine People leave alone. They come back from the pines days late and say they were gone for one, and some do not come back.
+The hunting bands driven south from the far woods are crowding the Pine People's hills and turning toward the ridges the Pine People leave alone. They come back from the pines days late and say they were gone for one, and one has not come back.
 
 :::secret {title="What the council has not agreed"}
 The ommenda has met more often since the bands came. It has not agreed to turn them back by force and has not agreed to let them in, and until it agrees the pines do the turning: a hunter is walked in a circle, set down by a lake he has already passed, and sent home. The Mervunno holds the silence while the hearths argue, and the argument is older than the bands, because the hearths disagree on whether the Senali keep these ridges for themselves or for the wood.
@@ -83,7 +83,7 @@ The Senali kept the far ridges before the Pine People came to the Grove, and the
 
 - **[[affiliation-osetakona|The Osetakona]]** leave the far ridges alone. The canoe makers of the Grove take their pines from the near ridges, and the Pine People's speaker at [[place-kenrisaten|Snow Place]] sends nobody into the wood.
 - **The hunting bands of the far woods** are the only people pressing on the ridges, and the conclave has not answered them.
-- **[[affiliation-nclvlrnst|Lirnasto]]** and **[[affiliation-nclvlkvst|Ilkaivesto]]**, the conclaves of the centre and the south, keep their own counsel, and the three take no part in one another's affairs.
+- **[[affiliation-nclvlrnst|Enclave of Lirnasto]]** and **[[affiliation-nclvlkvst|Enclave of Ilkaivesto]]**, the conclaves of the center and the south, keep their own counsel, and the three take no part in one another's affairs.
 
 ## See Also {#see-also}
 

@@ -83,7 +83,7 @@ The Senali kept the deep swamp before the plateau's people reached its rim. The 
 
 - **[[affiliation-kuxiixbal|K'ushi Ish'bal]]** leaves the deep swamp alone. The water priestesses of [[place-ixkulchalix|Ishkul Ch'alish]] count it among the lowland's waters and hold no rite in it.
 - **The rim hunters** go down in the dry season for feathers, hides and fish, keep to the swamp's edges, and say the deep belongs to the tall people.
-- **[[affiliation-nclvlrnst|Lirnasto]]** and **[[affiliation-nclvhrsllnk|Hersellonku]]**, the conclaves of the centre and the north, keep their own counsel, and the three take no part in one another's affairs.
+- **[[affiliation-nclvlrnst|Enclave of Lirnasto]]** and **[[affiliation-nclvhrsllnk|Enclave of Hersellonku]]**, the conclaves of the center and the north, keep their own counsel, and the three take no part in one another's affairs.
 
 ## See Also {#see-also}
 
