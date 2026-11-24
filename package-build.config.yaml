@@ -800,6 +800,8 @@ packageBuild:
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-hshldrlvnnsh
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-hwenhatoucnf
+          reason: The population is unknown because no register covers the Black Wilds.
         - address: affiliation-jbzrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-khldrtrb
