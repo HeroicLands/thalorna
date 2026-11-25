@@ -502,7 +502,7 @@ Forty Hands
 Another Man's Token
 : A man reaches her counter wearing a [[miscgear-bondtoken|Bond-Token]] that is not his own and asking for a berth under the name on it. Jasili wants to know whose token it is, and where its owner went. If she turns him away, he knows her counter. If she takes him in, he sees the way the road runs.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The man wearing another man's token is a bond-taker's agent from the river road. He took the token from a runaway he caught in the loft two days up the river, and he has come to learn the road by being let in. The runaway is alive and held in a household's cellar. If Jasili sends him down the road, the loft is the first house the agents burn.
 
 One of the dozen boatmen who carry her men sells the same passage to the agents. He is the reason the seals have begun to break.

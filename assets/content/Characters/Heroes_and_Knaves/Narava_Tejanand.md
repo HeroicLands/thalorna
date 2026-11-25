@@ -540,6 +540,6 @@ The Rebel Apprentice
 The Broken Panes
 : Several of Narava's early works in temples and great houses have cracked and fallen in the past season. It looks like sabotage. The houses that own them ask the party to find who is doing it before the commissions in hand are withdrawn.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Nobody is breaking the panes. Narava introduced a mineral additive in his early colored glass that crystallizes slowly and splits the pane after some years. He has known for a long time and has told no one, because it would end his name. The pieces he is making now use the same compound.
 :::

@@ -189,7 +189,7 @@ Read or paraphrase:
 **Clues and rewards.** Two sets of footprints out along the bank and one coming back beside a furrow, and hoof-marks where a horse waited at the bank's foot. The broken pit, black mud thrown out on the crust, and the lamp. Under the shirt, a hole into a stair of baked brick going down into the dark, dry, its walls faced near the top with glazed tiles in blue and green, its lower steps beyond the reach of a lamp.
 
 > [!NOTE]
-> The stair is a work of [[lore-basinbldrs|the Basin Builders]], and it may be described: dry brick, glazed tile, steps going down. This adventure does not go below the first landing. What lies at the foot of the stair is left for the referee, and the quarrel above it does not depend on it.
+> The stair is a work of [[lore-basinbldrs|the Basin Builders]], and it may be described: dry brick, glazed tile, steps going down. This adventure does not go below the first landing. What lies at the foot of the stair is left for the Game Master, and the quarrel above it does not depend on it.
 
 **Consequences.** A party that brings something up from the stair has a gift worth the western rim in its hands, and every faction learns of it by the moot.
 

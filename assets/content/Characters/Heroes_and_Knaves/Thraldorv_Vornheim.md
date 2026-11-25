@@ -545,6 +545,6 @@ Glarvorv's Heirs
 The Healer's Method
 : [[being-flirnynda|Flirninda]], an old healer, offers to teach him the meditation and honor she gives broken warriors so they can be rid of what killing leaves in them. She asks him to name the worst thing he has done before she begins. He has never told anyone. He can tell her and learn whether it can be borne, or refuse and keep drinking.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Hnirmil Thulmaruk, whom Thraldorv served faithfully for two years, offers him command of an army of hired swords at a distant settlement, steady pay for life and a share in what they build. Hnirmil has grown weary of serving the king and means to build a power of his own. Accepting would break the oath Thraldorv holds as a man of Vithgard and could set him against his old comrades.
 :::

@@ -481,7 +481,7 @@ She has no one in the household to trust and no one in the Hand to ask. She does
 4. **The leaving.** A trusted companion gives notice with no reason, and the household's master wants a party to find out where she goes.
 
 :::secret {title="What she reports"}
-She is a made member of the Velvet Hand, and her place in the household is the Hand's listening post. She writes down what she hears and passes it to her handler by a courier she knows by sight and not by name. Which household she serves, who her handler is, what she has already sold and to whom, and which verses she answers to are the referee's choice for the table.
+She is a made member of the Velvet Hand, and her place in the household is the Hand's listening post. She writes down what she hears and passes it to her handler by a courier she knows by sight and not by name. Which household she serves, who her handler is, what she has already sold and to whom, and which verses she answers to are the Game Master's choice for the table.
 
 She has never met the Hand's council and could not betray it if she tried. A party that exposes her learns the name of her handler and no more, and the Hand sells the party's interest in her to whoever asks.
 

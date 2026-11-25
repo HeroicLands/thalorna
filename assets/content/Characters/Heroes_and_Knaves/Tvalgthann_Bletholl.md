@@ -537,6 +537,6 @@ Skruldvir's Child
 The Stolen Song
 : Tvalgthann's most famous ballad, about loss and redemption, is sung in a far town by a stranger who claims it as their own. His investigation shows the song has begun a movement of change and hope. He can claim the ballad and break the movement, or let the stranger keep it and give up what he is known for.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 A traveling mystic tells Tvalgthann that his jokes carry prophecy and that the universe speaks through his wit without his knowing it. She offers evidence: past jests that came true and warnings he did not mean to give. If she is right, every jest he tells at the hersvald's table may change what happens at it.
 :::

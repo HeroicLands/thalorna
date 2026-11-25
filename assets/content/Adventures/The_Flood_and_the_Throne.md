@@ -84,7 +84,7 @@ Every year the priests of [[affiliation-uqaa|Uqa'a]] read the flood at [[place-t
 The stakes are the number proclaimed at the crest, the render of every selat, the standing of the throne through a hungry year, and who is named heir before a quarrel over the chair becomes a quarrel over the reign.
 
 > [!IMPORTANT]
-> The frame prescribes no heir, no number at the crest and no answer from Bethua or Okharis. The water on the wall at the Measure is what it is, and the referee decides how near the line it stands. What the party meets are the people who want a number, a render or a successor, each with a count of their own and a reason to keep it from someone.
+> The frame prescribes no heir, no number at the crest and no answer from Bethua or Okharis. The water on the wall at the Measure is what it is, and the Game Master decides how near the line it stands. What the party meets are the people who want a number, a render or a successor, each with a count of their own and a reason to keep it from someone.
 
 ## Who Moves It {#who-moves-it}
 
@@ -183,7 +183,7 @@ These scenarios run beside the frame and do not move it. They suit a party that 
 
 **The nephew's roll.** Zinuri Les'Leretu sends a full copy of every reckoning to Anlaghur's household, in hope of the heir's favor if the succession is decided. A party that reads Anlaghur's copy can name the selat whose silver bought the apprentice.
 
-The Gar-Au's purchases are the one secret that touches every arc: the count at the Measure, the credit to Yath-Lemet, the ballast at the sea-gate and the missing grain in Bethua's two counts all lead back to her. This frame does not say who is named heir, or whether anyone is. The referee decides, and may let the party's actions decide.
+The Gar-Au's purchases are the one secret that touches every arc: the count at the Measure, the credit to Yath-Lemet, the ballast at the sea-gate and the missing grain in Bethua's two counts all lead back to her. This frame does not say who is named heir, or whether anyone is. The Game Master decides, and may let the party's actions decide.
 
 ## The Hooks It Gathers {#hooks}
 

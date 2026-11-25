@@ -557,7 +557,7 @@ The Vakhora Papers
 The Dying Kulena
 : A Kulena of an old house is dying with two claimants and no certified line. The rites and the order of the hall are older than any record, and only Madurava knows them. Both claimants' households want the party at the pyre as guards. A party that guards the wrong side has chosen a seat by presence.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The forged certificate was written by Madurava's father at the old Kulena's request, and Madurava found it thirty years ago and left it in the archive rather than strike it. House Vakhora's line is also false, and Kalyanika has the means to prove the Sutrapal forgery.
 
 His predecessor kept a second archive of omitted lines, illegitimate heirs and struck claims. Madurava has read it and kept it closed. Its contents could unseat several of the Nine, and he has not decided whether to burn it.

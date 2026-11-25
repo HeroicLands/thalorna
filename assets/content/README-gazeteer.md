@@ -2,7 +2,7 @@
 
 Thalorna's supporting notes form a **complete reference**. The Adventurer's Guides offer an introduction to a culture and routes into that reference. The notes beyond them carry the depth: regions, settlements, ruins, routes, leaders and government, institutions, livelihoods, crop yields, weather patterns, people, creatures, and lore. A reader can follow an interesting subject from a guide into as much detail as the setting holds.
 
-**Every land is written to be adventure-ready.** A party arriving anywhere in Thalorna finds places to stand in, people to meet who want something, trouble that exists without the party, sites worth the journey, things worth taking, institutions that act, and scenarios a referee can run. [The adventure-ready standard](#the-adventure-ready-standard) below sets out what that asks of each note: its outline, its depth, its present and its hooks.
+**Every land is written to be adventure-ready.** A party arriving anywhere in Thalorna finds places to stand in, people to meet who want something, trouble that exists without the party, sites worth the journey, things worth taking, institutions that act, and scenarios a Game Master can run. [The adventure-ready standard](#the-adventure-ready-standard) below sets out what that asks of each note: its outline, its depth, its present and its hooks.
 
 **These notes exist to be a pleasure to read.** Their reader is a player or a GM, and the purpose of the whole corpus is to make Thalorna approachable, readable and interesting to them. It is not an encyclopedia that sets out the facts and stops. A note earns its reader's attention the way a good teacher does: it opens on something worth knowing, it comes from someone who knows the subject, and it carries the reader from that first hook into the detail. Writing its writer enjoyed is usually writing its reader enjoys.
 
@@ -60,7 +60,7 @@ One test serves every region and polity overview: it says in a sentence what thi
 **A note takes two voices, and its sections decide which.**
 
 - **The teaching voice** carries a culture note, the overview of a faith and the overview of a region, and the _Arriving_ section of a city or town: the passages a reader comes to for understanding.
-- **The gazetteer voice** (Mode B under [Set the register](#set-the-register-by-the-notes-job)) carries every section a referee looks a fact up in: the ruler and the offices, the law, the holdings, the present, and every keyed list of people, places or rooms. It is detached third person that asserts, so a referee finds the holder of an office or the hour the gates close in seconds.
+- **The gazetteer voice** (Mode B under [Set the register](#set-the-register-by-the-notes-job)) carries every section a Game Master looks a fact up in: the ruler and the offices, the law, the holdings, the present, and every keyed list of people, places or rooms. It is detached third person that asserts, so a Game Master finds the holder of an office or the hour the gates close in seconds.
 
 A region note opens in the teaching voice and turns to the gazetteer voice at its realms and its present; a city's _Arriving_ is taught, and its politics are stated.
 
@@ -263,7 +263,7 @@ place the compiler's voice relaxes; use it once in a note, or not at all.
 
 ## The adventure-ready standard
 
-A land is ready for adventure when a referee can open any of its notes and find
+A land is ready for adventure when a Game Master can open any of its notes and find
 what play needs: who rules, what is wrong now, who wants what, where to go and
 what waits there. The rules in this section say how each note carries that. Every
 count in them is a sanity range, as [Counts are sanity ranges](#counts-are-sanity-ranges)
@@ -627,11 +627,11 @@ The lands with their own hook rulings keep them: Vedyara writes hooks on its
 polity and pass notes only, and Kalihara keeps its seeds in its scenarios and its
 beings, never on a settlement. A being keeps its `Plot Hooks`, and a scenario its
 hooks by archetype. A hook's title is its own; a stock title repeated across
-notes tells the referee nothing.
+notes tells the Game Master nothing.
 
 ### Secrets
 
-**Every note separates the player's view from the referee's by section.** A note's
+**Every note separates the player's view from the Game Master's by section.** A note's
 open text is what anyone in the world can see or hear, with belief, rumor and
 contested memory hedged in the sentence. The truth sits in `.secret` sections or
 `:::secret` blocks titled to match their source, which Foundry shows to the GM

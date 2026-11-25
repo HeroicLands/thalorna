@@ -575,7 +575,7 @@ The Apprentice's Test
 The Ferry Barges
 : The temples of Weth'ur and Hezmu'iri and the Halzi'a of Khelzuret each need new barges for the crossing to the necropolis, and each insists the other pay. Githara is asked by both to choose the timber. Whichever she specifies is read as taking a side, and the Halzi'a shares the city uneasily with priests who hold more land than he does.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The log came from the door of a tomb in the outer ring, and the necropolis guard who sold it was bribed by the agent of the Thaz'Lekhau of Hezmu'iri, who collects tomb-doors to keep the dynasties' records out of the Halzi'a's hands.
 
 Qiya's mother died last month. Qiya is selling the wood to pay the embalmers for the first grade.

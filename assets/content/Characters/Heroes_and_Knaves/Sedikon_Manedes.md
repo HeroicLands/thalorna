@@ -568,6 +568,6 @@ Whoever Wrote the Forms Down
 The Watch's New Doctrine
 : The younger captains of the town's guard want Vesazáhr's style taught to the watch, and Captain of the Watch [[being-ruzhvelanakh|Ruzhvelana Korikot]] asks Sedikon for his judgment. Sedikon dismisses the new style, and Vesazáhr offers a demonstration bout between their pupils. Sedikon can accept the bout and risk losing it, or refuse and watch the guard change its training without him.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 A patron's son shows every sign of becoming an outstanding swordsman. He has a degenerative condition of the knee that will cripple him within five years, and his father presses Sedikon to speed his training. Sedikon can follow the father's wishes and hasten the damage, or insist the boy see a physician and risk the patronage.
 :::

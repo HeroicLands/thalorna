@@ -563,6 +563,6 @@ The Rival Master
 The Dying Woodcutter's Request
 : An aging woodcutter asks Kralmil, as a dying favor, to finish a last harvest in a remote and dangerous territory that no other living woodcutter can manage. The territory is rumored to be haunted. The request may owe something to old obligations, and Kralmil may owe it. He can refuse and break a debt of honor, or go.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 A noble from a distant land asks for a single piece of timber of exact dimensions and qualities for a sacred object, specified with knowledge of forestry that should not exist there. The search draws Kralmil into territories he has never seen and toward woodcutters with dangerous connections to Lin'Zuwaret. The last harvest of the dying woodcutter was designed to need his skill, and someone knows him far better than he realized.
 :::

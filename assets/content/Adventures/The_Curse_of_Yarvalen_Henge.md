@@ -31,7 +31,7 @@ The party enters as the Forge's witnesses, as the countess's hands, or as friend
 
 **The Forge.** Taroze Torvilis has a defector, a girl of one of the congregation's households who came to his door in the winter frightened of what her father does at the new moon. Her word is a girl's word against a chandler's, given to the Forge. Taroze needs the working seen by witnesses who are not his, and he needs it more than he says. His bishops have petitioned the crown to take the western march from the Flame earl, the petition lies before the [[affiliation-councilpeers|Council of Peers]], and a Flame working caught in the act at Yarvalen is the evidence the petition lacks.
 
-**The Earl.** Jentize names Avaarl Zilavren in his sermons as the faith's great patron. Nothing in his house, his papers or his congregation's mouths shows that the Earl has ever heard of him. Whether the Earl knows is the referee's to settle, and the scenario works either way: the Forge will carry any proof against Jentize up to Hárivren whether or not it leads there.
+**The Earl.** Jentize names Avaarl Zilavren in his sermons as the faith's great patron. Nothing in his house, his papers or his congregation's mouths shows that the Earl has ever heard of him. Whether the Earl knows is the Game Master's to settle, and the scenario works either way: the Forge will carry any proof against Jentize up to Hárivren whether or not it leads there.
 
 **The Áelendan.** The tribes involve themselves the moment a sacred site is disturbed, and a circle of the First Gods thrown down and now feeding a working is exactly that. They have not yet come down. If they come down over the henge before the crown acts, they come for the congregation and ask nobody's leave.
 

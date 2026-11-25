@@ -581,6 +581,6 @@ The Sealed Message
 The Dying Velva's Price
 : An elderly velva in a far northern settlement, one of the last keepers of the deepest mysteries, wants to pass them on before she dies. She will teach him only if he agrees to mentor her apprentice, a young ergi spirit-worker more ostracized than he is. The training would take months or years in the far north, away from his students and the house at Thrunborg. He can go and return changed, or stay and let the knowledge die.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 In the far north of Vithgard the boundary between the spirit world and the material world is becoming unstable. Spirits manifest often and aggressively, and the dead do not rest. Tvurnthann at first suspects a magical attack. The deeper cause is that the velvur, in suppressing male spirit-workers, have disrupted a balance between genders and between old and new practice that the tradition must keep.
 :::

@@ -407,7 +407,7 @@ Born into the [Snarvumak clan]{.name data-type="affiliation/lineage"}, one of [[
 
 Now at thirty-six, Gnildurselda is known among the Academy's chapters as Lysandra Aetherwind, a visiting scholar of ancient lore. Her family knows her as a disappointment, a woman who will never marry because no man of suitable rank would accept a wife so wholly consumed by her scholarly pursuits.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 As a child Gnildurselda showed an unusual gift, the ability to perceive and manipulate the boundary between seen and unseen, which she later recognized as akin to what southern scholars call [[affiliation-zefaris|Zefaris]] magic, the school of illusion. In [[place-nordheim|Nordheim]] such things come under different names: the work of a velva, a seer-woman who walks between worlds through trance and vision. That she manifested these gifts was not scandalous, since women have always kept seid, the mystical knowledge that flows through the land. Her refusal to keep it private was what made her dangerous to her family.
 
 At nineteen she insisted on formal training under old [Hrimrún of the North]{.name data-type="being/npc"}, the seer-priestess, an order her father, a practical warrior and Hersvald, nearly forbade. She struck a compromise: she would cultivate a public identity as a scholar of manuscripts and dead languages, and pursue seid under the guise of "ancestral research." For seventeen years she has lived this double life, teaching herself the deep arts, seeing through veils and reshaping them, making things appear and disappear, bending perception itself.
@@ -421,7 +421,7 @@ Gnildurselda is driven by an intellectual hunger so deep it verges on compulsion
 
 Her greatest strengths lie in her extraordinary intellect and her unshakeable will. She has become distant from other people, in a way that troubles even her. She struggles to feel close to anyone and finds herself constantly analyzing people instead of relating to them. She is reckless in her pursuit of knowledge, willing to risk others' safety for understanding, and increasingly conscious of that willingness without being able to stop it. There is a brittleness to her, a sense that if someone were ever to fully penetrate her carefully constructed reality, she might shatter.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 She has an aura that unsettles those around her, a presence that makes people instinctively trust her claims about the world, even when those claims defy ordinary perception. Her argument is almost supernatural in its precision; she can argue anything convincingly and make a listener question their own sanity. She is a master of layered deception, not through moral crookedness but through a fundamental understanding of how perception works: which details matter, which ones we ignore, where human attention flows and where it falters. The constant manipulation of perception, the layers of false identity and the awareness of how easily people can be made to believe anything have hollowed something in her.
 :::
 
@@ -431,7 +431,7 @@ Gnildurselda's official position is as an independent scholar affiliated with th
 
 Her status as a Snarvumak noble gives her considerable insulation. It also makes her visible in ways she increasingly resents, since her family expects her to eventually accept her duty and cease this "scholarly phase."
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 She maintains networks within Nordheim's hidden magical circles: practitioners of the old seid traditions, rúnstjori who work outside the formal clergy of the [[affiliation-odvar|Faith of Odvar]], and collectors of texts the authorities prefer forgotten. These connections are not hostile to Odvar's faith so much as orthogonal to it; Odvar himself, in their belief, values the pursuit of knowledge at any cost, and his most learned servants often turn a blind eye to heterodox methods. Attacking her directly would take political will her enemies may not possess.
 :::
 
@@ -441,7 +441,7 @@ She maintains networks within Nordheim's hidden magical circles: practitioners o
 
 - **Jarl [[being-hlarthvirsna|Hlarthvir Snarvumak]]:** Gnildurselda's uncle and effective head of the Snarvumak household, who provides financial support and family protection. He believes her an eccentric scholar and accepts this with the tolerance of a man who understands that noble families contain eccentrics.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 
 - **Hrimrún of the North:** Her original seid teacher, now in her seventies, and the person Gnildurselda trusts most in the world. Hrimrún is her spiritual anchor, the one person who knows the full extent of her work and does not judge it. Their bond is rarely acknowledged publicly but is absolute.
 - **The Collector of Amber:** A mysterious figure connected to the Academy's more liberal elements, who supplies rare texts and acts as a fence for her acquisitions. Identity unknown; all communication is by letter.
@@ -451,7 +451,7 @@ She maintains networks within Nordheim's hidden magical circles: practitioners o
 
 - **The Snarvumak succession:** Gnildurselda's cousin [Snirvorv]{.name data-type="being/npc"} and his ambitious wife see her scholarly pursuits as a dangerous anomaly and believe a woman of her station should be married off to secure an alliance. They have been quietly lobbying Jarl Hlarthvir to force the issue.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 
 - **Jon the Iron:** A brutal rúnstjori who views her systematization of seid as a violation of tradition and a threat to the old ways. He has made subtle attempts to undermine her reputation and would not mourn her disappearance. The threat he poses is growing.
   :::

@@ -542,6 +542,6 @@ The Pact of the Drowned
 The Fjord's Silent Guardian
 : Travelers vanish on a remote stretch of Norgaad's fjords. When Vrathmil and his companions pass, they find warning totems carved with great care. The yards of [[place-thraskvik|Thraskvík]] know the water and the stories, and the carvings do not match any of them. He can push on through the fjord, turn back along the coast, or follow the totems to what made them.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 At a village gathering Vrathmil sees a strange fire burn in the distance that no one else sees. It leads him to an ancient cairn inscribed with runes that seem familiar. Later a wanderer with no shadow offers a path to a hidden stronghold of lost knowledge and knows more of Vrathmil's past than anyone should. The promise is strong and the stranger is untrustworthy.
 :::

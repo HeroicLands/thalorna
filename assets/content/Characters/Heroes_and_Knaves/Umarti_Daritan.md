@@ -524,6 +524,6 @@ The Other Company
 The Treaty Copy
 : A merchant from Amradad is arrested at Ashvapada for a trade violation, and the clauses Umarti carries require that he be held for the Kingdom. The Samonta who arrested him wants him held for ransom instead. The party is in the yard when the two copies of the clauses are laid side by side and found not to agree.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Umarti has answered the other captain's invitation. If the Martial Council has not paid her company by the first caravan of the dry season, she will bring it to the wells of Marukupa and collect there. She has told none of her riders, and on the day she says it the company splits between those who follow her and those who leave.
 :::

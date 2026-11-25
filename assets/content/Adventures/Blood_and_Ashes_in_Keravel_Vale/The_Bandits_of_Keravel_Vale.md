@@ -167,7 +167,7 @@ The party knows where the cave is, and the village knows the party gave it up. T
 
 ### Rumors in Belsaren
 
-The village is wary of strangers, and of anyone connected to the lord. These rumors pass in the inn and the lanes. The referee's note after each says how much of it is true.
+The village is wary of strangers, and of anyone connected to the lord. These rumors pass in the inn and the lanes. The Game Master's note after each says how much of it is true.
 
 1. Dirave is a noble wrongfully stripped of his title, who fights to reclaim his land and honor. _Mostly true._
 2. His hideout is deep in the vale, with surprises for anyone who looks for it. _True; it is trapped._

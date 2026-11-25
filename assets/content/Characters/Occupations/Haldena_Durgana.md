@@ -416,6 +416,6 @@ Haldena is respected and feared alike. She has few friends outside her work fami
 2. **The traitor in her ranks.** Haldena suspects that one of her own captains takes money from [[being-garrutsagalt|Garrutsa Galtsuregi]], and she asks a party to watch the gate shifts before she names anyone.
 3. **The castellan's request.** Castellan Hilther approaches Haldena privately with a request to let one man through the gate without inspection. She asks a party to learn who the man is.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The crossbows are bound for a separatist faction, and Haldena learns it only after the castellan's court has had her evidence.
 :::

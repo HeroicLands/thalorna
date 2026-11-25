@@ -542,6 +542,6 @@ The Crimson Banner
 The Unquiet Oaths
 : After a storm, the spirits of fallen warriors are seen at the edge of [[place-vrathavan|Vrathavan]], lamenting oaths they never fulfilled. They fought under her family's banner and were betrayed by an ally the family has forgotten. She can seek out the ally's descendants and ask for the truth, or leave the dead at the edge of the town.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Beneath her family's longhouse Hlirthselda finds an ancient shield marked with runes of protection and strength. It belonged to an ancestor, a famed oathkeeper who vowed never to raise arms unjustly. To wield it she must pass trials that prove her honor and strength and end with a confrontation with an old foe of her family.
 :::

@@ -539,6 +539,6 @@ The Lost Hull
 The Young Mate
 : A young mate named [Arinasha]{.name data-type="being/npc"}, who reads tables and keeps the new instruments, has asked to serve under Vishvara. The captains who have seen both of them say that together they would be the best crew on the coast, and that Vishvara would sooner drown than say yes. Samurat asks the party to bring them together, and Garunya has offered Arinasha a berth on the [Kingfisher]{.name data-type="vehicle"}, which sails first.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The lost hull was run down in the dark on a night passage by Garunya's coaster, which did not stop. Garunya's crew knows. The owners want the matter closed because Garunya's hull belongs to a cloth-factor of the street whose bales the master of the yards clears first.
 :::

@@ -567,6 +567,6 @@ The Gang on the Winter Road
 The Landvordur's Permit
 : Landvordur Driskorv withholds the permits her wagons need to leave the harbor, because she refused to pay what he asks. A permit costs her a day and a coin, and the winter road does not wait. She can pay and be his, bring his demand to the district's hersvald and risk his anger for the whole winter, or find another road.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Marvthira Anthidrok, her closest friend, asks her to carry a large shipment of weapons and provisions in secret to a rebel force that is building an independent settlement in defiance of the king. Knalthrinna can keep the secret and break the law, refuse and abandon the woman who has been kind to her, or tell the landvordur. Separately, a mysterious patron pays in advance in coin of unusual purity for a sealed cargo to be delivered to a remote place in an impossibly short time, with no word of what it holds.
 :::

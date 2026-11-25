@@ -536,6 +536,6 @@ The Counterfeit Anthem
 Karell's Offer
 : Karell the Sage-Hunter raises his offer for her research each time she refuses it, and he has begun to wait outside the Siren's Repose after her last set. Varekos asks her to stay inside the tavern until Karell leaves the town. She can accept the offer and sell her work to a man she distrusts, or play the next night's set and walk out through the crowd.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Master Osthiros, her old teacher, falls gravely ill and asks to see her. He tells her that he spent forty years looking for the Lost Anthem to atone for refusing it as a young man, and that it lies beneath ground no one has dug. He dies before he says more. Fritia can bring his words to the minstrel masters, or follow them alone, knowing that others at the bedside heard them too.
 :::

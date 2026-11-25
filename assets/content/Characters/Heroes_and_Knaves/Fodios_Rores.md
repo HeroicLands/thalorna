@@ -560,6 +560,6 @@ Kalesara's Witnesses
 The Council Summons
 : Sekeros Ghesáz turns his inquiry into a formal charge, and the chapterhouse council, where Marendos Zevidin leads the case, must decide whether to strip Fodios's standing before the Sekran hears it. He can submit to the council's judgment and risk expulsion, leave the villages that depend on him, or call on the few allies he has to mount a defense that exposes the chapterhouse's politics.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The librarian [Lekhanos of the Archives]{.name data-type="being/npc"} believes Fodios's approach may be a true step forward in magical practice and passes him restricted texts and news of the council's business. The chapterhouse has noticed that pages are missing from its stacks. Fodios can return the texts and lose his one source of news, or keep them and let suspicion fall on the librarian.
 :::

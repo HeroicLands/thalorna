@@ -507,7 +507,7 @@ The Factor's Terms
 The Closed Stand
 : Lokavati wants to know what lies past the stand of hardwood Bhrijivara will not license. She hires the party to walk the bounds of the last estate and report what they see. If the Devapavi learns that she sent them, he confirms her keepers and can close their estates to her.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Lokavati pays pilgrims to carry the coast's price for lac up the hostel road, so that she knows it a month before the keepers do and buys at last month's price. The doorkeeper of the hostel nearest the quay has begun to count which pilgrims leave on her account. The hostels feed whoever presents himself as a priest or an ascetic, and the practice is lawful and certain to be found out.
 
 Bhrijivara has asked her not to press for the closed stand and has given her no reason. She has not told the party that, and she is curious enough to go and look.

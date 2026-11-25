@@ -592,7 +592,7 @@ The Exile on the River Road
 The Leak
 : Detailed information about the business of her inner council reaches Zemelu Qeltiri before she can act on it. It is selected to hurt her without looking like malice. She asks the party to watch her household without telling her household, and she says she does not wish to learn that it is someone she trusts.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Thalura has never fabricated an augury, and she has chosen which cases to pursue and which to let die. After the sentence was carried out, Anlaghafu sent her a summary of the case, and she saw that the Khelunu records could not be reconciled with the temple's own observers. She did not demand a review. Anlaghafu knows she read it, and his deference to her is the leverage he holds.
 
 The woman at the quay is Gethor's daughter. Gethor named her in a codicil, and Thalura burned it the week he died. No one else knows it existed except the old servant, who is the one witness who tells the truth.

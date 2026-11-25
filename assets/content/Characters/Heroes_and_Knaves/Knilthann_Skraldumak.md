@@ -548,6 +548,6 @@ The Youth's Challenge
 The False Cousin
 : A skilled performer in a distant city sings "ancient sagas" that are Knilthann's own compositions and claims to be his unrecorded cousin. The false cousin gathers fame and patronage. Knilthann can expose him before the Skalds' Circle and show how he has bent the sagas, or let him be and be known by his imitation.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 A burned hall once held an archive of sagas older than any Knilthann knows, and fragments of it are in the hands of a reclusive scholar in the mountains. He insists he has no need of them. The archive's sagas show that the telling of the Burning of the East that has served kings and levies was shaped to suit the court, and that Knilthann has helped shape it.
 :::

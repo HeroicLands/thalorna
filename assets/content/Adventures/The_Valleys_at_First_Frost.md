@@ -149,7 +149,7 @@ Read or paraphrase:
 **Player choices.**
 
 - _Parley:_ carry Khilodlun's offer back to Savaghjilaq; ask Tijodorghun what ends a feud between the Ghotakur and the Savaghur.
-- _Ask for the sky:_ Tijodorghun reads the sky for the Savaghur if asked by someone who belongs to neither offer; what he reads is the referee's, and he says it plainly.
+- _Ask for the sky:_ Tijodorghun reads the sky for the Savaghur if asked by someone who belongs to neither offer; what he reads is the Game Master's, and he says it plainly.
 - _Bargain:_ ask Khilodlun to send horses for a feud-payment. She sends horses only to a camp that has come in.
 
 **Clues and rewards.** Tijodorghun, asked how the feud can end, says a feud over these valleys has ended before: a Ghotakur daughter married into a Savaghur line in his grandmother's grandmother's time, before the present feud began, and the two tribes shared the valleys for a generation after. He names the line, and it is Jiboqlun's. He will witness a marriage, if one is made, under open sky.
@@ -179,7 +179,7 @@ Read or paraphrase:
 **Clues and rewards.** The wall needs men; the Savaghur camp has men and no herds; the valley has grass and no men. Jiboqlun sees it the moment it is said aloud, and says she would rather die.
 
 > [!NOTE]
-> The wall stays offstage. What lies beyond it is the north, and the dead there do not lie still; this adventure says no more. Voghaltoliz's silence is the scene's weight, and the referee does not need to fill it.
+> The wall stays offstage. What lies beyond it is the north, and the dead there do not lie still; this adventure says no more. Voghaltoliz's silence is the scene's weight, and the Game Master does not need to fill it.
 
 **Consequences.** The young Savaghur riders decide that the valley is at its emptiest, and plan to ride in at the first snow.
 

@@ -47,7 +47,7 @@ The party enters as the heir's companions on the road to [[place-thornhaven|Thor
 **The Grukar.** The gatehouse stands on the river path that Grukar raiding parties take toward the clearings. They come out of the north-east in small parties, they bargain with nobody and they take nobody back, and they have watched the ruin since it burned.
 
 > [!IMPORTANT]
-> This scenario does not say whose torch fired the fort a century ago, and nothing at the gatehouse settles it. The question is whether a shared fort can be shared twice, and the referee decides what the Other Chief makes of the party's answer to her question.
+> This scenario does not say whose torch fired the fort a century ago, and nothing at the gatehouse settles it. The question is whether a shared fort can be shared twice, and the Game Master decides what the Other Chief makes of the party's answer to her question.
 
 ## Hooks {#hooks}
 

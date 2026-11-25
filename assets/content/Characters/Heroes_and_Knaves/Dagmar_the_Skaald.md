@@ -532,6 +532,6 @@ The Exile's Price
 The Jarl's Last Tale
 : A dying jarl of [[place-norgaad|Norgaad]] summons Ralthvir to record his life, with wealth and renown to follow. The deeds he tells include some that would break alliances between clans. Ralthvir can sing a flattering saga, sing the true one and risk the jarl's heirs, or leave the saga unfinished.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 An old skald tells Ralthvir a captivating story and vanishes before the end. Ralthvir begins to hear its continuation in dreams and rumors. The unfinished tale holds a clue to Tvarninda's vision of the sea, and the person he heard it from knew it would be Ralthvir who carried it on.
 :::

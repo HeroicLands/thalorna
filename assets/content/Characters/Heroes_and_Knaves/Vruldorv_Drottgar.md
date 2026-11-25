@@ -534,6 +534,6 @@ The Man Who Lived
 The Refugee's Claim
 : A refugee from the Wastes asks Vruldorv's protection and says she is his daughter from the Frontier Conflicts. She is gifted with weapons and shaken, and powerful enemies are following her for reasons she does not know. He can take her in and complicate the solitary life he has built, or send her to a hearth that will keep her and live with it.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Vruldorv finds that someone with real authority in the watch has been paid to kill a prominent figure, against the watch's own oaths. The order comes from within the watch. He can bring it to the hersvald and risk splitting the watch, or keep silent and break the honor that defines him.
 :::

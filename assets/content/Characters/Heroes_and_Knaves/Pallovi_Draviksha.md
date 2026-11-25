@@ -550,7 +550,7 @@ The Forged Hand
 The Count
 : A cloth-factor asks Pallovi to render his ledgers as illuminated documents. In copying the figures she finds that the count of chartered looms in his ledger does not agree with the count the shrenis keep. In a city where every argument is conducted in that number, the factor wants the ledgers to look splendid and not to be read.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The loom-count in the ledger is padded by several hundred looms of a shrena the Council has quietly dissolved. The shrenis keep the number so that no seat is lost.
 
 The treatise in The Unsanctioned Copy argues that the Council's count is a false measure before Mahajaya, which is why the Triyacharya will not sanction it. The ledger in The Count proves its case. A party that carries both holds a case against the Council.

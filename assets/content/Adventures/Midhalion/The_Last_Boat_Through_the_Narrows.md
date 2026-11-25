@@ -149,7 +149,7 @@ The marines clear the plots and the clerk burns the book. Zilmar passes the day 
 
 ## Aftermath {#aftermath}
 
-The Review ends with the rising begun, broken, put off or never attempted, as the party's choices and the referee decide. Each of those leaves the summer session of the Grand Council with a different petition at the head of its order. The halls remember who stood on the terraces, and the Compact remembers who was on the water.
+The Review ends with the rising begun, broken, put off or never attempted, as the party's choices and the Game Master decide. Each of those leaves the summer session of the Grand Council with a different petition at the head of its order. The halls remember who stood on the terraces, and the Compact remembers who was on the water.
 
 ## See Also {#see-also}
 

@@ -5,7 +5,7 @@ name:
   en: [History of Viléria and Midhalión, The History of Midhalión]
 type: lore
 subType: history
-description: "A referee's reading history of Viléria, Nartun and Taruzel from the Republic to 720 AF, told by the eight ages Viléria's historians count, each age closing on what it left for a party to meet today."
+description: "A Game Master's reading history of Viléria, Nartun and Taruzel from the Republic to 720 AF, told by the eight ages Viléria's historians count, each age closing on what it left for a party to meet today."
 tags: [history, vylaria, taruzel]
 data: {culture: vylarianclt, packFolder: vylaria}
 ---

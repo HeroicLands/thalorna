@@ -444,7 +444,7 @@ He keeps his hold's business to himself and holds an outsider's word cheap. He i
 4. **The guest hall.** A clan party hires a party to ride with its outrider as witnesses, and it does not say what the outrider is to look for.
 
 :::secret {title="Whom he tells"}
-The outrider tells someone besides the party that hires him what the caravan carries, what road it takes and when. Whom he tells (his hold's warlord, the chapter of [[affiliation-blackflame|the Black Flame]] that gathers at the clan guest hall, a merchant house's factor or someone else) is the referee's choice, and so is what the listener does with it.
+The outrider tells someone besides the party that hires him what the caravan carries, what road it takes and when. Whom he tells (his hold's warlord, the chapter of [[affiliation-blackflame|the Black Flame]] that gathers at the clan guest hall, a merchant house's factor or someone else) is the Game Master's choice, and so is what the listener does with it.
 
 He does not think of it as betrayal. He thinks of it as what a rider owes the hold, and a party that asks him straight hears a flat denial.
 

@@ -569,6 +569,6 @@ The Master's Berth
 The Sinking Hull
 : Senapavi's ship comes on a vessel taking water in a rising sea. It is the Crimson Sail, Darmeja's ship. The rescue endangers Senapavi's own crew, and the captain leaves the decision to him. He asks the party aboard for advice and does not take it.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The keel timber for the hull in The Master's Berth, three months late from the forest, was bought away on the river by the merchant houses that hold shares in the Crimson Sail with Darmeja, who want no new rival on the southern run.
 :::

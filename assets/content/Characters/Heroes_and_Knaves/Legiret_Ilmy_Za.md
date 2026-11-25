@@ -559,7 +559,7 @@ The Plagiarism Charge
 The Treasure-Hunters' Offer
 : A band calling itself [[affiliation-zeghetanleth|Zeghet'Anlethu]] offers him an artifact of the old Khelathi priesthood for his help reading it. He learns before he signs that they mean to sell what he reads to a foreign factor at the Great Quay. The artifact is genuine, and it is the only object he has seen that carries the same sky as Amqelet-Zelemu's vision.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 One of the clans of the Court of the Nine Moons paid for Legiret's posting at Khelunu and encouraged him to join Amqelet-Zelemu's company. He writes to that clan by every post. His loyalty to the astrologer is real, and his letters have not told the truth for a year.
 
 The treasure-hunters are the clan's hired agents. The artifact they offer is bait: it carries a forged reading, and whoever follows it will go to the wrong site.

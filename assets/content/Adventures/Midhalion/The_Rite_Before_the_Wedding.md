@@ -23,14 +23,14 @@ About 401 AF Vilérian legions killed one another in a wheat-field on the Olkass
 
 **The forward sale.** House Mardovanes has sold the next three Olkassa harvests forward to the state granaries at a price no other field could meet, and [[affiliation-tarmex|the Tarmeks]] advanced a third of it on borrowed money. If the field is settled and its quickening ends, the Grain House cannot fill the contract, and the throne has paid for bread that does not exist. The master of Ganothandis agreed to the sale. Zetimas does not know of it. Nethoras hopes the rite fails.
 
-**The rite.** Sélmoros's rite of settling works perhaps half the time, and nobody knows whether settling the field would end its harvest. This scenario does not say. The referee decides at the field, by the rite's own rules, or lets the party's deeds decide.
+**The rite.** Sélmoros's rite of settling works perhaps half the time, and nobody knows whether settling the field would end its harvest. This scenario does not say. The Game Master decides at the field, by the rite's own rules, or lets the party's deeds decide.
 
 **The oath.** Two springs ago the masters of Hilen's great houses swore at the Speakers' Stone that when the Orzas dies, no grain is to be weighed at [[place-aravantia|Aravantara]] for any claimant who brings a legion inside the capital's boundary. They call it the Compact of the Stone. The master of Ganothandis swore first. The list of the masters who swore, each name in its master's hand, lies in a box under the Orzas's image in the provincial temple, in the keeping of the _zalvos_. One morning last harvest the yard clerks refused the Mardovanes factor's wagons until noon, as a trial. Every claimant would pay for that list.
 
 **The watchers.** [[affiliation-ordoarcanis|The Thordimalon]]'s surveyors want to measure the field, and the steward turns them away at the gate. A preacher of [[affiliation-blackflame|the Black Flame]] in Orzara tells the poor that the capital's bread is milled from a battlefield.
 
 > [!IMPORTANT]
-> The rite's outcome is the referee's, and whether the field's harvest ends with it stays unknown to everyone in the setting. What the scenario establishes is who gains and who loses on each outcome.
+> The rite's outcome is the Game Master's, and whether the field's harvest ends with it stays unknown to everyone in the setting. What the scenario establishes is who gains and who loses on each outcome.
 
 ## Hooks {#hooks}
 
@@ -112,7 +112,7 @@ The river road into Hilen at harvest, between estates whose walls run for miles.
 > [!WARNING]
 > Telling Zetimas of the forward sale is the single choice in this scenario that can break the Olkassa marriage, and with it the Grain House's tie to Ganothandis. Let it be the party's, and let the masters at Aravantara learn who told him.
 
-**If bypassed.** The rite takes place without the party, and the referee decides its outcome.
+**If bypassed.** The rite takes place without the party, and the Game Master decides its outcome.
 
 ### Scene Five: The Box Under the Image
 
@@ -132,7 +132,7 @@ The river road into Hilen at harvest, between estates whose walls run for miles.
 
 ## If the Party Does Nothing {#if-the-party-does-nothing}
 
-The priests arrive late, the rite is performed, and the referee decides its outcome. Zetimas marries the Grain House's daughter in the autumn, knowing nothing of the sale. Yalzemas's bid reaches the Seldan, and the houses of Hilen speak against it. The Compact of the Stone stays sworn and secret. The Thordimalon's surveyors go home and write that they were refused.
+The priests arrive late, the rite is performed, and the Game Master decides its outcome. Zetimas marries the Grain House's daughter in the autumn, knowing nothing of the sale. Yalzemas's bid reaches the Seldan, and the houses of Hilen speak against it. The Compact of the Stone stays sworn and secret. The Thordimalon's surveyors go home and write that they were refused.
 
 ## Aftermath {#aftermath}
 

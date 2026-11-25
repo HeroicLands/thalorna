@@ -533,7 +533,7 @@ The Shrena's Count
 The Clumsy Poison
 : A family from the villages below the town carries in a poisoned man whose poison is crude and obvious, in a style Chandratar is known to sell. The patriarch is already telling the market that the apothecary tried to kill him. Chandratar can find the real poisoner or lose the shop.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Chandratar mixed the draught that killed Shimri Dormendra, at her own request, for a pain she had told nobody of. He has never been able to prove it was her wish. The accusation is true in the letter and false in the intent.
 
 He has also sold three bane draughts to Sandvi of House Velyara, and she holds the ledger entry for each. In The Clumsy Poison, the crude poison was made by his own apprentice, who left the shop after learning what Sandvi buys.

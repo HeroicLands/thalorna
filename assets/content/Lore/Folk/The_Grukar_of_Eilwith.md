@@ -79,7 +79,7 @@ upland farms and horse runs, and the northern shore of the lake.
   - _Enemy:_ [[affiliation-durrask|the Durrask]], who take the same horses, and the breeders who ride after both.
   - _Now:_ the Durrask drove forty mares off the grazing in the summer and left less to take. The nest raids farther west, toward the runs below Stoniford, and the breeders count its losses against the Durrask.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Two shores working one set of beds put too many people on the water for a raid to go unseen, so the nest's Sha, Stillwader, keeps the shores watching each other instead of the ravine. The raiders cut nets on both shores and took Koldmere's lost boat and cutters.
 :::
 

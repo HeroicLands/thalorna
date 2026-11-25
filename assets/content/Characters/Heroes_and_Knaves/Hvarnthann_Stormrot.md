@@ -553,6 +553,6 @@ The Harbor-reeve's Count
 One Load for Her Safety
 : A smuggler tells Hvarnthann that the Smugglers' Network will burn the house he bought in his mother's name unless he carries one cargo for them, because he reports them to the harbor-reeve. He can carry it and break the rule he sails by, report the offer to the harbor-reeve and put his mother in the line of reprisal, or find the smuggler's master before the next boat leaves.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The _Stormrider_ begins to steer itself: its sails trim without hands, its helm answers commands no one gave, and the ship moves against wind and current. Its crew grows afraid. Something rides the ship, and the same thing may be the colossal creature that has holed the fishing fleets' hulls on the northern routes, which the merchant [[being-thruldselda|Thruldselda]] wants found.
 :::

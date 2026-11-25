@@ -564,7 +564,7 @@ The Scent of Devotion
 The Debt Called In
 : Shelti the Alchemist, who sold him rare ingredients on credit years ago, comes to the workshop with a summons Gatnefur cannot ignore. The debt, he says, is not in coin but in a favor: a sealed vial is to be carried into the [[place-greattempluqaa|Great Temple of Uqa'a]] on the next feast day and left in the incense-room. Refusing means that Shelti tells the court what Gatnefur used to make his first success.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Lekhur survived the attack and lives in the Wazulet as an embalmer's resin-maker under another name. Shelti is his brother, and the debt is his revenge.
 
 The Awakening of Uqa'a was made from Lekhur's formula, which Gatnefur's father Zefura bought from a dying apprentice and gave to his son as his own. The vial in the incense-room is a grief-oil from the rite for the dead; it would cause a priest of Uqa'a to faint during the procession and shame the temple.

@@ -572,7 +572,7 @@ The Gifts for the Embassy
 The Apprentice Who Knew Too Much
 : A young craftsperson asks for an apprenticeship and demonstrates a technique that only the Let'Gerau teach. Thefnuti has taught it to no one outside the family. He can send her away and lose the first talent he has met in decades, or take her in and learn who gave her the knowledge.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The apprentice is the granddaughter of a second pupil of Thefnuti's father Gakhoti, who taught a man outside the family and left Thefnuti's grandfather ignorant of it. That pupil's line is the source of the bulk-made mechanisms, and the copying is not theft in any sense the law recognizes.
 
 Retheku is right about the income. Thefnuti inflates the Treasury's gift commissions with the connivance of a clerk, and what the audit would find would end his standing with the court.

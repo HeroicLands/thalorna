@@ -486,6 +486,6 @@ The Old Gods Call
 The Weaponcrafter's Daughter
 : Word reaches Svalthrinna that her father has died and left her his forge at [[place-knalthstead|Knalthstead]], with debts, obligations and a half-finished commission for a powerful jarl. Claiming it means returning to the life she fled, where a garrison man's kin may be waiting. Leaving it means losing the last link to the parent who loved her without condition.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 In a hard fight Svalthrinna saves Kivella's life and finds that the young woman's erratic arcane power resonates with her own deep aura. The [[affiliation-ordoarcanis|Thordimalon]], the Arcane Order, is desperate to recover Kivella as an escaped subject, and the resonance may be why they want her back.
 :::

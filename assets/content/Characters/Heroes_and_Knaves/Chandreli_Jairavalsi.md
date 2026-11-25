@@ -535,7 +535,7 @@ The Vote
 The Absent Companion
 : A friend of Chandreli, a Companion of the same House, has not been seen in three weeks. The House says she was sent to a satellite house in another city, and the satellite house says she never arrived. Chandreli asks the party to find her without telling her handler.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The figure in The Papers is her own handler, acting for the Council of the Veil, which wants to learn whom Chandreli chooses when both her masters are threatened. The record is accurate and was assembled by the House's own transcripts.
 
 The merchant in The Commission is her father. The shrena found him through the House's records and assigned the task to her on purpose, either to test her or to bind her.

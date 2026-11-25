@@ -546,7 +546,7 @@ The Coming-Forth
 The Other Story of the Scar
 : The man who cut him is a ruined drunk, and he is telling a story that contradicts Gasher's: that the scar came from a fight over a woman Gasher wronged. The story is spreading in the places where he plays. He can leave the stage and the story with it, or find the man and the one who is feeding him drink.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The man with the knife was paid. The Jade Serpent Collective arranged the attack, to break Gasher's rise before it threatened the court bards, and has been supporting the drunk's new story.
 
 Legirgulu is honest. The fragments of the creation songs are real, and one of them names the Mound before the Crossing, a claim the temple of Uqa'a would rather not have sung.

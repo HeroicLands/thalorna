@@ -549,6 +549,6 @@ The Master's Hands
 The Muster's Tents
 : The muster officer's annual order for campaign tents falls due as the muster is called. Svulthann privately worries about Braldthann's reliability and has asked Snurvmil Fastworker, who undercuts Braldthann by thirty percent, to bid. Braldthann can finish the order late and risk the loss of the commission, or hire Snurvmil's hands to finish it and live with what he said about them.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Someone has been sabotaging Braldthann's tents, putting in flaws that do not show until soldiers are in the field, so that his reputation fails and his market falls open. The king's muster-men approach him with evidence. Braldthann must find whether the saboteur is a rival, a younger tentmaker, or someone close to him.
 :::

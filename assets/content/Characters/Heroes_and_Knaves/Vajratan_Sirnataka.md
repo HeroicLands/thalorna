@@ -515,7 +515,7 @@ The Three-Year Hire
 A Clean Wrist
 : A Ritrija scribe offers, for a price, to swear that the struck line on Vajratan's wrist is an old wound over a Sentija's mark. It would make him confirmable. Vajratan wants to know who sent the scribe, and he wants the scribe's offer made again in front of witnesses. A confirmation sworn on a false line can be struck down, and he goes with it.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Vyalendra's Triyacharya has not agreed to speak for him. The Dutsa offered it unasked, to fix the hire for three years at this season's rate, and if Vajratan signs the temples hear nothing from Vyalendra.
 
 The scribe in A Clean Wrist is sent by a Kulena of the Nine whose kinsman wants the fleet.

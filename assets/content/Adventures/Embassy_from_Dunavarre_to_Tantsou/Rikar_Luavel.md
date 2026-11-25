@@ -27,6 +27,6 @@ Rikar Lúavel has a stable master's weathered hands and wears a leather apron ov
 
 **Background.** Expert in animal care and handling.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Holds secret sympathies for a rival faction within [[affiliation-kingdmdnvr|Dúnavarre]]. His divided loyalties make him a potential mole.
 :::

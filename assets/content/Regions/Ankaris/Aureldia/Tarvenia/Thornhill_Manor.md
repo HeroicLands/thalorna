@@ -70,6 +70,6 @@ The year turns on the fields and the hunt. The plain is sown in autumn and sprin
 [[place-valthari|Valthari]]
 : the free city the manor lies near, and its market
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Zórila saw which guest loosed, and has told no one.
 :::

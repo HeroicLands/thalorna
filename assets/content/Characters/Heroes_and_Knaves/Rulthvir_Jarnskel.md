@@ -527,6 +527,6 @@ The Shrinking Streams
 The Plowman's Plan
 : Regional lords discuss converting traditional pastoral land to formal farmland. The project would enrich the region and end the pastoral way of life Rulthvir has spent his life preserving. His standing among herders makes him their natural leader against it, though he has never opposed powerful men. He can organize the herders at the ting, accept the plan and sell, or rely on Skrilmil Stormborn to protect his holding.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 A wealthy stranger demands a particular, ordinary-looking sheep or goat from Rulthvir's herd and offers far more than it is worth. When he refuses she becomes insistent. Something about the animal is unusual, and he must find out what while the stranger presses him.
 :::

@@ -567,7 +567,7 @@ The Bonded Daughter
 Balinta's Warning
 : Balinta, whose cases Thotkar has beaten repeatedly, has begun to visit his clients at home and to remark on their families. Two have withdrawn. Thotkar must decide whether to name him before the Litigants' Guild, which has the standing to discipline Balinta and the habit of not doing so, or to take the next case against him without the clients who still stand beside him.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The false reading of Aqenhofis protects a house of the Zebeku'Zut that owns the counting-boards of the grain-port, and the bondage of the farmers' debts rests on it. If the reading falls, the bonds fall with it.
 
 The Lord Magistrate Khelama schedules Thotkar's hearings first because he wants the reading tested, and he cannot test it himself without losing his office.

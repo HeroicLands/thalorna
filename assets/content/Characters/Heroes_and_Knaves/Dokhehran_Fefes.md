@@ -551,5 +551,5 @@ The Tablet and the Patron
 :::secret {title="Further hooks"}
 Lord Bufomazul has not told Dókhehran that he wants her research to give him leverage over the [[affiliation-cncltwlvbzrs|Council of Twelve of Bizaris]]. Once she learns it, she can end the arrangement and lose the gold, or stay and keep the patron close.
 
-In her deepest trances Dókhehran hears voices. The voices ask her to perform a rite in a sealed vault, and she asks a party to stand watch and break the trance if it goes wrong. Whether the voices are the past or her obsession is the referee's to decide.
+In her deepest trances Dókhehran hears voices. The voices ask her to perform a rite in a sealed vault, and she asks a party to stand watch and break the trance if it goes wrong. Whether the voices are the past or her obsession is the Game Master's to decide.
 :::

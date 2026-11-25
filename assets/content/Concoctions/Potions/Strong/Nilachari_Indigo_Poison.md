@@ -23,6 +23,6 @@ Distilled down from the spent mordant and fermentation residue of indigo vats in
 
 Among the apothecaries of the [[place-vedyarargn|Vedyara Region]], the shrena halls connect the preparation, in low voices, with [[being-chndrtrmkhyshvr|Chandratar Mukhyeshvara]], whose legitimate skill with dye-chemistry is the reason they give.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Chandratar does sell it, and three draughts have gone to [Sandvi]{.name data-type="being/npc"} of the great house [Velyara]{.name data-type="affiliation/lineage"}.
 :::

@@ -565,7 +565,7 @@ The Season at the Great Quay
 The Patron's Private Evening
 : The merchant prince Lahmes asks for a private performance for a small, rich company, and offers a fee that would clear her debts to the company. He chooses the play and the guests himself. Thirye has begun to wonder why a man who collects fine objects wants the audience he has chosen all in one room.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The collector is Lahmes's agent, and the fragment is forged. It is written to condemn the priesthood so that the Wazulu will come down on the company, and Lahmes holds enough of its debts to buy the license when it falls.
 
 Zabunia, the rival who spreads rumors about Thirye, was paid by the same man.

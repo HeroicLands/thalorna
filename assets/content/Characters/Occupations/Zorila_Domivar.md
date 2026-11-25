@@ -435,6 +435,6 @@ Few; she is respected by her peers but sometimes viewed with skepticism by tradi
 2. **The kinsman.** A kinsman from the hunting family she grew up in comes to [[place-thornhillmnr|Thornhill]] asking for a place in the retinue on the strength of her name, and the old huntsman who wants her gone takes him under his wing.
 3. **The offer.** A greater lord who hunted as Lord Zurgade's guest offers Zórila a post in his own household, and leaving Thornhill would cost her the trust she has built there.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Zórila saw which guest loosed the arrow that killed the reserved stag. His courtesy is meant to buy her silence, and she has not decided what her silence is worth.
 :::

@@ -556,6 +556,6 @@ The Master's Illness
 The Network's Offer
 : A member of a network that has moved dozens of enslaved people to freedom contacts Dvilgthira and asks her to serve as their agent among noble households, gathering information and quietly helping escapes. It means keeping up a pretense of absolute loyalty while working against her master, and it means a community larger than her own survival. She can accept, ask for time, or turn the messenger away.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 A ritual performed on Dvilgthira as a child binds her to the household and dulls the wish to leave. When Anthorv is delirious he lets slip that she is bound by more than law, and a figure, perhaps a mage or a freed thrall, offers to break the binding at the price of betraying him. She cannot be certain the binding still holds her or whether she has simply accepted servitude so fully that the magic is no longer needed.
 :::

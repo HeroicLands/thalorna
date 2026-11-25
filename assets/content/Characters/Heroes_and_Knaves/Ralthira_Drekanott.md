@@ -555,6 +555,6 @@ Nilthorv's Warning
 A Roof for Winter
 : Landvordur [[being-driskthyrasn|Driskthira Snurvaruk]] offers Ralthira a room for the winter on one condition: that she stops singing in the open, where the Landvordur's rank would be linked to a beggar. A roof would keep her alive. Her songs hold the street folk's histories, and without them the street folk who shelter her have no memory.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 A young orphan appears on the streets who can say when a storm is coming, and attaches to Ralthira. The gudi of her old hov is searching for the child with great urgency. Ralthira can hide the child and become a fugitive, or hand the child back to the hov that cast her out.
 :::

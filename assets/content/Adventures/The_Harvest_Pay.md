@@ -129,7 +129,7 @@ The arcs run in any order, and each moves the reckoning whether or not the party
 
 **The forts' rolls.** Ovrik keeps two rolls. A third of the wardens the prince pays are not in the barracks, and their wages feed the bell-ringers, cooks and village watches beneath the forts. The forts are thinner than any prince knows.
 
-This frame does not say which Host changes sides, or whether any does. The referee decides, and may let the party's actions decide.
+This frame does not say which Host changes sides, or whether any does. The Game Master decides, and may let the party's actions decide.
 
 ## The Hooks It Gathers {#hooks}
 

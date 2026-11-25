@@ -540,7 +540,7 @@ The Flood Record
 The Cartographer's Answer
 : The explorer [[being-vamikshaajar|Vamiksha Ajaran]] has asked her to come south as the expedition's mapmaker. The offer is the work of a lifetime, and the Great Map is not finished. She asks the party to tell her whether she is leaving a commission or fleeing one.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The faction in The Adjusted Seat already has a second map drawn by a hand that copies hers. If she refuses, the copy goes up at the Compact's unveiling in the place of her original.
 
 She is right about the flood, and a Kulena among those asking her to stay silent holds river-lands that will drown.

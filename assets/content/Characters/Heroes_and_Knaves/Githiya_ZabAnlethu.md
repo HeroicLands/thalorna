@@ -584,7 +584,7 @@ The Month at the Temple
 The Scapegoat
 : The silver cup that disappears from Lenti's table is found in the kitchen worker Amqelifu's bundle, and he says Githiya put it there. Lenti, who cannot stand scenes, dismisses the quarrel by dismissing her. She asks the party to prove the cup left the house with someone else before the story reaches the households that would take her next.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Lenti's nephew is selling the household's flour and oil to a wharf factor to pay a gambling debt, and he has been using the sealed-sack weights to hide it. Lenti knows, says nothing and has written Githiya into his will as steward for life, because he is afraid she would leave if she knew what she was worth to him.
 
 The merchant captain is not stealing the bronzes. Lenti sold them to him, to cover the debt without a scene, and told nobody. Githiya's suspicion of the captain is the only thing that is false in the account she gives.

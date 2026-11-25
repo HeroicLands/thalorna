@@ -552,6 +552,6 @@ The Copyist's Bolt
 Knarvorv's Bid
 : [Knarvorv the Practical]{.name data-type="being/npc"} bids against her for a shipyard order of tents and awnings for the season's fleet, promising weatherproofing she cannot match without giving up her dyes. Her father Mirvir advises her to take the plainer work. She can take the order at a price that loses money, hold her price and lose it, or win it by making the plain work well, which means doing what she has refused to do.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The estate of a dead dyer at Braldheim leaves Glirvrinna a chest of formulae for colors that seem to shift with the mood of whoever wears them. The dyer was a mage who set her intentions into the pigments before she died. Cloth from the formulae draws wearers to keep it on, and the colors turn at moments of grief and joy. Glirvrinna can use them in the trousseau and risk what they do to the wearer, destroy the formulae and the one chance at colors no one else can make, or work out what the dead dyer intended.
 :::

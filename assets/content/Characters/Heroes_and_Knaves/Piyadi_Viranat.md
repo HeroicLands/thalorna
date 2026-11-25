@@ -502,6 +502,6 @@ The Price of a Berth
 The Headman's Question
 : At a well in a lowland village the headman asks to see her wrist before she draws water. The party is standing beside her.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The gap between the gate's tally and the customs-house's is a third of the ore, and the clans share in it. The tally Piyadi carried was never meant to reach the crown. The men on the terrace road are looking for her because her figures prove the clans' own part, and not because of what they say about the Collective.
 :::

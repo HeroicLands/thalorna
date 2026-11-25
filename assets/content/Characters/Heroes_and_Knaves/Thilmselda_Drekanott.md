@@ -549,6 +549,6 @@ The Deserter's Daughter
 A Sanctuary Request
 : Fugitives ask Thilmselda for shelter, and sheltering them would break the law and risk the inn. Her sense of justice compels her. Marvorv's agent, who has never forgiven her refusal to sell, is among the guests. She can hide the fugitives in the cellar and gamble the inn on a servant's silence, or turn them out and bear it.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 While workers renovate her cellar they find a sealed chamber holding artifacts and documents from an era long past, perhaps relics, forbidden knowledge or the proof of a historical secret. She can report it, hide it, or sell it, and any of the three can bring the inn's enemies to the door.
 :::

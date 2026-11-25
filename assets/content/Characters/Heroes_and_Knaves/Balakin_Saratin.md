@@ -511,6 +511,6 @@ The Unpresent Elder
 The Road to the Sea
 : If the promise is broken, Balakin will run, and he will need someone who knows the road down off the plateau and the price of passage on a coasting hull. His mother asks the party to talk him out of it.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 On the eighteenth night Balakin heard a drover's tally, in the Karyona herd-count, going the way of the stock. The well the Karyona filled with stones three centuries ago did not fill empty. The thing on the dead droveway is the herd they sealed in it, and whoever reopens the well answers to it.
 :::

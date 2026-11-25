@@ -564,6 +564,6 @@ Hvalgorv's Son
 A Noble's Confidence
 : A prominent noblewoman confides a secret to Hvalgvir that would destroy her family and shift the politics of Nordheim, and he gives his word. Then travelers arrive at the Hearth asking about her. His code of hospitality says they are guests, and his word to the noblewoman says he must tell them nothing. He can keep faith with her and lie to his guests, or break it.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 An old woman arrives at the inn who says she is a seer and knows of a darkness that will test every principle Hvalgvir has lived by. She asks shelter and means in exchange for cryptic guidance. Her predictions grow more specific and more disturbing, and the events she names begin to happen around him. Hvalgvir must judge whether she is a true seer or mad.
 :::

@@ -510,7 +510,7 @@ The Heir's Ride
 The Boundary
 : A Suvargeri village and a Bharyastani one are fighting over a terrace that both claim, and both courts send for Sunarsha. He settles it in a way that makes the Suvargeri sabhra owe him a favor before the renewal. The losing village wants the party to find out what he was paid.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Sunarsha does not want the treaty to lapse. He wants the Twenty-Eight of Suvargeri to believe it might, because a janpoda that keeps three hundred guards would pay a great deal not to need three thousand. The sealed letter in The Price of Horse is a bluff, written to be intercepted, and he has not told the party so.
 
 In The Heir's Ride, a faction at the Maharava's court would rather the Yuvarava Kritakana did not come back from the tribute road, and Sunarsha has heard of it and has not stopped the ride.

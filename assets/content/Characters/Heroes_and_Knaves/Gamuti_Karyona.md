@@ -517,6 +517,6 @@ The Pledge
 The Moving Court
 : The Maharava's court arrives at Gamuti's well on its circuit. She means to put the guarantee to the crown in person, at the trough, before the whole district. The Margapala means to stop her, and the party is hired by one of them to keep the peace while the other speaks.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The pledge in The Pledge is genuine, and it does not say what Gamuti believes. It records that the Karyona filled the well before the crown refused to ride, and so makes the guarantee the lineage's debt and not the crown's. If it reaches the Margapala, the claim she wants written down becomes a charge against the Karyona.
 :::

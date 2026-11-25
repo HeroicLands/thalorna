@@ -533,6 +533,6 @@ A Favor He Did Not Ask For
 The Brother's Merger
 : Fibakon's older brother, who inherited the family's primary enterprises, proposes that the two firms merge and combine the brother's trading concerns with Fibakon's network of luxury brokers. Fibakon suspects a trap meant to subordinate him or to take his network. He can negotiate terms that protect his network, or refuse and see his brother turn the family's resources against him.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Several pieces Fibakon has sold came from tombs and from sites of old conflict, and a collector who will not give his name commissions him to find relics. Descendants of those sites have traced some of the pieces and come to [[place-thalassos|Thálassos]] to demand them back. One of the pieces they name is wrongly attributed. Fibakon can return the true pieces and hide the false one, or fight the claims before the magistrate and expose every sale.
 :::

@@ -524,6 +524,6 @@ The Dying Master
 The Banned Night
 : The festival organizers want her for the last night. Vatesa Bhasura's temple has said that its offerings will not come if she plays. She will play regardless, and she asks the party to guard the stage against whoever sets the rest of the hall against her.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The fire that killed her parents was set by a rival spice trader whose house now supplies the temple hostel. Her first master took coin to look away, and he is dying because he cannot carry it. When she learns it, she has the choice between exposing a house the hostel feeds and keeping a dead man's secret.
 :::

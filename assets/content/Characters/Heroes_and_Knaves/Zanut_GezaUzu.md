@@ -582,7 +582,7 @@ The Request for a Sleeping Death
 The Girl Who Hears the Count
 : A girl from the port's poor, who went to Anlagh-Zetun with her neighbors for the Bread for the Gate, comes back unable to sleep and says she hears grain being poured in the night. Zanut's remedies do nothing, and the girl's mother has begun to say that Zanut's tinctures are the cause. The only place the sound stops is far from the sealed dome where the girl first heard it.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Geron sells bulk remedies under a copy of Zanut's mark, and the poison that killed the man was in his tincture, not hers. Zinlegir has been paid by a grain-factor who buys from Geron.
 
 Qiya wants the sleeping death for her own husband, who would otherwise be sent to the Halzi'a's court for a debt on the sealed granaries. She does not know Zanut once made a draught like it, for the former patient who used her remedies as a murder weapon.

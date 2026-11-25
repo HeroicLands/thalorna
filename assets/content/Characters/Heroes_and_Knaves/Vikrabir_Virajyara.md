@@ -509,7 +509,7 @@ The Brother's Letter
 The Unwritten Crossing
 : The crown holds that the Guides' Road does not exist. Vikrabir needs a packet carried over it to the far side of the wall without the customs-house, the shrines or his own Priestly Court knowing it went. The party is the packet's escort, hooded and holding a cord. If the packet is found, the crown's own position that the road does not exist is shown to be a lie told by the crown.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Jagasvar's letter warns that the Rajagorva intends to bring Kankamar to the acclamation as the elder line's heir, and that Jagasvar cannot stop it. It was held on the Rajagorva's order.
 
 The packet in The Unwritten Crossing is Vikrabir's own letter to a house beyond the wall, asking refuge for the Yuvarava should the acclamation go against him. He fears the council more than he shows, and he does not want the customs-house to see the letter.

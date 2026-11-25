@@ -428,7 +428,7 @@ The Aging Blade
 The Informer in the Fort
 : Someone inside Skraldborg is feeding the merchant [[being-knarvmylkral|Knarvmil Kraldendik]] the fort's patrol routes and schedules. Gnurthselda starts to look for the informer among the watch, and every name she weighs is someone she trusts. She can search quietly and risk missing him, or tell the hersvald and have the whole watch questioned.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The informer is [[being-hnarvir|Hnarvir]], the young warrior raised in the fort and treated as her unofficial successor, and Knarvmil holds his younger sister's debt-contract and uses it to extort him. Revealing it destroys a young warrior she was beginning to love as a daughter.
 
 A young woman named Thraskinda arrives at Skraldborg, wants to become a shield-maiden, and will not say what she flees. Gnurthselda takes her in and trains her. Weeks later assassins come for her. Thraskinda is the illegitimate daughter of a Nordwoman and a Taruzelian merchant lord, and her mother named her. The merchant lord fears that she could expose him as he rises to power, and wants her dead. Protecting her means war with Taruzelian commercial interests, and Taruzelian merchants have money.

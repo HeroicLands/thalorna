@@ -549,6 +549,6 @@ The Apprentice Who Vanished
 Skrildvir Tvalgumak's Bid
 : Skrildvir Tvalgumak proposes to merge their ateliers: Tvalgumak's volume and Thrildvir's name. The offer would give the training atelier a safe future, and Thrildvir considers Tvalgumak's work mediocrity. The dye merchants will lower their prices to the merged house only. He can take it and make fine cloth in a mass-produced house, or refuse and watch the supply of natural dyes tighten.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 A mysterious client commissions a coat described in a centuries-old source, said to protect its wearer and sharpen the wearer's gifts. Thrildvir at first dismisses it as fancy. As he researches, the references prove real, and the materials are nearly impossible to obtain. The garment begins to show real power, and certain rare fabrics passing through his hands carry subtle properties of their own.
 :::

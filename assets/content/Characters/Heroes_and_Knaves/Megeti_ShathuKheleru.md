@@ -563,7 +563,7 @@ The Auditor's Inheritance
 The Phantom Accounts
 : In the Treasury she finds ledgers recording payments of millions of dinars over five years to entities named nowhere else. The trail runs to Khelassepu's office, and he is the man who protects her. She can finish the audit and learn whether he is a thief or a servant of the throne, or close the books and learn what she has chosen not to know.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The phantom accounts pay a retainer to the Thaz'Lekhau of Weth'ur and Hezmu'iri to keep the royal necropolis's guards loyal to the Gar-Au's chosen successor, and Khelassepu runs them on her order. He began the parallel investigation of Megeti himself, to see whether she would find the accounts.
 
 The Gar-Qethar rations are real theft, by a factor of the Genzet'Halzi'a who sells the diverted grain to the temples' labor-gangs.

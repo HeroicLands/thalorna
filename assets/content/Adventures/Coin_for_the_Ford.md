@@ -46,7 +46,7 @@ The party enters as riders Teshvan hires because the road is riskier than he adm
 **The ford.** The go-between is a woman of a forest landing, where the captive trade is kept by the women, and she keeps the custom of the ford. A price named there is not raised, a captive handed over there is not taken again on the road home, and the word given at the ford is kept at the ford. She takes coin and refuses promises. If the price is not paid before the first ice, the captive goes down the river with the season's last boat.
 
 > [!IMPORTANT]
-> The truth that lowers the price is the truth that the war-band can use against the forts in the next raid. Nobody in this scenario is a villain: the captain feeds his villages with stolen wages, the broker takes a living from grief, and the go-between sells what she was given to sell. The referee decides whether the go-between ever lowers her price, and the party's choices decide who learns why.
+> The truth that lowers the price is the truth that the war-band can use against the forts in the next raid. Nobody in this scenario is a villain: the captain feeds his villages with stolen wages, the broker takes a living from grief, and the go-between sells what she was given to sell. The Game Master decides whether the go-between ever lowers her price, and the party's choices decide who learns why.
 
 ## Hooks {#hooks}
 

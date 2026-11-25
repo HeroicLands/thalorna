@@ -545,6 +545,6 @@ Lessons by Night
 The Jarl's Younger Son
 : Hlirthmil the Scholar, the jarl's younger son, returns from his studies with ideas about the estate's labor and sees Thraskorv as a collaborator and teacher, not property. His interest is real. It could change the estate, and it could also get Thraskorv executed for corrupting the heir. Thraskorv can teach him and trust him, or keep his distance and lose the only free man who treats him as a person.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Rumor tells of a band of escaped thralls who raid caravans and free the enslaved in the mountain passes. They want Thraskorv, whose strength and tactical mind could turn the band from raiders into an army. Joining would cost him any chance of a lawful freedom and would make Jarl Hrandorv's estate their next target.
 :::

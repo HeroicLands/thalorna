@@ -533,7 +533,7 @@ The Cook
 The Silent Room
 : The line in the upper rooms of the Waiting House has stopped taking parcels, and the preparer Anuraja needs for his next contract has not come down in a month. The client's deadline falls in the dry season. Anuraja wants the party to learn whether the Waiting House has been noticed, and by whom, and he cannot ask at the counter without telling it who is asking.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The dyer-factor in The Cook died of Anuraja's work, and the cook is innocent. He has told no one. If the Ritrija is shown a death that was not a sleeper's, the next question is carried through the Broker's Room to him.
 
 The line in The Silent Room has stopped because a returned parcel carried a Threshold-keeper's seal. Nobody has noticed the Waiting House. The keeper's question concerns a contract of Anuraja's, and the preparer is waiting to see whether it reaches the ledger.

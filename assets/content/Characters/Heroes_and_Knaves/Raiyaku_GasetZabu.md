@@ -576,7 +576,7 @@ The Two Houses
 The Library on Her Own Walls
 : A guest at one of her evenings leaves behind a scroll of a work that the temples have banned. Copies are being made and passed along in the quiet of her gatherings, and the temple inquisitors know her house is the place. She can name the one responsible, or accept that her door is part of the trade.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Her mentor, Lady Qeket Qelt'Agetu, commissions the thefts of banned texts and uses Raiyaku's gatherings as the place where the copies change hands. Raiyaku's reputation for an absolute word is the cover, and Qeket chose her salons for that reason.
 
 The fire was set by Lord Zelegezu's steward, who paid the kiln's apprentice. The trader's factor was there to make sure the blame would fall on the association instead.

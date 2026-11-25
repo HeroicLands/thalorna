@@ -159,7 +159,7 @@ The arcs run in any order, and each moves the knot whether or not the party fini
 
 ## The Secret {#the-secret}
 
-The Orzas knows he has months, and knows the succession is worth most to him while it stays open. Every house lends on the hope its man is chosen, and the moment he adopts, the houses whose man was not chosen stop lending and begin to buy the Guard. Three adoption deeds lie drafted in his secretary's strongbox, one for each claimant, and none is sealed. He reads them in the evenings. This frame does not say which he seals, or whether he seals any. The referee decides, and may let the party's actions decide.
+The Orzas knows he has months, and knows the succession is worth most to him while it stays open. Every house lends on the hope its man is chosen, and the moment he adopts, the houses whose man was not chosen stop lending and begin to buy the Guard. Three adoption deeds lie drafted in his secretary's strongbox, one for each claimant, and none is sealed. He reads them in the evenings. This frame does not say which he seals, or whether he seals any. The Game Master decides, and may let the party's actions decide.
 
 Beneath the succession lies a shared danger. The Tarkelos's true ledger records the debt the Seldan never sees. It also records three things that could each end a great house: the House of Veldis has issued about a fifth more notes than its reserves hold; the Tarmeks has advanced a third of the price of three Olkassa harvests not yet grown to House Mardovanes; and the Steel Guild delivers fewer watered blades each year at the same price. None of the three houses knows the others are exposed. Rivals in everything else, they each need the Tarkelos silent, and each would expose the others first.
 

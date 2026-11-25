@@ -506,7 +506,7 @@ The Sighting
 The Widow's Hour
 : Both councils argue from [[lore-widowaccl|the Widow's Acclamation]]. The record of the hour fixed for it is kept by the Priestly Court, and nobody has looked at it in a century. Ishobi wants to know whether her predecessor fixed that hour by his tables or by somebody's convenience, and the Court will not lend her the record.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The hour Ishobi has found falls in the closed season, when the passes are shut and the far chieftains are snowed into their valleys. By the computed year it falls then. By the sighted year, if the sighting comes out as the last three did, it falls one day into the open season. Her tables and her own sightings agree, and she has checked them four times.
 
 The courier in The Tables from the Coast was held at the court's own order, by someone who would rather she gave her hour without the college's tables. She does not know it.

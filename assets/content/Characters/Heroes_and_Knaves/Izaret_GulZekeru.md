@@ -544,7 +544,7 @@ The Whispering Dagger
 The Fugitive's Shadow
 : A former ally who escaped with Izaret reappears as a high-ranking agent in a rival kingdom, and every one of his errands runs through Khelzuret's river traffic. If he recognizes her, the spies Legirha keeps learn where she is. She can find him first and make terms, or leave the city.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The research is real, and the fragment shows that Legirha's experiments could disrupt the spiritual balance of an entire region. The count heard under the bound chambers is Legirha's: the circle is using the necropolis's dead as a ledger and has begun to enter the living.
 
 The tomb-mason is one of Legirha's agents, and he has found Izaret because the dagger is bound to the same chamber.

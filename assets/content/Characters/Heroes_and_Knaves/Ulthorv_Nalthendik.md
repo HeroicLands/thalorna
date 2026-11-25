@@ -549,6 +549,6 @@ The Overseers' Stair
 The Word from Other Estates
 : An escaped worker called [Flarninda Frostborn]{.name data-type="being/npc"} reaches Ulthorv with a plan to rise at once in several estates of the kingdom, inspired by tales of his refusal to submit. A rising that fails will be crushed and the estates made harder. He can join, ask for time, or refuse and be called a coward by those who believe the stories.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Laborers cutting a new store-pit on the estate break into the ruin of a structure far older than the estate, holding objects and knowledge that could change the politics of the north. Treasure-seekers and the king's men both want it, and whoever holds Ulthorv's story holds the one witness to how the overseers have been hiding what lies under the estate.
 :::

@@ -435,6 +435,6 @@ Few; he is generally respected, though some see him as overly serious.
 2. **The seamen's voice.** The merchant aldermen of the [[affiliation-cnclnbrls|Council of Nebralis]] want the harbor's matters taken out of the Freemen's Assembly, and Taviro, a freeman with a voice there, asks a party to carry the seamen's argument to [[being-dorandaroort|Dorándaro Orthemandis]] before the assembly meets.
 3. **A berth abroad.** A captain at the quay offers a berth on a ship bound west, at a share better than an honest ship pays. Taviro wants the berth and asks a party to learn why the share is so high.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The ship is the one that sells salt outside Durvolka's bay at night. Taking the berth makes Taviro one of her smuggling crew.
 :::

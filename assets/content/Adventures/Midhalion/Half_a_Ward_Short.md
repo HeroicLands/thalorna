@@ -99,7 +99,7 @@ Noon on the Spire Circle. The pay-hall's doors are shut and barred, and a clerk 
 
 **Consequences.** If the factor dies, the throne's Khelathi loan dies with him, the hawks of the Seldan rejoice, and the Row is closed for a season. If he lives and learns who saved him, the party has a creditor's friendship and a society's hatred.
 
-**If bypassed.** The referee decides whether the knife finds him. Either way the city hears of it before the rent-men climb.
+**If bypassed.** The Game Master decides whether the knife finds him. Either way the city hears of it before the rent-men climb.
 
 ### Scene Four: Rent Day on Nerval
 

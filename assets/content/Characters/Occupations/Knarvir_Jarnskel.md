@@ -409,7 +409,7 @@ At home he keeps the small rite that asks the fjord's current for a fair season,
 
 He is guarded, and a solitary man. He trusts few people, has lost friends and lovers to his long silences, drinks more than he should, and his hands shake on certain mornings.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 At sixteen Knarvir's gift manifested in a way that was catastrophic for a young man in Nordheimn culture: he began to perceive spirits. These were not the approved contacts that the priests of [[affiliation-odvar|Odvar]]'s [Order of the All-Seeing Eye]{.name data-type="affiliation/order"} conduct through sanctioned ritual, but persistent, nearby presences: the spirits of the dead, the genius loci of places, the creatures of the unseen world. He found he could communicate with them in deep trances, bargain with them and draw on their power.
 
 In Nordheim a man who practices seid, the shamanic spirit-walking arts, is branded _ergi_, unmanned. Seid is women's work, the domain of velvur and seer-priestesses, and the few men who practice it live in a hidden underground watched by the clergy and by society. Knarvir understood this at once and chose to hide. The fjord rite is the only part of his practice that stands in the open, and its toleration is what he trades on; in a village of two hundred where every household knows every other, the rest of his practice stays in the carefully warded chambers of his home and on his long journeys. His workshop is ostensibly for metalcraft but is used to prepare ritual items: talismans, spirit-vessels and the material apparatus of hidden practice.
@@ -423,7 +423,7 @@ He suffers recurring nightmares in which the priests come for him and he is expo
 
 Knarvir is extraordinarily intelligent and deeply learned in lore, and he channels these gifts largely into keeping his own counsel. His will is strong. He is skilled at human discourse, his Common is fluent, and he can charm when he needs to. His ability to brew and cook reflects competencies most Nordmen would never develop, suggesting a flexibility and willingness to learn that sits at odds with his culture.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Knarvir lives in constant fear of discovery, and the fear has hollowed him out. His will is spent on maintaining cover rather than on any positive goal, and his charm is an instrument of concealment rather than connection. His awareness lets him perceive the landscape differently, the flows of spirit-power, the thin places where worlds intersect, the places where old knowledge lingers, and spirits recognize him as one of their own. That same awareness makes him unbearably sensitive to threat: every conversation carries the risk of exposure, every encounter with officials is a potential trap, and he reads hostility into neutral glances. He has built such elaborate cover stories that he sometimes confuses what he did with what his persona is supposed to have done. He is deeply lonely, and the metaphor he uses in rare honest moments is drowning in air.
 :::
 
@@ -433,7 +433,7 @@ Officially, Knarvir is a respected merchant and sometime scholar of Nordheimn an
 
 He lives in Thraldfjord, a fishing village of some two hundred people, where he is known to every household as the man who keeps the rite of the current and goes away on trade.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Beneath this, he is part of an entirely different society: a network of hidden practitioners, most of them women but a handful of men like himself, who maintain the old arts in secret. They meet rarely and with extreme caution, and pass texts and knowledge through carefully obscured channels. It is a loose confederation bound by mutual interest and mutual vulnerability; if one falls, all may fall.
 :::
 
@@ -443,7 +443,7 @@ Beneath this, he is part of an entirely different society: a network of hidden p
 
 - [Svalthmil Fisherman]{.name data-type="being/npc"}: A friend from Knarvir's merchant days, known from southern trading voyages. The arrangement is old and relatively safe.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 
 - [Thurídur of the Deep Roads]{.name data-type="being/npc"}: His original teacher and the most powerful velva in the northern underground, now in her eighties and preparing to pass her knowledge on. She took him in when he manifested his gifts, taught him to survive and hide, and gave him the framework that allowed him to live at all. She is also his greatest source of paranoia: he worries that her age and visibility are a threat to the entire community and that someone will eventually break her and trace the network back to him. His love for her is absolute; his fear that she will bring him down is equally so.
 - Svalthmil is actually a supplier of rare materials and books from beyond Nordheim. He asks no questions, and Knarvir pays well in coin that is clean and untraced.
@@ -454,7 +454,7 @@ Beneath this, he is part of an entirely different society: a network of hidden p
 - [Skaold Righteous]{.name data-type="being/npc"}: A clerk within Odvar's Order of the All-Seeing Eye, who has developed a personal crusade against "corruptions" in traditional practice. He is not yet investigating Knarvir specifically, but his inquiries are widening, and he has the authority and institutional backing to cause serious damage.
 - [The Unidentified Watcher]{.name data-type="being/npc"}: A person or persons, Knarvir is uncertain which, who have been asking questions in Thraldfjord about Knarvir's past, his associates and his patterns of travel. The inquiries are subtle and indirect, which somehow makes them worse; whoever is interested in him is patient and practiced, not a casual busybody. He has no idea who they are or what they want.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 
 - **His own fragmented self:** The part of him that is exhausted by hiding and increasingly questions whether this life is worth preserving. The breakdown he feels coming is near.
   :::

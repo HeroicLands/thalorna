@@ -557,7 +557,7 @@ The Pretender at the Next Forge
 The Heir to the Forge
 : The metalworkers' guild asks him to name his successor. His most promising apprentice has been learning the decorating arts at Master Khelamose's workshop, in secret. Shezur sees it as a betrayal of everything the forge stands for, and the guild sets a date that does not wait for him to forgive it.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The cloaked buyer is a steward of the faction that wants Anlaghur, the Gar-Au's nephew, on the throne, and the coin is minted from the same ingots as the imperial treasury's gift-coinage. The arsenal is meant to hold the granary row on the day the Halzi'a is asked to open a dome.
 
 Khelamose's workshop is the one that sold the whispering blade to the soldier. It is cast from a smith's discarded work, and the dreams are what the maker's grief left in it.

@@ -31,7 +31,7 @@ The party enters in the hire of a merchant house that wants to break the blockad
 
 **Why.** The crown's money is the reason. The frontier and the ships cost more than the crown takes, and the Treasurer, [[being-gredalekalv|Gredale Kalvezis]], has asked the coastal houses for a loan against the salt revenue of [[place-lizela|Lizela]] rather than ask the [[affiliation-councilpeers|Council of Peers]] for a levy. Válaren's great houses are the likeliest lenders. While the hulls stand off the harbor, no house in Válaren can lend a single Solden to anyone, and the crown must go to the Council, where the Earl of Degavel holds the office of First Peer and the Council names its price.
 
-**The Earl.** Lorrame heard his patron say at table that a crown that must ask the Council is a crown that can be governed, and took it as an errand. Whether the Earl of Degavel knew what his client would do with the remark is the referee's to settle.
+**The Earl.** Lorrame heard his patron say at table that a crown that must ask the Council is a crown that can be governed, and took it as an errand. Whether the Earl of Degavel knew what his client would do with the remark is the Game Master's to settle.
 
 **The Admiral.** [[being-jaltezamlvt|Jalteza Malvotis]], the Admiral, commands [[affiliation-crownships|the crown's ships]] from Válaren and has fewer than she asks for. Every one of them is on the Tarvénian coast or the salt route. She would clear the harbor mouth in a day if she had two galleys, and the Treasurer has not paid for them.
 

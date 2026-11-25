@@ -567,6 +567,6 @@ The Fur-House's Fall
 The Rumor of Madness
 : Snalthorv tells the fur traders that Svulthira is mad from isolation and has stolen from her patrons. The gudja of Frodvin's hov, who values her counsel, hears it, and so does House Hrindumak, which pays well and may withdraw. She can answer with a full account of her contracts or let the rumor run.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 A priestess of an old faith tells Svulthira she is the reincarnation of the founder of an order that guards a hidden sanctuary, a trapper called Snilthorv the Wildborn, her father's name. She asks her to guard it. In a remote valley Svulthira also finds a creature that is neither wolf nor human, caught in one of her own traps, speaking an old language, and marked by those who have hunted it for generations. Helping it makes her its accomplice.
 :::

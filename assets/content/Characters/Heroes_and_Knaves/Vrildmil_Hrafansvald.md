@@ -555,6 +555,6 @@ Bruldthann's Chair
 His Father's Tent
 : Dvarnvir Hrafansvald, now a tentmaker, sends word that he will pitch his tent beside the levy's camp at the autumn muster and wants to speak. Vrildmil has not forgiven him for being away when his mother died. He can meet him before the whole levy, or refuse and let the camp see it.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Vrildmil's mother did not die in a chance raid. Powerful interests wanted her family's land, and the raid on it was ordered. The raider band's leader Skraldmil knows who paid, and so does the collector whose name is in the ledger. Vrildmil can learn it and have to decide what to do with the man who paid, or let it stay buried in the hope that he keeps the levy's trust.
 :::

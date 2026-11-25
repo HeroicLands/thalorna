@@ -592,7 +592,7 @@ The Spiced Wine
 The Offer for the Inn
 : A house of the Zebeku'Zut offers to buy the inn at a price that would let her retire in comfort. The house would keep the name and change everything else. A young cook of her staff, who would otherwise take over the kitchen, has begun to look for work elsewhere.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The men in the private room are not simply fences. They are the agents of the same Zebeku'Zut house that offers to buy the inn, which needs a neutral room with a clean name to meet its partners at the Great Quay. The buyer wants the inn for its reputation for discretion.
 
 In her youth Rethute carried a ledger for a tomb-robbing ring, and the one person who can prove it is the man who asks to rent the room. Her claims about her past are partly true, and he knows which part.

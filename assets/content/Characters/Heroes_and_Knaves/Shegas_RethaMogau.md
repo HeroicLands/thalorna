@@ -573,7 +573,7 @@ The Ingredient from the River Boats
 The Debt and the License
 : The lenders she borrowed from have given her until the next render. The commander of the city guard has begun to say that her practice needs a license that the law does not require, and the rival apothecary of the upper streets has a seat on the merchant council. Each pressure has a different author, and she is not certain they are not the same one.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The fever is rot-sickness from the grain of the domes next to the Eleventh Granary, which spoils first and is doled out last. The Overseer of the Granaries knows and mixes the spoiled stock into the dole in lean years, because the alternative is to open a granary on the Halzi'a's word.
 
 The lenders, the guard commander and the rival apothecary are connected through one man, a grain-factor who needs the lower quarters quiet. The resin Shegas needs is the remedy: it is in her old master Meshaqa's recipes, which Shegas has not read in years.

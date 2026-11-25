@@ -516,7 +516,7 @@ The Chapter
 The Lamp
 : A receiver on the coast is offering a bronze lamp with a flame in it that does not go out. Bhrijivara hears of it from [[being-lkvtprtsy|Lokavati Pritasya]] and asks the party to buy it before the Collective's factor does and carry it to the last gathering ground and no farther. He will not say what it is, and Lokavati has already offered the receiver more than the party can match.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 At twenty-four, walking the bounds with a felling crew that had lost its way, Bhrijivara came out on a causeway of dressed stone under the vines, lined with lamp-posts whose bowls were all burning. The crew turned back. A lamp was held out to him at the height of his hand by someone he could not see. He did not take it, did not look back, and walked out before dark. He told only the Devapavi before him, who closed the felling-line on that path for good.
 
 The bronze lamp in The Lamp is one of the bowls from that causeway. Whoever buys it has taken what he refused, and he does not know what the lamp will ask of its owner.

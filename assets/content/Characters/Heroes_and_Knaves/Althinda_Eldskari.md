@@ -560,6 +560,6 @@ The Sanctuary That Will Not Stay Lit
 Draskorv's Rumor
 : The chandler Draskorv tells the valley that Althinda's candles burn short and smoke. The rumor reaches the elders at the reckoning-post before she hears it. She can answer him publicly with a trial of the two chandlers' candles, which a nervous woman would rather avoid, or let the rumor stand and trust the valley's winter to prove it wrong.
 
-:::secret {title="What the referee knows"}
-Her finished candles burn irregularly, their colors fail, and their scents turn rank for no reason she can find. Someone is spoiling her stock at night. The referee chooses whether it is Dunred, Draskorv or the same hand that has fouled the temple's sanctuary, and what that person wants.
+:::secret {title="What the Game Master knows"}
+Her finished candles burn irregularly, their colors fail, and their scents turn rank for no reason she can find. Someone is spoiling her stock at night. The Game Master chooses whether it is Dunred, Draskorv or the same hand that has fouled the temple's sanctuary, and what that person wants.
 :::

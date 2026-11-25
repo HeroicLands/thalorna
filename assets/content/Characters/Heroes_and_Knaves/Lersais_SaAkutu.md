@@ -599,7 +599,7 @@ The Breached Bank
 The Lieutenant's Letters
 : His most trusted lieutenant, a man he trained and promoted, is found to be passing the corps' rolls to someone who pays for them. Lersais must learn how much has gone and to whom before the matter reaches the Gar-Au, who will take the failure as his.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The lieutenant is passing the rolls to an Okharik chief who is hiring out horsemen, and he does it because he believes the chariots are finished and that Lersais cannot say so. He is right about the chariots.
 
 Lersais's wife Mesheget has already made terms with Anlaghur's faction. The fodder shortage is partly her family's work: her grain-factors sell to the horse-dealers who supply the Okharik, and Lersais has not asked.

@@ -539,6 +539,6 @@ The Witchcraft Whisper
 The Crimson Thread
 : A wealthy merchant arrives in Tvarnmark looking for her, saying a garment she made years ago for his late wife has become cursed: everyone who wears it suffers accident or illness. She remembers the commission well and does not believe in the curse. She can take the garment back and unpick it, refuse to touch it and lose the customer, or look for who has been wearing it.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Old Rulthorv Kraldumak, gravely ill, summons Hnurvthira and tells her he has guarded an ancient technique for making a cloth that survives fire, resists disease and preserves food placed in its folds. He wishes to give it to her before he dies. Its making needs rare ingredients from dangerous places and some ritual and possibly magic. A fragment of old cloth her aunt gave her carries a pattern of great complexity that may be a map to what the Dvalgumak clan once hid, and the two secrets may be one.
 :::

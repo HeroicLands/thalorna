@@ -65,7 +65,7 @@ The Qizikuni counting-house on the quay, at the hour the evening clearing closes
 
 **Purpose.** The houses, and what each wants from the closed roll.
 
-**Situation.** The party carries one letter to [[being-llmnblnn|Ellamuna Balinuni]] at [[place-qudumel2|Kudumel]] and one to [[being-dlzrtndn|Delzuru Tanaduni]], admiral of the Tanaduni of Yamuzel, or to [[being-brshrskn|Abarash Rusakuni]] of Bazunel if the referee prefers.
+**Situation.** The party carries one letter to [[being-llmnblnn|Ellamuna Balinuni]] at [[place-qudumel2|Kudumel]] and one to [[being-dlzrtndn|Delzuru Tanaduni]], admiral of the Tanaduni of Yamuzel, or to [[being-brshrskn|Abarash Rusakuni]] of Bazunel if the Game Master prefers.
 
 **NPCs and threats.** Ellamuna, whose votes named this year's Arch-Consul and who wants the whole caravan trade of the strait landing at Kudumel; Delzuru, who wants the League above the Compact and his house out of debt; Abarash, who wants his lines on every sea. Each asks what the others answered.
 

@@ -44,6 +44,6 @@ Amithara Bisanis is a 48-year-old woman who stands 5'9" tall with a medium build
 
 Amithara Bisanis is a _marendos_ (master) of [[affiliation-ordoarcanis|The Order]].
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Amithara arranged the removal of [[being-talirbshrn|Talira Basiron]] from active training and has since kept her safe by keeping certain eyes averted. The two share a cold clarity: each knows what the other is capable of and understands the cost of visibility.
 :::

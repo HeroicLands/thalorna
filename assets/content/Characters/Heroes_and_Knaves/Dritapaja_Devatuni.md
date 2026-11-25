@@ -511,7 +511,7 @@ The Sheikh's Son
 The Captain's Question
 : [[being-umrtdrtn|Umarti Daritan]]'s company comes through Marukupa unpaid, and the march-captain asks Dritapaja, as a petitioner, to sleep in the chamber herself. Her dream is hers to give to the Montrin if she chooses. The commander knows she is in the tower and is waiting at the foot of the stair.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The copyist is a young Nidrapala of the tower whose brother is held in the post's cells. The commander promised the brother's release for the page.
 
 The record already shows what the Montrin hopes for. The dreams of the masters who crossed this year agree on a raid at the wells of Marukupa. Dritapaja has not said so, and he has told himself that reading it to the crown would make the dream true.

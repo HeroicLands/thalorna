@@ -593,6 +593,6 @@ The Phantom Fleet
 The Rival Seid
 : A rival seid tells the clans that Tvarninda's visions are false and sends a malicious spirit to haunt her. The clans will follow whoever wins the contest of magic and will that settles the question. Tvarninda can fight and risk her bond with the Crow Spirit, or decline and watch her name fall.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 During a midwinter ritual Tvarninda hears her ancestors warn her of an ancient betrayal tied to her bloodline in the Nalthendik clan. The truth is hidden in her family's history. It may be linked to the Crow Spirit's guidance, and Tvarninda must decide whether to trust a spirit whose counsel might be part of the betrayal.
 :::

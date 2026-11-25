@@ -554,7 +554,7 @@ The Closing Dossier
 The Forbidden Remembrance
 : The Meikhathi hold their yearly rite of remembrance at a site that now lies inside Lenni's lease, and he has forbidden it. Qelatha means to hold it anyway and asks the party to guard the participants. Lenni's guards are paid by the day, and so are the militia who are ordered to arrest anyone found on the lease.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The order to guard the logging camp came from the granary-keepers, who wanted beams for the domes and leased the grove to Lenni without asking whose it was. The clerk is telling the truth: the officer is a keeper's own deputy.
 
 Captain Luyat has read the Exaction Service's file and has quietly removed three pages from it. He served in the patrol that killed her father and has said nothing of it to her.

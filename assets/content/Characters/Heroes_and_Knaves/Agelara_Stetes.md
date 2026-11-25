@@ -572,6 +572,6 @@ Full House in the Storm Month
 Her Father's Offer
 : Merchant-Prince [[being-selvazhikonz|Selvazhikon Zigakit]] arrives in Thálassos with an offer: he will buy the Gilded Gryphon for twice its worth and put a manager in it, if Agélara returns to his house. The money would repay the merchants' loans at once. Agélara can accept and lose the independence she chose, or refuse and face the pressure he has put on her to close the inn.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Charzilina helped Agélara buy the inn with money her husband does not know she sent. If Selvazhikon learns of it, he can call his wife's gift a theft from the family and press the magistrate to name the inn his property.
 :::

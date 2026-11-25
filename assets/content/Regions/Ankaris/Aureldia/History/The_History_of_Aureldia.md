@@ -5,7 +5,7 @@ name:
   en: [History of Aureldia, The History of the Aureldian Lands]
 type: lore
 subType: history
-description: "A referee's reading history of Tarvénia, Élavendre, Provénzia, Eilwìth and Kalipsa from the elder races to 720 AF, told by the seven ages Aureldia counts, each age closing on what it left for a party to meet today."
+description: "A Game Master's reading history of Tarvénia, Élavendre, Provénzia, Eilwìth and Kalipsa from the elder races to 720 AF, told by the seven ages Aureldia counts, each age closing on what it left for a party to meet today."
 tags: [history, aureldia]
 data: {culture: aureldianclt, packFolder: aureldia}
 ---

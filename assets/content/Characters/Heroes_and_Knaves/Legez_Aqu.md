@@ -579,7 +579,7 @@ The Second Witness
 The Scales of Judgment
 : Amqelet-Zelemu's quest leads the company to a sacred site where an ancient ritual of Qe'aret must be performed—a weighing of truth, a ceremony so old that its power derives from the site itself rather than from any institutional authority. Legez is the only member of the company with the ritual training to conduct it, but doing so would mean performing a sacred rite as a branded heretic—an act that his own theology condemns as void at best and blasphemous at worst. The theological question cuts to the heart of everything Legez believes: Is his priesthood a function of institutional authority (which he has lost) or of personal devotion to truth (which he has not)? If he performs the rite and it works, it would be the most powerful evidence possible that the goddess has not abandoned him. If it fails, he will have proven the temple right.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Gulmenwati holds the original astronomical cross-references, copied out before the archive was sealed and hidden among the granary-tally rolls of the Qe'aret temple of Anlagh-Zetun, the one place Anlaghafu's agents do not read. He will give them to Legez in person and to no courier, and his messages stop short of saying where they are.
 
 Iqenakht's network does not hunt Legez at random. It follows the astrologer's company, because the Halzi'a Zabqarre has learned that the Convergence quest crosses the selat's border and wants the prophecy before it reaches the court.

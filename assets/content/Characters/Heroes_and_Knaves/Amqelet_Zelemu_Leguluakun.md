@@ -598,7 +598,7 @@ The Altered Charts
 The Court's Answer
 : A courier from the palace of the Gar-Au calls at the wharf with a sealed letter. The court's own astrologers demand his readings for review and name a date to bring them. If he hands over his only copies, the court owns the Convergence and he cannot continue. If he keeps them, he is a man who refused the throne, and the lords who demanded action and the lords who dismissed him find the same reason to be rid of him.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The Convergence is real, and it falls on the day the nine clans of the Court of the Nine Moons confirm their seats. One clan altered the oldest charts so that the date reads as a harvest omen and not as the night its seat is struck from the list. The rival astrologers and the agents who follow him are in that clan's pay.
 
 The final clue at Lut-Zelutha in the sands of Lareshu is a star-map carved before the Court existed, and it names the clan. Whoever carries the original to Galezkara unseats it; whoever destroys it keeps the seat.

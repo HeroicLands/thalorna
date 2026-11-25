@@ -532,7 +532,7 @@ The Old Recipes
 The Apprentice's Book
 : Akendra's best apprentice has come to Danvika's kitchen, carrying Akendra's recipe book. She wants the apprentice and will not have the book under her roof. Akendra has already told two tables that she sent for it. She asks the party to return the book to his cookhouse before the story reaches Manduli and the sabhra.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The family cooked for the last kings of Rajepur. The final recipe in the box is the dish served on the night the second of the last six kings died, the one who forbade the pyre to the men who rose against him, and the temple's records name the cook of that night as a Ratnisen.
 
 The feast grain found fouled in her storeroom was fouled by one of her own kitchen hands, paid by the temple kitchen, whose Ritrija cooks lose their place at Rasikara's feast if Manduli has her way. Akendra had no part in it.

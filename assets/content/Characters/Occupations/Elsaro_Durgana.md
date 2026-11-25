@@ -435,6 +435,6 @@ Many; rivals, and the enemies of his clients.
 2. **A buyer at the stone.** A horse-seller swears a horse's age at the oath stone and the horse-judge reads its teeth and says otherwise. The seller has friends among the crossbowmen home from contract, and Élsaro asks a party to find who hired him as the seller's witness.
 3. **The crossbowman's return.** A crossbowman home from six years under contract has seen Élsaro's face in a place Élsaro has never been. He asks a party to learn who is wearing it.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Élsaro is a paid killer, and the sellsword's trade is his cover. The commission from the riders of Nizel Ganotis is the death of a priest at Thórgila, and he has not refused it.
 :::

@@ -410,7 +410,7 @@ She apprenticed under the alchemist [Momes Frekhezon]{.name data-type="being/npc
 
 Now at 34, Talira runs her shop, "[The Argonaut]{.name data-type="affiliation/venture"}," named for the ancient voyagers, with expertise and a reputation for both efficacy and discretion. She moves carefully in Helionite society, neither seeking advancement nor hiding her competence. She understands heraldry and mercantilism because one cannot survive as a freeman in Thirenae without understanding the structures of power. Her friendship with [Kalliope Argyros]{.name data-type="being/npc"}, a scholar of natural philosophy at the Academy, provides her with the intellectual stimulation she needs, and her relationship with Captain [[being-bakionjamiro|Bákion Jamiros]] of Pelagora, who brings her rare herbs from coastal expeditions, gives her access to ingredients and information most alchemists never dream of.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 At seventeen Talira witnessed something she should not have: a catastrophic failure during a Fire Theory demonstration that killed two other students and left her with the scar behind her ear. The Order hierarchy moved swiftly to conceal not only the tragedy but evidence of what had caused it, a theoretical disagreement about the stability of certain compound structures that had been summarily suppressed. The Order offered her silence, a generous stipend, and the quiet suggestion that she pursue alchemy, a gilded exile. She accepted because she chose not to become the Order's enemy; her family was not wealthy, and the Order's wealth and reach were absolute.
 
 Her teachers in the Order had noticed her aptitude for the practical arts beneath magic, the physical precision of movement and control of breath and body found in fencing masters and ritual practitioners. She continued the training quietly through her years as an alchemist, never admitting it, and has an ambidextrous facility with weapons that no one would expect from a healer.
@@ -428,7 +428,7 @@ Her high will and reasoned approach mean she does not act impulsively, even when
 
 The dancing she practices, with its movement, rhythm and precision, is partly for the joy of it and partly for the physical discipline it requires.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The knowledge she carries, that the institutions she might have served are willing to sacrifice lives to maintain their authority, is what makes her more compassionate toward ordinary people and more cynical about power. Her ambidextrous training and latent combat skills sit in her body memory like a secret language. She has not had to use them in earnest since the early days of her training, and she hopes never to.
 :::
 
@@ -440,7 +440,7 @@ The Academy acknowledges her in the way institutions acknowledge useful outsider
 
 Her deepest social connection is to Kalliope Argyros, a scholar of botanical applications and mineral properties some ten years her junior, whose curiosity about the theoretical underpinnings of alchemical practice has made her something like a friend, which is rarer than she might wish in a town where relationships are often transactional. Among the poorer quarters where she came from, she is remembered with gratitude, though she keeps a certain distance even from these connections, aware that vulnerability is a luxury she cannot quite afford.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The Order watches her with the attention of people who have made an arrangement they prefer not to think about. Her alias, her relationships with figures of the coastal trade, and her connections beyond Thirenae mark her as a woman with resources and reach beyond her apparent station. Those who notice say nothing, and those who need her services know where to find her under either name.
 :::
 
@@ -451,7 +451,7 @@ The Order watches her with the attention of people who have made an arrangement 
 - **Kalliope Argyros:** A scholar at the Academy, specializing in the natural philosophy of botanical and mineral applications. Ten years Talira's junior, Kalliope's curiosity and rigorous methodology have made her Talira's closest intellectual companion. They meet monthly in a discreet corner of the [Peacock Gardens]{.name data-type="place/site"} to discuss theory and exchange findings.
 - **Captain Bákion of Pelagora:** A seagoing merchant and explorer who brings rare herbs and unusual specimens back from trading expeditions beyond the known coasts. He contracts with Talira for custom remedies, and she provides him with counsel on substances that aid long voyages and combat shipboard illness. He owes her a life once, when a fever nearly took him, and he pays that debt in loyalty and silence.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 
 - **Marenda Amithara Bisanis:** The Order official who arranged Talira's removal from active training and has since ensured her continued safety by keeping certain eyes averted. They have never been friendly, but they are reliable to one another in the way that rivals with too much information to share can be.
 
@@ -463,7 +463,7 @@ Kalliope has never asked about the Order, and Talira has never explained. Bákio
 - [[affiliation-sekran|The Arcane Inquisition]]: [[lore-vylarianclt|Vilérian]] inquisitors are not openly active in Helionis proper, but their agents move through the cities gathering intelligence on unlicensed practitioners and heretical knowledge. Talira has thus far escaped their notice, partly through her careful discretion.
 - [Kharos the Bitter]{.name data-type="being/npc"}: A rival alchemist whose practice Talira undercut five years ago by securing an exclusive contract to provide remedies to a major noble household. Kharos has spent those years cultivating connections among the Order's lower ranks and spreading rumors that Talira's remedies contain unlicensed workings, a serious accusation that, if believed, could bring official investigation. He has not yet attempted anything direct, but his patience is clearly wearing thin.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 
 - **Unfinished business from the Order:** Not all those involved in the tragedy at her initiation have risen as safely as _Marenda_ [[being-amitharabish|Amithara Bisanis]]. At least one individual of mid-ranking Order standing was present that day, knows that Talira witnessed the suppression, and now holds a position where exposing her would serve their interests politically. Talira does not know who this person is.
 

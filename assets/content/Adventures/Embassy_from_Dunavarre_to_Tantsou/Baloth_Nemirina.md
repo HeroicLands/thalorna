@@ -27,6 +27,6 @@ Baloth Nemirina is remembered as a senator of the Republic in the Ondarethan man
 
 **Background.** Kidnapped and murdered in 717.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 His death binds [[being-geldarpanivel|Geldar Panivel]] to a criminal past, and is the lever by which Geldar can be exposed or can bargain.
 :::

@@ -581,6 +581,6 @@ The Old Jester's Riddle
 The Wazulu Petition
 : The Wazulu ask the hovs to declare Anthorv's performances blasphemous, and a hearing is set. The king will not stand for the jester openly. Anthorv can perform at the hearing and risk the verdict, or let Tvirnrinna Dvarnaruk speak for him and owe her.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Anthorv begins to have dreams of real prophetic clarity, of disasters that could be prevented only if he reveals knowledge he should not have. Against his cynicism he slowly accepts that something real is speaking through him. Someone he once loved and was forced to abandon at court also emerges from hiding, and has not aged as they should. Their return forces him to face what he left behind.
 :::

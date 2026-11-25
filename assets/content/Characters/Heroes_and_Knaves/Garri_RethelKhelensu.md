@@ -557,7 +557,7 @@ The Student Who Quotes Him
 The Library of All Wisdom
 : A collector of rare philosophical texts offers to fund a library that gathers and translates the wisdom of every land, with Garri at its head. The collector's ship lies at the foreign shore of the Great Quay, and the cost, which Garri learns slowly, is that the finished copies leave the empire.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The formal charge was assembled from notes taken in his lectures by a student he trusts, who is the Qethar'lemu's informer. She believes she is saving him from a worse charge by controlling the evidence.
 
 The collector is a Taruzelian factor who wants the temple libraries' philosophical texts copied abroad. The student who quotes Garri to the grain-factors is the factor's agent in the same house.

@@ -516,6 +516,6 @@ The Washed-Out Ford
 The Renewal
 : The Maharava dies, and the renewal opens. Vrinnati asks the party to carry her proposal for a single escort command to Satuni at Suvargeri, past Sunarsha's people on the road, before the two courts sit down.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Her own captain knows who moved the mule. He did it to keep the two halves of the escort from ever agreeing on one command, which is why he does not intend to give up Bharyastan's half. The mule was driven into the stream and the weight was left whole, and Vrinnati is the first rider to put the night beside the treaty.
 :::

@@ -558,6 +558,6 @@ The Leg
 The Apprentice Takes a Hall
 : One of her best apprentices takes a contract for a prestigious roof in secret and means to use Hrandrinna's techniques without her name. The roof is raised on a house whose owner thinks Hrandrinna has done the work. She can expose the apprentice, finish the roof herself and say nothing, or let the work stand on its own.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 Working on the roof of an old building, Hrandrinna finds that its thatch is part of a system built to collect water and channel it through hidden pipes to a store no one remembers. She suspects the structure holds something more, and an emissary from a distant region arrives soon after, asking for a roof built to specifications that match it.
 :::

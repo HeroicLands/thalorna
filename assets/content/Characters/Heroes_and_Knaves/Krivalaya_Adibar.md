@@ -516,6 +516,6 @@ The Second Packet
 The Man Who Knows the Way
 : A man in the caravanserai at Suryagarha tells Krivalaya he can take him over the sixth road without the Osket, for half what the Osket would charge, and names its first three stages correctly. Krivalaya wants the party to go with them. If the man is false, the party and the bows are in the hands of the pass-shrines.
 
-:::secret {title="What the referee knows"}
+:::secret {title="What the Game Master knows"}
 The man at Suryagarha is the guide's own nephew, cast out of the Osket lineage for speaking of the road, and he is selling its stages. The three he names are real. The guide has refused Krivalaya's gold because a crossing bought with gold is the first step in the road being sold, and the ushtaka who asks which guide it was means to close the road to the guide's lineage.
 :::
