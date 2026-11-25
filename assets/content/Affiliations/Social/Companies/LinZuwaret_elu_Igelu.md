@@ -14,19 +14,18 @@ data:
   governance:
     model: council
     summary: >-
-      The traders of the waterfront at Wal-Igelu, who handle what comes off the river barges first and set much of what it costs by the time it reaches the markets.
+      The traders of the waterfront at Amqel-Ger, who handle what comes off the river barges first and set much of what it costs by the time it reaches the markets.
     ranks:
       - level: 0
         title: Barred from the Docks
         description: >-
-          A trader shut out of the landing at Wal-Igelu, unable to handle the barge goods or set their price.
+          A trader shut out of the landing at Amqel-Ger, unable to handle the barge goods or set their price.
       - level: 1
         title: Dock Trader
         description: >-
-          Handles the goods landed from the barges at Wal-Igelu.
+          Handles the goods landed from the barges at Amqel-Ger.
     offices: {}
-  range: [galezkara]
-  seat: null
+  seat: amqelger
   population: {actual: 0}
   economy: []
   lore: [humanflk]
@@ -37,9 +36,9 @@ data:
 
 ## Overview
 
-On the quay at [[place-waligelu|Wal-Igelu]], a dock trader hands a shipper a cup of water and a figure, in that order, and the shipper learns something about the consortium from each. The figure is the point. The trader quotes a price while the barge is still tying up, and the shipper can accept it or carry the cargo elsewhere at his own cost.
+On the Great Quay at [[place-amqelger|Amqel-Ger]], a dock trader hands a shipper a cup of water and a figure, in that order, and the shipper learns something about the consortium from each. The figure is the point. The trader quotes a price while the barge is still tying up, and the shipper can accept it or carry the cargo elsewhere at his own cost.
 
-**Lin'Zuwaret elu Igelu** is the consortium of traders working the waterfront at Wal-Igelu, the flood-prone quarter of [[place-galezkara|Galezkara]] where the river barges unload. Its traders are hands-on and territorial. They handle whatever comes off the barges first, hold the dock as their own ground, and in practice set much of what the goods will cost by the time they reach the city's markets proper. The quarter is rebuilt each time the river recedes, and they work the quay while the water allows. Barge-masters and shippers deal with the consortium because it is where the barges stop.
+**Lin'Zuwaret elu Igelu** is the consortium of traders working the waterfront at Amqel-Ger, the riverfront of [[place-galezkara|Galezkara]] where the river barges unload. Its traders are hands-on and territorial. They handle whatever comes off the barges first, hold the dock as their own ground, and in practice set much of what the goods will cost by the time they reach the city's markets proper. Barge-masters and shippers deal with the consortium because it is where the barges stop.
 
 ## Commerce and Currency
 
@@ -53,8 +52,8 @@ The consortium holds the quay as its own ground and quotes a price before a barg
 
 ## See Also {#see-also}
 
-[[place-waligelu|Wal-Igelu]]
-: the waterfront quarter it works
+[[place-amqelger|Amqel-Ger]]
+: the Great Quay it works
 
 [[place-galezkara|Galezkara]]
 : the city it supplies
