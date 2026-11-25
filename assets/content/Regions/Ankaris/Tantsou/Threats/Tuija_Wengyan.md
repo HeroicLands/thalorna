@@ -27,7 +27,7 @@ data:
     hair_color: null
     skin_color: null
     complexion: []
-    extra_features: [a pale line across the throat where a rank-cord once crossed it]
+    extra_features: [a pale line across the throat]
   packFolder: threats
   items:
     - key: plcui

@@ -29,7 +29,7 @@ data:
     skin_color: olive
     complexion: [clear]
     hair_style: long
-    extra_features: [a thread of blue dye tied in the hair at the left temple]
+    extra_features: []
   packFolder: ankarisvedyara
 ---
 

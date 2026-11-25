@@ -181,6 +181,25 @@ const daughterRecords = [
         :   {}),
     },
 }));
+/**
+ * Whether an `exonym:<tag>` register entry is another tongue's own name: the
+ * language note that declares the tag registers the same name with the same
+ * pieces.
+ */
+const registeredExonym = (entry) => {
+    if (!entry.tongue.startsWith("exonym:")) return false;
+    const tag = entry.tongue.slice("exonym:".length);
+    const declared = [language.fm, daughter.fm]
+        .flatMap((fm) => fm.data.tongues ?? [])
+        .find((tongue) => tongue.tag === tag && tongue.language);
+    if (!declared) return false;
+    return (note(notePath(declared.language)).fm.data.register ?? []).some(
+        (row) =>
+            row.tongue === tag &&
+            row.name === entry.name &&
+            JSON.stringify(row.built) === JSON.stringify(entry.built),
+    );
+};
 const digest = (value) =>
     createHash("sha256")
         .update(typeof value === "string" ? value : JSON.stringify(value))
@@ -417,9 +436,14 @@ test("Jurthati name-preservation repair retains old rows and native provenance",
         "9a9d26a7a03d70038ea897d1156a9b0350aa8c86dfcf554ee601dd7a2207c4c4",
     );
     // The rest of the frontmatter matches its baseline revision, except for
-    // registered names: a register entry that a registered name word builds, and
-    // a given name that is the citation of a name word, inserted or replacing a
-    // given name that cites none.
+    // inserted names. A register entry is accepted in one of three forms:
+    // a Jurthati name that a registered name word builds; a Jurthati name whose
+    // citation is a coined word of any class built from the same pieces (a
+    // common noun that lends its name, as _rija_ does the war junk); or an
+    // `exonym:<tag>` name that the language the tag declares registers with the
+    // same pieces, which records another tongue's name for a Jurthati thing. A
+    // given name is accepted when it is the citation of a name word, inserted or
+    // replacing a given name that cites none.
     const withoutWords = (fm) => {
         const { words: _words, roman: _roman, ...data } = fm.data;
         return { ...fm, data };
@@ -459,12 +483,15 @@ test("Jurthati name-preservation repair retains old rows and native provenance",
         baseline.data.register ?? [],
         current.data.register ?? [],
         (entry) =>
-            entry.tongue === "jurthati" &&
-            currentWords.some(
-                (word) =>
-                    word.form.normalize("NFC") === entry.name.normalize("NFC").toLowerCase() &&
-                    registeredName(word),
-            ),
+            (entry.tongue === "jurthati" &&
+                currentWords.some(
+                    (word) =>
+                        word.form.normalize("NFC") === entry.name.normalize("NFC").toLowerCase() &&
+                        (registeredName(word) ||
+                            (word.source?.kind === "coined" &&
+                                JSON.stringify(word.built) === JSON.stringify(entry.built))),
+                )) ||
+            registeredExonym(entry),
         "register",
     );
     for (const [list, path] of [
@@ -500,4 +527,13 @@ test("Jurthati name-preservation repair retains old rows and native provenance",
             kind: "coined",
         });
     assert(!daughter.fm.data.words.some((w) => ["dan", "jai"].includes(w.form)));
+});
+
+test("an exonym register entry needs the named tongue to register the same name and pieces", () => {
+    const entry = (name, tongue, built) => ({ name, tongue, built });
+    assert(registeredExonym(entry("Jari", "exonym:tanvuri", ["ja", "ri"])));
+    assert(!registeredExonym(entry("Jari", "exonym:tanvuri", ["ri", "ja"])));
+    assert(!registeredExonym(entry("Rijari", "exonym:tanvuri", ["ja", "ri"])));
+    assert(!registeredExonym(entry("Jari", "exonym:nowhere", ["ja", "ri"])));
+    assert(!registeredExonym(entry("Jari", "jurthati", ["ja", "ri"])));
 });

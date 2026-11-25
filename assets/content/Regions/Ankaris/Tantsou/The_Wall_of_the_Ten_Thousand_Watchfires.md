@@ -4,7 +4,7 @@ name: {full: The Wall of the Ten Thousand Watchfires}
 type: place
 subType: structure
 description: "The great wall that defines the boundary of the Empire of Tantsou, thousands of miles from the far northern frontiers to the Grazian Mountains in the far south: carved and gilded Khazari stone near the capital, brick and then rammed earth behind ditches in the hinterlands, and an ancient northern stretch carved with sigils against the undead, crossed only at the garrisoned gates of the transit roads and only with papers."
-tags: [wall, frontier]
+tags: [tantsou-wall, frontier]
 data:
   culture: tantsouclt
   demonym: null

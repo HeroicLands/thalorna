@@ -1958,12 +1958,6 @@ data:
       source: {kind: coined}
       concept: defecate
       built: [bu, jo]
-    - form: rija
-      class: "n"
-      field: "Needs and common things"
-      gloss: "a sail-blade; the war junk"
-      source: {kind: coined}
-      built: [ri, ja]
     - form: zenbu
       class: "n"
       field: "Needs and common things"
@@ -2139,6 +2133,12 @@ data:
       source: {kind: coined}
       concept: widow
       built: [kei, mi]
+    - form: rija
+      class: "n"
+      field: "Needs and common things"
+      gloss: "a sail-blade; the war junk"
+      source: {kind: coined}
+      built: [ri, ja]
     - form: hei
       class: n
       field: Senses and passions

@@ -42,7 +42,7 @@ A long, narrow hull with a single bank of oars and no mast. The upper works, fro
 
 # Dossier {#dossier}
 
-The **Tinmou** is the assault craft of the [[affiliation-tantsouempr|Empire of Tantsou]]. The name is [[skill-tantsoulng|Tantsou]], literally Striking Wood, and English calls the vessel the Charging Boat.
+The **Tinmou** is the assault craft of the [[affiliation-tantsouempr|Empire of Tantsou]]. The name is [[skill-tantsoulng|Tantsou]], literally Striking Wood, and these pages call the vessel the Charging Boat.
 
 ## The Vessel
 

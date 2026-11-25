@@ -49,7 +49,7 @@ A long, narrow hull. One mast carries a battened lug sail, and long sculls work 
 
 # Dossier {#dossier}
 
-The **Haimou** is the grain barge of the canals and rivers of [[lore-tantsouclt|Tantsou]]. The name is [[skill-tantsoulng|Tantsou]], literally Carrying Wood, and English calls the vessel the Tribute Barge.
+The **Haimou** is the grain barge of the canals and rivers of [[lore-tantsouclt|Tantsou]]. The name is [[skill-tantsoulng|Tantsou]], literally Carrying Wood, and these pages call the vessel the Tribute Barge.
 
 ## The Vessel
 

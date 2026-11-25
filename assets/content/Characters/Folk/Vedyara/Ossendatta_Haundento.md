@@ -32,7 +32,7 @@ data:
     skin_color: olive
     complexion: [smooth]
     hair_style: long
-    extra_features: [a ring of braided grass worn on the left wrist]
+    extra_features: []
   packFolder: ankarisvedyara
 ---
 

@@ -29,7 +29,7 @@ data:
     skin_color: olive
     complexion: [clear]
     hair_style: braided
-    extra_features: [a small pipe of pale wood worn on a cord at the belt]
+    extra_features: []
   packFolder: ankarisvedyara
 ---
 

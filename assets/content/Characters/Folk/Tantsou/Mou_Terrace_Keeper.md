@@ -67,7 +67,7 @@ sohl:
     - {key: rtunic, model: sohl-sohl-armorgear-rtunic}
     - {key: rtrsr, model: sohl-sohl-armorgear-rtrsr}
     - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
-    - {key: terracemattock, model: sohl-sohl-miscgear-terracemattock}
+    - {key: terracemattock, model: miscgear-terracemattock}
   system:
     body:
       structure:

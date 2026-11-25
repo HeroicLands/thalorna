@@ -32,7 +32,7 @@ data:
     skin_color: pale
     complexion: [smooth]
     hair_style: long
-    extra_features: [a cord of dried rowan berries worn at the throat]
+    extra_features: []
   packFolder: ankarisvedyara
 ---
 

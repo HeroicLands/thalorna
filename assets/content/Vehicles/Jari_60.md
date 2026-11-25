@@ -49,7 +49,7 @@ A lighter, sharper hull than a merchant junk, with a long low line, battened sai
 
 # Dossier {#dossier}
 
-The **Jari** is the seagoing warship of the [[affiliation-tantsouempr|Empire of Tantsou]] and the [[affiliation-jenchaiempr|Jenchai Empire]], which both build it. The name is [[skill-tantsoulng|Tantsou]], literally Blade Sail, and English calls the vessel the War Junk.
+The **Jari** is the seagoing warship of the [[affiliation-tantsouempr|Empire of Tantsou]] and the [[affiliation-jenchaiempr|Jenchai Empire]], which both build it. The name is [[skill-tantsoulng|Tantsou]], literally Blade Sail, and these pages call the vessel the War Junk.
 
 ## The Vessel
 

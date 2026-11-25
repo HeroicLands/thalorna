@@ -9,7 +9,7 @@ tags: [reference, seafaring, vessels]
 
 A **junk** is the seagoing hull of the yards of the [[affiliation-tantsouempr|Empire of Tantsou]]. Bulkheads divide its hull into sealed compartments, so a breach floods one compartment and leaves the rest dry. It carries battened sails on two or more masts, and its rudder hangs on the sternpost and draws up when the water shoals. A hull is a junk only when it has all three and is built for the open sea. Two hulls meet that measure, the **Wongri** and the **Jari**. The measures and formulas that hold for every vessel are in [[doc-vesselhulls|Vessel Dimensions and Burthen]], [[doc-vesselrigs|Vessel Rigs]] and [[doc-vesselcrew|Vessel Crew and Oarsmen]], and each people's yards are compared in [[doc-vesseltradtn|Seafaring Traditions]].
 
-The names are [[skill-tantsoulng|Tantsou]], and each is given with the English label these pages use for it. Every hull here that sails carries the battened rig, and its sailing grade already includes the step that rig gives ([[doc-vesselrigs|Vessel Rigs]]).
+The names are [[skill-tantsoulng|Tantsou]], and each is given with the label these pages use for it. Every hull here that sails carries the battened rig, and its sailing grade already includes the step that rig gives ([[doc-vesselrigs|Vessel Rigs]]).
 
 ## The Two Junks
 

@@ -42,7 +42,7 @@ A flat-floored hull with square ends and a leeboard on each side. Four masts car
 
 # Dossier {#dossier}
 
-The **Kantong** is the coasting merchant hull of the shallow northern shores of [[lore-tantsouclt|Tantsou]]. The name is [[skill-tantsoulng|Tantsou]], literally Wide Floor, and English calls the vessel the Sand Ship.
+The **Kantong** is the coasting merchant hull of the shallow northern shores of [[lore-tantsouclt|Tantsou]]. The name is [[skill-tantsoulng|Tantsou]], literally Wide Floor, and these pages call the vessel the Sand Ship.
 
 ## The Vessel
 

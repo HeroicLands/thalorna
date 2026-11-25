@@ -42,7 +42,7 @@ A broad enclosed hull with a paddle wheel on each side and no mast. No rowers ar
 
 # Dossier {#dossier}
 
-The **Twenmou** is the river warship of the [[affiliation-tantsouempr|Empire of Tantsou]]. The name is [[skill-tantsoulng|Tantsou]], literally Walking Wood, and English calls the vessel the Paddle-Wheel Ship.
+The **Twenmou** is the river warship of the [[affiliation-tantsouempr|Empire of Tantsou]]. The name is [[skill-tantsoulng|Tantsou]], literally Walking Wood, and these pages call the vessel the Paddle-Wheel Ship.
 
 ## The Vessel
 

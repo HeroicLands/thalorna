@@ -46,7 +46,7 @@ A deep, V-bottomed hull planked in several layers. Five masts carry battened lug
 
 # Dossier {#dossier}
 
-The **Wongri** is the seagoing merchant hull of the yards of [[lore-tantsouclt|Tantsou]]. The name is [[skill-tantsoulng|Tantsou]], literally Sea Sail, and English calls the vessel the Ocean Junk.
+The **Wongri** is the seagoing merchant hull of the yards of [[lore-tantsouclt|Tantsou]]. The name is [[skill-tantsoulng|Tantsou]], literally Sea Sail, and these pages call the vessel the Ocean Junk.
 
 ## The Vessel
 

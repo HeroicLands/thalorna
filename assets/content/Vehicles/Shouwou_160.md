@@ -55,7 +55,7 @@ A tall hull carrying tiers of fighting galleries, one above another, pierced wit
 
 # Dossier {#dossier}
 
-The **Shouwou** is the floating fortress of the [[affiliation-tantsouempr|Empire of Tantsou]]. The name is [[skill-tantsoulng|Tantsou]], literally River Hall, and English calls the vessel the Tower Ship.
+The **Shouwou** is the floating fortress of the [[affiliation-tantsouempr|Empire of Tantsou]]. The name is [[skill-tantsoulng|Tantsou]], literally River Hall, and these pages call the vessel the Tower Ship.
 
 ## The Vessel
 
