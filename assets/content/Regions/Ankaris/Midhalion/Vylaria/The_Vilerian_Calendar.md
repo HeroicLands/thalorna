@@ -47,7 +47,7 @@ data:
       marker: VR
       proclaimedBy: vylarinmpr
       start: 1
-  formats: {std: "MM/DD/Y GGG", long: "D MMMM Y GGG"}
+  formats: {std: "MM/DD/Y GGG", long: "D MMMM Y GGG", display: "D MMMM Y GGG"}
   packFolder: vylaria
 ---
 
