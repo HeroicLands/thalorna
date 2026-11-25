@@ -3,7 +3,7 @@ shortcode: bittersea
 name: {full: The Bitter Sea}
 type: place
 subType: feature
-description: "The western of the two inland seas on the border of Amradad and Bizaria: salt, shallow and about eighty miles across, with the Bizarian caravan stop of Halzikos on its northern shore and the Amradi towns of Dorvakhend and Rezhakhend on its southern and eastern shores."
+description: "The western of the two inland seas on the border of Amradad and Bizaria: salt, shallow and about eighty miles across, with the Bizarian caravan stop of Halzikos on its northern shore and the Amradi town of Dorvakhend on its southern shore."
 tags: [feature, lake]
 data:
   demonym: null
@@ -24,7 +24,7 @@ Reed beds and mud flats ring most of the shore. In summer the water draws back f
 
 ## Who Uses It {#who-uses-it}
 
-[[place-halzikos|Halzikos]], the Bizarian caravan stop on the northern shore, works salt and fish and waters the caravans bound south. [[place-dorvakhend|Dorvakhend]], on the southern shore, is where the road from Bizaria meets the Khazrin road, and [[place-rezhakhend|Rezhakhend]] rakes salt from the pans of the eastern shore. Herding clans of both countries winter their flocks in the reeds, and fishers of the three towns work the stream mouths from reed boats.
+[[place-halzikos|Halzikos]], the Bizarian caravan stop on the northern shore, works salt and fish and waters the caravans bound south. [[place-dorvakhend|Dorvakhend]], on the southern shore, is where the road from Bizaria meets the Khazrin road. Herding clans of both countries winter their flocks in the reeds, and fishers of the two towns work the stream mouths from reed boats.
 
 ## Dangers {#dangers}
 
@@ -32,11 +32,11 @@ Under the crust lies mud deep enough to hold a camel, and a train that leaves th
 
 ## What Is Told {#what-is-told}
 
-The fishers of the three towns tell that the sea was sweet once, and turned bitter when two brothers, one from each shore, quarreled over it and poured salt into it so that neither could have it. The salt-rakers of Rezhakhend leave the first block of each season on the shore for the brothers.
+The fishers of the two towns tell that the sea was sweet once, and turned bitter when two brothers, one from each shore, quarreled over it and poured salt into it so that neither could have it.
 
 ## Converging Interests {#present}
 
-The border through the water is a line on a map and nowhere on the shore. Amradi customs officers from Dorvakhend cross to Halzikos to inspect loads bound south, and the Bizarian warden there complains of it to [[affiliation-karvashion|Karvashion]] without result. Rezhakhend's salt undersells the salt of Halzikos in both countries, and the salt-masters of each town want the other's pans closed.
+The border through the water is a line on a map and nowhere on the shore. Amradi customs officers from Dorvakhend cross to Halzikos to inspect loads bound south, and the Bizarian warden there complains of it to [[affiliation-karvashion|Karvashion]] without result. The salt of [[place-rezhakhend|Rezhakhend]], on the Far Sea, undersells the salt of Halzikos in both countries, and the salt-masters of each town want the other's pans closed.
 
 ## See Also {#see-also}
 
@@ -46,8 +46,8 @@ The border through the water is a line on a map and nowhere on the shore. Amradi
 [[place-halzikos|Halzikos]]
 : the Bizarian caravan stop on the northern shore
 
-[[place-dorvakhend|Dorvakhend]] and [[place-rezhakhend|Rezhakhend]]
-: the Amradi towns on the shore
+[[place-dorvakhend|Dorvakhend]]
+: the Amradi town on the southern shore
 
 [[place-farsea|The Far Sea]]
 : the other inland sea of the northern border

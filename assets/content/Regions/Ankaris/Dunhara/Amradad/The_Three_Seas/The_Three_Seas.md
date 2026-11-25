@@ -37,12 +37,12 @@ The Kingdom holds the Three Seas as it holds the rest of Amradad, through a _tag
 At the Bitter Sea:
 
 - [[place-dorvakhend|Dorvakhend]]: the caravan town where the road from Bizaria meets the Khazrin road, about 4,000 people.
-- [[place-rezhakhend|Rezhakhend]]: the salt town of the eastern shore, about 2,500.
 
 At the Far Sea:
 
 - [[place-morvadez|Morvadez]]: the fort town where the Khazrin road leaves the Kingdom, about 4,500.
 - [[place-lemazakhend|Lemazakhend]]: the reed and fishing town across the bay from it, about 2,000.
+- [[place-rezhakhend|Rezhakhend]]: the salt town of the western shore, about 2,500.
 
 At the Mirror Sea:
 

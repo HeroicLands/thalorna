@@ -1,0 +1,38 @@
+{
+    "bindings": {
+        "notes": [],
+        "rows": [],
+        "subpolities": []
+    },
+    "settings": {
+        "householdSizes": {
+            "thalorna-note-lore-dunhariclt": 6
+        },
+        "urbanShares": {
+            "thalorna-note-affiliation-kngdmmrdd": 0.05
+        }
+    },
+    "selection": {
+        "existingSites": [
+            {
+                "identity": "thalorna-note-place-dorvakhend",
+                "point": [1654.7, 673]
+            },
+            {
+                "identity": "thalorna-note-place-rezhakhend",
+                "point": [1680.7, 643.6]
+            },
+            {
+                "identity": "thalorna-note-place-morvadez",
+                "point": [1726.4, 664]
+            },
+            {
+                "identity": "thalorna-note-place-lemazakhend",
+                "point": [1707, 666.7]
+            }
+        ],
+        "spacingMeters": 8000,
+        "candidateLimit": 6,
+        "workLimit": 1000000000
+    }
+}

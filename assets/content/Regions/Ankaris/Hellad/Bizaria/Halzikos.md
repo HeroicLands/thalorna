@@ -35,7 +35,7 @@ Halzikos has little to feed on. The sea gives salt and a small catch of fish tha
 
 ## The Present {#present}
 
-Khazrin steppe bands and Black Flame warbands raid the herders' camps on the plain and the caravans that leave late, and the garrison is too small to patrol more than the road. The salt-masters want a wall around the pans, and the warden says that the cistern is the one thing he must guard first. Amradi customs officers from Dorvakhend cross the border to inspect loads headed for their country, and the warden has complained of it to Karvashion without result. The salt of [[place-rezhakhend|Rezhakhend]], raked on the sea's eastern shore, undersells the town's own in both countries, and the salt-masters want the Amradi pans closed.
+Khazrin steppe bands and Black Flame warbands raid the herders' camps on the plain and the caravans that leave late, and the garrison is too small to patrol more than the road. The salt-masters want a wall around the pans, and the warden says that the cistern is the one thing he must guard first. Amradi customs officers from Dorvakhend cross the border to inspect loads headed for their country, and the warden has complained of it to Karvashion without result. The salt of [[place-rezhakhend|Rezhakhend]], raked on the western shore of the Far Sea, undersells the town's own in both countries, and the salt-masters want the Amradi pans closed.
 
 ## Where a Party Lodges {#lodging}
 
@@ -55,8 +55,11 @@ The caravanserai by the cistern is the only large lodging. The salt-masters rent
 [[place-bittersea|The Bitter Sea]]
 : the inland sea on whose shore it stands
 
-[[place-dorvakhend|Dorvakhend]], [[place-rezhakhend|Rezhakhend]]
-: the Amradi towns on the southern and eastern shores
+[[place-dorvakhend|Dorvakhend]]
+: the Amradi caravan town on the southern shore
+
+[[place-rezhakhend|Rezhakhend]]
+: the Amradi salt town on the Far Sea, whose salt undersells the town's own
 
 [[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the dry country beyond it

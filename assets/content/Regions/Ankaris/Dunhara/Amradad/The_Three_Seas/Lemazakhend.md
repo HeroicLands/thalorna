@@ -3,7 +3,7 @@ shortcode: lemazakhend
 name: {full: Lemazakhend}
 type: place
 subType: settlement
-description: "A walled reed and fishing town of about 2,000 on the western shore of the Far Sea, across the bay from Morvadez, that dries fish and cuts reed for the towns of the seas and buys its grain from the passing trains."
+description: "A walled reed and fishing town of about 2,000 on the southern shore of the Far Sea, across the bay from Morvadez, that dries fish and cuts reed for the towns of the seas and buys its grain from the passing trains."
 tags: [town]
 data:
   demonym: null
@@ -15,12 +15,12 @@ data:
   fortification: walled
   government: kngdmmrdd
   packFolder: amradad
-  notes: "A walled reed and fishing town of about 2,000 on the western shore of the Far Sea, across the bay from Morvadez, that dries fish and cuts reed for the towns of the seas and buys its grain from the passing trains."
+  notes: "A walled reed and fishing town of about 2,000 on the southern shore of the Far Sea, across the bay from Morvadez, that dries fish and cuts reed for the towns of the seas and buys its grain from the passing trains."
 ---
 
 ## Overview {#overview}
 
-**Lemazakhend**, the reed-cutters' town, is a walled town of about 2,000 on the western shore of [[place-farsea|the Far Sea]], in [[place-threeseas|the Three Seas]], across the bay from [[place-morvadez|Morvadez]]. Its roofs, mats, baskets and boats are all of reed.
+**Lemazakhend**, the reed-cutters' town, is a walled town of about 2,000 on the southern shore of [[place-farsea|the Far Sea]], in [[place-threeseas|the Three Seas]], across the bay from [[place-morvadez|Morvadez]]. Its roofs, mats, baskets and boats are all of reed.
 
 ## What the Town Lives By {#what-the-town-lives-by}
 
