@@ -49,6 +49,10 @@ Balku is the head of a producer-selat. The gold of the hill-mines, the copper of
 - The great temple of Saq'aru the smith
 - The smelter-works and the mine-captains' quarters
 
+## History {#history}
+
+Balku is the capital of [[affiliation-selatzuzlqtt|the Selat of Zu-Zel-Iaqtet]], one of [[affiliation-borderselatu|the Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and the seat of the Border Selatu.
+
 ## See Also {#see-also}
 
 [[affiliation-selatzuzlqtt|The Selat of Zu-Zel-Iaqtet]]

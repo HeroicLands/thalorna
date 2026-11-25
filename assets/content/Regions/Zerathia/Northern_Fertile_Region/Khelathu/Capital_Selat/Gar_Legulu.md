@@ -30,6 +30,10 @@ Its streets hold the estate-stewards and tally-scribes who run the holdings, the
 
 Two low floods have shortened the harvest of the tenant-villages, and the tally-scribes count a smaller render into the temple's granaries. The temples that hold the capital's estates claim their measure of every field before a village sees the rest, so a short flood is the temple's shortfall first and a farmer's only after that. The city answers to its temple before it answers to the Halzi'a of [[affiliation-capitalselat|the Capital Selat]], whose Steward reckons the selat's own granaries in sacks per day.
 
+## History {#history}
+
+Gar-Legulu is a city of [[affiliation-capitalselat|the Capital Selat]] in the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. The royal court crossed to the mound at [[place-galezkara|Galezkara]] in 1006 ST (1105 BF), and every house since has ruled from the selat except the throne at [[place-lenennezut|Lenen-Nezut]] from 1462 to 1531 ST and the court at [[place-maguathen|Magu-Thelqen]] from 1790 to 1822 ST ([[lore-crossmound|the Crossing to the Mound]]).
+
 ## See Also {#see-also}
 
 [[affiliation-capitalselat|The Capital Selat]]

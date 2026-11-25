@@ -39,6 +39,10 @@ The Halzi'a of Gar-Anlaghet is a hereditary governor and a Zabu, as much merchan
 
 The city grows hardly any of its own bread and takes a fee on every transaction. Grain, papyrus, linen, gold and artisan work go down to the ships, and timber, metals, spices, wine and the luxuries of the [[place-midhalnrgn|Midhalión Region]] come up the quays. It eats from the delta's shipping: grain barges come down, the tribute grain of the upper selatu waits in its bonded granaries before it sails, and fish and crews come from [[place-megitgar|Megit-Gar]] (about 14,000), the fishing-and-victualing city on a northern channel. The channel villages around the port, among them [[place-chauthamegit|Chautha-Megit]], [[place-garirezu|Gar-Irezu]] and [[place-gadjuzechi|Gadju-Zechi]], live by fishing and ferrying. A low river shifts the fish, which come in later and from farther out, and the foreign ships that bring bread-grain set the price.
 
+## History {#history}
+
+Gar-Anlaghet is the capital of [[affiliation-selatgrnlght|the Selat of Gar-Anlaghet]], one of [[affiliation-deltaselatu|the Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and the seat of the Delta Selatu.
+
 ## See Also {#see-also}
 
 [[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]]

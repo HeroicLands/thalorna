@@ -36,6 +36,10 @@ The Halzi'a of Gar-Zanit is a hereditary governor and a Zabu who commands the le
 
 Gar-Zanit lives by flax and linen. The flax is grown on the selat's fields, retted in water, spun and woven in the city and its towns, and sold up and down the river and out through the delta ports. Cloth is also the delta's small coin: a village that has no flax pays its debts in whatever it can weave. The flax-farming villages around the city supply the fiber and take bread-grain and beer in payment, and the weavers eat what those villages grow. Away from the flax the villages and temple estates of [[place-garzanitselt|Gar-Zanit Selat]] grow grain on the usual terms, and the scribes are the one reliable ladder out of the fields. The chief temple and its estates anchor the weaving towns.
 
+## History {#history}
+
+Gar-Zanit is the capital of [[affiliation-selatgarzant|the Selat of Gar-Zanit]], one of [[affiliation-deltaselatu|the Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and the seat of the selat's [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]].
+
 ## See Also {#see-also}
 
 [[affiliation-selatgarzant|The Selat of Gar-Zanit]]

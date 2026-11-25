@@ -42,6 +42,10 @@ The Halzi'a of the selat holds the deepest fort on the southern march as a hered
 
 Belgen lives by grain and by the garrison. The villages and estate-towns of the selat render grain to its granaries each harvest, and the garrison draws its share before the market sees any. Farmers on the cultivable strip plant what the canals still carry and sell nothing outside the selat. The market serves the villages and the men back from the road, and the temple estates of Qeztu hold much of the ground around the seat.
 
+## History {#history}
+
+Belgen is the capital of [[affiliation-selatbelgnzl|the Selat of Belgen-Zalu]], one of [[affiliation-borderselatu|the Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and the seat of the selat's [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]].
+
 ## See Also {#see-also}
 
 [[affiliation-selatbelgnzl|The Selat of Belgen-Zalu]]

@@ -30,6 +30,10 @@ The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Zebt-Rel
 
 About 28,000 people live in a city the plain could not feed alone. The cavern-tombs in the cliffs behind employ the embalmers, the coffin-makers and the guards; the natron-diggers and the cart-masters make up the rest. Each cart leaves the flats with a tally stamped at the diggings, and the weights-masters at the city gate check the load against it; a cart-master whose load runs light is fined the difference. The danger is in the trade's shape. A sealed cavern-tomb is a vault of goods, and thieves know which cliffs hold them. A natron cart that loses its way on the flats does not come back, and the selat's weights-masters answer for every load that leaves. The city has no market town beside it to share the work: its trade is the one trade, and the selat's few lesser settlements are farm villages that look to it for the market, the granary and the ferry. The temple of Weth'ur buries the city's poor in common caverns without fees.
 
+## History {#history}
+
+Zebt-Relepet is the capital of [[affiliation-selatzbtrlpt|the Selat of Zebt-Relepet]], one of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and the seat of the selat's [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]].
+
 ## See Also {#see-also}
 
 [[affiliation-selatzbtrlpt|The Selat of Zebt-Relepet]]

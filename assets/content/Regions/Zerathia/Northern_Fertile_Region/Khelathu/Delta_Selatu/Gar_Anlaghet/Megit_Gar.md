@@ -24,6 +24,10 @@ data:
 
 The population is about 14,000, and Megit-Gar is humbler and saltier than the port: fishers, boatwrights and dock labor, with no merchant-princes among them. The catch and the crews it supplies are part of what keeps the empire's sea-gate working.
 
+## History {#history}
+
+Megit-Gar belongs to [[affiliation-selatgrnlght|the Selat of Gar-Anlaghet]], one of [[affiliation-deltaselatu|the Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]].
+
 ## See Also {#see-also}
 
 [[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]]

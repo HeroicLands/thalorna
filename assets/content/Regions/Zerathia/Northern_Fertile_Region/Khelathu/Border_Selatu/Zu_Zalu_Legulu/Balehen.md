@@ -55,6 +55,10 @@ The toll-house and tribute-store tax everything that comes up from the south. [[
 - The war-temple of Qeztu, the war-god
 - The garrison barracks and the seat of the warden-Halzi'a
 
+## History {#history}
+
+Balehen is the fortress-capital of [[affiliation-selatzuzllgl|the Selat of Zu-Zalu-Legulu]], one of [[affiliation-borderselatu|the Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and the seat of the selat's warden-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]].
+
 ## See Also {#see-also}
 
 [[affiliation-selatzuzllgl|The Selat of Zu-Zalu-Legulu]]

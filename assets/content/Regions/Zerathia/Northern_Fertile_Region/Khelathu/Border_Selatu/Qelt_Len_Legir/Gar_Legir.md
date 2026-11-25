@@ -25,6 +25,10 @@ data:
 
 Armorers, remount stalls and a temple of the soldiers' gods fill its quarters. It is the first place a southern raid reaches, and its walls are the reason the villages behind it sleep.
 
+## History {#history}
+
+Gar-Legir belongs to [[affiliation-seltqltlnlgr|the Selat of Qelt-Len-Legir]], one of [[affiliation-borderselatu|the Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]].
+
 ## See Also {#see-also}
 
 [[place-qeltlenlegirnome|Qelt-Len-Legir]]
