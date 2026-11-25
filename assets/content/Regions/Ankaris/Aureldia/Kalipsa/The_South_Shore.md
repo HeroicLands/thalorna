@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-**The South Shore** is the name the city of [[place-calypsacity|Kalipsa]] gives to everything on the [[place-calypsaisle|Isle of Kalipsa]] that is not the city: the fishing villages of the southern coves, and the steadings on the slopes above them up to the bare turf of [Hlomfell]{.name data-type="place/feature"}. About seventeen thousand people live there. Four of the villages are large enough to have a market day and a priest, and a dozen smaller coves hold a few families each, with their boats hauled up on the shingle below the houses. The figure for the whole shore is the sum of many villages, and no single settlement of that size stands there.
+**The South Shore** is the name the city of [[place-calypsacity|Kalipsa]] gives to everything on the [[place-calypsaisle|Isle of Kalipsa]] that is not the city: the fishing villages of the southern coves, and the steadings on the slopes above them up to the bare turf of [Hlomfell]{.name data-type="place/feature"}. About seventeen thousand people live there. Four of the villages are large enough to have a market day and a priest, and a dozen smaller coves lie between them, with their boats hauled up on the shingle below the houses. The figure for the whole shore is the sum of many villages, and no single settlement of that size stands there.
 
 The villages are older than most of the city's houses, and they speak the city's [[skill-nordmalng|Nordmal]] with an older sound. They are governed by the [[affiliation-calypsa|city-state]] and have no seat on its [[affiliation-captnscncl|Captains' Council]].
 
@@ -53,7 +53,7 @@ The cart road from the city climbs over the shoulder of Hlomfell and comes down 
 
 ## The Villages {#settlements}
 
-[Dvonvík]{.name data-type="place/settlement"}, about 3,000, is the largest, in a deep cove at the island's southern point where the seals haul out on the skerries, and it has the shore's one stone quay. [Vrellnes]{.name data-type="place/settlement"}, about 2,500, stands on the black headland west of it, where the dye-shellfish are gathered from the rocks and the vats stain the slipway the color of old blood. [Hvelmnes]{.name data-type="place/settlement"}, about 2,000, is the whale-watchers' village on the next headland east, and [Glervhavan]{.name data-type="place/settlement"}, about 1,500, is the rendering village at the mouth of the shore's one sheltered inlet, where fish and seal are boiled down for lamp oil. The smaller coves between them and the upland steadings hold the other 8,000.
+[Dvonvík]{.name data-type="place/settlement"}, about 900, is the largest, in a deep cove at the island's southern point where the seals haul out on the skerries, and it has the shore's one stone quay. [Vrellnes]{.name data-type="place/settlement"}, about 800, stands on the black headland west of it, where the dye-shellfish are gathered from the rocks and the vats stain the slipway the color of old blood. [Hvelmnes]{.name data-type="place/settlement"}, about 700, is the whale-watchers' village on the next headland east, and [Glervhavan]{.name data-type="place/settlement"}, about 600, is the rendering village at the mouth of the shore's one sheltered inlet, where fish and seal are boiled down for lamp oil. The smaller coves between them and the upland steadings hold the other 14,000.
 
 The houses are low, of gray stone, roofed with turf or slate weighted against the westerlies, and each one has a cistern under its floor. Every village has a spring-house, a stone hut over its spring with a door that locks.
 

@@ -82,7 +82,7 @@ data:
       fortification: null
       stronghold: null
       holder: "The village families"
-      population: {actual: 3000}
+      population: {actual: 900}
       market: local
       economicFocus: fishing
       notes: "The largest village of the South Shore, in a deep cove at the island's southern point, with the shore's one stone quay and a post of the city watch."
@@ -93,7 +93,7 @@ data:
       fortification: null
       stronghold: null
       holder: "The village families"
-      population: {actual: 2500}
+      population: {actual: 800}
       market: local
       economicFocus: dyeing
       notes: "The dye village on the black headland west of Dvonvík, where the dye-shellfish are gathered from the rocks, with the best spring on the shore."
@@ -104,7 +104,7 @@ data:
       fortification: null
       stronghold: null
       holder: "The village families"
-      population: {actual: 2000}
+      population: {actual: 700}
       market: local
       economicFocus: fishing
       notes: "The whale-watchers' village on the headland east of Dvonvík, whose lookout fire answers the watch-station on Hlomfell."
@@ -115,7 +115,7 @@ data:
       fortification: null
       stronghold: null
       holder: "The village families"
-      population: {actual: 1500}
+      population: {actual: 600}
       market: local
       economicFocus: rendering
       notes: "The rendering village at the mouth of the shore's one sheltered inlet, where fish and seal are boiled down for lamp oil."
