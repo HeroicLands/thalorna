@@ -415,6 +415,6 @@ Pilots serve no single house. They keep the offerings at the headland shrines an
 
 ## Plot Hooks
 
-1. [[scenario-prfctrdhll|The Prefect in the Red Hall]]: a pilot takes a party across the watched water to [[place-rinwu|Rinwu]] and tells it where the mainland war junk lies.
+1. [[scenario-prfctrdhll|The Prefect in the Red Hall]]: a pilot takes a party across the watched water to [[place-rinwu|Rinwu]] and tells it where the mainland [[doc-vesseljunks|war junk]] lies.
 2. **The headland offering.** A pilot refuses a crossing because a crew would not leave an offering at the first headland shrine.
 3. **Every house that asks.** Three houses ask a pilot at one anchorage what he has seen, and he wants a party's help deciding which answer keeps his name good with all of them.

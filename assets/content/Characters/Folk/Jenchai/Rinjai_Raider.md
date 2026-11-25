@@ -417,6 +417,6 @@ Raiders serve Rinjai Hoja and the Rinjai Domain, which stands with [The Strait]{
 
 ## Plot Hooks
 
-1. [[scenario-prfctrdhll|The Prefect in the Red Hall]]: raiders watch a mainland war junk from the rocks of the coves, held back from the first arrow only by their lord's word.
+1. [[scenario-prfctrdhll|The Prefect in the Red Hall]]: raiders watch a mainland [[doc-vesseljunks|war junk]] from the rocks of the coves, held back from the first arrow only by their lord's word.
 2. **More captives than guests.** A raiding captain brings home more captives than his lord can keep as guests.
 3. **Nearer the front.** A raider brings his hull home with a prize and stands no nearer the front of the hall, and he wants to know who at Rinwu holds him back.

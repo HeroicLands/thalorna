@@ -33,7 +33,7 @@ The raiders of [[affiliation-rinjaidmn|Rinjai Domain]] took a [[being-tantsouprf
 
 The Jenchai find the mainland decadent and scheming, and the mainland finds the Jenchai crude and violent. Each side needs the other's goods, and [[place-easternstrt|The Eastern Strait]] between them is busy and watched. A prefect is not worth a war to either side, and neither side can be seen to let him go for nothing.
 
-The party enters as the envoy's hired hands, as Henzo's, as hands the court sends to learn what the mainland will pay, or as a crew whose hull happens to be in the strait when a war junk shows off the coves.
+The party enters as the envoy's hired hands, as Henzo's, as hands the court sends to learn what the mainland will pay, or as a crew whose hull happens to be in the strait when a [[doc-vesseljunks|war junk]] shows off the coves.
 
 ## What Is Really Happening {#what-is-really-happening}
 

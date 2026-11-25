@@ -63,7 +63,7 @@ An apprentice rides the pilot boats for years before a master puts a name forwar
 
 - The [[affiliation-mrchntclctvvdyr|Merchant Collective]] has the cargo and not the bar. Its factors pay the pilots' fee and ask for the chart at the start of each season, and the council refuses.
 - The galley crews of Chendramukhva sail from the same beach and know the pilots by sight. The shrena does not train their captains, and the captains keep their own soundings.
-- Foreign junks that lie outside the bar rather than take a pilot are the shrena's standing insult. The council has never found a way to charge them for it.
+- Foreign [[doc-vesseljunks|junks]] that lie outside the bar rather than take a pilot are the shrena's standing insult. The council has never found a way to charge them for it.
 
 ## Plot Hook
 

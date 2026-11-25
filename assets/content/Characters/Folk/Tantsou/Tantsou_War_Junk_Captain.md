@@ -379,7 +379,7 @@ sohl:
 
 # Appearance {#appearance}
 
-The captain wears lacquered armor over his officer's robe and keeps to the high stern of his junk, where the empire's flag flies. He holds himself stiffly and speaks to strangers through a junior officer.
+The captain wears lacquered armor over his officer's robe and keeps to the high stern of his [[doc-vesseljunks|junk]], where the empire's flag flies. He holds himself stiffly and speaks to strangers through a junior officer.
 
 # Dossier {#dossier}
 

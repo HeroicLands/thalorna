@@ -32,7 +32,7 @@ The coast plants when the rain starts and sails when it stops, and the interior 
 
 ## Who Sails It
 
-Tantsou junks work down from the southern ports of [[place-tantsouregin|Tantsou]] and have reached this coast for as long as either side has kept a record. Jenchai hulls come from further east and come less often, and their captains are reckoned the finest seamen anybody here has dealt with. Vedyari shipping is the bulk of the traffic and the shortest-legged of it. A Vedyaran coasting ship works from mouth to mouth in sight of land, and the long eastern passage is left to the men who live at the other end of it.
+Tantsou [[doc-vesseljunks|junks]] work down from the southern ports of [[place-tantsouregin|Tantsou]] and have reached this coast for as long as either side has kept a record. Jenchai hulls come from further east and come less often, and their captains are reckoned the finest seamen anybody here has dealt with. Vedyari shipping is the bulk of the traffic and the shortest-legged of it. A Vedyaran coasting ship works from mouth to mouth in sight of land, and the long eastern passage is left to the men who live at the other end of it.
 
 Three kinds of hull are built on this coast. The river-boat is flat-bottomed, works the four rivers and the mouths, and never goes outside the bar. The coasting ship carries the trade, runs the shore in the open season, and is the hull a Vedyari means when he says ship. The war-galley is oared, is built at one city only, and does not carry cargo.
 

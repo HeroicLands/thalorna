@@ -29,7 +29,7 @@ The rains come ashore off [[place-meghrsmdra|the Southern Sea]] in a few days an
 
 **The first hull of Nilatir.** [[being-priturajasam|Prituraja Samudraya]] owns two coasters outright and has put down the first payment on a deep-water hull in the west-side yards, the first of her size owned in Nilatir. She would carry cloth to the Khelathi ports without Chendrapur's galleys. Her yard bill is drawn on a Collective letter against both coasters.
 
-**The eastern sea.** [[place-tantsouregin|Tantsou]] junks come round the eastern capes late in the season and lie outside the bar rather than take a pilot. Out in [[place-surtaislnds|the Surta-samedra Islands]] a dozen Vedyari merchant colonies answer to island kings, speak a Vedyari a northern scholar cannot follow, and have never been sent an official from the mainland.
+**The eastern sea.** [[place-tantsouregin|Tantsou]] [[doc-vesseljunks|junks]] come round the eastern capes late in the season and lie outside the bar rather than take a pilot. Out in [[place-surtaislnds|the Surta-samedra Islands]] a dozen Vedyari merchant colonies answer to island kings, speak a Vedyari a northern scholar cannot follow, and have never been sent an official from the mainland.
 
 The stakes are the price of a season's cloth, who commands the only war-fleet in Vedyara, and whether a Vedyari hull ever sells at the delta on its own account.
 

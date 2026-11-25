@@ -117,7 +117,7 @@ The muster is 650 men and 25 ships. The ships lie at [Jawo]{.name data-type="pla
 
 In 720 AF Hoja's raiders hold a Tantsou prefect taken off the mainland coast, and two demands fall on the red hall. The court wants the man returned as a gesture of heaven's magnanimity, and a Tantsou envoy has asked at [[place-lengwou|Lengwou]] for the same. Shuiwojai wants the ransom. Hoja holds the prefect and owes Henzo his oath, and whichever of the two he satisfies, he disappoints the other.
 
-A mainland war junk off the coves is read as a demand for the prefect or for the harbor.
+A mainland [[doc-vesseljunks|war junk]] off the coves is read as a demand for the prefect or for the harbor.
 
 ## History {#history}
 

@@ -53,7 +53,7 @@ The **Haimou** is the grain barge of the canals and rivers of [[lore-tantsouclt|
 
 ## The Vessel
 
-The Haimou carries the grain tax to [[place-zhowen|Zhowen]] and to the garrisons of the north. Its hull is narrow enough to pass the canal locks, and bulkheads divide it into sealed compartments. It is not a junk. Stern sculls move it, and haulers on the bank tow it where the current runs against it. A barge on a river gets most of its movement from the current, from towing and from poling, so the tables below describe it only on open water; the rule for rivers is in the River Vessels section of [[doc-seatravel|Travel at Sea]].
+The Haimou carries the grain tax to [[place-zhowen|Zhowen]] and to the garrisons of the north. Its hull is narrow enough to pass the canal locks, and bulkheads divide it into sealed compartments. It is not a [[doc-vesseljunks|junk]]. Stern sculls move it, and haulers on the bank tow it where the current runs against it. A barge on a river gets most of its movement from the current, from towing and from poling, so the tables below describe it only on open water; the rule for rivers is in the River Vessels section of [[doc-seatravel|Travel at Sea]].
 
 ## Statistics
 

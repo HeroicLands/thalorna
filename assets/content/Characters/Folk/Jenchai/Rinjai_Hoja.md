@@ -436,5 +436,5 @@ His rice is thin and his muster small. A raid that goes wrong on Tantsou's shore
 ## Plot Hooks
 
 1. **The prefect in the hall.** Hoja keeps the prefect as a guest in the red hall. A party hired by a Tantsou envoy offers to buy the man out, and a party hired by Henzo offers to take him to Hawu.
-2. **The strait watch.** A Tantsou war junk has been sighted off the coves, and Hoja wants a party to learn whether it comes to fetch the prefect or to burn the harbor at [Jawo]{.name data-type="place/settlement"}.
+2. **The strait watch.** A Tantsou [[doc-vesseljunks|war junk]] has been sighted off the coves, and Hoja wants a party to learn whether it comes to fetch the prefect or to burn the harbor at [Jawo]{.name data-type="place/settlement"}.
 3. **The red mountain.** A shrine Tanchei of Rinjai brings a reading of the mountain that favors Henzo's claim, and Hoja wants a party to learn who paid for it.

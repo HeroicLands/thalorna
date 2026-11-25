@@ -31,7 +31,7 @@ The southern coast is the country of the [[lore-tantsoutribclt|Tantsou Tributary
 
 ## Who Holds It {#who-holds-it}
 
-The Prince of Wongsen, of the [[lore-zhazho|Zhazho]], holds the delta and the coasts for the Emperor, and he is the strongest and the most feared of the four Princes (_Zho Zhei_). He rules from Wongsen through his [[lore-wohou|Wohou]] officers: the Keeper of the Granaries, the Warden of the Foreign Quarter, the Commandant of the Coast with his garrisons and war junks, and the magistrates who read the [Teng Lou]{.name data-type="lore/law"} in his courts. The tributary lords of the southern coast rank beneath his officers and above his common subjects.
+The Prince of Wongsen, of the [[lore-zhazho|Zhazho]], holds the delta and the coasts for the Emperor, and he is the strongest and the most feared of the four Princes (_Zho Zhei_). He rules from Wongsen through his [[lore-wohou|Wohou]] officers: the Keeper of the Granaries, the Warden of the Foreign Quarter, the Commandant of the Coast with his garrisons and [[doc-vesseljunks|war junks]], and the magistrates who read the [Teng Lou]{.name data-type="lore/law"} in his courts. The tributary lords of the southern coast rank beneath his officers and above his common subjects.
 
 Among his [[lore-wanduo|Wandwo]] is a gifted set with an affinity for water, and the rain on the delta is credited to them.
 

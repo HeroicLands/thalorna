@@ -27,7 +27,7 @@ The summit shrine is kept by the domain's Tanchei, who hold the mountain record.
 
 In 720 AF the raiders of Rinjai hold a Tantsou prefect taken off the mainland coast, and two demands fall on the red hall. The court wants the man returned, and a Tantsou envoy has asked at [[place-lengwou|Lengwou]] for the same. [[being-henzoshuiwo|Shuiwojai Henzo]] wants the ransom.
 
-[[being-hojarinjai|Rinjai Hoja]], twenty-nine years old, holds the prefect and owes Henzo his oath, and whichever demand he satisfies he disappoints the other. The coves around the harbor of [Jawo]{.name data-type="place/settlement"} shelter the raiders' ships from the strait's storms, and a mainland war junk off them is read as a demand for the prefect or for the harbor.
+[[being-hojarinjai|Rinjai Hoja]], twenty-nine years old, holds the prefect and owes Henzo his oath, and whichever demand he satisfies he disappoints the other. The coves around the harbor of [Jawo]{.name data-type="place/settlement"} shelter the raiders' ships from the strait's storms, and a mainland [[doc-vesseljunks|war junk]] off them is read as a demand for the prefect or for the harbor.
 
 ## See Also {#see-also}
 
