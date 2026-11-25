@@ -2,7 +2,7 @@
 thalorna: patch
 ---
 
-**People**
+**Characters**
 
 - Meqes XVI, the reigning Gar-Au, is a full person with her office, her home in Galezkara, her age, her want and her plot hooks.
 - The Capital Selat's Halzi'a and the heads of the Upper River, Border and Delta Selatu are written as characters, among them the Overseer of the Granaries, the Commander of the Marches and the Overseer of the Sea-Gate.

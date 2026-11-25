@@ -2,7 +2,7 @@
 "thalorna": patch
 ---
 
-**Tantsou**
+**Places**
 
 - The Empire of Tantsou has a capital, Zhowen, two cities on a wide river with the walled enclave of the Zhazho on the island between them.
 - Four provinces, each held by a Prince from a seat of his own: Wongsen on the delta and the coasts, Mwonou in the southwest, Doulwen in the west and Kwozheng in the north.

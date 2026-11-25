@@ -2,6 +2,6 @@
 thalorna: patch
 ---
 
-**People**
+**Characters**
 
 - Lámbira Pédhinion is now called the Hound of Bethura.

@@ -9,6 +9,6 @@
 - The three groups of Khelathi districts each name a seat. The Okharis page describes an independent hereditary kingdom, and the Zerathia overview places Bethua west of Au'Khelathu.
 - The grain-village in Anlagh-Zetun Selat that shared the name Gar-Zekhemu with a village near Galezkara is now Gar-Mesanu, with a page of that name.
 
-**People**
+**Characters**
 
 - Lersais's succession hook turns on the Gar-Au's nephew, not on a failing son.

@@ -2,7 +2,7 @@
 "thalorna": patch
 ---
 
-**People**
+**Characters**
 
 - Velanthia's three river princes, Zhitovod Dobrovodich, Milogor Yarogorich and Krodogor Brevogorich, have their own pages: what each wants, what he carries and what a party can do for him.
 - The atamans of the Tarvál, Sevret and Khorad Hosts, Volkar Kodogorich, Sovidan Volketich and Belukan Kelodov, have pages showing what each Host wants from the prince it serves and what its ataman will trade.

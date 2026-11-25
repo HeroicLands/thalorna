@@ -2,7 +2,7 @@
 thalorna: patch
 ---
 
-**Places and people**
+**Places**
 
 - Hvolvern, a cliff at the head of a high valley on the far side of the Eastern Reach, has its own page for adventurers.
 - The Khazari Adventurers' Guide and the Khazari and Senali notes cover how the holds live and are fed.

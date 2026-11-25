@@ -2,7 +2,7 @@
 "thalorna": patch
 ---
 
-**Adventures**
+**Literature and verse**
 
 - Kalipsa has a campaign of its own, The Spring Sitting of 720, about the election that ends the Harbormaster's term, the lost Norodari hulls and the tonnage levy, linked from the Kalipsa guide.
 

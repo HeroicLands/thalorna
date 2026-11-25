@@ -2,7 +2,7 @@
 "thalorna": patch
 ---
 
-**Adventures**
+**Literature and verse**
 
 - A new Jenchai Adventurer's Guide introduces the Nine Mountains, the poor court, the eight houses and the contest for the vacant office of Teng Ja.
 - Three new Jenchai adventures: a sealed letter crossing Muwojai's ferry, a bidding for the north's spears in rice, and a Tantsou prefect held by the raiders of Rinjai.

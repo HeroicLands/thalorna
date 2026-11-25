@@ -2,7 +2,7 @@
 "thalorna": patch
 ---
 
-**Tantsou**
+**Peoples and cultures**
 
 - The rulers of Tantsou's provinces are Princes, in Tantsou _Zho Zhei_ (Dragon-Child), in place of Warlords. _Wozhwo_ names a war-leader of the steppe or another people, or a Celestial Marshal, never a Prince.
 - Youbwi is the Keeper of the Jade Seal, and the Moon Festival honors her lunar aspect. Her links in the Tantsou region note point to the right deities.

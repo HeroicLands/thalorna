@@ -2,7 +2,7 @@
 "thalorna": patch
 ---
 
-**Adventures**
+**Literature and verse**
 
 - Three new Dunhara adventures: a grain train stranded between two chieftains' escorts outside Gharzadez, with the kinless raiding at night and a reason why one chieftain's caravans always get through.
 - A beaten clan brings a widow to the Stone of Ranaz to ask the Warrior's Circle to hold Shadezan Kamruz to its oath, at the very season-turn when the Circle needs him to lead it.
