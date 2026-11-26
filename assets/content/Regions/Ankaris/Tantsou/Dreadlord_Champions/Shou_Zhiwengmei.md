@@ -18,8 +18,8 @@ data:
   socialTies: {}
   gender: female
   species: humanflk
-  born: null
-  died: null
+  born: unknown
+  died: unknown
   height: null
   weight: null
   frame: null
@@ -38,7 +38,7 @@ A dead woman in the war-gear of a Tantsou champion, upright and unhurried, weari
 
 # Dossier {#dossier}
 
-Shou Zhiwengmei, "the Star-Wind Dream", is one of the four human champions of [[affiliation-tantsouempr|Tantsou]] who became Dreadlords of [[place-nuuvakoldi|Nuuvakoldi]]. The Tantsou call such a lord a Chin Zhwo. The word is the living's, made from what soldiers on [[place-tantsouwall|the Wall]] see of the dead, and nothing shows that the dead keep ranks of their own.
+Shou Zhiwengmei, "the Star-Wind Dream", is one of the four human champions of the [[affiliation-tantsouempr|Empire of Tantsou]] who became Dreadlords of [[place-nuuvakoldi|Nuuvakoldi]]. The Tantsou call such a lord a Chin Zhwo. The word is the living's, made from what soldiers on [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] see of the dead, and nothing shows that the dead keep ranks of their own.
 
 ## Background
 
@@ -46,9 +46,9 @@ Shou Zhiwengmei was the greatest seer-champion of her generation. She read the n
 
 She took the place of one of the fallen Elder lords of the council and commands a Host, which the Tantsou name by its commander: the host of Shou Zhiwengmei.
 
-The fragment of Hagau, the Tantsou word for the black artifact, is set in a hairpin. She serves [[being-nalduvorkas|Nalduvorkas]], whom the Tantsou call Ha Chen, because there is no choice. Removing the fragment ends her command, and the Host answers to her no more.
+The fragment of Hagau, the court's term for the black artifact, is set in a hairpin. She serves [[being-nalduvorkas|Nalduvorkas]], whom the court of Tantsou calls Ha Chen, because there is no choice. Removing the fragment ends her command, and the Host answers to her no more.
 
-**What the fall cost.** The loss of the greatest seer-champion of her generation was a catastrophe of morale: despair and anguish across the realm, as if the admiral who had led the fleet had gone over to the enemy in the middle of the war. It was also a catastrophe of knowledge. Everything she knew passed to the Sovereign: the dispositions of the Wall, its wards, the two stones, the court's politics, the passwords and ciphers in use. She uses what she knows to gain status under the Sovereign, and in doing so betrays the people she protected.
+**What the fall cost.** The loss of the greatest seer-champion of her generation was a catastrophe of morale: despair and anguish across the realm, as if the marshal who held the armies of the empire had joined the enemy before the war was done. It was also a catastrophe of knowledge. Everything she knew passed to the Sovereign: the dispositions of the Wall, its wards, the two stones, the court's politics, the passwords and ciphers in use. She uses what she knows to gain status under the Sovereign, and in doing so betrays the people she protected.
 
 ## Psyche
 
@@ -62,7 +62,7 @@ Status under the Sovereign, won with what she knows of the realm.
 
 ### Strengths
 
-A seer who read the north in dreams, and a champion in her own right. What she knows of the realm is the Sovereign's knowledge, and it is as old as the fall: whatever has changed since is something the enemy lacks.
+A seer who read the north in dreams, and a champion in her own right. What she knows of the realm reached the Sovereign and, through him, the undead. The enemy's knowledge of any matter is as old as the last death that carried it.
 
 ### Weaknesses
 

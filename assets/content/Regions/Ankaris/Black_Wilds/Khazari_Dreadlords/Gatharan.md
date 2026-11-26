@@ -24,11 +24,11 @@ data:
 
 # Appearance {#appearance}
 
-Gatharan is a Khazár man, short and broad in the build of his people and bearded as every adult Khazár is. He wears a ring on one hand.
+Gatharan is a dead Khazár, short and broad in the build of his people and bearded as every adult Khazár was, and as still as stone. No breath moves him, and the cold of his presence reaches you before his eyes do. On his person is a ring set with dark ore, and the cold is strongest at it.
 
 # Dossier {#dossier}
 
-**Senior Khazár of the council of [[place-nuuvakoldi|Nuuvakoldi]], now a Khagalir, a Dreadlord. Commands a Host and serves the [[being-nalduvorkas|Sovereign]] because he has no choice.**
+**Senior Khazár of the council of [[place-nuuvakoldi|Nuuvakoldi]], now a Khagalir, a Dreadlord. Commands a Host and serves the Sovereign, [[being-nalduvorkas|Nalduvorkas]], because he has no choice.**
 
 Gatharan is of Clan [Summág]{.name data-type="affiliation/lineage"}. His given name is built on mastery. The Khazari word for what the living now understand him to be is _Khagalir_, "one of dread"; the garrisons of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] say _Chin Zhwo_. Both are the living peoples' terms. Nobody knows what the undead call themselves, or whether they have ranks at all.
 
@@ -56,7 +56,7 @@ His hunger is to destroy all life. He cannot refuse the Sovereign.
 
 ### Strengths
 
-He commands a Host and, through the Harrowers (_Gazadir_) and Wights (_Mankir_) beneath him, its Legions and Cohorts. He holds the knowledge of the council from before the Wall.
+He commands his host and, through the Harrowers (_Gazadir_) and the empty ones (_Mankir_) beneath him, directs it. He holds the knowledge of the council from before the Wall.
 
 ### Weaknesses
 
@@ -73,4 +73,4 @@ His command rests on the fragment in his ring and ends when it is removed. The w
 
 1. **The ring.** A party that learns which hand wears the ring holds the one way to end his command, and has to reach him through his Host to use it.
 2. **What the lost carried.** A party lost in the north tells his Host what it knew, and any plan, password or cipher it carried is his to act on.
-3. **Beyond the Wall.** A Khazari commander of a fort knows the secret of the stones and rarely goes out, because a commander who dies beyond the Wall rises and gives everything he knew to the master.
+3. **The senior Khazár.** Gatharan was senior of the Khazari on the council. A party that takes the fragment from his ring ends the command of the senior of the three living Khazari lords.

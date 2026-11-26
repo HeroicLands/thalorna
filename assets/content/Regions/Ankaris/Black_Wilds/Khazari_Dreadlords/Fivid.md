@@ -24,13 +24,13 @@ data:
 
 # Appearance {#appearance}
 
-Fivid is a Khazár woman, short and broad in the build of her people and bearded as every adult Khazár is. She wears a bracelet on one wrist.
+Fivid is a dead Khazár, short and broad in the build of her people and bearded as every adult Khazár was, and as still as stone. No breath moves her, and the cold of her presence reaches you before her eyes do. On her person is a bracelet set with dark ore, and the cold is strongest at it.
 
 # Dossier {#dossier}
 
-**Archivist of the council of [[place-nuuvakoldi|Nuuvakoldi]], now a Khagalir, a Dreadlord. Commands a Host and serves the [[being-nalduvorkas|Sovereign]] because she has no choice.**
+**Archivist of the council of [[place-nuuvakoldi|Nuuvakoldi]], now a Khagalir, a Dreadlord. Commands a Host and serves the Sovereign, [[being-nalduvorkas|Nalduvorkas]], because she has no choice.**
 
-Fivid is of Clan [Lummáv]{.name data-type="affiliation/lineage"}. Her given name is built on warranting a claim. The Khazari word for what the living now understand her to be is _Khagalir_, "one of dread"; the garrisons of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] say _Chin Zhwo_. Both are the living peoples' terms. Nobody knows what the undead call themselves, or whether they have ranks at all.
+Fivid is of Clan [Lummáv]{.name data-type="affiliation/lineage"}. Her given name is built on _f-v-d_, to warrant. The Khazari word for what the living now understand her to be is _Khagalir_, "one of dread"; the garrisons of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] say _Chin Zhwo_. Both are the living peoples' terms. Nobody knows what the undead call themselves, or whether they have ranks at all.
 
 ## Background
 
@@ -56,7 +56,7 @@ Her hunger is to destroy all life. She cannot refuse the Sovereign.
 
 ### Strengths
 
-She commands a Host and, through the Harrowers (_Gazadir_) and Wights (_Mankir_) beneath her, its Legions and Cohorts. She holds the knowledge of the council's records from before the Wall.
+She commands her host and, through the Harrowers (_Gazadir_) and the empty ones (_Mankir_) beneath her, directs it. She holds the knowledge of the council's records from before the Wall.
 
 ### Weaknesses
 

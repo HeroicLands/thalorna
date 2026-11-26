@@ -18,8 +18,8 @@ data:
   socialTies: {}
   gender: female
   species: humanflk
-  born: null
-  died: null
+  born: unknown
+  died: unknown
   height: null
   weight: null
   frame: null
@@ -38,7 +38,7 @@ A dead woman in the war-gear of a Tantsou champion, upright and unhurried, weari
 
 # Dossier {#dossier}
 
-Lei Weiyanleng, "the Bright Jade Cloud", is one of the four human champions of [[affiliation-tantsouempr|Tantsou]] who became Dreadlords of [[place-nuuvakoldi|Nuuvakoldi]]. The Tantsou call such a lord a Chin Zhwo. The word is the living's, made from what soldiers on [[place-tantsouwall|the Wall]] see of the dead, and nothing shows that the dead keep ranks of their own.
+Lei Weiyanleng, "the Bright Jade Cloud", is one of the four human champions of the [[affiliation-tantsouempr|Empire of Tantsou]] who became Dreadlords of [[place-nuuvakoldi|Nuuvakoldi]]. The Tantsou call such a lord a Chin Zhwo. The word is the living's, made from what soldiers on [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] see of the dead, and nothing shows that the dead keep ranks of their own.
 
 ## Background
 
@@ -46,9 +46,9 @@ Lei Weiyanleng was a warrior-sage without equal in healing or in the sword. Her 
 
 She took the place of one of the fallen Elder lords of the council and commands a Host, which the Tantsou name by its commander: the host of Lei Weiyanleng.
 
-The fragment of Hagau, the Tantsou word for the black artifact, is set in a bracelet. She serves [[being-nalduvorkas|Nalduvorkas]], whom the Tantsou call Ha Chen, because there is no choice. Removing the fragment ends her command, and the Host answers to her no more.
+The fragment of Hagau, the court's term for the black artifact, is set in a bracelet. She serves [[being-nalduvorkas|Nalduvorkas]], whom the court of Tantsou calls Ha Chen, because there is no choice. Removing the fragment ends her command, and the Host answers to her no more.
 
-**What the fall cost.** The loss of a warrior-sage without equal was a catastrophe of morale: despair and anguish across the realm, as if the admiral who had led the fleet had gone over to the enemy in the middle of the war. It was also a catastrophe of knowledge. Everything she knew passed to the Sovereign: the dispositions of the Wall, its wards, the two stones, the court's politics, the passwords and ciphers in use. She uses what she knows to gain status under the Sovereign, and in doing so betrays the people she protected.
+**What the fall cost.** The loss of a warrior-sage without equal was a catastrophe of morale: despair and anguish across the realm, as if the realm's marshal had passed into the enemy's camp with the war still being fought. It was also a catastrophe of knowledge. Everything she knew passed to the Sovereign: the dispositions of the Wall, its wards, the two stones, the court's politics, the passwords and ciphers in use. She uses what she knows to gain status under the Sovereign, and in doing so betrays the people she protected.
 
 ## Psyche
 
@@ -62,7 +62,7 @@ Status under the Sovereign, won with what she knows of the realm.
 
 ### Strengths
 
-A healer and a swordswoman with no equal in either, and a sage's knowledge of the realm. What she knows of the realm is the Sovereign's knowledge, and it is as old as the fall: whatever has changed since is something the enemy lacks.
+A healer and a swordswoman with no equal in either, and a sage's knowledge of the realm. What she knows of the realm reached the Sovereign and, through him, the undead. The enemy's knowledge of any matter is as old as the last death that carried it.
 
 ### Weaknesses
 

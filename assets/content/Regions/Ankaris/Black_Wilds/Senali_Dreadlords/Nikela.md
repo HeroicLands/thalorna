@@ -17,8 +17,8 @@ data:
   socialTies: {}
   gender: female
   species: flksenali
-  born: null
-  died: null
+  born: unknown
+  died: unknown
   height: null
   weight: null
   frame: null
@@ -43,7 +43,7 @@ Nìkela is a Senalo lord of the far north, beyond [[place-tantsouwall|the Wall o
 ## Background
 
 :::secret {title="What the survivors of the north remember"}
-Nìkela was a councillor of the long view of [[place-nuuvakoldi|Nuuvakoldi]], in the compact of the Senali and the Khazari under the council of elders. The black artifact, Naldumervel, warped the councillors' minds, and she is now one of the Dreadlords, the rank by which the living Senali, Khazari and Tantsou understand the lords of the undead. The rank is the living's word: nobody knows what the undead call themselves, or whether they hold ranks at all.
+Nìkela was a councillor of [[place-nuuvakoldi|Nuuvakoldi]] who held the long view, in the compact of the Senali and the Khazari under the council of elders. The black artifact, Naldumervel, warped the councillors' minds, and she is now one of the Dreadlords, the rank by which the living Senali, Khazari and Tantsou understand the lords of the undead. The rank is the living's word: nobody knows what the undead call themselves, or whether they hold ranks at all.
 
 She remembers having been a Senalo. It may mean nothing to her now.
 :::
@@ -53,7 +53,7 @@ She remembers having been a Senalo. It may mean nothing to her now.
 ### Personality
 
 :::secret {title="The Dreadlord"}
-Nìkela is sentient, ancient and a rival of the other Dreadlords. Patient. Her portrayal beyond that is the Game Master's.
+Nìkela is sentient, ancient and a rival of the other Dreadlords. She was a councillor of the long view, and she is patient still. Her portrayal beyond that is the Game Master's.
 :::
 
 ### Motivation
@@ -65,7 +65,7 @@ Nìkela serves [[being-nalduvorkas|Nalduvorkas]] because she has no choice. Her 
 ### Strengths
 
 :::secret {title="The Dreadlord"}
-Nìkela commands a Host, with the Harrowers and Wights beneath it. A fragment of Naldumervel is set in a collar, and only a sentient undead can use a fragment. She can enter the Spirit World at will, as every Senalo can.
+Nìkela commands a Host, with the captains and the lesser undead beneath it. A fragment of Naldumervel is set in a collar, and only a sentient undead can use a fragment. She can enter the Spirit World at will, as every Senalo can.
 :::
 
 ### Weaknesses

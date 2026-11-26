@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-A tall Senali stands before you, and a dark fragment of ore is set into his brow. He speaks, and the sounds come in pieces that do not join into sense.
+A tall Senalo stands before you, and a dark fragment of ore is set into his brow. He speaks, and the sounds come in pieces that do not join into sense.
 
 # Dossier {#dossier}
 
@@ -74,15 +74,19 @@ The hunger of the dead is to destroy all life. He is constantly seeking a way to
 
 ### Strengths
 
-Every undead of the city is bound to his will, and the Dreadlords each command a Host.
+The Dreadlords each command a Host.
 
 :::secret {title="What he commands"}
-The Dreadlords serve him because they have no choice. Removing a Dreadlord's fragment ends that lord's command, and the fragment in his own brow is the Prime fragment. Because the undead cannot go where the white artifact lies, the living agents of the Sovereign, the [[affiliation-hazhao|Shadow Sect]] among them, are the means by which he acts on what the dead know.
+Every undead of the city is bound to his will. The Dreadlords serve him because they have no choice. Removing a Dreadlord's fragment ends that lord's command, and the fragment in his own brow is the Prime fragment. Because the undead cannot go where the white artifact lies, the living agents of the Sovereign, the [[affiliation-hazhao|The Shadow Sect]] among them, are the means by which he acts on what the dead know.
 :::
 
 ### Weaknesses
 
-He cannot pass the Wall, and he cannot take the white artifact: it nullifies the black on contact, which destroys the undead.
+He cannot pass the Wall.
+
+:::secret {title="Why he cannot take it"}
+He cannot take the white artifact: it nullifies the black on contact, which destroys the undead.
+:::
 
 ## Social
 
@@ -102,9 +106,6 @@ He cannot pass the Wall, and he cannot take the white artifact: it nullifies the
 - [[being-shouzhiwengmei|Shou Zhiwengmei]]: a Dreadlord who commands a Host.
 
 ## Plot Hooks
-
-The Title in the Sleeper's Mouth
-: A soldier back from beyond the Wall is battle-worn and sleeps badly, and the title he cries out in his sleep is a court term. Nobody at home believes his account of the walking dead, and the party must find where he heard it.
 
 :::secret {title="The Sovereign's Agents"}
 The Hand That Acts

@@ -17,8 +17,8 @@ data:
   socialTies: {}
   gender: male
   species: flksenali
-  born: null
-  died: null
+  born: unknown
+  died: unknown
   height: null
   weight: null
   frame: null
@@ -43,7 +43,7 @@ Rummatti is a Senalo lord of the far north, beyond [[place-tantsouwall|the Wall 
 ## Background
 
 :::secret {title="What the survivors of the north remember"}
-Rummatti was a war-leader of the compact of [[place-nuuvakoldi|Nuuvakoldi]], in the compact of the Senali and the Khazari under the council of elders. The black artifact, Naldumervel, warped the councillors' minds, and he is now one of the Dreadlords, the rank by which the living Senali, Khazari and Tantsou understand the lords of the undead. The rank is the living's word: nobody knows what the undead call themselves, or whether they hold ranks at all.
+Rummatti was a war-leader of the council of [[place-nuuvakoldi|Nuuvakoldi]], in the compact of the Senali and the Khazari under the council of elders. The black artifact, Naldumervel, warped the councillors' minds, and he is now one of the Dreadlords, the rank by which the living Senali, Khazari and Tantsou understand the lords of the undead. The rank is the living's word: nobody knows what the undead call themselves, or whether they hold ranks at all.
 
 He remembers having been a Senalo. It may mean nothing to him now.
 :::
@@ -65,7 +65,7 @@ Rummatti serves [[being-nalduvorkas|Nalduvorkas]] because he has no choice. His 
 ### Strengths
 
 :::secret {title="The Dreadlord"}
-Rummatti commands a Host, with the Harrowers and Wights beneath it. A fragment of Naldumervel is set in a headband, and only a sentient undead can use a fragment. He can enter the Spirit World at will, as every Senalo can.
+Rummatti commands a Host, with the captains and the lesser undead beneath it. A fragment of Naldumervel is set in a headband, and only a sentient undead can use a fragment. He can enter the Spirit World at will, as every Senalo can.
 :::
 
 ### Weaknesses

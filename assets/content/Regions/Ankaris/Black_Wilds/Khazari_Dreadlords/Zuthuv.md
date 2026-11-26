@@ -24,7 +24,7 @@ data:
 
 # Appearance {#appearance}
 
-Zuthuv was a Khazár woman, short and broad in the build of her people and bearded as every adult Khazár is. She wore a torc.
+Zuthuv was a Khazár woman, short and broad in the build of her people and bearded as every adult Khazár is.
 
 # Dossier {#dossier}
 
@@ -40,8 +40,6 @@ A traveler from the north gave the council a large artifact of unknown ore, whic
 
 Zuthuv was one of the twelve original elders who became Dreadlords, and one of the four who were destroyed over the millennia in untold battles. Human champions of Tantsou replaced the four. The Dreadlords were sentient, ancient and rivals of one another.
 
-She bore a fragment of the black artifact set in a torc. A fragment kept by a living person slowly kills the keeper in mind and body until the keeper wakes as a sentient undead, and only a sentient undead can use one. Zuthuv commanded a Host through it while she stood among the twelve. The Khazari have no word for a Host and name a body by its commander. A Dreadlord served because there was no choice, and removing the fragment ends a lord's command.
-
 Everything Zuthuv knew as a councillor passed to the Sovereign when she rose, and nothing that came after her destruction takes it back. Her knowledge dated from before the Wall.
 
 ## Psyche
@@ -53,14 +51,6 @@ Zuthuv was sentient and ancient. A risen Elder remembers having been Senali or K
 ### Motivation
 
 The risen Elder dead hunger to destroy all life. Zuthuv could not refuse the Sovereign.
-
-### Strengths
-
-She commanded a Host and, through the Harrowers (_Gazadir_) and Wights (_Mankir_) beneath her, its Legions and Cohorts.
-
-### Weaknesses
-
-Her command rested on the fragment and ended with its removal. The white artifact in the Wall, _Malz-bugán_ to the Khazari, nullifies the black on contact, which destroys the undead.
 
 ## Social
 

@@ -24,7 +24,7 @@ data:
 
 # Appearance {#appearance}
 
-Hadarin was a Khazár man, short and broad in the build of his people and bearded as every adult Khazár is. He wore a ring.
+Hadarin was a Khazár man, short and broad in the build of his people and bearded as every adult Khazár is.
 
 # Dossier {#dossier}
 
@@ -40,8 +40,6 @@ A traveler from the north gave the council a large artifact of unknown ore, whic
 
 Hadarin was one of the twelve original elders who became Dreadlords, and one of the four who were destroyed over the millennia in untold battles. Human champions of Tantsou replaced the four. The Dreadlords were sentient, ancient and rivals of one another.
 
-He bore a fragment of the black artifact set in a ring. A fragment kept by a living person slowly kills the keeper in mind and body until the keeper wakes as a sentient undead, and only a sentient undead can use one. Hadarin commanded a Host through it while he stood among the twelve. The Khazari have no word for a Host and name a body by its commander. A Dreadlord served because there was no choice, and removing the fragment ends a lord's command.
-
 Everything Hadarin knew as a councillor passed to the Sovereign when he rose, and nothing that came after his destruction takes it back. His knowledge dated from before the Wall.
 
 ## Psyche
@@ -53,14 +51,6 @@ Hadarin was sentient and ancient. A risen Elder remembers having been Senali or 
 ### Motivation
 
 The risen Elder dead hunger to destroy all life. Hadarin could not refuse the Sovereign.
-
-### Strengths
-
-He commanded a Host and, through the Harrowers (_Gazadir_) and Wights (_Mankir_) beneath him, its Legions and Cohorts.
-
-### Weaknesses
-
-His command rested on the fragment and ended with its removal. The white artifact in the Wall, _Malz-bugán_ to the Khazari, nullifies the black on contact, which destroys the undead.
 
 ## Social
 

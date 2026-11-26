@@ -18,8 +18,8 @@ data:
   socialTies: {}
   gender: male
   species: humanflk
-  born: null
-  died: null
+  born: unknown
+  died: unknown
   height: null
   weight: null
   frame: null
@@ -38,7 +38,7 @@ A dead man in the war-gear of a Tantsou champion, upright and unhurried, wearing
 
 # Dossier {#dossier}
 
-Kwo Daurauzho, "the Great Thunder-Dragon", is one of the four human champions of [[affiliation-tantsouempr|Tantsou]] who became Dreadlords of [[place-nuuvakoldi|Nuuvakoldi]]. The Tantsou call such a lord a Chin Zhwo. The word is the living's, made from what soldiers on [[place-tantsouwall|the Wall]] see of the dead, and nothing shows that the dead keep ranks of their own.
+Kwo Daurauzho, "the Great Thunder-Dragon", is one of the four human champions of the [[affiliation-tantsouempr|Empire of Tantsou]] who became Dreadlords of [[place-nuuvakoldi|Nuuvakoldi]]. The Tantsou call such a lord a Chin Zhwo. The word is the living's, made from what soldiers on [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] see of the dead, and nothing shows that the dead keep ranks of their own.
 
 ## Background
 
@@ -46,9 +46,9 @@ Kwo Daurauzho was the foremost general of his age. His given name is a granted n
 
 He took the place of one of the fallen Elder lords of the council and commands a Host, which the Tantsou name by its commander: the host of Kwo Daurauzho.
 
-The fragment of Hagau, the Tantsou word for the black artifact, is set in a headband. He serves [[being-nalduvorkas|Nalduvorkas]], whom the Tantsou call Ha Chen, because there is no choice. Removing the fragment ends his command, and the Host answers to him no more.
+The fragment of Hagau, the court's term for the black artifact, is set in a headband. He serves [[being-nalduvorkas|Nalduvorkas]], whom the court of Tantsou calls Ha Chen, because there is no choice. Removing the fragment ends his command, and the Host answers to him no more.
 
-**What the fall cost.** The loss of the foremost general of the age was a catastrophe of morale: despair and anguish across the realm, as if the admiral who had led the fleet had gone over to the enemy in the middle of the war. It was also a catastrophe of knowledge. Everything he knew passed to the Sovereign: the dispositions of the Wall, its wards, the two stones, the court's politics, the passwords and ciphers in use. He uses what he knows to gain status under the Sovereign, and in doing so betrays the people he protected.
+**What the fall cost.** The loss of the foremost general of the age was a catastrophe of morale: despair and anguish across the realm, as if the marshal who had commanded the armies in the field had crossed to the enemy's side while the war was still undecided. It was also a catastrophe of knowledge. Everything he knew passed to the Sovereign: the dispositions of the Wall, its wards, the two stones, the court's politics, the passwords and ciphers in use. He uses what he knows to gain status under the Sovereign, and in doing so betrays the people he protected.
 
 ## Psyche
 
@@ -62,7 +62,7 @@ Status under the Sovereign, won with what he knows of the realm.
 
 ### Strengths
 
-The first general of the age, and a master of the realm's armies in the field. What he knows of the realm is the Sovereign's knowledge, and it is as old as the fall: whatever has changed since is something the enemy lacks.
+The first general of the age, and a master of the realm's armies in the field. What he knows of the realm reached the Sovereign and, through him, the undead. The enemy's knowledge of any matter is as old as the last death that carried it.
 
 ### Weaknesses
 

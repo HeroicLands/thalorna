@@ -3,7 +3,7 @@ shortcode: ukkendala
 name: {full: Ukkendala}
 type: being
 subType: npc
-description: "A Senali lord of the far north, beyond the Wall of the Ten Thousand Watchfires."
+description: "A Senali lord of the far north, beyond the Wall of the Ten Thousand Watchfires, destroyed in the battles."
 tags: [gm, draft]
 data:
   icon: icon-person
@@ -17,8 +17,8 @@ data:
   socialTies: {}
   gender: female
   species: flksenali
-  born: null
-  died: null
+  born: unknown
+  died: unknown
   height: null
   weight: null
   frame: null
@@ -34,18 +34,18 @@ data:
 
 # Appearance {#appearance}
 
-There is nothing to see of Ukkendala. Her seat is empty.
+There is nothing to see of Ukkendala.
 
 # Dossier {#dossier}
 
-Ukkendala was a Senali lord of the far north, beyond [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]]. Everything else about her is Game Master material.
+Ukkendala was a Senalo lord of the far north, beyond [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]]. Everything else about her is Game Master material.
 
 ## Background
 
 :::secret {title="What the survivors of the north remember"}
-Ukkendala was a councillor of [[place-nuuvakoldi|Nuuvakoldi]], in the compact of the Senali and the Khazari under the council of elders. She was a lord the others drew on. The black artifact, Naldumervel, warped the councillors' minds, and she became one of the Dreadlords, the rank by which the living Senali, Khazari and Tantsou understand the lords of the undead. The rank is the living's word: nobody knows what the undead call themselves, or whether they hold ranks at all.
+Ukkendala was a councillor of [[place-nuuvakoldi|Nuuvakoldi]], in the compact of the Senali and the Khazari under the council of elders. The black artifact, Naldumervel, warped the councillors' minds, and she became one of the Dreadlords, the rank by which the living Senali, Khazari and Tantsou understand the lords of the undead. The rank is the living's word: nobody knows what the undead call themselves, or whether they hold ranks at all.
 
-She was destroyed in the battles. Her seat is empty.
+She was destroyed in the battles.
 :::
 
 ## Social
@@ -62,5 +62,5 @@ She was destroyed in the battles. Her seat is empty.
 :::secret {title="Hooks of the north"}
 
 1. **What she knew.** Whatever Ukkendala knew of the compact and the council reached the Sovereign and is known to the undead. A living Senalo or Khazar who holds a secret of those days has no reason to think it is kept from the north.
-2. **A lord can be destroyed.** Ukkendala was destroyed in the battles. A party that learns this learns that the Dreadlords can fall, and that the white artifact nullifies the black on contact, which destroys the undead.
+2. **A lord can be destroyed.** Ukkendala was destroyed in the battles. A party that learns this learns that the Dreadlords can fall.
    :::

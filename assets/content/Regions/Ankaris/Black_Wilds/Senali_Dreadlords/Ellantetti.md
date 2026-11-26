@@ -17,8 +17,8 @@ data:
   socialTies: {}
   gender: male
   species: flksenali
-  born: null
-  died: null
+  born: unknown
+  died: unknown
   height: null
   weight: null
   frame: null
@@ -65,7 +65,7 @@ Ellantetti serves [[being-nalduvorkas|Nalduvorkas]] because he has no choice. Hi
 ### Strengths
 
 :::secret {title="The Dreadlord"}
-Ellantetti commands a Host, with the Harrowers and Wights beneath it. A fragment of Naldumervel is set in a ring, and only a sentient undead can use a fragment. He can enter the Spirit World at will, as every Senalo can.
+Ellantetti commands a Host, with the captains and the lesser undead beneath it. A fragment of Naldumervel is set in a ring, and only a sentient undead can use a fragment. He can enter the Spirit World at will, as every Senalo can.
 :::
 
 ### Weaknesses

@@ -24,11 +24,11 @@ data:
 
 # Appearance {#appearance}
 
-Nagaran is a Khazár man, short and broad in the build of his people and bearded as every adult Khazár is. He wears a headband.
+Nagaran is a dead Khazár, short and broad in the build of his people and bearded as every adult Khazár was, and as still as stone. No breath moves him, and the cold of his presence reaches you before his eyes do. On his person is a headband set with dark ore, and the cold is strongest at it.
 
 # Dossier {#dossier}
 
-**Guardian of the gates of [[place-nuuvakoldi|Nuuvakoldi]], now a Khagalir, a Dreadlord. Commands a Host and serves the [[being-nalduvorkas|Sovereign]] because he has no choice.**
+**Guardian of the gates of [[place-nuuvakoldi|Nuuvakoldi]], now a Khagalir, a Dreadlord. Commands a Host and serves the Sovereign, [[being-nalduvorkas|Nalduvorkas]], because he has no choice.**
 
 Nagaran is of Clan [Gurráz]{.name data-type="affiliation/lineage"}. His given name is built on watching the approaches. The Khazari word for what the living now understand him to be is _Khagalir_, "one of dread"; the garrisons of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] say _Chin Zhwo_. Both are the living peoples' terms. Nobody knows what the undead call themselves, or whether they have ranks at all.
 
@@ -56,7 +56,7 @@ His hunger is to destroy all life. He cannot refuse the Sovereign.
 
 ### Strengths
 
-He commands a Host and, through the Harrowers (_Gazadir_) and Wights (_Mankir_) beneath him, its Legions and Cohorts. He holds the knowledge of the approaches and gates of the city from before the Wall.
+He commands his host and, through the Harrowers (_Gazadir_) and the empty ones (_Mankir_) beneath him, directs it. He holds the knowledge of the approaches and gates of the city from before the Wall.
 
 ### Weaknesses
 
