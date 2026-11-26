@@ -57,7 +57,7 @@ The risen Elder dead hunger to destroy all life. Hadarin could not refuse the So
 ### Affiliations
 
 - **The Sovereign**: [[being-nalduvorkas|Nalduvorkas]], his master. All the undead of the city are bound to his will.
-- **The Dreadlords**: The living Khazari lords are [[being-gatharan|Gatharan]], [[being-fivid|Fivid]] and [[being-nagaran|Nagaran]]. The other fallen Khazari lords are [[being-zuthuv|Zuthuv]] and [[being-dhalaz|Dhalaz]].
+- **The Dreadlords**: The Khazari lords who remain are [[being-gatharan|Gatharan]], [[being-fivid|Fivid]] and [[being-nagaran|Nagaran]]. The other fallen Khazari lords are [[being-zuthuv|Zuthuv]] and [[being-dhalaz|Dhalaz]].
 
 ## Plot Hooks
 

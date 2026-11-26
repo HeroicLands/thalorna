@@ -3,7 +3,7 @@ shortcode: ukkendala
 name: {full: Ukkendala}
 type: being
 subType: npc
-description: "A Senali lord of the far north, beyond the Wall of the Ten Thousand Watchfires, destroyed in the battles."
+description: "A Senali lord of the far north, beyond the Wall of the Ten Thousand Watchfires."
 tags: [gm, draft]
 data:
   icon: icon-person
@@ -61,6 +61,6 @@ She was destroyed in the battles.
 
 :::secret {title="Hooks of the north"}
 
-1. **What she knew.** Whatever Ukkendala knew of the compact and the council reached the Sovereign and is known to the undead. A living Senalo or Khazar who holds a secret of those days has no reason to think it is kept from the north.
+1. **What she knew.** Whatever Ukkendala knew of the compact and the council reached the Sovereign and is known to the undead. A living Senalo or Khazár who holds a secret of those days has no reason to think it is kept from the north.
 2. **A lord can be destroyed.** Ukkendala was destroyed in the battles. A party that learns this learns that the Dreadlords can fall.
    :::

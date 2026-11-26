@@ -38,13 +38,13 @@ A dead woman in the war-gear of a Tantsou champion, upright and unhurried, weari
 
 # Dossier {#dossier}
 
-Shou Zhiwengmei, "the Star-Wind Dream", is one of the four human champions of the [[affiliation-tantsouempr|Empire of Tantsou]] who became Dreadlords of [[place-nuuvakoldi|Nuuvakoldi]]. The Tantsou call such a lord a Chin Zhwo. The word is the living's, made from what soldiers on [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] see of the dead, and nothing shows that the dead keep ranks of their own.
+Shou Zhiwengmei, "the Star-Wind Dream", is one of the four human champions of the [[affiliation-tantsouempr|Empire of Tantsou]] who became Dreadlords of [[place-nuuvakoldi|Nuuvakoldi]]. The garrisons of the Wall call such a lord a Chin Zhwo. The word is the living's, made from what soldiers on [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] see of the dead, and nothing shows that the dead keep ranks of their own.
 
 ## Background
 
 Shou Zhiwengmei was the greatest seer-champion of her generation. She read the north in dreams and went to meet it. Her given name is a granted name, the honor the empire confers for outstanding service, set after her family name Shou.
 
-She took the place of one of the fallen Elder lords of the council and commands a Host, which the Tantsou name by its commander: the host of Shou Zhiwengmei.
+She is among the champions who replaced the fallen Elder lords of the council, and commands a Host, which the garrisons name by its commander: the host of Shou Zhiwengmei.
 
 The fragment of Hagau, the court's term for the black artifact, is set in a hairpin. She serves [[being-nalduvorkas|Nalduvorkas]], whom the court of Tantsou calls Ha Chen, because there is no choice. Removing the fragment ends her command, and the Host answers to her no more.
 

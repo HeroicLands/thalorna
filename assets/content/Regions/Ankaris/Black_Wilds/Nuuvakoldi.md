@@ -23,7 +23,7 @@ data:
 ## Who Holds It {#who-holds-it}
 
 :::secret {title="The seat of the Sovereign"}
-The dead hold Nuuvakoldi, and every one of them is bound to the will of [[being-nalduvorkas|Nalduvorkas]], the Sovereign, whose seat the city is. Each of the twelve living Dreadlords commands a Host: [[being-ellantetti|Ellantetti]], [[being-vainessala|Vainessala]], [[being-rummatti|Rummatti]], [[being-nikela|Nìkela]], [[being-terkatti|Terkatti]], [[being-gatharan|Gatharan]], [[being-fivid|Fivid]], [[being-nagaran|Nagaran]], [[being-doutuijingwo|Dou Tuijingwo]], [[being-kwodaurauzho|Kwo Daurauzho]], [[being-leiweiyanleng|Lei Weiyanleng]] and [[being-shouzhiwengmei|Shou Zhiwengmei]]. Dreadlord, the captains beneath each lord and the lesser undead are the living peoples' terms for what they have seen and understood of the dead. Nobody knows what the dead call themselves, or whether they hold ranks at all.
+The dead hold Nuuvakoldi, and every one of them is bound to the will of [[being-nalduvorkas|Nalduvorkas]], the Sovereign, whose seat the city is. Each of the twelve Dreadlords commands a Host: [[being-ellantetti|Ellantetti]], [[being-vainessala|Vainessala]], [[being-rummatti|Rummatti]], [[being-nikela|Nìkela]], [[being-terkatti|Terkatti]], [[being-gatharan|Gatharan]], [[being-fivid|Fivid]], [[being-nagaran|Nagaran]], [[being-doutuijingwo|Dou Tuijingwo]], [[being-kwodaurauzho|Kwo Daurauzho]], [[being-leiweiyanleng|Lei Weiyanleng]] and [[being-shouzhiwengmei|Shou Zhiwengmei]]. Dreadlord, the captains beneath each lord and the lesser undead are the living peoples' terms for what they have seen and understood of the dead. Nobody knows what the dead call themselves, or whether they hold ranks at all.
 :::
 
 ## Layers {#history}
