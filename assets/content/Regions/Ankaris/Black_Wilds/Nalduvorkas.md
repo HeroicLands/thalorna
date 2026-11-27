@@ -48,6 +48,10 @@ He is one individual. His title is not an office and not a rank, and it stands i
 Nalduvorkas is the old head of the council of [[place-nuuvakoldi|Nuuvakoldi]]: a Senali, aloof and powerful in magic, who led the compact that joined the Senali and the Khazari. He came to the head of the council by competence and, not least, by politics; nothing in his birth set him there. His highly attuned connection to magic left him particularly vulnerable to the black artifact, and the council's decision to keep it in its own chambers was the artifact's work. He is barely comprehensible now and is not the person he was. All the undead of the city are bound to his will.
 :::
 
+:::secret {title="His old name"}
+Before he became the Sovereign he was Sìlketti, the name he was born with. The survivors of Nuuvakoldi know it and do not use it for what he has become, and the Khazari keep it from the humans. A party that learns it learns that the ruler of the north is no stranger but the former head of the council.
+:::
+
 :::secret {title="The Prime fragment"}
 The Prime fragment of the black artifact, which the Senali call Naldumervel, the Khazari Dhamv-vulád and the court of Tantsou Hagau, is embedded in his brow. He is the only one with a fragment set into him; every other fragment sits in an item. The black artifact controls him, and nobody realizes it.
 
