@@ -3,7 +3,7 @@ shortcode: ukkendala
 name: {full: Ukkendala}
 type: being
 subType: npc
-description: "A Senali lord of the far north, beyond the Wall of the Ten Thousand Watchfires."
+description: "A Senali lord of the far north, beyond the Palewall."
 tags: [gm, draft]
 data:
   icon: icon-person
@@ -38,7 +38,7 @@ There is nothing to see of Ukkendala.
 
 # Dossier {#dossier}
 
-Ukkendala was a Senalo lord of the far north, beyond [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]]. Everything else about her is Game Master material.
+Ukkendala was a Senalo lord of the far north, beyond [[place-tantsouwall|the Palewall]]. Everything else about her is Game Master material.
 
 ## Background
 

@@ -3,7 +3,7 @@ shortcode: rummatti
 name: {full: Rummatti}
 type: being
 subType: npc
-description: "A Senali lord of the far north, beyond the Wall of the Ten Thousand Watchfires."
+description: "A Senali lord of the far north, beyond the Palewall."
 tags: [gm, draft]
 data:
   icon: icon-person
@@ -38,7 +38,7 @@ Rummatti stands as tall as any Senalo and as still as stone. No breath moves him
 
 # Dossier {#dossier}
 
-Rummatti is a Senalo lord of the far north, beyond [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]]. Everything else about him is Game Master material.
+Rummatti is a Senalo lord of the far north, beyond [[place-tantsouwall|the Palewall]]. Everything else about him is Game Master material.
 
 ## Background
 
@@ -80,7 +80,7 @@ Taking the fragment from a headband ends his command. The white artifact nullifi
 
 :::secret {title="The Sovereign and the Host"}
 
-- [[being-nalduvorkas|Nalduvorkas]]: the Sovereign, whose will binds every undead of the city. Everything Rummatti knew passed up to the Sovereign when he became undead, and what he knows of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] and of the compact since reached him from others. What he learns now passes up to the Sovereign in turn.
+- [[being-nalduvorkas|Nalduvorkas]]: the Sovereign, whose will binds every undead of the city. Everything Rummatti knew passed up to the Sovereign when he became undead, and what he knows of [[place-tantsouwall|the Palewall]] and of the compact since reached him from others. What he learns now passes up to the Sovereign in turn.
   :::
 
 ### Enemies
@@ -94,7 +94,7 @@ Taking the fragment from a headband ends his command. The white artifact nullifi
 
 :::secret {title="Hooks of the north"}
 
-1. **A meeting in the spirit world.** A living Senalo who transitions into the Spirit World within two or three leagues of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] may meet Rummatti there. The echo of the Wall keeps the undead Senali local to it.
+1. **A meeting in the spirit world.** A living Senalo who transitions into the Spirit World within two or three leagues of [[place-tantsouwall|the Palewall]] may meet Rummatti there. The echo of the Wall keeps the undead Senali local to it.
 2. **What a lost party knew.** A party that fails in the north feeds the Host, and everything its members knew passes up to the Sovereign and from the Sovereign to every undead, Rummatti among them. Any password, cipher or plan the party carried is compromised.
 3. **The fragment.** The fragment set in a headband can be taken, and taking it ends Rummatti's command. A living person who keeps a fragment slowly dies in mind and body, and wakes as a sentient undead.
    :::

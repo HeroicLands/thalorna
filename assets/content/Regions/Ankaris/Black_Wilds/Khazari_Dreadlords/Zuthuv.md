@@ -30,7 +30,7 @@ Zuthuv was a Khazár woman, short and broad in the build of her people and beard
 
 **A councillor of [[place-nuuvakoldi|Nuuvakoldi]], a Khagalir, a Dreadlord, destroyed in the battles.**
 
-Zuthuv was of Clan [Dullák]{.name data-type="affiliation/lineage"}. Her given name is built on grief. The Khazari word for what the living understood her to be is _Khagalir_, "one of dread"; the garrisons of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] say _Chin Zhwo_. Both are the living peoples' terms. Nobody knows what the undead call themselves, or whether they have ranks at all.
+Zuthuv was of Clan [Dullák]{.name data-type="affiliation/lineage"}. Her given name is built on grief. The Khazari word for what the living understood her to be is _Khagalir_, "one of dread"; the garrisons of [[place-tantsouwall|the Palewall]] say _Chin Zhwo_. Both are the living peoples' terms. Nobody knows what the undead call themselves, or whether they have ranks at all.
 
 ## Background
 

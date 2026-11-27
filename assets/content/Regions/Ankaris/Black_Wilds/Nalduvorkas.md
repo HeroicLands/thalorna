@@ -126,7 +126,7 @@ What the Party Knew
 [[place-nuuvakoldi|Nuuvakoldi]]
 : the city of the council, now his seat
 
-[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+[[place-tantsouwall|The Palewall]]
 : the wall he cannot pass
 
 [[lore-flksenali|Senali Folk]]

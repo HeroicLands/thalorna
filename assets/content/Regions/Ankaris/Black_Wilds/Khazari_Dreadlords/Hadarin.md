@@ -30,7 +30,7 @@ Hadarin was a Khazár man, short and broad in the build of his people and bearde
 
 **A councillor of [[place-nuuvakoldi|Nuuvakoldi]], a Khagalir, a Dreadlord, destroyed in the battles.**
 
-Hadarin was of Clan [Gullád]{.name data-type="affiliation/lineage"}. His given name is built on a master. The Khazari word for what the living understood him to be is _Khagalir_, "one of dread"; the garrisons of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] say _Chin Zhwo_. Both are the living peoples' terms. Nobody knows what the undead call themselves, or whether they have ranks at all.
+Hadarin was of Clan [Gullád]{.name data-type="affiliation/lineage"}. His given name is built on a master. The Khazari word for what the living understood him to be is _Khagalir_, "one of dread"; the garrisons of [[place-tantsouwall|the Palewall]] say _Chin Zhwo_. Both are the living peoples' terms. Nobody knows what the undead call themselves, or whether they have ranks at all.
 
 ## Background
 

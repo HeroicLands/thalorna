@@ -30,7 +30,7 @@ Fivid is a dead Khazár, short and broad in the build of her people and bearded 
 
 **Archivist of the council of [[place-nuuvakoldi|Nuuvakoldi]], now a Khagalir, a Dreadlord. Commands a Host and serves the Sovereign, [[being-nalduvorkas|Nalduvorkas]], because she has no choice.**
 
-Fivid is of Clan [Lummáv]{.name data-type="affiliation/lineage"}. Her given name is built on _f-v-d_, to warrant. The Khazari word for what the living now understand her to be is _Khagalir_, "one of dread"; the garrisons of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] say _Chin Zhwo_. Both are the living peoples' terms. Nobody knows what the undead call themselves, or whether they have ranks at all.
+Fivid is of Clan [Lummáv]{.name data-type="affiliation/lineage"}. Her given name is built on _f-v-d_, to warrant. The Khazari word for what the living now understand her to be is _Khagalir_, "one of dread"; the garrisons of [[place-tantsouwall|the Palewall]] say _Chin Zhwo_. Both are the living peoples' terms. Nobody knows what the undead call themselves, or whether they have ranks at all.
 
 ## Background
 

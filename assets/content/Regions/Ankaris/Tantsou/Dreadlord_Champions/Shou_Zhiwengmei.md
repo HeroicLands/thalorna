@@ -38,7 +38,7 @@ A dead woman in the war-gear of a Tantsou champion, upright and unhurried, weari
 
 # Dossier {#dossier}
 
-Shou Zhiwengmei, "the Star-Wind Dream", is one of the four human champions of the [[affiliation-tantsouempr|Empire of Tantsou]] who became Dreadlords of [[place-nuuvakoldi|Nuuvakoldi]]. The garrisons of the Wall call such a lord a Chin Zhwo. The word is the living's, made from what soldiers on [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] see of the dead, and nothing shows that the dead keep ranks of their own.
+Shou Zhiwengmei, "the Star-Wind Dream", is one of the four human champions of the [[affiliation-tantsouempr|Empire of Tantsou]] who became Dreadlords of [[place-nuuvakoldi|Nuuvakoldi]]. The garrisons of the Wall call such a lord a Chin Zhwo. The word is the living's, made from what soldiers on [[place-tantsouwall|the Palewall]] see of the dead, and nothing shows that the dead keep ranks of their own.
 
 ## Background
 

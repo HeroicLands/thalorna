@@ -30,7 +30,7 @@ Nagaran is a dead Khazár, short and broad in the build of his people and bearde
 
 **Guardian of the gates of [[place-nuuvakoldi|Nuuvakoldi]], now a Khagalir, a Dreadlord. Commands a Host and serves the Sovereign, [[being-nalduvorkas|Nalduvorkas]], because he has no choice.**
 
-Nagaran is of Clan [Gurráz]{.name data-type="affiliation/lineage"}. His given name is built on watching the approaches. The Khazari word for what the living now understand him to be is _Khagalir_, "one of dread"; the garrisons of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] say _Chin Zhwo_. Both are the living peoples' terms. Nobody knows what the undead call themselves, or whether they have ranks at all.
+Nagaran is of Clan [Gurráz]{.name data-type="affiliation/lineage"}. His given name is built on watching the approaches. The Khazari word for what the living now understand him to be is _Khagalir_, "one of dread"; the garrisons of [[place-tantsouwall|the Palewall]] say _Chin Zhwo_. Both are the living peoples' terms. Nobody knows what the undead call themselves, or whether they have ranks at all.
 
 ## Background
 

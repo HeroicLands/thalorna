@@ -18,7 +18,7 @@ data:
 
 ## Overview {#overview}
 
-**Nuuvakoldi** is the name of a city in the far north. The name is Senali and means the Starhall; every other tongue uses it as a loanword and has no word of its own for the city. Beyond the [[place-tantsouwall|Wall of the Ten Thousand Watchfires]] the land works against travelers: trees that seem hostile, twisted beasts, and creatures that are plainly dead. Soldiers who have served on the Wall for a year or more know that the dead are restless there. Ordinary people hear the same account as a tall tale told by men who came home from the north not quite right.
+**Nuuvakoldi** is the name of a city in the far north. The name is Senali and means the Starhall; every other tongue uses it as a loanword and has no word of its own for the city. Beyond the [[place-tantsouwall|Palewall]] the land works against travelers: trees that seem hostile, twisted beasts, and creatures that are plainly dead. Soldiers who have served on the Wall for a year or more know that the dead are restless there. Ordinary people hear the same account as a tall tale told by men who came home from the north not quite right.
 
 ## Who Holds It {#who-holds-it}
 
@@ -33,7 +33,7 @@ Nuuvakoldi was the city of the council, and it was a marvel of what the Elder pe
 
 A well-spoken traveler from the north gave the council a large artifact of unknown ore, the black artifact, which the Senali call Naldumervel, the Khazari call Dhamv-vulád and the court of Tantsou calls Hagau. A find of that kind goes to the city's researchers, who study it and report in detail. The council kept it in its own chambers instead, though there was nothing in it to study. That decision was the black artifact's work and no coincidence: it was already bending the council. The councillors then spent more and more time alone with it, until their minds were warped. The head of the council was particularly vulnerable to it, because his connection to magic was so finely attuned.
 
-The council became undead and killed hundreds. The dead rose within moments to kill others, and a fifth of the people survived. The city became the city of the Damned. The survivors fled south with the horde behind them. They crossed a large river just ahead of it and found the dead hampered by the water, so they made their stand there and began the Wall of the Ten Thousand Watchfires. Some labored on it section by section near the river while others fought the incursions across the water.
+The council became undead and killed hundreds. The dead rose within moments to kill others, and a fifth of the people survived. The city became the city of the Damned. The survivors fled south with the horde behind them. They crossed a large river, the [Pale]{.name data-type="place/feature"}, just ahead of it and found the dead hampered by the water, so they made their stand there and began the Palewall. Some labored on it section by section near the river while others fought the incursions across the water.
 :::
 
 ## What Is There Now {#present}
@@ -47,7 +47,7 @@ The city is the seat of the Sovereign and the dead of the city answer to him. Th
 [[being-nalduvorkas|Nalduvorkas]]
 : the Sovereign, whose seat the city is
 
-[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+[[place-tantsouwall|The Palewall]]
 : the wall that stops the horde of the north
 
 [[lore-flksenali|Senali Folk]] and [[lore-flkkhazar|Khazár Folk]]
