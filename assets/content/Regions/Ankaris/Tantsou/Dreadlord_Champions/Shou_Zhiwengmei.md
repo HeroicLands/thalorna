@@ -44,6 +44,8 @@ Shou Zhiwengmei, "the Star-Wind Dream", is one of the four human champions of th
 
 Shou Zhiwengmei was the greatest seer-champion of her generation. She read the north in dreams and went to meet it. Her given name is a granted name, the honor the empire confers for outstanding service, set after her family name Shou.
 
+**What she foresaw.** Before she went north she foresaw a possible future in which the undead destroy the white artifact and the Sovereign comes to rule a world of the dead. She also knew the White Prophecy, a possible future in which the white and black artifacts are reunited in a great battle and the Sovereign's sway is destroyed. The two are views into the same future and share signs, the fall of the Wall among them. She was the greatest of the seers and a master of the craft, and she misunderstood key parts of what she saw. She believed she had prepared protection against the undead and knew the key to reaching the artifact in the north and destroying it. She was terribly wrong, and the result was that she was turned. Everything she knew of both prophecies, and everything then known of the steps toward the White Prophecy, passed to the Sovereign. Nobody but the dead knows the first prophecy exists.
+
 She is among the champions who replaced the fallen Elder lords of the council, and commands a Host, which the garrisons name by its commander: the host of Shou Zhiwengmei.
 
 The fragment of Hagau, the court's term for the black artifact, is set in a hairpin. She serves [[being-nalduvorkas|Nalduvorkas]], whom the court of Tantsou calls Ha Chen, because there is no choice. Removing the fragment ends her command, and the Host answers to her no more.
@@ -78,4 +80,5 @@ She serves the Sovereign, [[being-nalduvorkas|Nalduvorkas]]. The Dreadlords are 
 
 1. **The fragment.** A party that fights through to the lord of a Host can end the command by removing the fragment, if it can reach her hairpin.
 2. **What she knew.** A sortie fails because the enemy was waiting where only her old knowledge could send it. The party learns that every disposition, password and cipher she knew has to be changed wherever it stands.
-3. **Acting on the knowledge.** A living agent of the Sovereign works through the court to use something she carried north, and the party has to learn what it was before it is used.
+3. **The steps are known.** Every step that was known toward the White Prophecy reached the Sovereign through her, so a party that works toward it may be expected. The party has to learn which steps the dead already know.
+4. **Acting on the knowledge.** A living agent of the Sovereign works through the court to use something she carried north, and the party has to learn what it was before it is used.
