@@ -33,7 +33,7 @@ Nuuvakoldi was the city of the council, and it was a marvel of what the Elder pe
 
 A well-spoken traveler from the north gave the council a large artifact of unknown ore, the black artifact, which the Senali call Naldumervel, the Khazari call Dhamv-vulád and the court of Tantsou calls Hagau. A find of that kind goes to the city's researchers, who study it and report in detail. The council kept it in its own chambers instead, though there was nothing in it to study. That decision was the black artifact's work and no coincidence: it was already bending the council. The councillors then spent more and more time alone with it, until their minds were warped. The head of the council was particularly vulnerable to it, because his connection to magic was so finely attuned.
 
-The council became undead and killed hundreds. The dead rose within moments to kill others, and a fifth of the people survived. The city became the city of the Damned. The survivors fled south, and the Senali and Khazari among them raised the Wall of the Ten Thousand Watchfires against the horde that followed.
+The council became undead and killed hundreds. The dead rose within moments to kill others, and a fifth of the people survived. The city became the city of the Damned. The survivors fled south with the horde behind them. They crossed a large river just ahead of it and found the dead hampered by the water, so they made their stand there and began the Wall of the Ten Thousand Watchfires. Some labored on it section by section near the river while others fought the incursions across the water.
 :::
 
 ## What Is There Now {#present}
