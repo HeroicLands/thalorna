@@ -89,7 +89,7 @@ He cannot take the white artifact: it nullifies the black on contact, which dest
 :::
 
 :::secret {title="Running water"}
-Like every undead of the black artifact, he cannot cross a river deeper than his midsection without a ship, a bridge or the like, and the water slows him and makes him clumsier even then. A creek, or water no higher than his shins, stops him not at all. He cannot swim: he sinks to the bottom and the current carries him away. A lake or a sea leaves him slumped as if dead until he is moved onto land, where he soon recovers and rises. This is the tactic most used against the dead.
+He is one of the black artifact's dead, made by it directly or indirectly, as are the Dreadlords and every undead under them, and like them he cannot cross a river deeper than his midsection without a ship, a bridge or the like, and the water slows him and makes him clumsier even then. A creek, or water no higher than his shins, stops him not at all. He cannot swim: he sinks to the bottom and the current carries him away. A lake or a sea leaves him slumped as if dead until he is moved onto land, where he soon recovers and rises. This is the tactic most used against the dead. The rule covers only the black artifact's dead and says nothing of other undead in the setting, which may or may not be sensitive to water.
 :::
 
 ## Social
