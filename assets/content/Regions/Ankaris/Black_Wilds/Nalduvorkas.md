@@ -45,7 +45,7 @@ He is one individual. His title is not an office and not a rank, and it stands i
 ## Background
 
 :::secret {title="What the Senali and Khazari know"}
-Nalduvorkas is the old head of the council of [[place-nuuvakoldi|Nuuvakoldi]]: a Senali, aloof and powerful in magic, who led the compact that joined the Senali and the Khazari. He is barely comprehensible now and is not the person he was. All the undead of the city are bound to his will.
+Nalduvorkas is the old head of the council of [[place-nuuvakoldi|Nuuvakoldi]]: a Senali, aloof and powerful in magic, who led the compact that joined the Senali and the Khazari. He came to the head of the council by competence and, not least, by politics; nothing in his birth set him there. He is barely comprehensible now and is not the person he was. All the undead of the city are bound to his will.
 :::
 
 :::secret {title="The Prime fragment"}
