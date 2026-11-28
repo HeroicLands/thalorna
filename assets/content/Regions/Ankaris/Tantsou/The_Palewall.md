@@ -1,6 +1,6 @@
 ---
 shortcode: tantsouwall
-name: {full: The Wall of the Ten Thousand Watchfires}
+name: {full: The Palewall, tant: [Bwizheng], khaz: [Malíz-zald], sina: [Syekkekostemi]}
 type: place
 subType: structure
 description: "The great wall that defines the boundary of the Empire of Tantsou, thousands of miles from the far northern frontiers to the Grazian Mountains in the far south: carved and gilded Khazari stone near the capital, brick and then rammed earth behind ditches in the hinterlands, and an ancient northern stretch carved with sigils against the undead, crossed only at the garrisoned gates of the transit roads and only with papers."
@@ -17,7 +17,9 @@ data:
 
 ## Overview {#overview}
 
-The Wall of the Ten Thousand Watchfires is the great wall of the [[affiliation-tantsouempr|Empire of Tantsou]], and it defines the empire's boundary. It runs thousands of miles, from the far northern frontiers to the far south, where it ends at [[place-graznmntns|the Grazian Mountains]]. Inside it is the sorted world of the castes, the registers, the [[lore-castelaws|Caste Laws]] and the [Teng Lou]{.name data-type="lore/law"}. Outside its gates are the barbarian lands, the [[place-khzryndsrtrgn|Khazrin Desert]] and the peoples who live there, and the laws and rules of Tantsou end at the wall.
+The Palewall is the great wall of the [[affiliation-tantsouempr|Empire of Tantsou]], and it defines the empire's boundary. It runs thousands of miles, from the far northern frontiers to the far south, where it ends at [[place-graznmntns|the Grazian Mountains]]. Inside it is the sorted world of the castes, the registers, the [[lore-castelaws|Caste Laws]] and the [Teng Lou]{.name data-type="lore/law"}. Outside its gates are the barbarian lands, the [[place-khzryndsrtrgn|Khazrin Desert]] and the peoples who live there, and the laws and rules of Tantsou end at the wall.
+
+The name comes from the color of its walls, which are pale and shimmer in moonlight, and from its place as the last bastion of the living: beyond it lies the north. In the tongues of the peoples who keep it, the wall is Bwizheng in Tantsou, Malíz-zald in Khazari and Syekkekostemi in Senali.
 
 Nobody gets into or out of Tantsou without proper papers and approvals. Near the major transit roads the wall has gates, each with its garrison, and they let people and trade pass.
 
@@ -30,7 +32,7 @@ The wall changes with the country it crosses.
 - **Near the capital and the populated lands** it is [[lore-flkkhazar|Khazari]] work in stone, built with the most elaborate techniques: highly carved, and in places gilded. Its watchtowers are guarded by soldiers in full dress kit.
 - **In the hinterlands** stone gives way to brick.
 - **Farther out** brick gives way to walls of rammed earth, with ditches dug before them.
-- **In the north** the wall lies beyond the Elder enclaves of the north-western mountain line, which stand inside it. [[place-blackwilds|The Black Wilds]] lie outside it, north of the marches. Its northern portion is ancient and intricately carved with magic sigils, and there the wall has a second purpose: with the sigils' help it keeps out the powerful [[lore-undead|undead]] hordes beyond it. For several hundred miles along the northern perimeter a garrison stands every five miles, and the [[lore-wanduo|Wandwo]], the chattel sorcerers, are present at each of them constantly. They are there to reinforce the wall and to give backup against an attack on the wall in their region, and a garrison can call more sorcerers from the garrisons near it by smoke or fire signals. Each noble house of the [[lore-zhazho|Zhazho]] is charged with manning these garrisons from its own Wandwo.
+- **In the north** the wall lies beyond the Elder enclaves of the north-western mountain line, which stand inside it. [[place-blackwilds|The Black Wilds]] lie outside it, north of the marches. Its northern portion is ancient and intricately carved with magic sigils, and there the wall has a second purpose: with the sigils' help it keeps out the powerful [[lore-undead|undead]] hordes beyond it. A large river, the [Pale]{.name data-type="place/feature"}, runs north of the wall there, and the wall follows it where it can. The river is Bwishou in Tantsou, Malíz-ladhav in Khazari and Syekkelanteppi in Senali. For several hundred miles along the northern perimeter a garrison stands every five miles, and the [[lore-wanduo|Wandwo]], the chattel sorcerers, are present at each of them constantly. They are there to reinforce the wall and to give backup against an attack on the wall in their region, and a garrison can call more sorcerers from the garrisons near it by smoke or fire signals. Each noble house of the [[lore-zhazho|Zhazho]] is charged with manning these garrisons from its own Wandwo.
 - **In the far south** the wall ends at the Grazian Mountains. It does not cross the passes toward [[place-vedyarargn|Vedyara]], and [[place-kwisen|Kwisen]], below the Scholars' Door, is a way-station of the empire and not a gate of the wall.
 
 ### The Gates
@@ -59,6 +61,10 @@ No register counts the people of the wall as one place: each garrison is entered
 
 The human-run sections of the wall are commanded by human Wohou officers under the Princes whose provinces the wall crosses. The labor that builds and maintains them is the district corvée, which the Wohou administrators of those districts already answer for to their Princes.
 
+### The Cleared Ground
+
+Along the northern wall, where it follows the river, imperial decree keeps all land from the foot of the wall north to the river, and all land on the river's north shore out to a point 300 paces from the water, clear of trees and of every other means of concealment or camouflage. The decree gives the defenders a clear field of fire against intruders and denies anyone the chance to sneak up on the defenses. Keeping the ground clear is a significant labor and one of the main occupations of the northern garrisons. It is the main reason anyone goes across the northern wall at all.
+
 ### The Northern Posting
 
 The posting of the [[lore-wanduo|Wandwo]] to the northern garrisons is a duty with many purposes, and it is also used as a sign of disfavor, since the posting is bitter cold and generally miserable, with few opportunities for entertainment or distraction. For some it is a punishment assignment. For most it is a one-year posting, often a mark of distinction for those who have served. For those who are punished it is more like a five-year posting that is not forgotten. A year's service is a mark of pride. Service for longer than that is a permanent mark on a Wandwo's record and a mark of disrepute, and a Wandwo who served longer rarely mentions it except to superiors who already know.
@@ -68,6 +74,12 @@ The posting of the [[lore-wanduo|Wandwo]] to the northern garrisons is a duty wi
 In the north the steppe warlord [[being-wogenhenzhuo|Wogen Henzhwo]] holds the tribes of [[place-blackwilds|the Black Wilds]] together in the [[affiliation-hwenhatoucnf|Hwenhatou Confederation]], and his riders raid the northern districts of [[affiliation-kwozhengprv|Kwozheng Province]] from beyond the marches. Infighting among the Wohou lords of the north thinned the frontier garrisons, and those garrisons face the riders, the raids of the [[lore-grukarfolk|Grukar]] and the undead hordes.
 
 In the west the tribes of [[place-idwkrrgn|Idvaqor]] sell the Celestial Road's last stage under the eye of Tantsou, which pays some chiefs and sends riders a week out from the pass to escort caravans over the last stretch. The oasis-holders raise their tolls when the frontier garrisons are thin, and they shelter smugglers running silk out without the bureaus' seal and sorcerers fleeing the [[lore-wanduo|Wandwo]] compounds. A sorcerer who gets past the wall is one the empire cannot recover.
+
+:::secret {title="Why the ground is cleared, and where it is not"}
+Long ago the dead crept up to the wall under cover and made short breaches in it, and the decree on the cleared ground followed. More recent nobility have grown lax in repair and manpower. Where forts and garrisons now stand abandoned, forest has grown up to the riverbank and between the riverbank and the wall.
+
+**The overgrown stretch.** A party sent to an abandoned fort finds forest where bare ground should be, with cover that runs from the river to the wall.
+:::
 
 :::secret {title="Who keeps the northern sigils"}
 The Elder peoples among the wall's first builders carved the sigils of the northern portion, the Khazari who maintain the north keep them, and they hold.
