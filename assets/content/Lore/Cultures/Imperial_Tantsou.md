@@ -18,4 +18,4 @@ The core is also the culture a character takes when the Tantsou are named with n
 
 ## Where the core ends
 
-The core ends where the register thins. South of the central basins the coast turns subtropical and its [[lore-tantsoutribclt|tributary peoples]] keep their own kingdoms' ways under the Empire's seal. North and west of the basins the [[lore-tantsoumrchclt|frontier peoples]] hold the walled marches along [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]]. A subject of the core who travels to either finds the same registers, the same castes and the same formal manner kept differently.
+The core ends where the register thins. South of the central basins the coast turns subtropical and its [[lore-tantsoutribclt|tributary peoples]] keep their own kingdoms' ways under the Empire's seal. North and west of the basins the [[lore-tantsoumrchclt|frontier peoples]] hold the walled marches along [[place-tantsouwall|the Palewall]]. A subject of the core who travels to either finds the same registers, the same castes and the same formal manner kept differently.

@@ -84,7 +84,7 @@ The stronghold's defense is its cliff, its watch on the passes and its refuge, a
 
 ## History {#history}
 
-The houses of the stronghold found its caves and count the hold's years from that finding. The Senali and the Khazari were among the first builders of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], before the empire's dated record opens. The account of [[lore-khazarturn|the Fall of Khazartúrn]] is kept in the stronghold's archive and read at intervals.
+The houses of the stronghold found its caves and count the hold's years from that finding. The Senali and the Khazari were among the first builders of [[place-tantsouwall|the Palewall]], before the empire's dated record opens. The account of [[lore-khazarturn|the Fall of Khazartúrn]] is kept in the stronghold's archive and read at intervals.
 
 ## Relations {#relations}
 
@@ -104,5 +104,5 @@ The houses of the stronghold found its caves and count the hold's years from tha
 [[lore-flkkhazar|The Khazár Folk]]
 : the Deep Folk
 
-[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+[[place-tantsouwall|The Palewall]]
 : the wall, with the gate on the western pass

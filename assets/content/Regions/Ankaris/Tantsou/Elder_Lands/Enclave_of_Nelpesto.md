@@ -68,7 +68,7 @@ Walls and armies do not protect the enclave. The land does. A path into the fore
 
 ## History {#history}
 
-The Senali raised their enclaves as the Elder peoples raised the wall, and no imperial record says when Nelpesto was raised. The Senali and the Khazari were among the first builders of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], before the empire's dated record opens. The arrangement under which the Senali deal with the court is ancient, and the Senali do not say how it began.
+The Senali raised their enclaves as the Elder peoples raised the wall, and no imperial record says when Nelpesto was raised. The Senali and the Khazari were among the first builders of [[place-tantsouwall|the Palewall]], before the empire's dated record opens. The arrangement under which the Senali deal with the court is ancient, and the Senali do not say how it began.
 
 ## Relations {#relations}
 

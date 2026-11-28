@@ -3,7 +3,7 @@ shortcode: nalpnugar
 name: {full: Nalp-nugár, en: [The Watching of the Cold, The Stronghold at the Wall]}
 type: place
 subType: site
-description: "The northernmost Khazari hold of Tantsou, in the cliffs behind the ancient sigil-carved stretch of the Wall of the Ten Thousand Watchfires, where the north-western mountain line meets the wall above the Black Wilds."
+description: "The northernmost Khazari hold of Tantsou, in the cliffs behind the ancient sigil-carved stretch of the Palewall, where the north-western mountain line meets the wall above the Black Wilds."
 tags: [mountain, frontier]
 data:
   demonym: null
@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-**Nalp-nugár** (_nahlp-noo-GAHR_), "the watching of the cold", is the northernmost of the [[lore-flkkhazar|Khazárian]] holds of the [[affiliation-tantsouempr|Empire of Tantsou]]. It stands in the cliffs where the north-western mountain line comes up against [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], behind the wall's ancient northern stretch, the stretch that is intricately carved with sigils. [[place-blackwilds|The Black Wilds]] lie beyond the wall. The imperial registers enter it as the Stronghold at the Wall. About twelve hundred Khazari live there, and about four thousand [[lore-nouwen|Nouwen]] farm the terraces of the valleys below it.
+**Nalp-nugár** (_nahlp-noo-GAHR_), "the watching of the cold", is the northernmost of the [[lore-flkkhazar|Khazárian]] holds of the [[affiliation-tantsouempr|Empire of Tantsou]]. It stands in the cliffs where the north-western mountain line comes up against [[place-tantsouwall|the Palewall]], behind the wall's ancient northern stretch, the stretch that is intricately carved with sigils. [[place-blackwilds|The Black Wilds]] lie beyond the wall. The imperial registers enter it as the Stronghold at the Wall. About twelve hundred Khazari live there, and about four thousand [[lore-nouwen|Nouwen]] farm the terraces of the valleys below it.
 
 From the valleys the hold is a cliff above the wall, ledged and stained, with hollows that are windows. The wall's garrisons stand every five miles along the stretch below it.
 
@@ -61,7 +61,7 @@ A party needs papers, and the garrisons below the hold ask for them at every pos
 [[place-garnguraz|Garn-guráz]]
 : the stronghold to the south, toward the northern end of the line
 
-[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+[[place-tantsouwall|The Palewall]]
 : the wall, with its sigil-carved northern stretch
 
 [[place-blackwilds|The Black Wilds]]

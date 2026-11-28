@@ -14,7 +14,7 @@ This note sets out the road: its route and length, the wells and the hand-offs, 
 
 ## The Route
 
-The road runs about 2,500 miles from the last fortified caravanserai of [[place-byzariargn|Bizaria Region]]'s [[place-eastrnmrch|Eastern March]] to the gate of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] on Tantsou's western pass, with its garrison and customs-house: hot and dusty, more a desert village than anything else, behind fantastic walls of Khazari stone. It bends from well to well, so it is a tenth longer than the straight line. East-bound it crosses three of the [[place-khzryndsrtrgn|Khazrin Desert Region]]'s zones.
+The road runs about 2,500 miles from the last fortified caravanserai of [[place-byzariargn|Bizaria Region]]'s [[place-eastrnmrch|Eastern March]] to the gate of [[place-tantsouwall|the Palewall]] on Tantsou's western pass, with its garrison and customs-house: hot and dusty, more a desert village than anything else, behind fantastic walls of Khazari stone. It bends from well to well, so it is a tenth longer than the straight line. East-bound it crosses three of the [[place-khzryndsrtrgn|Khazrin Desert Region]]'s zones.
 
 | Stretch                      | Miles          | Days      | The ground                                                              |
 | ---------------------------- | -------------- | --------- | ----------------------------------------------------------------------- |
@@ -142,7 +142,7 @@ The sea passage costs as many months as the camels and loses a larger share of w
 [[place-tantsouregin|Tantsou Region]]
 : the road's eastern terminus
 
-[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+[[place-tantsouwall|The Palewall]]
 : the wall whose gate on the western pass ends the road
 
 [[lore-kinhalcrdt|Kin and Hall Credit]]

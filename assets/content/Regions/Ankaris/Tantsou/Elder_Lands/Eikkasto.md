@@ -3,7 +3,7 @@ shortcode: eikkasto
 name: {full: Eikkasto, en: [The Place of the Yew, The Yew Wood]}
 type: place
 subType: site
-description: "A Senali enclave of Tantsou in an old yew forest toward the western end of the north-western mountain line, inside the Wall of the Ten Thousand Watchfires, whose sages advise the court."
+description: "A Senali enclave of Tantsou in an old yew forest toward the western end of the north-western mountain line, inside the Palewall, whose sages advise the court."
 tags: [woodland, frontier]
 data:
   demonym: null
@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-**Eikkasto**, "the place of the yew" in the [[skill-senalilng|Senali language]], is a [[lore-flksenali|Senalian]] enclave of the [[affiliation-tantsouempr|Empire of Tantsou]], an old forest of yew and other dark trees toward the western end of the north-western mountain line, below the stronghold of [[place-tanvdurakh|Tanv-durákh]] and inside [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]]. The imperial registers enter it as the Yew Wood. About a hundred and fifty Senali live there.
+**Eikkasto**, "the place of the yew" in the [[skill-senalilng|Senali language]], is a [[lore-flksenali|Senalian]] enclave of the [[affiliation-tantsouempr|Empire of Tantsou]], an old forest of yew and other dark trees toward the western end of the north-western mountain line, below the stronghold of [[place-tanvdurakh|Tanv-durákh]] and inside [[place-tantsouwall|the Palewall]]. The imperial registers enter it as the Yew Wood. About a hundred and fifty Senali live there.
 
 The court knows the wood for its sages. Senalian scholars of ancient lore, the stars and the natural world come out of it to advise the human elite, classed [[lore-tanchei|Tanchei]], and their counsel is valued and mistrusted in equal measure.
 

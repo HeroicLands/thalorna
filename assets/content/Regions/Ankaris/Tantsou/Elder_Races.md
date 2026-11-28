@@ -25,7 +25,7 @@ The empire places the Elder peoples by function. The placement is binding in law
 
 [[lore-tanchei|Tanchei]], the scholars. Senalian sages of ancient lore, the stars and the natural world are often classified Tanchei and advise the human elite. Their counsel is valued and mistrusted in equal measure, since every scholar at court knows that a Senalo's opinion rests on more centuries of watching than any human library holds. Khazárian masters of engineering, mining and metallurgy are classified Tanchei when they design the empire's fortresses and mines; a Khazari-laid mine follows the rock and needs no timber. Their practical skill is prized, and their deeper knowledge of stone and ore is regarded with awe and unease.
 
-[[lore-wohou|Wohou]], the officers. Khazari of proven courage or generalship are given Wohou rank and hold the garrisons at the strategic places of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], which are its gates, the stretches near the capital and the north. The Khazari's stubbornness under attack is famous. The soldiers under them are human, and an Elder recruit is assigned to the northern garrisons only now and then. Senalian archers and scouts who serve as officers are given the rank too, and are prized for skirmishing and scouting, though their reluctance to commit to a human war before they must is a standing source of friction with their commanders.
+[[lore-wohou|Wohou]], the officers. Khazari of proven courage or generalship are given Wohou rank and hold the garrisons at the strategic places of [[place-tantsouwall|the Palewall]], which are its gates, the stretches near the capital and the north. The Khazari's stubbornness under attack is famous. The soldiers under them are human, and an Elder recruit is assigned to the northern garrisons only now and then. Senalian archers and scouts who serve as officers are given the rank too, and are prized for skirmishing and scouting, though their reluctance to commit to a human war before they must is a standing source of friction with their commanders.
 
 [[lore-zhazho|Zhazho]], rarely. Only the lords of the Elder peoples, or those bound to a ruling house by a great alliance, are classified Zhazho. They manage their people's dealings with the throne, and they know how little their rank would weigh if the court turned against them.
 
@@ -103,7 +103,7 @@ A few Senali and Khazari rise high in the empire as craftsmen, scholars or offic
 [[lore-flkkhazar|Khazari]]
 : the people of the cliff holds
 
-[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+[[place-tantsouwall|The Palewall]]
 : the great wall beyond the northern enclaves
 
 [[lore-chaizho|Chaizho]]

@@ -310,7 +310,7 @@ A hold hides nothing on its face, and its inner life runs through passages a vis
 
 The Vardain show the rule at the scale of a people. They have farmed for Vorgald for thousands of years and see its engineers at work in their valleys every day, and they are not invited in. When the plain fell, the Khazari admitted the refugees to the valleys beneath the hold; that admission, and the protection that goes with it, is the largest thing the Khazari have done for humans.
 
-Tantsou is the one human realm with a lasting relationship with the Khazari. There they hold imperial rank by function, as artisans, scholars, officers and a very few nobles, and they keep their own life inside their enclaves. They are few, and they command [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] at its gates, along the stretches near the capital and in the north; see [[lore-elderraces|Elder Races]].
+Tantsou is the one human realm with a lasting relationship with the Khazari. There they hold imperial rank by function, as artisans, scholars, officers and a very few nobles, and they keep their own life inside their enclaves. They are few, and they command [[place-tantsouwall|the Palewall]] at its gates, along the stretches near the capital and in the north; see [[lore-elderraces|Elder Races]].
 
 ## Held in Service
 

@@ -18,7 +18,7 @@ data:
   notes: "The seat of Kwozheng Province behind the northern marches; about 110,000 people, fed by the tribute grain the barges carry north to the garrisons."
 ---
 
-Kwozheng, the Old Wall, is the seat of [[affiliation-kwozhengprv|Kwozheng Province]], a city of about 110,000 people in the north of the [[place-tantsouregin|Tantsou Region]], behind the fortified marches that face the [[lore-grukarfolk|Grukar]] nests and the steppe beyond them. On the marches the northern stretch of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] is ancient stone carved with sigils, and keeps out the undead hordes.
+Kwozheng, the Old Wall, is the seat of [[affiliation-kwozhengprv|Kwozheng Province]], a city of about 110,000 people in the north of the [[place-tantsouregin|Tantsou Region]], behind the fortified marches that face the [[lore-grukarfolk|Grukar]] nests and the steppe beyond them. On the marches the northern stretch of [[place-tantsouwall|the Palewall]] is ancient stone carved with sigils, and keeps out the undead hordes.
 
 The garrisons of the marches take their pay, orders and grain through Kwozheng, and the Prince's commanders sit here. The north's fields are thin and its winters long, so tribute grain barged north feeds the city and the garrisons.
 

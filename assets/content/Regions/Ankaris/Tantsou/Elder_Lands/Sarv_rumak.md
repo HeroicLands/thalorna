@@ -3,7 +3,7 @@ shortcode: sarvrumak
 name: {full: Sarv-rumák, en: [The Laying of the Slate, The Fallen Stronghold]}
 type: place
 subType: site
-description: "A Khazari hold in the cliffs of Tantsou's north-western mountain line that the Earthshatter brought down, inside the Wall of the Ten Thousand Watchfires, where the Chaizho now range through the fallen halls."
+description: "A Khazari hold in the cliffs of Tantsou's north-western mountain line that the Earthshatter brought down, inside the Palewall, where the Chaizho now range through the fallen halls."
 tags: [ruin, mountain, frontier]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview {#overview}
 
-**Sarv-rumák** (_sahrv-roo-MAHK_), "the laying of the slate", was a [[lore-flkkhazar|Khazárian]] hold in a cliff of layered gray stone near the northern end of the north-western mountain line of the [[affiliation-tantsouempr|Empire of Tantsou]], inside [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]]. The Earthshatter brought its face down, and the imperial registers enter it as the Fallen Stronghold. It lies in the heart of the country the earthquake broke, and the [[lore-chaizho|Chaizho]] range through it.
+**Sarv-rumák** (_sahrv-roo-MAHK_), "the laying of the slate", was a [[lore-flkkhazar|Khazárian]] hold in a cliff of layered gray stone near the northern end of the north-western mountain line of the [[affiliation-tantsouempr|Empire of Tantsou]], inside [[place-tantsouwall|the Palewall]]. The Earthshatter brought its face down, and the imperial registers enter it as the Fallen Stronghold. It lies in the heart of the country the earthquake broke, and the [[lore-chaizho|Chaizho]] range through it.
 
 ## Who Holds It {#who-holds-it}
 

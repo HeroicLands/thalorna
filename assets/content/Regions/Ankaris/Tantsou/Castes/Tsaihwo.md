@@ -64,7 +64,7 @@ The Yaiwo (healers) are the empire's apothecaries and physicians. They are Tsaih
 
 ## The Elder Races
 
-Most [[lore-flksenali|Senali Folk]] and [[lore-flkkhazar|Khazár Folk]] who live within the empire are classified Tsaihwo, because their work fits no other caste so well. Senalian woodcarvers, weavers and jewelers and Khazárian smiths, masons and engineers make work that sells for many times the price of a human master's, and the richest of them live better and wield more influence than many Wohou, whatever their tablets say. Near the capital the carved and gilded stone of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] is Khazari work.
+Most [[lore-flksenali|Senali Folk]] and [[lore-flkkhazar|Khazár Folk]] who live within the empire are classified Tsaihwo, because their work fits no other caste so well. Senalian woodcarvers, weavers and jewelers and Khazárian smiths, masons and engineers make work that sells for many times the price of a human master's, and the richest of them live better and wield more influence than many Wohou, whatever their tablets say. Near the capital the carved and gilded stone of [[place-tantsouwall|the Palewall]] is Khazari work.
 
 ## See Also {#see-also}
 

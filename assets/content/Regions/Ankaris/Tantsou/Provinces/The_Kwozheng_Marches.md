@@ -18,7 +18,7 @@ data:
 
 ## Overview {#overview}
 
-The Kwozheng Marches are the land of [[affiliation-kwozhengprv|Kwozheng Province]], in the north of the [[place-tantsouregin|Tantsou Region]]: the cold coast, the hard-wintered basins of the north and the fortified marchland of watchtowers and garrison colonies toward the nests of the far-northern [[lore-grukarfolk|Grukar Folk]], along the ancient, sigil-carved northern stretch of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], which also keeps out the undead hordes. About 20 million people live here. The city of [[place-kwozheng|Kwozheng]], behind the marches, is the province's seat.
+The Kwozheng Marches are the land of [[affiliation-kwozhengprv|Kwozheng Province]], in the north of the [[place-tantsouregin|Tantsou Region]]: the cold coast, the hard-wintered basins of the north and the fortified marchland of watchtowers and garrison colonies toward the nests of the far-northern [[lore-grukarfolk|Grukar Folk]], along the ancient, sigil-carved northern stretch of [[place-tantsouwall|the Palewall]], which also keeps out the undead hordes. About 20 million people live here. The city of [[place-kwozheng|Kwozheng]], behind the marches, is the province's seat.
 
 ## The Land {#the-land}
 
@@ -61,7 +61,7 @@ The riders of the Black Wilds in the northern districts, the Grukar raids from t
 [[place-blackwilds|The Black Wilds]]
 : the steppe beyond the marches
 
-[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+[[place-tantsouwall|The Palewall]]
 : the wall the northern garrisons stand
 
 [[being-wogenhenzhuo|Wogen Henzhwo]]

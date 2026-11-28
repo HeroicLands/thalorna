@@ -68,7 +68,7 @@ Walls and armies do not protect the enclave. The land does: a path into the yews
 
 ## History {#history}
 
-The Senali raised their enclaves as the Elder peoples raised the wall, and no imperial record says when Eikkasto was raised. The Senali and the Khazari were among the first builders of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], before the empire's dated record opens.
+The Senali raised their enclaves as the Elder peoples raised the wall, and no imperial record says when Eikkasto was raised. The Senali and the Khazari were among the first builders of [[place-tantsouwall|the Palewall]], before the empire's dated record opens.
 
 ## Relations {#relations}
 

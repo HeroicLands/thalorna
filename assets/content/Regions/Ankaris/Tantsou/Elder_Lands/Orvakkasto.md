@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-**Orvakkasto**, "the place of the living wood" in the [[skill-senalilng|Senali language]], is the smallest of the three [[lore-flksenali|Senalian]] enclaves of the [[affiliation-tantsouempr|Empire of Tantsou]], and the one on the front against the [[lore-chaizho|Chaizho]]. Its old forest lies below the northern end of the north-western mountain line, south of the stronghold of [[place-garnguraz|Garn-guráz]] and inside [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], on the edge of the country the Earthshatter broke. The Earthshatter tore up half of the forest by the roots, and the imperial registers have entered it as the Half Wood since. About a hundred Senali live in the half that stands.
+**Orvakkasto**, "the place of the living wood" in the [[skill-senalilng|Senali language]], is the smallest of the three [[lore-flksenali|Senalian]] enclaves of the [[affiliation-tantsouempr|Empire of Tantsou]], and the one on the front against the [[lore-chaizho|Chaizho]]. Its old forest lies below the northern end of the north-western mountain line, south of the stronghold of [[place-garnguraz|Garn-guráz]] and inside [[place-tantsouwall|the Palewall]], on the edge of the country the Earthshatter broke. The Earthshatter tore up half of the forest by the roots, and the imperial registers have entered it as the Half Wood since. About a hundred Senali live in the half that stands.
 
 ## Who Holds It {#who-holds-it}
 

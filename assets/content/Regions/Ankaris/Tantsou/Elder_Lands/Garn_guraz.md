@@ -3,7 +3,7 @@ shortcode: garnguraz
 name: {full: Garn-guráz, en: [The Guarding of the Ridge, The Ridge Stronghold]}
 type: place
 subType: site
-description: "The largest Khazari stronghold of Tantsou, in the cliffs toward the northern end of the north-western mountain line, inside the Wall of the Ten Thousand Watchfires and at the edge of the country the Earthshatter broke."
+description: "The largest Khazari stronghold of Tantsou, in the cliffs toward the northern end of the north-western mountain line, inside the Palewall and at the edge of the country the Earthshatter broke."
 tags: [mountain, frontier]
 data:
   demonym: null
@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-**Garn-guráz** (_gahrn-goo-RAHZ_), "the guarding of the ridge", is the largest of the [[lore-flkkhazar|Khazárian]] strongholds of the [[affiliation-tantsouempr|Empire of Tantsou]]. It stands in the cliffs toward the northern end of the north-western mountain line, toward [[place-blackwilds|the Black Wilds]], inside [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] and a little south of the ancient northern stretch of the wall that is carved with sigils. The imperial registers enter it as the Ridge Stronghold. About fifteen hundred Khazari belong to it, counted with those of its people who work in the imperial cities and those away on the wall. Below the cliffs, about five thousand [[lore-nouwen|Nouwen]] farm the terraces of the stronghold's valleys.
+**Garn-guráz** (_gahrn-goo-RAHZ_), "the guarding of the ridge", is the largest of the [[lore-flkkhazar|Khazárian]] strongholds of the [[affiliation-tantsouempr|Empire of Tantsou]]. It stands in the cliffs toward the northern end of the north-western mountain line, toward [[place-blackwilds|the Black Wilds]], inside [[place-tantsouwall|the Palewall]] and a little south of the ancient northern stretch of the wall that is carved with sigils. The imperial registers enter it as the Ridge Stronghold. About fifteen hundred Khazari belong to it, counted with those of its people who work in the imperial cities and those away on the wall. Below the cliffs, about five thousand [[lore-nouwen|Nouwen]] farm the terraces of the stronghold's valleys.
 
 Seen from the valleys, the stronghold is a cliff: weathered rock, ledges, dark hollows and the long stains where water runs down the face. The hollows are windows and the ledges are sills.
 
@@ -72,7 +72,7 @@ A party needs papers to come this far north, and the Nouwen of the terrace villa
 [[lore-chaizho|Chaizho]]
 : the hunters of the broken country
 
-[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+[[place-tantsouwall|The Palewall]]
 : the wall the stronghold stands inside
 
 [[lore-elderraces|Elder Races]]

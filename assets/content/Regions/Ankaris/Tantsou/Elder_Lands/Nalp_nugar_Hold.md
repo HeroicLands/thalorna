@@ -3,7 +3,7 @@ shortcode: nalpnugarhld
 name: {full: Nalp-nugár Hold, khaz: [nalp-nugár]}
 type: affiliation
 subType: polity
-description: "The Khazari of Nalp-nugár, the northernmost hold of Tantsou, behind the sigil-carved stretch of the Wall of the Ten Thousand Watchfires, governed by the council of its houses' elders and fed by the Nouwen villages of the valleys below it."
+description: "The Khazari of Nalp-nugár, the northernmost hold of Tantsou, behind the sigil-carved stretch of the Palewall, governed by the council of its houses' elders and fed by the Nouwen villages of the valleys below it."
 tags: []
 data:
   templatePriority: null
@@ -53,7 +53,7 @@ sohl: {system: {commonSkills: [khazarlng, tantsoulng]}}
 
 ## Overview {#overview}
 
-**Nalp-nugár Hold** is the community of the [[lore-flkkhazar|Khazár Folk]] at [[place-nalpnugar|Nalp-nugár]], the northernmost Khazárian hold of the [[affiliation-tantsouempr|Empire of Tantsou]], in the cliffs behind the sigil-carved northern stretch of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]]. Its name, _nalp-nugár_, is "the watching of the cold". About twelve hundred Khazari live in the rock, and about four thousand [[lore-nouwen|Nouwen]] of the valleys below the hold live under its protection. The throne recognizes the hold as Elder land and leaves its government to the Khazari.
+**Nalp-nugár Hold** is the community of the [[lore-flkkhazar|Khazár Folk]] at [[place-nalpnugar|Nalp-nugár]], the northernmost Khazárian hold of the [[affiliation-tantsouempr|Empire of Tantsou]], in the cliffs behind the sigil-carved northern stretch of [[place-tantsouwall|the Palewall]]. Its name, _nalp-nugár_, is "the watching of the cold". About twelve hundred Khazari live in the rock, and about four thousand [[lore-nouwen|Nouwen]] of the valleys below the hold live under its protection. The throne recognizes the hold as Elder land and leaves its government to the Khazari.
 
 ## How It Is Ruled {#how-it-is-ruled}
 
@@ -98,5 +98,5 @@ The houses of the hold found its caves and count the hold's years from that find
 [[lore-flkkhazar|The Khazár Folk]]
 : the Deep Folk
 
-[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+[[place-tantsouwall|The Palewall]]
 : the wall, with its sigil-carved northern stretch

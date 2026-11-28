@@ -11,7 +11,7 @@ The Wohou are the warrior nobility of [[affiliation-tantsouempr|Tantsou]], the t
 
 ## Authority and Responsibilities
 
-**Military command.** The Wohou alone hold the right to lead soldiers. Every garrison, field army and campaign is commanded by an officer of this caste, and the [[lore-tsaihuo|Wonong]], the common soldiers of the Tsaihwo, carry their spears on Wohou authority and under Wohou orders. A Prince's strategy is worked out with his Wohou commanders and his [[lore-wanduo|Wandwo]] counselors together, and executed by the former. The human-run sections of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] are commanded by Wohou officers under the Princes whose provinces the wall crosses, and the district corvée that Wohou administrators answer for builds and maintains them.
+**Military command.** The Wohou alone hold the right to lead soldiers. Every garrison, field army and campaign is commanded by an officer of this caste, and the [[lore-tsaihuo|Wonong]], the common soldiers of the Tsaihwo, carry their spears on Wohou authority and under Wohou orders. A Prince's strategy is worked out with his Wohou commanders and his [[lore-wanduo|Wandwo]] counselors together, and executed by the former. The human-run sections of [[place-tantsouwall|the Palewall]] are commanded by Wohou officers under the Princes whose provinces the wall crosses, and the district corvée that Wohou administrators answer for builds and maintains them.
 
 **Judicial authority.** The Princes hold the law in their provinces, and the magistrates and administrators who hear cases, investigate crimes, settle disputes and enforce the [[lore-castelaws|Caste Laws]] in a Prince's name are drawn from this caste. A Wohou provincial administrator holds a district's revenue, its courts and its corvée under the Prince's appointment, and answers to him for all three.
 
@@ -51,7 +51,7 @@ A personal name is granted only to a Wohou of exceptional service, usually for a
 
 ## Elder Races Among the Wohou
 
-[[lore-flkkhazar|Khazari]] warriors of exceptional bravery and strategic gift are honored with the Wohou title. They serve the empire as defenders of its mountain borders, and the fortifications they lay out are the reason those borders hold. The garrisons of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] are staffed mostly by humans, and an Elder recruit is assigned to its northern garrisons only now and then. [[lore-flksenali|Senali]] are granted the standing now and then for military service, and they are valued as scouts and skirmishers for their speed and their silence in woodland; their reluctance to commit to a human war until they must is a standing source of friction between Senalian officers and the commanders they serve under.
+[[lore-flkkhazar|Khazari]] warriors of exceptional bravery and strategic gift are honored with the Wohou title. They serve the empire as defenders of its mountain borders, and the fortifications they lay out are the reason those borders hold. The garrisons of [[place-tantsouwall|the Palewall]] are staffed mostly by humans, and an Elder recruit is assigned to its northern garrisons only now and then. [[lore-flksenali|Senali]] are granted the standing now and then for military service, and they are valued as scouts and skirmishers for their speed and their silence in woodland; their reluctance to commit to a human war until they must is a standing source of friction between Senalian officers and the commanders they serve under.
 
 ## Philosophy of Lei
 

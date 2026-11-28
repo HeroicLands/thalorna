@@ -26,7 +26,7 @@ Here nobody says no. A thing is only not yet sealed.
 
 The [[affiliation-tantsouempr|Empire of Tantsou]] is the oldest continuously governed state in the world, a realm of river basins, terraced hills and crowded cities in the far east of [[place-ankrscntnnt|Ankaris]], with some 120 million people on its rolls. It holds that the cosmos was made by sorting, that the sorting is unfinished, and that every person's work is to keep the sorted world apart from the unsorted. Its Emperor is the Son of Heaven, holder of the [[lore-mandatehvn|Mandate of Heaven]], who reigns from the capital of [[place-zhowen|Zhowen]]; its gods are a celestial bureaucracy that the imperial bureaucracy mirrors; and its people live in eight castes that fix their trade, dress, marriage and the name, if any, they may bear. To the frontier clerk you are a document that arrived without a filing number.
 
-The empire ends at [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], which runs thousands of miles from the far northern frontiers to the Grazian Mountains in the far south and has stood through many dynasties. To a Tantsou it is where the law ends and the sorted world with it: outside its gates are the barbarian lands of the Khazrin and its peoples. Nobody passes the wall, in or out, without proper papers and approvals.
+The empire ends at [[place-tantsouwall|the Palewall]], which runs thousands of miles from the far northern frontiers to the Grazian Mountains in the far south and has stood through many dynasties. To a Tantsou it is where the law ends and the sorted world with it: outside its gates are the barbarian lands of the Khazrin and its peoples. Nobody passes the wall, in or out, without proper papers and approvals.
 
 **The one thing to understand first: a foreigner is unclassified until a bureau says otherwise.** Without classification a stranger cannot own property, sign a contract or seek the law's protection; a crime against him is no crime under the law, and a crime by him is a breach of the order, punished fast. The usual remedy is a bureau's classification, such as the trading classification a merchant receives with a tablet to carry, good for the length of his business. The highest is the Emperor's own decree, rare and kept for dignitaries, ambassadors and those who have done the empire an extraordinary service: it assigns the foreigner a caste, and his standing lasts exactly as long as the Emperor wills it, and his tablet, under the Emperor's own seal, is in practice a safe-conduct anywhere in the empire.
 
@@ -138,7 +138,7 @@ At court you deal with the Caste-Registrar, [[being-cstrgstrtnts|Third Son of th
 
 If you come from the empire itself, you might be a Tanchei clerk rotated to a district that does not want you, as the registrars of [[place-jenshouhall|The District Hall of Jenshou]] are rotated, a [[lore-wohou|Wohou]] officer's younger son waiting on a name he has not been granted, or a grain merchant's clerk at a canal lock above [[place-zhowen|Zhowen]], where a string of rice barges from Wongsen is held on a question of seals while the price rises on both shores. The frame's Ways In bring a party like this to the embassy from the other side of the gate.
 
-A party that comes east by the Celestial Road meets [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] first, at the garrison and customs-house on the western pass, and goes no farther without a classification.
+A party that comes east by the Celestial Road meets [[place-tantsouwall|the Palewall]] first, at the garrison and customs-house on the western pass, and goes no farther without a classification.
 
 ## Where to Read Next
 
@@ -166,7 +166,7 @@ A party that comes east by the Celestial Road meets [[place-tantsouwall|the Wall
 [[place-tantsouregin|The Tantsou Region]]
 : the rivers, the terraces and the neighbors
 
-[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+[[place-tantsouwall|The Palewall]]
 : the wall, its gates and the papers they ask for
 
 [[skill-tantsoulng|The Tantsou language]]

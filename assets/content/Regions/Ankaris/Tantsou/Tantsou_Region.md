@@ -40,7 +40,7 @@ Tantsou is one continuous civilization, whose eight castes have outlasted every 
 
 Mountain ranges enclose the region and divide it into a series of great river basins. The northern lands reach a cold coast. To the west lie the passes and high deserts of the [[place-khzryndsrtrgn|Khazrin]] frontier, where [[lore-celestialroad|the Celestial Road]] ends. To the southwest the unaligned range of [[place-graznmntns|the Grazian Mountains]] stands between Tantsou and [[place-vedyarargn|Vedyara]], crossed by the long passes of [[place-suryadvar|Suryadvar]], Jnanadvar and [[place-shankhadvr|Shankhadvar]]. To the east lies the open ocean and [[place-easternstrt|The Eastern Strait]] that separates the mainland from the [[place-jenchairgn|Jenchai]] archipelago.
 
-On land the empire's boundary is [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], which runs thousands of miles from the far northern frontiers to the Grazian Mountains in the far south. The laws and rules of Tantsou end at the wall, and nobody passes its gates, in or out, without papers and approvals.
+On land the empire's boundary is [[place-tantsouwall|the Palewall]], which runs thousands of miles from the far northern frontiers to the Grazian Mountains in the far south. The laws and rules of Tantsou end at the wall, and nobody passes its gates, in or out, without papers and approvals.
 
 Three great rivers make the basins. Fed by mountain glaciers, they run through the heartland to the eastern ocean and carry commerce, tribute and imperial edicts on the same water. The valleys between them are the most intensively cultivated land in the world: rice, millet, mulberry for the silkworm, tea and orchard fruit feed the crowded river cities. Above the valleys, terraced hillsides climb the foothills in staircases, kept by villages whose terraces have passed down through named lineages for thirty generations or more. A terrace is the first thing a Tantsou points to when asked what the registers are for.
 
@@ -48,7 +48,7 @@ The climate runs from one extreme of the region to the other. The north is cold-
 
 ## Peoples and Culture
 
-The Tantsou are overwhelmingly human. The rare [[lore-flksenali|Senali]] who walk among them do so under a formal arrangement, possibly a coerced one, that ties certain mountain enclaves to the imperial court; the [[lore-flkkhazar|Khazari]], also few beside the Tantsou, command [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]] at its gates, along the stretches near the capital and in the north, where the Elder enclaves of the north-western mountain line stand inside it. Everything else is shaped by the eight castes, from the [[lore-zhazho|Zhazho]], the Sons of the Dragon at the top, through the [[lore-wanduo|Wandwo]] sorcerers bound in service beneath them, the warrior nobles, the celestial scholars, the artisans, the peasant farmers and the merchants, to the outcast [[lore-noutsou|Nwitsou]] at the bottom. A person's caste fixes their trade, their dress, their name, whom they may marry and which protections the law extends to them.
+The Tantsou are overwhelmingly human. The rare [[lore-flksenali|Senali]] who walk among them do so under a formal arrangement, possibly a coerced one, that ties certain mountain enclaves to the imperial court; the [[lore-flkkhazar|Khazari]], also few beside the Tantsou, command [[place-tantsouwall|the Palewall]] at its gates, along the stretches near the capital and in the north, where the Elder enclaves of the north-western mountain line stand inside it. Everything else is shaped by the eight castes, from the [[lore-zhazho|Zhazho]], the Sons of the Dragon at the top, through the [[lore-wanduo|Wandwo]] sorcerers bound in service beneath them, the warrior nobles, the celestial scholars, the artisans, the peasant farmers and the merchants, to the outcast [[lore-noutsou|Nwitsou]] at the bottom. A person's caste fixes their trade, their dress, their name, whom they may marry and which protections the law extends to them.
 
 Cultural life is refined and deeply formal. The imperial tradition prizes calligraphy, poetry, painting, tea-craft, music and a complex cuisine whose techniques pass down through lineages. The civilization that makes some of [[place-worldthlrn|Thalorna]]'s finest porcelain and its most subtle lyric poetry is the one whose caste laws sanction collective punishment, and whose prisons hold the grandchildren of disfavored families as a matter of routine. Tantsou intellectuals treat the two as a single thing: classification is refinement, and refinement is classification.
 
@@ -125,7 +125,7 @@ To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] ne
 [[lore-castelaws|Caste Laws]]
 : the legal structure of the eight castes
 
-[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+[[place-tantsouwall|The Palewall]]
 : the great wall that defines the empire's boundary
 
 [[place-garnguraz|Garn-guráz]], [[place-tanvdurakh|Tanv-durákh]] and [[place-nalpnugar|Nalp-nugár]]

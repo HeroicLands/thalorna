@@ -3,7 +3,7 @@ shortcode: nelpesto
 name: {full: Nelpesto, en: [The Place of Herbs, The Herb Wood]}
 type: place
 subType: site
-description: "The largest Senali enclave of Tantsou, an old forest below the middle of the north-western mountain line, inside the Wall of the Ten Thousand Watchfires, which sends the empire its rare herbs and medicinal plants."
+description: "The largest Senali enclave of Tantsou, an old forest below the middle of the north-western mountain line, inside the Palewall, which sends the empire its rare herbs and medicinal plants."
 tags: [woodland, frontier]
 data:
   demonym: null
@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-**Nelpesto**, "the place of herbs" in the [[skill-senalilng|Senali language]], is the largest of the three [[lore-flksenali|Senalian]] enclaves of the [[affiliation-tantsouempr|Empire of Tantsou]]. It is an old forest below the middle of the north-western mountain line, inside [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], between the strongholds of [[place-garnguraz|Garn-guráz]] to the north and [[place-tanvdurakh|Tanv-durákh]] to the west. The imperial registers enter it as the Herb Wood, for what comes out of it: rare herbs, medicinal plants and, now and then, an enchanted thing. About two hundred and fifty Senali live there.
+**Nelpesto**, "the place of herbs" in the [[skill-senalilng|Senali language]], is the largest of the three [[lore-flksenali|Senalian]] enclaves of the [[affiliation-tantsouempr|Empire of Tantsou]]. It is an old forest below the middle of the north-western mountain line, inside [[place-tantsouwall|the Palewall]], between the strongholds of [[place-garnguraz|Garn-guráz]] to the north and [[place-tanvdurakh|Tanv-durákh]] to the west. The imperial registers enter it as the Herb Wood, for what comes out of it: rare herbs, medicinal plants and, now and then, an enchanted thing. About two hundred and fifty Senali live there.
 
 The trees are older and taller than any in the basins, and few humans go in among them. To the Nouwen villages at the forest's edge the wood is strange country, and they leave it alone.
 

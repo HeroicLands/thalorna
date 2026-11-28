@@ -68,7 +68,7 @@ Walls and armies do not protect a Senali enclave; the land does, and a path into
 
 ## History {#history}
 
-The Senali raised their enclaves as the Elder peoples raised the wall, and no imperial record says when Orvakkasto was raised. The Senali and the Khazari were among the first builders of [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], before the empire's dated record opens. The Earthshatter tore up the northern half of the forest, and the Chaizho came up out of its fissures after it.
+The Senali raised their enclaves as the Elder peoples raised the wall, and no imperial record says when Orvakkasto was raised. The Senali and the Khazari were among the first builders of [[place-tantsouwall|the Palewall]], before the empire's dated record opens. The Earthshatter tore up the northern half of the forest, and the Chaizho came up out of its fissures after it.
 
 ## Relations {#relations}
 

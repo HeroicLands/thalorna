@@ -3,7 +3,7 @@ shortcode: tanvdurakh
 name: {full: Tanv-durákh, en: [The Holding of the Gate, The Western Stronghold]}
 type: place
 subType: site
-description: "The Khazari stronghold at the western end of Tantsou's north-western mountain line, above the passes toward the Khazrin and the gate where the Celestial Road comes through the Wall of the Ten Thousand Watchfires."
+description: "The Khazari stronghold at the western end of Tantsou's north-western mountain line, above the passes toward the Khazrin and the gate where the Celestial Road comes through the Palewall."
 tags: [mountain, frontier]
 data:
   demonym: null
@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-**Tanv-durákh** (_tahnv-doo-RAHKH_), "the holding of the gate", is the [[lore-flkkhazar|Khazárian]] stronghold at the western end of the north-western mountain line of the [[affiliation-tantsouempr|Empire of Tantsou]], where the line turns to face the passes toward the [[place-khzryndsrtrgn|Khazrin]]. It stands inside [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]], toward the end of the line nearest the gate on the western pass, where [[lore-celestialroad|the Celestial Road]] comes through the wall. The imperial registers enter it as the Western Stronghold. About nine hundred Khazari belong to it, counted with those of its people who work in the imperial cities and those away on the wall, and about three thousand [[lore-nouwen|Nouwen]] farm the terraces of its valleys.
+**Tanv-durákh** (_tahnv-doo-RAHKH_), "the holding of the gate", is the [[lore-flkkhazar|Khazárian]] stronghold at the western end of the north-western mountain line of the [[affiliation-tantsouempr|Empire of Tantsou]], where the line turns to face the passes toward the [[place-khzryndsrtrgn|Khazrin]]. It stands inside [[place-tantsouwall|the Palewall]], toward the end of the line nearest the gate on the western pass, where [[lore-celestialroad|the Celestial Road]] comes through the wall. The imperial registers enter it as the Western Stronghold. About nine hundred Khazari belong to it, counted with those of its people who work in the imperial cities and those away on the wall, and about three thousand [[lore-nouwen|Nouwen]] farm the terraces of its valleys.
 
 From the valleys the stronghold is a long gray face above the terraces, ledged and stained, with dark hollows that are windows and a haze along the face on still mornings where its flues let out the smoke.
 
@@ -59,7 +59,7 @@ Seen from the valley track, the stronghold is cliff, and a party does not know i
 [[place-garnguraz|Garn-guráz]]
 : the stronghold toward the northern end of the line
 
-[[place-tantsouwall|The Wall of the Ten Thousand Watchfires]]
+[[place-tantsouwall|The Palewall]]
 : the wall, with the gate on the western pass
 
 [[lore-celestialroad|The Celestial Road]]

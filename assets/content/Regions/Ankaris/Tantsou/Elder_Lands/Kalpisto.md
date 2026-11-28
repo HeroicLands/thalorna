@@ -3,7 +3,7 @@ shortcode: kalpisto
 name: {full: Kalpisto, en: [The Place of Pale Wood, The Torn Wood]}
 type: place
 subType: site
-description: "A Senali wood of Tantsou's north-western mountain line that the Earthshatter tore up by the roots, inside the Wall of the Ten Thousand Watchfires, now a waste of fallen pale trunks where the Chaizho hunt."
+description: "A Senali wood of Tantsou's north-western mountain line that the Earthshatter tore up by the roots, inside the Palewall, now a waste of fallen pale trunks where the Chaizho hunt."
 tags: [ruin, woodland, frontier]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview {#overview}
 
-**Kalpisto**, "the place of pale wood" in the [[skill-senalilng|Senali language]], was a [[lore-flksenali|Senalian]] wood of pale-barked trees in the country below the northern end of the north-western mountain line of the [[affiliation-tantsouempr|Empire of Tantsou]], inside [[place-tantsouwall|the Wall of the Ten Thousand Watchfires]]. The Earthshatter tore it up by the roots, the whole of it, and the imperial registers enter it as the Torn Wood. It lies in the country the earthquake broke, and the [[lore-chaizho|Chaizho]] hunt through it.
+**Kalpisto**, "the place of pale wood" in the [[skill-senalilng|Senali language]], was a [[lore-flksenali|Senalian]] wood of pale-barked trees in the country below the northern end of the north-western mountain line of the [[affiliation-tantsouempr|Empire of Tantsou]], inside [[place-tantsouwall|the Palewall]]. The Earthshatter tore it up by the roots, the whole of it, and the imperial registers enter it as the Torn Wood. It lies in the country the earthquake broke, and the [[lore-chaizho|Chaizho]] hunt through it.
 
 ## Who Holds It {#who-holds-it}
 
