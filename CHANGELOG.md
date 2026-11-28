@@ -1,5 +1,1110 @@
 # thalorna
 
+## 0.3.0
+
+**Peoples and cultures**
+
+- Every affiliation's page lists the people who hold each of its offices.
+- The Mysteries of Helionis, the Helionite devotion to the Veiled Dreamer and the secret mystery cults, have their own page, linked from the Helionis and Helionite pages and from the Helionis guide.
+- The Dunhara Region opens on the land as a whole, the Kingdom of Amradad and the desert tribes side by side, and says what is happening there now.
+- The Dunhari culture describes the settled Amradi: how their dress, hearth, law, faith, trade and speech differ from the tribes'.
+- The five Nyáluba clans (Ruwozi, Kolembozi, Ngonzi, Sengala and Lobwezi) each have a page with their totem, territory, waters, offices and part in the war over the rivers.
+- Each paramount's great cattle-fold is a village seat: Mbolewe, Nyangulo, Ndelushi, Nkabewi and Lombesa, each placed in its clan's country.
+- Heto Lubemo is a full page: the enclosure, its Ngonzi keepers, how the Great Lubemo sits there and what a party meets at the wall.
+- The History of Au'Khelathu tells the empire from the First Occasion to the present flood, and the eight ages of the count each carry their dated events.
+- Okharis, Bethua, the Nyáluba and the Central Rainforests each have a history of their own, and places across the land open a History section.
+- The Celestial Order's faith note now has a Politics section on how the Empire's troubles bear on it.
+- The Jenchai culture links the empire and the region, and the Jenchai gazetteer lists both under the title Jenchai and the abbreviation Jen.
+- The History of Jenchai and The War of the Empty Seat tell Henwo's sixteen years as Teng Ja, the war over the empty office, the abdication and Weileng's enthronement.
+- Youbwi is the Keeper of the Jade Seal, honored at Yujai and at the Moon Festival.
+- The rulers of Tantsou's provinces are Princes, in Tantsou _Zho Zhei_ (Dragon-Child), in place of Warlords. _Wozhwo_ names a war-leader of the steppe or another people, or a Celestial Marshal, never a Prince.
+- Youbwi is the Keeper of the Jade Seal, and the Moon Festival honors her lunar aspect. Her links in the Tantsou region note point to the right deities.
+- Wandwo children who show too little of the gift are adopted into another caste, usually that of a prized vassal of the Zhazho, and the Wandwo are revered, pampered and unfree.
+- The Black Lotus Society and the Shadow Sect each have their own ranks and offices, and the Empire of Tantsou and the Yanchai Zhau appear in the Tantsou gazetteer.
+- The merchants' faction is the Merchant Uprising in every note.
+- The gods and demon lords of the Celestial Order and the Tribes of the Black Wilds are finished and no longer marked as drafts.
+- The Kalipsi have a culture of their own: the house and the hull, the guest's rule and the reading of the drowned.
+- The Seilvri, said SAIL-vree, are alive: a forest people of eastern Dúnavarre whom the Order of the Just Blade still hunts in the woods of Teilvari, the island's open wound.
+- Dúnavarre's Synod, its officers and the Order's knights are people with names, homes and quarrels over the war.
+- Eilwìth's tribes, its warlike southern people, and the Khazari of Vorgald with the Vardain valleys are written.
+- The Kelgar, Bradhar and Lonagar of the Peshtar forest and the Durrask of the Thornwold each have a War-Leader at war with a realm.
+- The Grukar of Eilwìth have their nests in the Highlands, the Peshtar, the Ironfells and south of the lake, each with its ground, its enemies and its present trouble.
+- Eight nests near the Khazari or on a pass, road, lake shore or frontier have their own pages, three of them in abandoned Khazari halls and quarries.
+- Two Grukar-Sha and an old Grukar-Hushk that the frontier knows by name have their own pages.
+- The twelve Aureldian deities have full notes: domain, symbol, feasts in the common calendar, priesthood and temples. Links to them from the lands that keep them open real pages instead of drafts.
+- The peoples of Ki'ich'chik look different from one another: the pyramid cities, the south and each northern people have their own builds, heights, skin, hair, eyes and complexions.
+- The southern Kì'ìch'chik are a culture of their own, and the characters of the southern realms belong to it.
+- Zerathia's peoples each look different: the Khelathi, Bethuan, Okharik, Nyáluba and the forest peoples differ in build, height and skin.
+- New cultures for the Delta Khelathi, the Border Khelathi, the herd-clans of the Southern Savannahs and the gorge-folk of the Central Rainforests. The delta's characters are Delta Khelathi.
+- Aureldian faiths and the Sacred Forge now have a Politics section on where they stand with the other faiths, and most name the regions where they are practiced.
+- The pilots who take ships over the bar at Chendramukhva have a guild note of their own, linked from the characters and the port that name them.
+- The Itsani gods, and Ch'al Ts'umaq the underworld, now have full pages describing their domains, symbols, rites and ties to one another.
+- Kì'ìch'chik's factions have their own pages: the Speaking Road and its slow shrine post, the Canoe Kin, the Eagle and Bear Houses, and six new bodies, from the ball-court keepers who settle feuds by play to the captive-takers of Ishtal'hun.
+- The Song of the Gold Band's introduction, the Second Reading and the Hunger Raids name the Vilérian legions as the military note does.
+- The Title Lexicon lists the ranks of the Ashaian and Itsani faiths under those names.
+- The Title Lexicon lists the Six Ways, The Centre, Ch'um Ish'lan, Zeghet'Nelgu, the Storm Cults and the Sons of Eldheim with their own traditions.
+- Local accounts of the northern taiga's holds keep to observations and beliefs, while private Kaliharan histories retain their events under titles that do not disclose the islanders' name for their teachers.
+- Senali accounts use their own name for the Earlier Strangers and keep their encounters distinct from the Kaliharan account. Comparisons across peoples belong to the GM's optional material.
+- Kaliharan campaign choices concern help, disclosure and custodial authority without settling the works' purposes or the teachers' fate.
+- Sanctuary archive marks are Kaliharan mnemonic signs; custodians preserve tending procedures without claiming to understand the works' underlying principles.
+- The Precursors presents the scholars’ limited conclusions, while The Ithari (GM) gathers the known sites, private accounts and unanswered questions for campaigns.
+- The Áelendan have their own culture page: a conservative human people of the highlands, guardians of the thin places, with a spiritual tradition of their own.
+- The Arcane Order's inquisition and the old magistracy of mages have their own pages, and the Order now says which magic it tolerates and which it forbids.
+- The Ashaian faith names its principles and its bridge of the dead in Atárzadi: truth and right order are _Ozhmar_, the lie is _Ghuzdak_, and the soul crosses the _Mozhelurbek_, the Bridge of the Dead.
+- The Ashaian storm god is now Bazhrámish, in his faith, his rites and the Storm Cults of Dunhara.
+- The compendium folders for the Ashaian deities and their rituals are named Ashaian, matching the faith they belong to.
+- The Atarzád have a culture of their own, so a player can build a Flame-born character, and Kayvonad Zarid and Sharminah Tahvan now belong to it.
+- Aurèldía's Old Way practitioners are shamans throughout, and Élavendre's Grove Council is described in its own grove-elder and grovekeeper terms.
+- The Bethuan Spear-Sisterhood is now called the Lorkhai, and its officers the Lorkhissai.
+- The Blackpine Wolves’ profile reads without a broken illustration.
+- The northern forest above the Grass People belongs to the Spruce People, family hunting bands who meet at the fishing lakes each summer.
+- The Spruce People still argue over the starving strangers they killed on the ice of Loon Lake.
+- Dates on a people's pages are given in that people's own count: the Khelathi, Hellád, Nordland, Vristwald, Vedyaran, Tāntsou, Tellumi and Sovidur calendars, and the Vilérian elsewhere.
+- How the Cedar People's houses decide together, hold each other to their word, pass their names and the first seat, and sit at the Red Stone Compact is described, and their faith, the Meeting, has its own page.
+- Kelwanuk names can be built from their parts, with new names in the lists.
+- The plank-house nobles of the western coast are the Cedar People, the Kelwanuk in their own tongue: hereditary names, seats and giving feasts, with their heroes, the Killing Feast and the slavery they argue over.
+- The hunters' guild is spelled Gar'Nul, and its ranks (Sba-nul, Nul, Lem-nul, Wer-nul) follow the same spelling.
+- Every Hvarn word has a vowel, and the people's own word for themselves, _hvarn_, is no exception.
+- The Tokchili are named in English as the Fire People, and the Kì'ì'chek call them K'ayik Ch'akal, "the great flame".
+- The One Fire's councils, Coal Bearers and succession are described, and its faith, Fire-Keeping, has its own page with its Keepers, knowers, Thunderers and Water Panther.
+- Tokchili names can be built from their parts, with new names in the lists.
+- The Grass People's faith, Earth's Breath, sets out the breathing earth, the Herd Mother, the Sun, the Thunders and the Corn Grandmother, with the bundle keepers, doctors and contraries who deal with them.
+- Their nation says how its leaders are chosen and its law kept, and the Tenlaya Language gives twice as many names to choose from.
+- The bison hunters and earth-lodge farmers of the northern plains are the Grass People, the Tenlaya in their own tongue, with their cliff drives, giveaways and year-robes, and the burned village they still answer for.
+- The sea hunters of the far northwestern coast are the Ice-Edge People, the Tikupilarit in their own tongue, whose kayaks, toggling harpoons, men's houses and winter masks keep a bargain with the animals they hunt.
+- The Itsani priesthood gains its hierarchy, headed by the Q'emul Tq'an at Kul'taq'an, and three bodies of its own: the Star House that computes the days, the Blood-Workers who carry workings into battle, and the Severers who try closed-day working.
+- Tavonei Reithuri, the Kaliharan caravan guard, now works out of Kudumel in Taruzel, and Kalonei Luavanu, the Kaliharan charcoaler, now burns his kilns outside Orzara in Viléria.
+- Kalihari counts all six of its diphthongs as one syllable, and no Kalihari name or word runs past four syllables.
+- The Elders' lake-shore town is Ithorinu, and the Elder of the Marithoa is Kethivori.
+- The lineages of the rain song, the sun path and the deep forest are Ithorinu, Luakovan and Kuathivel.
+- The astrologer is Olivael Ithaluor, called _olitenei_; the canopy glider is the luorithur and the root-canopy tree the manuluor.
+- The faiths of Ataros, Ahurdaen and Zúrathra now describe the quarrel between the Atarzád and the Tellumi over the Flame, and Shirvan's hidden priest is a Shekhul everywhere, with the rumored altar-stone under its fire-temple as a new hook.
+- The Tellumi Council of the Princes, the Atárzád Council of the Twelve and all seven Tellumi princely houses have their own pages, each with who leads it, what it wants, who opposes it and work it offers a party.
+- The Tellumi Confederation and the Tribes of Atárzád set out their standings and offices, from the Zhudek and the Toqel to the heir-in-exile and the agent in a lost city.
+- The Atárzád tribe that holds Shirvan is the Ozhmarod, a name that no longer reads like the Teghumod of Ashkarad.
+- Six Tellumi princely heads carry Tellumi names: Muresha of Shirvan, Nimeshai of Ashkarad, Gureshai of Zargandur, Narvuna of Kethramír, Hemvanai of Mernagord and Nartemai of Ushtra-ber.
+- The steppe tribes of the Khazrin have their own faith, the Open Sky, with its sky-father and earth-mother, its shamans, and the taboos a guest must keep.
+- The six steppe tribes of the Khazrin each name their dovaq, the ground and wells they hold, where they camp through the year, and what a caravan pays them or gets from them.
+- Each tribe's page carries what it raids and fears, and hooks for a party crossing its grass or sands.
+- The Kì'ìch'chik of the pyramid cities and the Grukar each have a culture note, so a Kì'ìch'chik character can be made from what their people believe, prize and owe.
+- The Itsani calendar is set out in full, with its eighteen months, twenty day-signs, five liminal days and the fifty-two-year round of the Living Flame.
+- Kì'ìch'chik warriors fight in iron and steel and keep their armor of feathers and leather for the rites, while obsidian serves the temples and the markets.
+- The seven Kì'ìch'chik city-states each set out how they are governed, with standings and offices that differ between the highland plateau, the lowlands and the south.
+- The Grove's councils, its Keeper of the Kettle, its saplings, how titles pass and how it stands in the Red Stone Compact are described, and its faith, the Answering, has its own page.
+- Osetakona names can be built from their parts, with new names in the lists.
+- The longhouse nations of the northeastern lakes are the Maple People, the Osetakona in their own tongue, founded at a sugar camp, with their heroes, the island nation they broke, and the clan mothers who name their speakers.
+- The Feast of Bones frees a village's dead when the village moves.
+- Three mercenary companies hold the empire's thinned frontiers: a Tarvenan crossbow company at the western road-head, a Nordman company in the towers above Dolvar, and the Clean Shields on Orzara's grain road, whose paymaster nobody can name.
+- Each company has its captain, its contract, its quarrels with the legion and the City Watch, and hooks for play.
+- The Vilérian legions are thin and in disrepute since the loss of Taruzel, but they remain the strongest army in the west, and no Aureldian or Midhalión nation can face them in the field.
+- The old Orzas has adopted no heir, and the donative the Imperial Guard waits on is promised by the man the court expects him to name.
+- Midhalión's councils, guilds, faiths, great houses and syndicates each say what they are fighting over now, from the Seldan's count of votes and the Guard's weighed donative to the Grain House's duty and the Tamzir's unanswered captain.
+- The northern peoples' culture pages carry their English names, the Grass People, Turquoise People, Maple People and Cedar People, with their own names and their Kì'ì'chek names beside them.
+- The Maple People treat the Nordmen as a rare and recent terror.
+- The five nations north of the Kì'ìch'chik desert are peoples of their own: the Woodland League, the One Fire, the Grass People, the Mesa Towns and the Cedar Kingdom, each governed its own way.
+- The Red Stone Compact binds the five to stand together against Nordmen raiders, arctic newcomers and southern expeditions.
+- The Shell-Bead, Ice-Edge and Spruce peoples gain the faiths they live by, and the other five northern faiths add the herd caller, the clowns, the canoe of the dead, the charms and the knower's seeing stone.
+- The Okharis people are called Okharik everywhere: the culture, its adjective and its plural now share one spelling across every note.
+- The River Kingdom is the One Fire, Tokchi Aska in its own tongue: mound towns and shell towns that relight every hearth each midsummer from a Great Sun's fire, gathering into a kingdom and scattering again.
+- The Tokchili have a culture page with their heroes, the funeral they still argue over and the strain on the present Gathering.
+- The Asguardian fighting orders, the Aureldian orders, the Kalihara bodies that guard and trade with the island, the Málalidabandalag and the Skalds' Circle each say what is pressing on them now, so a referee can run them in play.
+- Orzara's two racing factions, the Zargoi (the Irons) and the Ethloi (the Golds), have their own pages: their stables beyond the Clearance, their betting books, their street clubs and their price in the succession.
+- The City Watch and the Imperial College of Heralds have their own pages, and the Black Flame names a High Flame-Warden of Viléria.
+- Five noble houses of Viléria have their own pages, from the proud and penniless Varkalenis on Orzara's Old Hill to the fallen Zarkedis of Soraks, each with a seat, its quarrels, someone to meet and trouble to step into.
+- The Imperial Cult that deifies dead emperors by the Senate's vote, and the Imperial Offices that seal every act of the throne, are written as bodies a party can deal with.
+- The five steppe tribes carry Sovidur names of their own: the Jobizur, Qibudur, Oroqidur, Kenodur and Koserur.
+- The warband is now the Tigh'Savaran of the Koserur.
+- Vilérian weekly payments use Ardini, and the kin-credit introduction reads correctly.
+- Angaros's page says the fire-temple priesthood names him among the twelve gods but keeps no fire for him, and that his worshippers are the forbidden cult cells.
+- Nal'ik Ts'uqal and Weizhwo are goddesses on their deity pages, as they are on their faiths' pages.
+- Every Khelathi god has a full-color emblem icon, its hieroglyph painted on lapis, and the Khelathi Pantheon shows each god's glyph.
+- The Khelathi page opens with the memorial of Meqes VI and its translation.
+- The towns of the golden western coast are the Shell-Bead People, the Shuqash in their own tongue, who pay in the only true money in the north.
+- Their chiefs, Canoe Kin and astronomer-priests are described, with their heroes and the Pointing they argue over.
+- The Gar-Au's regalia are described, the Ruwozi and the Kolembozi are named as clans of the Nyáluba, and the Ústaran Schism has a single entry.
+- The Senali's numinous, which joins spirit, totem and the celestial to the natural world, is described, along with how little of it humans may reach.
+- The Tevran and Vilérian military pages show their tables as tables.
+- The people of Helionis are spelled Helionite throughout, without an accent.
+- The Tantsou split into three peoples: Imperial Tantsou, the Tantsou Tributary Peoples of the southern coast and the Tantsou Frontier Peoples of the northern marches and western passes.
+- Each people has its own look. Tributary people are shorter and slighter with warmer skin, and frontier people are taller and heavier with weathered faces.
+- A character who names only the Tantsou looks like an imperial Tantsou.
+- Kudumel's Temple of Two Fires, Besikar's Harbor Due and the Golden Harvest, Thunderhead Vigil and Silent Passage festivals have pages of their own, each with its date and how the Taruzelian coast keeps it.
+- Taruzel's five great merchant houses have pages of their own, one in each city, each with a head, a trade, a debt, an appetite, someone to meet and secrets for the GM.
+- The Grand Council of the Confederation has a page showing how its votes are weighed by wealth, and who holds the Arch-Consulship this year.
+- The Merazuni, the Confederation's treasury and mint, has a page of its own, with its Kubasum, its strongroom and the moneylenders it clears for.
+- Taruzel's war of independence, the Battle of Tamzir Shoals and the betrayal of the veterans are told as history, and the outlaw captains and Yamuzel's Fleet Review have pages of their own.
+- Each kingdom has its own court, ranks and offices, and the election of a High King is set out step by step.
+- The Drowned Road is the fog coast's faith in its drowned, kept by the harbor tellers.
+- The Turquoise People's faith, the Rain Road, sets out the Sun, the Grandmother Below, the cloud dead, the Bear and the Water Serpent, and the bear doctors whose Dry Search the canyon is arguing over.
+- Their polity says how its rulers are chosen, who leads in war and who allots the water, and the Teyumi Language gives twice as many names to choose from.
+- The great-house people of the desert's northern rim are the Turquoise People, the Teyumi in their own tongue, with their history, their heroes, the drought they fear and the rain rites that rule their towns.
+- The Vedyari Heroes and Knaves of Chendrapur and Vyalendra now live under their own city's court, council, temples and watch, and Vyalendra's sailors and dockside people come from its port at Nilatir.
+- The Vedyari Heroes and Knaves of Rajepur, Suvargeri and Danurkot now live in kingless temple-republics, answering to their sabhra, temples and shrenis rather than a city guard or a council of city-states.
+- Zerathian guilds, trading companies and crime syndicates say where they operate, and the guilds and companies say how each stands today.
+- The reigning house, the Halzi'a houses and the Bethuan and Khelathi councils and orders and the Great Lubemo of the Nyáluba now have notes that say who they are.
+- The Zemor Hodhis and its six schools are spelled the same way everywhere, and their pages and icons have new addresses.
+
+**Places**
+
+- Every Tarvénia page is finished and out of draft, each town, city and wild place with a present a referee can run and its scenarios linked, and the warden of Bruthena and the lady of Enthara are people.
+- Provénzia lies south of Élavendre, and the Vilérian Sea's islands and narrows match the map: Eilwith lies in the outer ocean and not in the sea.
+- The Kingdom of Élavendre has its own ranks and crown offices, from the outlaw past the tree line to the crown of Kírethel, with officers named where its notes name them.
+- Élavendre's frontier and arms are written: the Morthal March and its Watch at the head of Lísere Bay, the Border Militia and the levy, and the Nordmen's burning of the north shore.
+- The Áelendan seasonal councils at Ésalosa Lodge, the Spring Guest at Kélpasi and the Hands-Bare Night at Sóurimel are written.
+- Élavendre's towns, sites and councils say what is happening there now and who leads them, and a new campaign frame, The Summer Past the Tree Line, spans one season.
+- Midhalión’s institutions distinguish their councils from individual officers, while Kentra retains its informal networks and the Black Flame its independent warbands.
+- Midhalión's places link their sites, governing bodies and Taruzelian adventures. The Vilérian Sea records its shores beside Provénzia and Taruzel, and the Tamzir's organization follows her actual crew.
+- Viléria’s four provinces record their shared borders, and Orzara’s roads to the provincial seats and Elissara give matching bearings and journey times at both ends.
+- Companies and other bodies without a headquarters show their public places of activity, with historical bodies retaining their stated period.
+- Élavendre's crown officers, the people of four adventures in its woods, hills and shore, its relics, its mountain populations and its roads to Lyenrik and round the bay into Vristwald are written, and those adventures are ready to run.
+- Stormveld's High Jarl and Ondareth's First Senator are listed among the office holders of their realms, and the four tribes of the Peshtar and the Thornwold list their War-Leaders first.
+- The Crown Road from Dunmere to the edge of Seirasto has its own page, with its stations, its dangers and who watches it, linked from the places along it and from Pale Lamps on the Crown Road.
+- Dunmere, Wenlorne Stage and Seirasto give the journeys between them along the road.
+- Aureldia's polity table lists the sovereign realms only; each land lists the polities within it.
+- Aureldia's overview gives the Asguardian gods on Eilwìth to the Nordmen of Stormveld alone.
+- The Bond Syndicates of Kalipsa have no single head, and Vraldselda Kruldidrok is the Gull's syndic only.
+- Eilwìth's polity table lists every polity on the island, and its minor polities, religion, present and See Also match the island's notes.
+- The walled and fortified towns of Eilwìth and Kalipsa show their walls and strongholds in the settlement tables, and Kingshollow is a town.
+- The Aureldia overview names all four of Eilwìth's realms, calls the Grukar the island's pestilence, and titles its faith section The Twelve Faiths.
+- Borders on the island are complete around Lake Eilìssa, Teilvari and the Central Highlands, and Stormveld sits in the north in every history.
+- The Eilwìth guide links its places and is linked from the island and its culture; the Kalipsa guide opens on its scene.
+- The history pages and Vorgald's page read cleanly, without stray markup, a broken opening line or a raw link.
+- The South Shore of Kalipsa is a region of the island, and its four villages, about 900, 800, 700 and 600 people, appear in Kalipsa's settlement table with their sizes and trades.
+- The coves and upland steadings hold the rest of the shore's 17,000.
+- Eilwìth's and Kalipsa's towns and villages say who holds them wherever their pages name a lord, a jarl, an order or a council.
+- Bizaria, the Bizarian League, its Northern and Southern Marches, its five seats and several towns, Nikhtion and the Thirsting Ground say what is happening there now.
+- The League is governed by its own councils under imperial officers who hold the passes, the tariffs and the muster, the tolls on the roads, and the marauders of the eastern hinterland.
+- The League, Krusteikhos, Nesthiros, Argirteikhos and the Thirsting Ground also tell their past.
+- The Temple of Árdavon at Korinthea has its own page: how it came to keep the town's law, who rules it, the honor-trials judged there, and the ground its judge walks each year.
+- Korinthea and the notes that name the temple link to it.
+- Kostaros, seat of the seventh city-state, has its own page, and its Bizarian daughter-port links back to it.
+- The Helionis page states its neighbors, and Viléria, Velanthia, Bizaria and the Vilérian Sea name Helionis in return.
+- The parent pages of Helionis and Bizaria link every city, town and site beneath them, and the Selímara and Thálassos councils answer to the Bizarian League.
+- The Helionis city-states, the Sanctuary of the Games, the Sour Plain and the Seats of the Mage-Warlords each tell how they came to be and what trouble they are in now.
+- The Unpaid Fort and the Cartographers' Guild of the Bizarian League do the same.
+- The Hellád overview sums up where the two lands stand toward the Empire.
+- The Academy of the Silver Veil, the Library of Thirenae, the College of Ethics, the Commissioners' Gate and the Heralds' Stone each have their own page, and the Helionis pages that name them now link to them.
+- The Settlement of the Crowns frees the Aureldian kingdoms only; the Bizarian League stays an imperial province in law, its city-states governed by their own councils, on every page that tells it.
+- The League pays and staffs the frontier forts, while imperial officers set the tariff and the muster rolls.
+- Helionis and its city-states and towns say what is happening there now: which hinterland towns each city-state holds, the marauders on their roads and the Black Flame in the hinterland.
+- Shebarakhend's Great Fire-Temple and its academies have pages of their own, each with a reason to visit and a quarrel in progress.
+- The Pale Floor and the Kinless Watch, a salt flat and an outcasts' fort near the Tower of the Lightning-Marked, are places a party can go, linked from the Tower.
+- Four new histories tell how the Kingdom of Amradad was founded, how the Tellumi exile houses came to Amradad, how the Warriors' Circle twice refused its summons, and how Vahrun Marzuvan was denounced.
+- The Dunhara tribes, the Kingdom of Amradad and its places carry longer history sections.
+- Amradad reaches about 750 miles inland, and its far east, the Three Seas, has its own page: herders' steppe round three salt inland seas, each with a page of its own.
+- Eleven more Amradi towns have pages, among them the walled caravan and oasis towns at the inland seas, each saying what feeds it and who raids it.
+- Khazrin steppe bands, the kinless of the desert and Black Flame warbands from across the Bizarian border raid Amradad's east, and the Kingdom and its fire-temples oppose the Black Flame.
+- The Empire of Au'Khelathu, its four province groups and every province now say what two low floods mean for them: thinning granaries, tribute quietly held back, and a throne under question.
+- The Khelathu region and Khuqet-Miglet tell the same year from their own ground, including the quarrel over the succession and the courting of Okharis's horsemen.
+- Nine Khelâthu seats and cities (Belgen, Gar-Anlaghet, Megit-Gar, Gar-Zanit, Zebt-Relepet, Gar-Legulu, Gar-Legir, Balehen and Balku) have a History section naming the selat and polity they belong to.
+- Khuqet-Miglet, the northern desert-march, states its population: about two thousand people, nearly all in the forts and at the caravan stops beside the wells.
+- The Nyáluba, their Great Lubemo and Heto Lubemo tell the year 720: the Ruwozi at war with the Kolembozi over the rivers, with the Convener a party to the war.
+- Each of the five clans, the Ékunda, the Fénjara and the Southern Savannahs say how the war reaches them: who leans where, who keeps the wall, who keeps the water.
+- Zarhanis, Kaljekor and Vuthraka now each say what feeds them: the crown lands, the tribes' grain, fruit, linen and herds, and the harbor trade.
+- Zarhanis and Kaljekor describe their gates, laws, quarters, festivals and where a party lodges.
+- Vuthraka reads as the frontier garrison it is, with its Warden, its Ashborn, its supply and its short draw of riders.
+- The eighteen Upper River selat seats, from Anlagh-Zetun to Chegu, each say what feeds them, who holds them and what the failing flood does to them now.
+- The ten Border selat seats, from Balku to Belgen, say what each lives by, who holds it and how the failing flood strains the frontier garrisons.
+- The ten Delta selat capitals, from Gar-Anlaghet to Yath-Leteru, now say what feeds them, who holds them and how the failing flood presses each one.
+- The Empire of Au'Khelathu, the Capital Selat, the three kinds of selat, the ten Okharis tribes, Ékunda, Fénjara and the Nyáluba nation each state their own rulers, offices and ranks.
+- The Nyáluba nation is ruled by the Great Lubemo, with the Ruwozi paramount as its Convener.
+- Ten Khelathu seats have a history: the selat standards lost below Lenen-Nezut, Zileti's hill-nomad house, Khelaga's apex forts and the barges of Amqelu-Legez in the granary rising.
+- Okharis has its north coast and Kaljekor's harbor, and Bethua lies between Okharis and Au'Khelathu.
+- Magu-Ithnet, the canal-fed lake of Au'Khelathu's western desert, has a page.
+- Ships cross the Vilérian Sea from the Khelathi delta, Bethura and Kaljekor to the northern shore, a coast road joins the three countries, and roads run to the Marches and the rainforest.
+- The Black Wilds, the steppe north of Tantsou, have their own region page, with the horse-riding tribes, the land, its dangers and the raiders now in the northern marches.
+- Tantsou's north border with the Black Wilds appears on the region and the northern marches, and the empire, threat and continent pages link to it.
+- The world population page lists Tantsou under its region and says how many of its town and city people the named places hold, and gives Eilwìth's population as about 670,000, matching its own page.
+- The Hwenhatou Confederation, the steppe tribes sworn to Wogen Henzhwo, has its own page as the government of the Black Wilds.
+- The Black Wilds, Wogen Henzhwo and Tuizho pages link the confederation, and the Black Wilds page says why its population is unknown.
+- Each of Jenchai's eight domains names its Dauzhwo first among its offices, and the nine mountains state the people who live on them.
+- Jenchai's twenty-four named villages carry populations, holders and assessments as listed settlements, and the capital Lengwou is a town of about nine thousand fed by the court's tribute rice.
+- The Jenchai Region and Jenchai Empire pages open on what the land is: eight great lords, a sacred Emperor who reigns and does not rule, and a people shaped by steep, narrow islands.
+- Rojai and the Eastern Strait name each other as neighbors, the strait lying west of the mountain.
+- Jenchai's nine mountains and nine castle towns go by their Jurthati names, with the English names as alternates, in every description and link.
+- Jenchai's empire, islands, eight domains, nine mountains and five towns each say what is happening in the present year: Weileng of age with the Teng Ja vacant, and both blocs bidding for Zenjai and Wojai.
+- The Jenchai pages call the person who runs the game the Game Master throughout.
+- The Jenchai chronology states Henwo's death once, and the peace and abdication of 712 come before the enthronement.
+- The Jenchai guide's people to meet no longer includes Hojujai Henwo, and its tables group thousands.
+- The four independent great lords are listed as Dauzhwo, like the other four.
+- The region's See Also describes each mountain, and the eight castle towns are marked as castles held by their houses.
+- The seats of Rinjai, Tsuijai, Wejai and Zenjai each state who holds them and what the vacant Teng Ja office puts at stake there.
+- Jenchai gains six destinations: the summit shrine of Zojai, the observatory of Zijai, the court strongroom at Tsaimu, the Zuju ferry, the forge of Tsaigen and the Wewo reefs.
+- The bronze bell of the Dawn Rite is a unique item, pawned to a merchant house in Yuwu, whose lord Wojai Doja decides which house may redeem it before the New Year.
+- Doulwen and Kwozheng each have a history, the Foreign Quarter of Wongsen says why its population is unknown, and the Scholars' Door says what the empire and the Vedyari want from the crossing.
+- Zhowen, the imperial capital, is described in full: how a party arrives, the court and the Princes' game, the bridges and the Speaker, its law, its quarters, its festivals and where a party lodges.
+- Zhowen offers hooks for adventures at the court and on the quays.
+- The Empire of Tantsou and the Tantsou region page each gain a section on the empire's present troubles: the young Emperor, the drought, the northern raids and the rebel general.
+- The Empire of Tantsou and all four of its provinces each have a history drawn from the records the setting already holds, with no year given where those records give none.
+- Four new history pages tell of the young Emperor's accession, the famine in the south, Wogen's union of the Black Wilds and the revolt of Tuija Wengyan.
+- The Tantsou and Jenchai adventurer's guides, the four Tantsou adventures and the 24 rites of the Tengwou Rong Lei are out of draft, and the guide tables show town populations with commas.
+- Kwisen has its own adventure, A Page the Register Can Hold, in which weather shuts the col with the embassy above the waiting escort.
+- In that adventure the registrar's daughter keeps a party with no caste at the station until her register can hold an account of it.
+- The Hvarn Reach-guide Vurn Dzelbern takes the embassy over the pass to Kwisen.
+- The Tantsou Adventurer's Guide covers the capital, the young Emperor, the four Princes and their game, the hungry south and the pressed frontiers, and gains People to Meet, a list of the empire's towns, and warnings for a newcomer.
+- Each way into play in the guide leads to a page that carries it: the embassy, the weather-shut col and the register at the way-station of Kwisen, and the foreign quarter of Wongsen.
+- The region page names the court and the four Princes and mentions the Dúnavarre embassy; the empire page links the Caste-Registrar and the Governor of Zhowen.
+- The threat pages for Jenchai's raids and the southern famine match the rest of the land, and the port city of Wongsen has a short history.
+- Each of Tantsou's four provinces has a regional entry for its land: the Wongsen Delta, the Mwonou Uplands, the Doulwen Basins and the Kwozheng Marches.
+- Each entry names the Prince who holds the land, its roads and trade, and what is happening there now.
+- Each provincial city sits within its province's land.
+- The Tablet Bank, the dike above Jenshou that carries the boundary-stones of its upper villages, has its own entry, with what a party finds on it and reasons to go there.
+- The Foreign Quarter of Wongsen, where the port keeps its foreign merchants behind walls, has its own entry, with its gates, its warehouses, its forged tablets and reasons to go there.
+- The Empire of Tantsou has a capital, Zhowen, two cities on a wide river with the walled enclave of the Zhazho on the island between them.
+- Four provinces, each held by a Prince from a seat of his own: Wongsen on the delta and the coasts, Mwonou in the southwest, Doulwen in the west and Kwozheng in the north.
+- The empire's offices include the Speaker, the District Registrar and the Governor of Zhowen, and its 120 million people are divided among the provinces and the throne's own basins.
+- Tantsou has its towns and villages: Jenshou on its nine channels, and the terrace villages of Rinnou and Zhengnou.
+- The market towns are Weichai, Tengmou and Jaunou, the last at the heart of the southern famine.
+- Kwisen is the frontier way-station below the Scholars' Door.
+- The District Hall of Jenshou, where the district's register is kept and its orphaned dead are fed, has its own entry.
+- The places named in the Tantsou annals, tales and accounts, and the way-station in the Vedyaran notes, link to their entries.
+- Tantsou's great wall, the Wall of the Ten Thousand Watchfires, has its own page: its carved and gilded stone near the capital, its brick and rammed earth farther out, and its ancient sigil-carved north against the undead.
+- The page also covers the papers its gates demand, and the Tantsou, Khazrin and Elder Races pages now mention the wall.
+- A new Tantsou adventure, A Tablet from the Wrong Hand, runs a foreign merchant's expiring trading classification in the Foreign Quarter of Wongsen.
+- In that adventure a tablet offered behind the warehouses is either a forgery or a trap.
+- Zhowen's river and its two bridges have names: the Tengshou River, the River of Heaven, and the Jingdou and Bwidou Bridges, the Gold Road and the Silver Road.
+- Zhowen's page says where petitioners meet the Speaker: in the gate-court outside the enclave wall.
+- The GM Journals hold four Grukar nest sites of Grukarholm, each with the ground its hunters cover, what stands in its way, what is worth recovering there and how its nests come to an end.
+- The Grukarholm page names its known nests and links each one for the GM.
+- Grukarholm, the Grukar country laid over eastern Vristwald and western Velanthia, has its known nests to go after.
+- They are the nests of the Drowned Country marsh, the nest at the end of a cause-walk of sunken logs, the nests whose canoes come down to a Velanthian raid landing, and Grimak, where a nest was burned.
+- Velanthia's paid wardens have two stone forts, Torvogor Fort and Sedrovod Fort, with late pay, sold passage and the bell and signal fire of the village beneath.
+- Grukarholm lies south of Norgaad and southwest of Malagna; Targud lies farther northeast and has no border with it.
+- Grukarholm has two draft adventures: the quarter's silver coming up late to Torvogor Fort in the season of the raiding canoes, and a fur hunter who needs carriers to bring a season's furs out across a cause-walk before the thaw.
+- The Grukar are never cast in them: they are the danger the party defends against, recovers from and may set out to stamp out.
+- Grukarholm is a region over parts of Velanthia and Vristwald with no polity of its own; its sites are the Grukar nests, and what locals know of them is never complete or current.
+- Grimak shows both a burned nest and a new one budding at its edge.
+- The Velanthia Adventurer's Guide points to both adventures.
+- Velanthia is landlocked, with its forests north and west, its grain belt across the center, the Hosts on the steppe margin to the east, and a mountain range on the south.
+- Grukarholm is a region, not a state: it lies south of Norgaad and southwest of Malagna, no longer borders Targud, and overlies east Vristwald and west Velanthia.
+- The Velanthian Hosts serve a river-prince for pay and can walk away, and the princes pay for forts and wardens against the Grukar.
+- Velanthia has an Adventurer's Guide, with a section on Grukarholm: the three river-princes, the three Hosts, the granary monasteries and the paid forts that face the Grukar country, with ways to begin play.
+- The Vristwald guide sends a party coming up the rivers from Velanthia to the new guide.
+- Velanthians greet with _dobrogesh_, "good guest", and the Velanthian culture note describes the hand on the chest, the rider's open palm and the monastic bow that go with it.
+- Velanthia has four history notes: how the Hosts formed and took pay, the war with the jarls, the Year of the Barns, and the Tarvál Host's change of sides.
+- Velanthia's history section, its Hosts, princedoms and granary monasteries now link the new history notes, so a reader can follow each event from the place to its account.
+- Velanthia has three named river-princedoms, the grain lowlands, the river-port and the frontier forts, each with a seat, its own offices and its towns.
+- The Tarvál, Sevret and Khorad Hosts have hereditary atamans and serve a river-prince for pay, and the granary monasteries and merchant houses are written.
+- Velanthia's region page names its three river-princes and what each lacks, grain, silver or forts, and the three Host atamans and the price each sets on his loyalty.
+- Velanthia's southern mountain line carries the grain road to Helionis and Bizaria, with its marauders and the Black Flame kept to the passes.
+- Grukarholm names the prince whose paid forts watch it and the wardens who sell passage to fur hunters.
+- Tantsou's northern marches, its song of the tower and Wogen Henzhwo place their Grukar in the far north, not in Grukarholm.
+- Velanthia's two seat towns and its one city, the port of Brelavesh, each have a present, a history and hooks, and the port gains an arrival, its law and lodging.
+- The pass market of Tveskavesh, the granary town of Dobravesh and the fur-boat landing of Radavesh are places a party can visit, each linked from its princedom.
+- Each of the three Hosts has a muster town as its seat, and the river village of Semukarov that the Soqritur hold is a place in its own right.
+- Velanthia's southern range, Karvogora, has one page that Velanthia, Helionis, Khaddaria, the Northern March and Nartun share, with its passes, its dangers and who waits on whom.
+- Velanthia has a granary monastery on the grain road's river crossing and a sacred oak grove above the river-port, each with a reason to go and a trouble under way.
+- The three Velanthian Hosts have Banner Field, the open ground and battle-shrine where they swear oaths and weigh their price.
+- The World Population page lists Velanthia at about four million, with other minor western regions cut to about one million and the western total unchanged.
+- The Keravel Vale campaign is rewritten as five playable adventures, from the bandit hunt at Belsaren to the Maul of Gashang's shrine, with its lords, outlaw, scholar and villagers as people you can meet.
+- Provénzia's adventures beyond Keravel Vale are rewritten around the kingdom's own quarrels and people, two new ones open the guide's ways in at the Talote frontier and Kivarel's quickened field, and every place they visit points to them.
+- Provénzia's towns, songs and adventures are out of draft, every town says how many live there and who governs it, and the guide offers the Keravel Vale campaign.
+- Provénzia's west coast gains the salt port of Tremuzel, and the lands of its great lords (Atavel, Degavel, Gefavel, Ravenshold, Leravren and Kivarel) are written out with their castles, people and present troubles.
+- Provénzia's royal house, the Pélanvri and the Kórisvars, the Order of the Burning Brand, the crown's navy, the code of courtly love and the ruins above Lizela now have their own pages.
+- Aurelane's three academies, of philosophy and rhetoric, of law, and of medicine and manuscripts, now have their own pages with their rectors, and Kaldin of Leravren's castle town on the mountain road is written.
+- The island is spelled Eilwìth everywhere, with its people Eilwìthan and its tongue Eilwìthi, said AIL-with.
+- The high northern country of the Grazian Mountains has two places to visit: Vrundelv, a bridge of one stone span over a gorge to a meadow the Hvarn herders graze.
+- The other is Mulvern, the empty house, a cliff above old terraces where two hearths are quarreling over a spring.
+- The barren grounds beyond the Kawiskak forest have the Stone Rooms, a row of rooms cut into a cliff above a caribou crossing that the Barren-Ground People are about to lose.
+- The GM Journals gain two sealed places for the referee.
+- In the Old Ranges of the One Fire, the Stone Door is a cave over a hill town's salt lick, shut by a slab of stone that still swings.
+- The town's Mound Chief wants the cave for a refuge before a war party returns.
+- Above the Grease Trail out of Wolf Beach stand the High Floors, three cedars grown into floors high over the forest, where two runaway slaves are hiding.
+- The foothills at the western end of the Grazian wall have two places to visit: the Shuttered Cliff above the March Road, held by a band of Kinless.
+- The other is the Root Stair, a spring under a ladder of fig roots where two tribes dispute the order of watering.
+- Deep in Hilen's imperial game-forest lies the Linden Walk, a roofed walk of living lindens that a scholar of the Arcane Order wants to enter and the wardens will not let him.
+- In the northern forest of Grukarholm, Dorgenstein is a split granite tor with steps cut up its cleft and a wall across its head, where a Grukar nest raids the southern clearings of Norgaad.
+- On Grukarholm's Velanthian side, Volkobor is a rise of hollow oaks among dead pines where a nest has gone silent and a fur hunter has dug out a helmet with the Brevavesh mark.
+- In one of Zalvarion's mines, Turash is an old passage a new drive has broken into, ending at a stone slab the miners refuse to go near.
+- On a hill of the Northern March, Kladerash is a stand of old oaks whose trunks are full of hollows where wild bees hive, and where the village's honey-hunter has fallen.
+- The forest of Ghotaqor in the northern Khazrin has two places to visit: the Cut Ridge, walled caves and passages the deer hunters will not enter.
+- The other is the Snowless Hollow, a warm hollow with a roof of living larch over its pool, where an outcast band is wintering.
+- Beyond Blackthorn Ridge in Vristwald lies Vethreth, a clearing from the Garskald tellings that the clan's great hunt is about to reach.
+- Northern Velanthia has Teshobor, a river meadow lined with willows grown into arches, where a village and a family of newcomers are quarreling over the trees.
+- Hvolvern, a cliff at the head of a high valley on the far side of the Eastern Reach, has its own page for adventurers.
+- The Khazari Adventurers' Guide and the Khazari and Senali notes cover how the holds live and are fed.
+- Game masters have new private notes for Khazari holds and the people of one valley, kept out of the public pages.
+- Each of the three Senali conclaves of Kì'ìch'chik has a page showing what its neighbors know, with its secrets set apart for the GM.
+- Snow Place, the Pine People's largest village, has its own page.
+- The GM Journals give the head counts of the three Ki'ich'chik conclaves, which the public notes, the guides and the website leave unknown.
+- Each conclave names its home settlement as its seat.
+- Grumagando, the Western March's war pass into Provénzia, has its own page, and Tarvénia's roads now reach the pass and Valthari's sea lanes to Durvolka and Besikar.
+- The Council of Ólvestra and the Temple City of Polthamis have histories, and the High Kingdom's history runs to Ularrek's election about 709 AF.
+- The Legate's Roll, the imperial record Kotsude Kanarris has sought since 680 AF, has its own page.
+- Tarvénia gains an Áelendan lodge above the Western March, the pilgrims' path to Lezkora, Asturath's royal castle, Lyenrik's watchtowers and a Herthema crossbow company.
+- How a Tarvenan village assembly meets, who speaks in it and what its word binds is written down.
+- The Green Bough, a Western March adventure, sets a missing ransom-carrier and a baron's early crossing against the custom both sides of the war pass rely on.
+- The Elder people are the Senali, said seh-NAH-lee, everywhere.
+- Élavendre's crown is one office, the Sovereign's, so the queen is named as ruler of the kingdom and its towns, and the kingdom's history now runs to her crowning.
+- The sea wood of Siralonke and the evening wood of Olvalonke have their own pages, the Tribute Road is a road, and the lip-stone of Lámanis's dry holy well is a relic of its own.
+- The noble houses of Kardeth and Véldarin are written, and the Élavendre guide gains a People to Meet section and a bard who greets newcomers on the quay at Péravel.
+- Élavendre's songs and tales, the Sinale works held there, the Sinale guide, and the Áelendan spirits and their spirit powers are finished, and no longer carry the draft notice.
+- The Bright and the Dark of the Áelendan have a full entry, and the songs link the places, forests and history they sing of.
+- Kalipsa is a whole island now, with its villages, its harbor landmarks and the sea road to Sarmelis.
+- Kalipsa's Captains' Council, Harbormaster, Sea-Law, insurance syndicates and three shipping houses each have a page.
+- A Kalipsa Adventurer's Guide introduces the free port to players.
+- Eilwìth gains its central lake, and Aldorath its king and court.
+- Dúnavarre is a land to travel, with Kelivren, the Order's commandery, holding the Royal Kelivren Tournament of Chivalry each spring.
+- Veldareth is a free city with its own council and Epistémion chapterhouse, one of the island's five.
+- Ondareth's Senate and Stormveld's jarls are written with their towns and leaders.
+- Eilwìth's Senali forest goes by its own name, Seirasto, "the hallowed place"; the Eilwìthans still call it the Hallowwood.
+- Seirasto, its Senali and the Battle of Three Sisters are written: the forest and its edges, the Keeper of the Wood and the lords and elders of its hearths, and what the battle cost the Senali.
+- Provénzia's roads, passes and the forest road to Élavendre are written from both ends: the great road, the coast road, the salt route, the march roads and the sea road from Bataren.
+- The deep wood of Darvena closes the western end of the northern border, and the Darvena Road through it is the chief trade road between Provénzia and Élavendre.
+- Two shepherds' passes, Hidralza and Ronalza, cross the northern mountains into the Áelendan country of Élavendre.
+- Provénzia's Adventurer's Guide names the people a party is likely to meet.
+- Aureldia has one history of all five of its lands, from the elder races to the present year, with each age closing on what it left to meet today.
+- Kalipsa's civil war of about 470 has its own page, linked from Kalipsa's pages: the city-state, the island, the city, the Sea-Law Hall, the Captains' Council and House Tvarnidrok.
+- The Aureldia Region's history summary now includes the north-shore burning, the Summer War, Vélarik's reign and Ularrek's election.
+- Eilwìth's regions and Kalipsa's towns list their neighbors and the days between them, and the Aureldia page lists every polity of Eilwìth and says what each of the five lands is quarrelling over now.
+- Eilwìth's tribal peoples number about 74,000, and the island's total follows from its peoples.
+- Koldmere governs itself by its village moot, the Prime Marendos heads Dúnavarre, and the Umbral Court and the free city of Veldareth say where they stand now.
+- The Eilwìth and Kalipsa guides each end with people to meet.
+- Wenlorne Stage no longer hints at what keeps its lamps lit, and the spoiler labels on the beings of Eilwìth, Kalipsa and the Embassy to Tantsou no longer give away what they hide.
+- Greiwater, Stormveil, Vorgald and Dunmere gain a present or a history, and Dunmere says how to reach it and who keeps order there.
+- The region, realms and governments of southern Kì'ìch'chik belong to the southern culture.
+- Each scenario is listed under See Also on the places where it is played.
+- The Eilwìth overview names Vorgald as the island's one Khazari hold, and Three Nights for the Hushwood names audiences outside the Synod.
+- Nethermoot Hollow's page keeps the witch's history to rumor.
+- The Nordlands ships (Hafthresk, Ormthresk, Strandarv and Vredgnum) each open with a short description of how the hull looks, and the oared ones show how many oarsmen row them.
+- The first mention of a junk in the Rinjai, Wongsen, Vedyara and Tantsou notes, the Haimou pages, the adventures and the characters who meet war junks now links to the Junks reference.
+- Rezhakhend lies two days' ride north-east of Dorvakhend, not one.
+- Rezhakhend, the salt town, stands on the western shore of the Far Sea rather than the Bitter Sea.
+- Lemazakhend stands on the southern shore of the Far Sea, across the bay from Morvadez, not on the western shore.
+- The danger section of ruins and other sites now reads "Dangerous Neighbors", matching the American spelling used everywhere else in the notes.
+- The Lin'Zuwaret elu Igelu consortium works the Great Quay at Amqel-Ger, and its note links there.
+- The Wall of the Ten Thousand Watchfires says who commands its human-run sections, and how they are built and kept.
+- A posting to the northern garrisons is a bitter, miserable year for most and often a mark of distinction, but five for the punished.
+- Service beyond a year is a permanent mark of disrepute.
+- The Elder peoples helped raise the Wall of the Ten Thousand Watchfires, the few Khazari command its gates and the north, and the Elder enclaves stand inside it on the north-western mountain line.
+- The three Senali enclaves of Kì'ìch'chik name one another in full, as Enclave of Lirnasto, Enclave of Hersellonku and Enclave of Ilkaivesto.
+- The Forest of No Road in Vedyara has two named places, the Standing Lights and the Hermits' Hollow, each with its own trouble and a hidden truth for the Game Master.
+- The Grazian Mountains gain Qorshel, a green high valley that charcoal-burners and Osket herders are about to fight over.
+- Dates in the Vilérian Calendar print with the month's name, such as "29 Brazemandi 709 AF", instead of as numbers that read like a modern calendar date.
+- Tantsou's north-western mountain line has Khazari strongholds and Senali enclaves, each with its own trouble and a hidden truth for the Game Master.
+- Two Khazari strongholds keep the wall's gates and the north, and a third hold stands at the sigil-carved stretch of the wall.
+- A fallen hold and a torn-up wood on the line are hunting ground for the Chaizho.
+- In the north, the Palewall follows a large river, the Pale, and by imperial decree the ground from the wall to 300 paces beyond the river's north shore is kept clear of trees and cover, which is one of the northern garrisons' main labors.
+- The Game Master side of the Wall gains a secret about the cleared ground.
+- The Wall of the Ten Thousand Watchfires is now the Palewall, and its river in the north is the Pale. Every note that names the wall uses the new name.
+- The Palewall has Tantsou, Khazari and Senali names: Bwizheng, Malíz-zald and Syekkekostemi.
+- The princes' signets lie in the Relvanvesut trench, where the House of Zargandur sends its seekers, and Henhutpedin keeps a hook of its own about a night on the field.
+- Every Vedyaran kingdom, city-state, janpoda, guide-people and mountain pass now carries three adventure hooks, each naming who asks the party for what.
+- Vedyara gains five campaign frames, for the open season on the wall, a lean year on the march road, the last Melka of an old priest, a hidden station and a sailing season.
+- Orzara's pages call the sovereign the Orzas, and the Sorvan Guard Camp's plot hook turns on the adoption that will name the next one.
+- Lentora's council runs Alessa's everyday business while Alessar seals it, the Thordimalon keeps a research villa at Vennara, and the Imperial College of Heralds has a place among the Imperial Offices, linked from Polthara.
+- The Breaking left two blood-fields, Henhutpedin and the trench at Relvanvesut, and Vulud's well failed at the end of the Tower League's span, some nine hundred years before its streets are opened again.
+- The seven towns of southern Kì'ìch'chik describe who rules them and how they live, and the gate of Shelem Ch'alish shows how a party waits, pays, hears its own funeral and goes out into the wastes.
+- The southern waste of Kì'ìch'chik is mapped as five countries, from ash and desert to sick forest, swamp and ice, with the places, dangers and returners' tales a party meets there.
+- Seven ancient ruins can be explored in Kì'ìch'chik's southern desert and the waste beyond the gate, among them buried and drowned pyramids, a dragon's hoard and an oasis that kills those who sleep beside it.
+- A crumbling pyramid in the Thirst can be explored, its inner walls painted with columns of small painted signs that nobody on the continent can read.
+- Kì'ìch'chik has strange gray works a party can find and touch, among them a post at the south gate, a rain-drum in a terrace shrine and a warm lodge on a frozen river, and none of them is explained.
+- Every realm of Kì'ìch'chik's heartland and south, and every country of the southern waste, names the quarrel its people live with and offers three hooks a party can be drawn into.
+- The Vedyari name of the Moon-Mouth, the port at the mouth of the Chandramahi, is now Chendramukhva.
+- Orzara's grand water avenue, its flooded arena battles and two Vilérian officers, the High Hand of the Scribal Guild and the Tevraks, now carry Vilari names and plain English in place of Latin ones.
+- The Kalihara notes now present the sill's hold on the lake and the wind-stones' rain as what the Kuethori and the custodians believe, not as settled fact.
+- The Warm's GM notes clarify what only its Bearer perceives.
+- Alessar, the provincial capital of Alessa, is a place to arrive in, with its stair of scribes, its governor's officers, its inns and a secret about the governor's seal.
+- Alessa's eight towns, from the garrison at Korvenara to the river landing at Ostenna, each show how they look, live and are governed, with lodging, hooks and a GM's secret.
+- Amradad has a port: Valmakhend, the landing where the caravans come down to the sea and the ferries cross to Kudumel and Pashinar in a day.
+- Tahrodan is the inland fortress on the caravan road, the shipwright Rosharan Barmandan and the pilot Venrad Azardan live at the port, and the ferry routes end there.
+- The Weighing-Place and Kherzulakhem say that their populations are the gathering at its peak, and Sorvadakhend has a population.
+- Shebarakhend and Tahrodan are written in full: the court and the Tellumi exile courts, the toll fortress and its quarrel with the temples, what each city eats and what it sends out, and hooks for each.
+- Qarvelakhend is the walled town on the desert edge where the Kingdom trades with the tribes, and every Amradi town says what feeds it.
+- Amradad and the Kingdom of Amradad describe the present: the exile courts against the court's great houses, and the uneasy trade with the tribes.
+- Amradad has two cities: Shebarakhend, the capital, with about 15,000 people, and Tahrodan, the largest, with about 20,000. Qarvelakhend is a town of about 8,000, and Valmakhend, the port, is a town of about 4,500.
+- The Amradad and Dunhara Desert regions border each other, and the March Road and the Khuqet-Miglet road each reach the desert.
+- Oshira is a full coastal town: the seat of House Khalath-Mara, its quay, its wine and oil, its governess and where a party lodges.
+- Sehela is a full village: its gates, its holding, its Order-kept channel and its place in the grain quarrel.
+- Bizaria has about 1,200,000 people and two cities: Nesthiros, the coastal seaport, and Krusteikhos, the League's capital and the trade hub of the eastern hinterland.
+- Órashion, Karvashion, Argirteikhos, Bizaris and Krisamar are towns, Bizaris lies inland, and Marshfeld and Veridon are villages.
+- Bizaria has nine more towns: Zalvarion, Siderash and Bruzash in the northern mining mountains; Tolzur, Parzhenar, Vezhrelion and Krenel along the march roads to Amradad and Dunhara.
+- Oinelena stands in the lowland wine and oil country, and Halzikos at an inland sea.
+- Each page says what feeds the town, what it sends out and which city-state holds it.
+- The Black Flame has a strong presence in the country around Tolzur, Parzhenar and Vezhrelion.
+- The Kawiskak Region covers the spruce forest, its lakes and muskeg, and the barren grounds beyond the treeline, where the Ice-Edge People' kin are driving an older people south.
+- The Cedar People's Long Inlets, Outer Beaches and Outer Islands have their own pages, with Orca Beach, Thunderbird Beach, Wolf Beach and Bear Beach beside Eagle Beach.
+- Eagle Beach, where the first Kelwanuk house sits, has its own page.
+- The Coast Road takes about twenty days on foot, with consistent village stages and the land approach to Vristwald continuing through Durmelen.
+- The Oracular Sanctuary at Argenna now calls the Provénzia Region the region it lies in, rather than a kingdom.
+- The Dunhara Desert, its tribes, Ghavulavad, Tevrazavad and Kherzulakhem describe what each lives on and what is happening there this season.
+- The Tower of the Lightning-Marked, the Dry Stair and the Weighing-Place, the Storm Cults, the Warrior's Circle and the Ash Road each have a present a party can walk into.
+- Vahrun Marzuvan is described as the self-styled Master of the Tower, a title the cults never gave him.
+- The Dunhara Desert and Amradad place notes link the scenarios set in them, in the See Also of the Dry Stair, the Weighing Place, the Tower of the Lightning Marked, Valmakhend, Tahrodan and both regions.
+- Eilwìth’s ports, Stormveld’s Nordmal speakers, Vorgald’s independence and the Varkhad at the Three Sisters agree across their notes.
+- **The Araelwen:** Élavendre's sacred thin places, spelled _Araelwen_ (and _Úkua-Araelwen_), have a full page: places that disturb time, doors to the fae and doors to fell things, forbidden to outsiders by Áelendan law.
+- **Six Araelwen to visit:** the Held Hour, the Singing Tarn, the Wandering Ridge, the Waking Stand, the Wrought Hollow and the Fen Door, each with its watch, its dangers and a truth for the referee.
+- **The Order's guards:** the kingdom, region and Áelendan pages show the Order hiring guards to take its scholars past the Wardens, and the hard choice that work puts to a party.
+- **Élavendre's crown:** the royal House of Kírethel has its page, with Queen Áurenthe, her heir Prince Yélaras, and how the crown passes.
+- **Élavendre's nobility:** the House of Hálvireth of the river-meadows below Péravel has its page, with its unpaid debt and its disputed claim to the old blood.
+- Éllive's lowland has six new places: the market towns of Ruthelmar and Lámanis, the river villages of Ósselen and Sirlathen, and the chartered edge settlements of Gandelis and Kalvanel, each with a present trouble and its hooks.
+- The University of Péravel is a body of its own, with its courts, four Zulen chapterhouses, ranks and offices, and the officers who fit out expeditions into the interior.
+- Élavendre's Bardic Colleges are four named Colleges, at Péravel, Liranel, Port Aelion and Elanmere, each with its own ranks, masters, present quarrel and hooks.
+- The Grove Council's nineteen groves are placed by country, and the Council's groves are told apart from the Áelendan groves in the kingdom's woods, where the Wardens' writ runs.
+- Seven Áelendan tribes are named with their ground, and the Moot of the Silver Forests, the shamen's seasonal gathering, has its own page.
+- **Kardeth and Hélithron:** the two Lirve villages have full pages, with the lady of Kardeth's remedies and the strangers watching Hélithron.
+- **The Senali enclaves:** Ethalosse, Aelirosse and Serenthale have full pages with their lords, their carriers, their defenses and their histories.
+- **Port Aelion's council:** the town council has its Councilors, a Speaker and a Keeper of the Wharves.
+- Lísere gains the harbor town of Sarmelis, the border fort of Durmelen at the head of the bay, the beacon villages of Hendrel and Harnasel, and the Coast Road that joins them, each with hooks for play.
+- The Quay Council of Sarmelis, the Garrison of Durmelen and the Beacon Families are written as governing bodies with their own ranks and offices.
+- Satvote now says what its slow place means for travelers: the Wardens' posts at the forest margin, the doubled watch and the Order's agents camped there.
+- The Maze of Echoes has its history and its present, and Áelithra Énevin has an appearance.
+- Seven new Élavendre scenarios: four investigate thin places the Order hires guards to reach.
+- A felled grove, the Keeper's hidden ledger at Péravel and the prince's summer ride each get a scenario of their own.
+- Élavendre's notes now agree: the Áelendan Wardens answer to the Áelendan alone, the Áelendan trade on kin credit, Sirmenne's grove sits in Satvote, Port Aelion honors a patron hero, and several characters lose institutions the land does not have.
+- Aelirosse's own office is the Oak-Warden, taught to the Oak-Pupil; Long-Watcher and Seer belong to the Faith of Bjart alone, and the Sayings, Aelirosse and the Senali pages use the Aelirosse names.
+- Serenthale is the oldest Senali enclave, and the Senali keep the stone court at Ethalosse without being named as its builders.
+- The Bizarian League's clerks collect Elissara's customs at a customs house at the river mouth, outside the walls, so the city's charter still keeps tax-farmers out.
+- The Tanaduni, the admirals' house of Yamuzel, lease Khamisar's south slope and want the veterans' plots cleared before the Fleet Review.
+- Elissara is written as the free city of the guilds at the river mouth, with its Seamen's Guild, and Soraks as the emptied road-city of northern Alessa that lives by its court and sells its own columns.
+- The One Fire's river valley, old ranges, swamps and shell coast have their own pages, with the mound towns of Two Rivers, the Falcon Mound, the Other Fire, the Great Shell, the Last Shore and Ash.
+- The Bizaria and Vristwald gazetteer books carry their current names.
+- The Grass People have their four countries, the Village River, the Cairn Plain, the Long Grass and the Root Fields, with Flint Hill, the Forks, Thunder Cliff and the salmon falls of Falling Water.
+- Tanshe Yawa, the river village where the Corn Pipe is kept, has its own page.
+- Nine cities of the Kì'ìch'chik heartland and the great pyramid of Kul'taq'an have their own pages, and the four capitals, two ports and holy precinct are described as a visitor finds them.
+- Helionis has a hinterland: Khaddaria, the mountain mining country behind the coast, with twelve fortified towns, the villages around them, and the marauders and the Black Flame that threaten them.
+- Each of the twelve towns has its own page, stating the city-state that holds it, what feeds it and what it sends out.
+- Eight are mining towns, among them Khasidon (iron), Nafrithos (lead and silver) and Sufanos (alum and sulfur).
+- Four are caravan towns at the foot of the last ridge, on the roads to the inland seas, among them Mubaria and Zarakia.
+- Thirenae, Theradon, Athenikos, Kalidria and Korinthea link the hinterland towns they hold, and the Helionis page links Khaddaria.
+- Helionis has about 1,200,000 people and two cities, Kostaros and Mirtelos. Thirenae, Athenikos, Pelagora, Theradon, Kalidria and Korinthea are towns, and each city-state's population follows.
+- Hilen's capital, Aravantara, and its seven towns are written as places to arrive in, each with its trade, its rulers, where to lodge, adventure hooks and a secret for the GM.
+- The Ice Coast and the Lake Tundra have their own pages, with the villages of Kavrumiq, Napamiq, Imlak Kagaq, Taqvamiq and Simi Manik.
+- The Eastern Strait between Tantsou and Jenchai has its own page: the storms that wreck invasion fleets, the watched crossing, and the trade, raids and routes both coasts share.
+- The Khazryn is written _Khazrin_.
+- A new campaign frame follows a caravan season from the Taruzelian strait to Kethramír, as a steppe dovaq gathers tribes and every city, tribe and caravan on the road must decide what to tell him.
+- The Khazrin's roads and borders show where crossings lead and about how long they take, with a note for the Long Dry.
+- The Khazrin's shrines, councils, ruins, wells and waterless crossings say what is happening there now, from the prophet and the rising steppe union to the raided graves, and each closes with ways for a party to get involved.
+- The ferries from the Amradi coast to Kudumel and Pashinar are a day's sail, and Kudumel's market says where its desert goods come from and who brings them over the strait.
+- The Khazrin's own pages tell of the last Tellumi rising at Shirvan and of Taruzel's war across the strait, and name the old Vilérian fort of Oroqid on the western margin.
+- The Khazrin's cities, oases, ruins, ranges, peoples and faiths each say what is happening there now, and its cities, sites and ruins tell how they came to stand as they do.
+- The haunted sites of the Khazrin Desert keep their hidden causes in GM-only secrets.
+- The Tellumel reads as a country a party can cross and live in: who owns each hour of water, where Tellumi ground ends and Atarzád ground begins, the roads and stages along the belt, its two ends and its year.
+- Mount Shofar is finished as the black peak at Diqraqor's southern edge, with its stair, its pilgrim camps and the upland tribes round it.
+- The Unconsuming Flame on Mount Shofar and the Vurinkarvem cliff over Shirvan have their own pages.
+- **The steppe tribes:** more tribes of the Khazrin have pages giving their wells, dovaqs, feuds and stance on the gathering banner, and new adventures play out their quarrels.
+- The northern peoples, the uninhabited desert barrier, the city-state heartland and the southern wastelands of Kì'ìch'chik are set out clearly.
+- Lower Mahanodi, Middle Sarveda and Sarveda Mouth describe their temple councils, social ranks and public offices.
+- The Maple People's Falls Country, Western Lakes, Southern Rivers, Dawn Shore and Pine Country have their own pages, with the villages of First Sugar, Hammerstone, Birches, the Dawn Place and New Clearing.
+- The Kettle, where the great council sits, has its own page.
+- Viléria's provinces, the Holy Kingdom of Nartun, Elissara's guild council and six Vilérian cities each tell their own history.
+- A new history of Viléria, Nartun and Taruzel tells the Empire's story age by age, from the Republic to the old Orzas's unsettled succession, and is linked from the Midhalión, Vilérian Empire and Taruzelian Confederation pages.
+- Midhalión’s guides identify people and adventures, keep concealed evidence private, retain public clues, and agree on road travel, fleet pay and prison history.
+- Zelgeru, Vashurán, Hringstead, Trianthion, the Stone of Ranaz and Ghavulavad have fuller descriptions and current affairs.
+- Orzara consistently names its Theater District, and Vilérian ages, Olkassa and the Banked Fire agree with their histories.
+- Midhalión's place pages say what borders each land and how many days the roads take between its cities.
+- Taruzelian names in English prose, such as Tanaduya and the house of Hitusuni, are capitalized and link to their notes.
+- The Tarmeks strongroom audit's Reformist seat is new this year, and Kaldremas Elthezis has kept to his villa since the spring.
+- Midhalión gains two campaign frames: a season of debt and succession in Orzara under an old Orzas who has adopted nobody, and the month before Taruzel's Fleet Review, when the discharged veterans mean to rise.
+- Eleven scenarios are set across Viléria, Nartun and Taruzel, from Orzara's granaries, pension halls and Guard Camp to the provinces, the holy city, the strait and the Grand Council at Besikar.
+- The adventures now identify missing cast members, deliver the promised ledger and preserve the veterans' first reading at the Council.
+- The Spring Before the Banner's eight linked arcs and the march frame's Banner Ground adventure are available, with the Barred Gate's full reading and the Watchman's missing captive reachable in play.
+- Tirellan, Moktur's capital, is a city to arrive in, with a governor who pays his own riders and keeps the road to the capital.
+- Moktur's eight towns each gain arrivals, rulers, inns, hooks and a secret, from the legion fortress with its Varokh hostages to the temple town under the province's great prison.
+- Nartun, the holy kingdom, is a land of temple forest and a holy city to arrive in, with offices of its own, the knights of the Order of the Sacred Flame and secrets for the GM.
+- The lumber settlement of Kalderenna and the woodcrafters' village of Dremenna join the Nartun Kingdom, with their trades, their keepers of order, lodging and adventure hooks, and Branakis Kaseranis, Zadros Damates and Village Elder Pirkelar now call them home.
+- Gnaldurfjord has a history of its three crossings of the western ocean, from the jarl Hafthann's probe in 699 AF and his drowning in 707 AF to his son Skeldvir's raid in 719 AF.
+- Ha'nal Shi'lan is governed by its own market council of trading families and quarter elders.
+- The north holds about three and a half million people, and each nation's share is set out.
+- The desert lets only a trickle of traders and pilgrims through, and the north works copper against the south's steel.
+- The chief town is Hayo Pokta, the Sun Mound.
+- The Provénzian kingdom notes now carry the Keravel campaign's magnates and feuds, the Tanevar and Provénzian divide, the crown's faiths and pressures, and the history of its two wars, and the campaign points to them.
+- The Ashen Temple, the Black Flame's great temple in the Inner City, and the Notral Sevan, the warded library beneath the Court of the Academy, can be visited.
+- Each quarter of Orzara says which court hears a broken rule and what it costs, and the Vilérian Calendar sets out the capital's year of feasts, games and dole-days.
+- Eagle Hill, the Six Hills, the Laurel, the Grand Orrery, the Racecourse and the Necropolis of Orzara are finished pages, each with the quarrel live there now and ways for a party to step into it.
+- The Temple of the Twelve tells how the Black Flame petitions every new Orzas for a place in the Forge-Lord's niche, and why the next accession makes the petition dangerous.
+- Orzara's seven quarters and its outskirts each have a page of their own, with what a visitor finds there, what the law forbids and the secrets each keeps.
+- Calypsa's social ranks follow its Captains' Council and Harbormaster, from shipmaster to councilor to harbormaster, with no senate.
+- Élavendre gains its roads and sites: the Tribute Road, the King's Cut, the Felled Stand, Talve, Tehì, Mallonna and Úkua-Araelwen, each with who keeps it, what a party finds there and what is really going on.
+- Ésalosa Lodge is laid out room by room, from the outer ridge through its halls and its three pools, with the present business of the great council.
+- Kélpasi, Vazhmavad, the Unpaid Fort and Relvanninesh each have a page for the body that governs them: the village elders, the judging poets, the fort's hereditary command and the prince's household.
+- **Eilwith:** the island of Aelwyth is written _Eilwith_, its people _Eilwithans_, and its tongue _Eilwithi_.
+- **Elsewhere:** the River Vylaris is written _Vilaris_, the Helonic peoples and tongue _Helonik_, and Brynwold and Brynhallow _Brinwold_ and _Brinhallow_.
+- Provenzia is written _Provénzia_, and its people _Provénzians_.
+- Shelem Ish'bal's compendium folder sits among the regions of Southern Kì'ìch'chik and describes it as a waste no one rules.
+- Salkalon's capital, Delalara, and its six coastal and inland towns are written as places to arrive in, each with its trade, its rulers, where to lodge, adventure hooks and a secret for the GM.
+- The Khelathu banner is a painted temple wall inscribed in Zethu.
+- The Bead Coast and the Oak Valleys have their own pages, with the towns of Kulaiwil, Shuqwil, Hipal Halaq, Tulishwil and Tikoq Hipai.
+- The Senali keep three conclaves in Kì'ìch'chik, a pine forest in the north, a jungle in K'ankul whose people stay away by an understanding, and a swamp just short of the southern wastes.
+- The world population reference gives Northern Kì'ìch'chik about 3,500,000 people, as its region does, and the Kì'ìch'chik total about 35,000,000.
+- Korsand is named the Gray Wolf of the Ridge throughout, in American spelling.
+- The Élavendre Adventurer's Guide spells the house name Alverin.
+- The Táluméng are written _Tálumeng_.
+- Rinnou, Tengmou and Zhengnou are no longer drafts, and Jenshou links the Tablet Bank.
+- The Tantsou and Black Wilds region notes open on what the land is about, and the three Tantsou crime societies say how they stand today.
+- Named Jenchai people and the War of the Empty Seat link to their notes throughout the region.
+- Sharimun, Pashinar, Shamular and Hitusel are written as places to arrive in, with the Arbitrators' court under Sharimun's beacon, Pashinar's roll of forgotten names, Shamular's seal-keeper and the guild boards and council that govern all four.
+- Taruzel's hill country has its own pages: the three hill tribes, the council they keep, their speech, and the walled ruin of Ralumar with its cut door-lintels.
+- Taruzel's six inhabited islands have names and pages of their own, each with its land, harbors, roads, city and towns, what a party meets crossing it, and trouble to take up there.
+- The strait to the mainland, the narrows under Yamuzel and the channels between the islands have a page of their own, with their pilots, currents and hiding places.
+- Every Taruzelian city, island, house, guild and council describes its present quarrel, with the people in it named.
+- The Confederation shows a coast near a leaderless veterans' rising, with every side courting the captain of the Tamzir.
+- The cities, polities and sites of Taruzel tell their own history up to the present.
+- The Confederation and the region remember the Atarzád Exodus that Taruzelian merchants provisioned.
+- Many Taruzelian places gain hooks pointing at those quarrels.
+- Besikar, Yamuzel and Kudumel are cities to arrive in, with their quarters, markets and keepers of the peace, and the Grand Council Hall, the Tamzir Monument, the Strait Fortress and the Caravan Gate each have a page of their own.
+- Bazunel and Sazumun are cities to arrive in, with their quarters, markets and keepers of the peace, and the Painted Harbor, the Design Yards and the House of Factors each have a page of their own.
+- Tarvénia's three kingdoms are places to play: Asturath in the mountains with Lezkora and Kávrenath, Lyenrik along its river of towers with Torvaleth and Ornetho, and Galvaren on the fog coast with Durvolka.
+- New towns and sites include the iron town of Ardalis, the drove town of Tsaberis, the Zurgando pass, Enthara's vineyards, Bruthena, Ulhera, Ezkoba, and the Black Cliffs of Kaurema above a sunken city.
+- The Turquoise People have their countries: the Canyon of Houses, the Cave Mesas and the Canal Plain, with the Grandmother House, the Door House, the Canal House, the Moon Door and the turquoise diggings.
+- The South House at the desert's gate has its own page.
+- **Tarvénia's borders:** Tarvénia and its lands name their neighbors on every side, the neighbors name them back, and the road from Kávrenath over the Kervaron takes three days.
+- **Tarvénia's shape:** the region page describes wine hills between two mountain walls above a sandy southern coast, with its present troubles, and Galvaren's coast faces the Vilérian Sea.
+- Eskarath gains its Biltzarrath council and the high meadow of Gaztorai where it sits, three highland villages, the Spirits of Eskarath, and an Eskari language page of names.
+- Galvaren lies on Tarvénia's south-western shore, on the Vilérian Sea, with its fog, rain and fishing fleets.
+- Ulhera and Durvolka fish the inner sea, and the cod boats of the Far Grounds sail south into open water.
+- Lyenrik, Galvaren and Asturath each have a current situation and a history a referee can use.
+- Lyenrik ranks its people by its own ladder, from the outlaw to the king and the houses of its Roll, and its offices are held from those standings.
+- **Tarvénia's frontiers:** the Western March and the Gray Highlands have their own pages, with the March's fort and the Summer War against Provénzia.
+- **Tarvénia's mountains:** the Toravar Range shows both its arms and its war pass, and the Kervaron Spine is described from Asturath.
+- **The Mother:** Tarvénia's mountain villages gain a page for their oldest faith, with her caves, the wise-women who heal in her way, and the oath stones sworn upon her.
+- **The High Kingdom of Tarvénia:** the elected crown has its own offices, the High King, the electors, the Keeper of the Hall and the crown's heralds, and its page names the present High King.
+- Ólvestra and Polthamis are written in full, with new pages for the Twin Gate, the Great Temple of Árdavon and the Ashen Vow's Ólvestran Cell.
+- **Valthari:** the free city's ranks and officers are written for its charter, its courts and its trades.
+- **Eskarath:** its Speaker, Host-Caller, Truce-Warden and Water-Warden are held by the delegates and elders of its clans.
+- Tarvénia has four scenarios and a campaign frame for the season before the next High King is elected, covering the strike at Valthari, the salt coast, the terms of the crown and the highlands' old arrangement.
+- **Tarvénia's small towns:** Dúrgalis, Herthema, Nebralis and Thórgila have full pages, councils with offices, and townsfolk with hooks from their troubles.
+- **Valthari:** the free port has its own page in full, with its harbor bar and pilots, its quarrels, its law, its trades and quarters, and pages for the Taruzeli Quarter, the Shipyards and the Charter Hall where its courts sit.
+- **The Konsezarath:** Valthari's council of merchant houses has its own page, with who may sit, how it votes and what it is fighting over.
+- **Threskon:** the free city's salt town on the sandy southern coast, whose pans salt Galvaren's fish, is new.
+- **Thornhill Manor:** Lord Zurgade's hunting manor is written as an estate on the Lyenrik plain, with its land, household, court and year.
+- Vedyara is no longer described as a league of city-states: only Chendrapur and Vyalendra are city-states, and the rest of Vedyara is its kingdoms, janpodas and cities.
+- Vylaria is written _Viléria_, its people _Vilérians_, and its tongue _Vilari_.
+- Orzara's dole is the veterans' pension, paid in coin each month and graded by a man's final rank, and nearly every citizen in the dear capital depends on it.
+- The throne pays for the dole by borrowing from the Danvar's great houses, with nothing put by against a fire or a famine.
+- The capital's state granaries hold about a week of grain, which makes a blockade, a bad harvest or a dishonest granary-keeper far more dangerous.
+- Every Vilérian province, town and polity describes its present quarrel, with the people in it named.
+- The Empire and Orzara show the throne's debt and the open succession; Moktur, Hilen, Salkalon and Nartun each show their own strain.
+- Orzara's eight quarters tell their history and what their people fear this year.
+- Many Vilérian places gain hooks pointing at those quarrels.
+- Viléria gains the Kervaron Spine, Hvirnmil's Head, the sealed Eyrie of the Dragon Riders, the River Vilaris down to its reed-marsh mouths and the deeper vaults of Orzara's Necropolis, each with hooks and a secret for the GM.
+- Bethua, the South Marches, the Bethuan Fleet, the Jackals of the South Marches, the Bethuan Trade-Houses and Sehela have a present.
+- That present holds the aqueduct grain the failing Khelathi flood leaves as the shore's one surplus, the Metrissa's choice, and the Marches' late tribute.
+- Okharis and Bethua border the Vilérian Sea, and the sea names them in return. The rainforests, the Marches and the savannahs state which lands they touch.
+- The Au'Khelathu page lists the districts beneath it, and the Okharis pages link every village, tribe, estate and range of the kingdom. The Wazulet stands under Galezkara; Lareshu, Anlaghura and Akhoza-Menlaa stand under Au'Khelathu; Lut-Zelutha stands under Lareshu.
+- The three groups of Khelathi districts each name a seat. The Okharis page describes an independent hereditary kingdom, and the Zerathia overview places Bethua west of Au'Khelathu.
+- The grain-village in Anlagh-Zetun Selat that shared the name Gar-Zekhemu with a village near Galezkara is now Gar-Mesanu, with a page of that name.
+- The Great Temple of Uqa'a, the Measure, the two bridges of the Sun's Road and the Eternal Library have their own notes, and the three kinds of estate are explained.
+- The Targa River Valley, the Field at Iqeru, the Burned Wells, the Old Hetos and the Throne Cave each say why a party goes and what is there now.
+- Khelathu places in the capital and its desert margins say how they stand today, more of them carry their histories, and The Wazulet is a district of the capital.
+- The Nyáluba household grades no longer list a Bondservant, and Lusheya nu Kolembozi has a note of her own.
+- The Nyáluba spirit traditions say how they stand today, and the Southern Savannahs open on what the land is about and list the Dry Reach.
+- Okharis in the present year has its situation written: tribute rising, the Khelathi factions courting its horsemen, the Oracle silent, and the King unable to act.
+- Zarhanis, Kaljekor and Vuthraka each say how the realm's strain reaches them.
+- The Ash-Fold and the Crown Trades of Okharis each say how the same strain reaches them.
+- The Eternal Flame names the warriors' branding at Vuthraka the Trial of Flames and keeps the Trial of Three Flames for the priests' fast.
+- The ten Okharis tribes and the Ash-Fold have histories, and the Okharis region note opens on what the land is about.
+- The Central Rainforests have two named rivers, the Luwa Bolu and the Luwa Gbasa, and ten named tribes, each with a leader and a seat. An Adventurer's Guide introduces the forest and where a campaign can begin.
+- The Leopard King and his Court are a tribe with a Speaker and a war-leader, and the Gorge-folk portage tribe has a leader.
+- Khelathu's selat polities and the Border, Delta and Upper River selatu have a history drawn from the events already recorded for them.
+- Au'Khelathu has about sixty more towns: each selat has towns beside its capital, such as market, mining, temple and port towns.
+- The great cities of Au'Khelathu say what feeds them, and the two largest are metropolises.
+- Okharis has a market town in each tribe's country, and Bethua has twenty towns at its harbors, aqueduct heads and on the Marches road.
+- The Nyáluba nation has no towns, and its five paramounts keep village-sized seats.
+- The region pages say where the people live, and every settlement's type and market follow its size.
+- The South Marches have two herd-clan tribes, the Dorumbe and the Hasembe, each with its well-camp, and the Free Companies, the Marches Road and the Long Wells have their own notes.
+- A South Marches Adventurer's Guide opens the drylands south of Bethua, with the tribute that is late this year and ways into play.
+
+**Languages and scripts**
+
+- Each language declares the exact roman letters it writes, and its native and roman readings use the same letters.
+- The Semaron, Helónika, Vedyakshara and Pirzath punctuation signs each have one spelling, and editorial gaps are kept apart from spoken words.
+- Vilari's grave-vowel catch is described, as are the languages whose older names keep letters outside ordinary word formation.
+- Velanthia has its own culture, a Velanthian language with its names and words, and a Helónika encoding for writing it.
+- Names and words such as Domsei, Revunai, Kenbeshai, Bernirai, Sunhemai, Glarvei, kulai and hukai are spelled the same way in verse, language registers, glossaries and prose.
+- The Eilwìthi names Greiling, Greiden, Wreimon, Wreimouth, Wrei and Greimoor take the guide's `ei` reading of the English "Gray" and "Wray" sound.
+- Nine Élavendri words changed form so that each keeps its own meaning next to the word that now takes the _ei_ spelling.
+- _Intended_ is _dernar_, _accidental_ is _andernar_, _guilt_ is _darnis_, _embarrassment_ is _geldis_ and _across_ is _gande_.
+- _Even_ is _geri_, _a cheek_ is _gernis_, _the penis_ is _garnon_ and _metal_ is _gerone_.
+- Five Tantsou words have new forms that the spelling guide reads as written: _five_ is _chi_, _belly_ is _twi_, _permission_ is _zhyau_, _to lie down_ is _tye_ and _soft_ is _gwen_.
+- _To hold_ moves to _gwin_ and _bed_ to _tyemou_.
+- The festival of five elements is _Chi Tsai Jwi_.
+- The Tantsou word for _warrior_ is _wo_, as in the caste names _Wohou_ and _Wozhwo_, and _wo_ also means _divine_.
+- _Wuodao_ is now _Wodao_, _Wuoja_ is _Woja_, _Houwuo_ is _Houwo_ and the personal name _Bwi Ja Wuo Rau_ is _Bwi Ja Wo Rau_.
+- Élavendri words and names that carry the vowel of _day_ are spelled with _ei_, so it reads as it sounds.
+- _Taeren_ is now _Teiren_, _Raenor_ is _Reinor_, _gaele_ is _geile_, _gaeron_ is _geiron_ and _gaer_ is _geir_; _Araelwen_ keeps its spelling.
+- The Tantsou word for _this_ is spelled _wye_, and the phrases built on it follow.
+- The Jenchai festival and rite names use the current Tantsou spelling: _Chai Jwi_, _Leng Rwi_, _You Jwi_ and _Shwi Nye Wo_.
+- The Tantsou language note lists the sacred and the warrior readings of its Jurthati cognate wo separately, so the Jurthati roots table shows both.
+- The Veldikko encodings write the k-s sound as _ks_ and no longer accept an _x_ sign, so Áelendi _dheks_ reads back correctly.
+- Convert between Roman spelling and Thalorna's scripts from module settings, with native fonts, copyable results and lexical findings.
+- Sovidur gains the ordinary words these songs need, and its language page describes its two verse forms, the star-song and the calling.
+- Tellumi gains the ordinary words these works need, and its language page describes its two verse forms, the unrhymed recitation and the rhymed cloth-song.
+- Personal names in the Taruzeli, Dunhari, Varokhi, Provenzal, Senali, Nordmal, Hvarn and Osket lists that echoed real-world words or were awkward to say are respelled, and the characters who carry them follow.
+- Vedyari's word for an island is _kundra_, and the Vedyari given name _Katha_ is now _Kadra_.
+- Kalihari household names follow the pronunciation guide and keep their consonant onset; Senali reads y before a vowel as a consonant.
+- An acute on the second letter of a vowel pair, as in _aí_, now starts a new stressed syllable in the Bethuan, Helonik, Valtari, Bizarian, Eilwithi, Senali, Áelendi and Khazari scripts, matching Pronouncing Thalorna.
+- The wall-names built on _téikh-_, among them Téikharos, Téikhimon, Krustéikhian and Argirtéikhian, mark their stressed syllable the way the pronunciation guide reads it.
+- Mídhalión is written _Midhalión_, stressed on its last syllable.
+- Khazari's acute marks only the stressed syllable: its vowels are all short, and Pirzath no longer writes a length mark for an acute vowel.
+- Eilwithi spelling is standardized: k and s for c except in ch, ks or initial z for x, kold for cold, -es possessives, oer for o'er, and unhyphenated compounds.
+- Each language's writing is documented in an encoding note for its font, keeping conventional decoded spellings and lowercase roman for caseless scripts.
+- Language passages share one punctuation, and literal specimens use the font's named glyph codes.
+- Eilwithi has a pronunciation guide for its older speech and writes its familiar word spellings in the Semaron Kuriale hand.
+- Nyáluban names carry an acute only where the stress falls away from the syllable the guide's rule chooses, so _Talemo_ is written without one while _Amífeli_ keeps its mark.
+- Two Nyáluban clans take new names: the river-watchers are the _Mpalude_ and the radiant ones are the _Lusiro_.
+- _Bjartur_ is the Nordmal god's name, spelled with a vowel in every note.
+- Tharavarkon text is carved with bound runes, two staves on one stem.
+- The Kawiskak Language gives the Spruce People their names, with its sounds and name lists.
+- Sovidur and Tellumi word lists use lowercase forms consistently, and their name registers preserve the distinct meanings of names shared with ordinary words.
+- The Kelwanuk Language has its own words and names.
+- The Hvarn language guide includes the names of its hearths and storytellers and consistently names the Sangra-fort and janpodas.
+- Each language's page says how its words are made: which sounds it favors, where it puts the stress and how it builds new names.
+- Every tongue's stress follows the one rule in Pronouncing Thalorna, so an unmarked long word in Áelendi, Nordmal, Senali, Sovidur or Tellumi is stressed on its second-to-last syllable.
+- Khazari plural and gender forms are spelled without the stem's stress mark, as the language's stress rule says, in the lexicon and in the Khazari texts.
+- The settled form of Dunhari is written in Qalezu from right to left, the way the Qalezu alphabet is read.
+- A few dozen Sovidur, Tellumi, Taruzeli and Senali words are respelled in their own tongue's sound, so none is a real Earth word.
+- The steppe's paramount chief is the _orghun_, and its central sands are the Ghoshiqor.
+- Words and names that were whole words of a real-world language are respelled in Áelendi, Dunhari, Kì'ì'chek, Nyáluban, Okharik, Tantsou and Varokhi.
+- A member of the Dunhara Warrior's Circle is a _bahvar_ and wears the _vazder-bahvar_, and the Circle is the _Tigh'Bahvaran_.
+- The fifteenth day-sign of the Itsani count is P'uqul, and the Waldburg weaponcrafter is Wíthgar.
+- Eilwìthi uses Pronouncing Thalorna for every word and name, including English-derived vocabulary, with its own naming palette and grammar.
+- The Eilwìthi words for _exact_ and _courteous_ carry their stress and short-vowel marks in the vocabulary.
+- The Eilwìthi Semaron encoding writes a short vowel that also carries a stress mark.
+- Eilwìthi words read as they sound under Pronouncing Thalorna: the short vowels carry their grave marks, and held vowels are doubled.
+- Words like _thou_, _time_ and _now_ are written _dhau_, _taim_ and _nau_ in the vocabulary, the grammar and the verse.
+- The Eilwìthi Semaron encoding writes the short vowels à, ò and ù as well as ì.
+- Élavendri words carry an accent only where it moves the stress, so most two-syllable words and their verse lose a mark that never changed how they are said.
+- Seven Élavendri words that differed from another only by that mark have new spellings, among them _kerdon_ (crown), _kornar_ (requested) and _oldand_ (guide).
+- Senali in the Veldikko takes a rising or falling tone only on the first letter of _aa_, _ii_ or _uu_, and draws an acute as the stress sign.
+- Senali in the Veldikko reads a run of vowels from left to right, so a vowel after a long vowel or a diphthong stands on the carrier.
+- Family names such as Brandli and Helmsli, and the name Audri Harding, are spelled to match how they are said.
+- The Eilwìthi words _many_, _any man_, _anything_ and _kompany_ are written _meni_, _eni man_, _enithing_ and _kompani_, and the places Stonyford and Stonyhaugh are Stoniford and Stonihaugh.
+- Kestin Haroway, Grayson Thrift and Jorun Graywick are Kestin Harowei, Greison Thrift and Jorun Greivik.
+- The Eilwìthi verb table gives _thei_ and _sai_, and the Slaughter on Domsei is spelled as the island is.
+- The Nordmal island ending _-ei_ takes the joining form _-eijar_.
+- The Shuqash note names the vowel pairs and endings its words use, and says _kulai_ as KU-lye.
+- The 921-concept vocabulary reference covers everyday conversation, questions, time, uncertainty and courtesy, with guidance on phrases and idioms.
+- Everyday dictionaries across twenty-three human languages cover the shared core, with worked expressions suited to each tongue.
+- Eilwithi’s everyday and literary vocabulary, speech and examples share older verbs, distinct singular and plural address, clear modern definitions, and emphasis through word choice and phrasing.
+- Words with accented y display correctly in ordinary Semaron script.
+- Khazari text is set in the redrawn printed Pirzath Hand.
+- Khazari says a foreign name without its opening vowel.
+- Tellumi, Sovidur, Ekpelu and Taruzeli gain ordinary expressions for the full 921-concept core, with worked examples of everyday grammar; existing words, names and pronunciation are retained.
+- Pronouncing Thalorna explains Tellumi and Sovidur’s stress rules and gives accessible pronunciation approximations.
+- The Tenlaya Language has its own words and names.
+- The pronunciation guide displays its exact IPA transcriptions in a dedicated phonetic font alongside the English comparisons.
+- Lienrik is now written Lyenrik, and Ki'ich'chik and Ki'i'chek are now Kì'ìch'chik and Kì'ì'chek, so each name reads as Pronouncing Thalorna says it.
+- Tantsou names write their glides with _w_ and _y_, so Raogui is Raugwi, Weizhuo is Weizhwo and Shuonong is Shwonong; Tantsou, Ekpelu and Jurthati words are said on a level voice, with no tone to learn.
+- Kalihari joins two words with a hyphen, as in _kaan-sili_; several Élavendri words write _ye_ for _ie_, and Senali writes its glides with _w_ and _y_, as in _hwoma_ and _vyerka_.
+- Áelendi, Jurthati, Nyáluban and Provenzal ask for no sounds beyond the guide: no ejectives, held vowels or required nasal vowels.
+- Most language pages state no stress, vowel-length, tone or pitch rule of their own, so their words are said as Pronouncing Thalorna reads them.
+- The Alessa street article and the old Vilari catch are written with the guide's apostrophe, as in the Morning Call's refrain _A' thelmos lokazor_.
+- Helonik, Bizarian and Bethuan agree with each other and with the pronunciation guide on vowels, consonants, the article and the Bethuan enclitic.
+- Names such as Khankhor, Khaddaris, Krisamar, Timiakit, Eutalash, Plantash and Kalumion are respelled to be read as they are said.
+- Bizarian and Bethuan are written in the Helónika, each with its own letters, and a merchant house's local books are kept in cursive Bizarian.
+- Vedyari text is set in the Vedyakshara script font.
+- Helonik and Valtari text is set in the Helónika script font.
+- The Tikupilarit Language has its own words and names.
+- Khazari and Senali have everyday words for the whole core vocabulary, from the body, kin and household things to time, place, feelings and the courtesies of conversation, so a Khazár or a Senalo can be played in ordinary speech.
+- Khelathi words, the four quarter endings and the plural can be shown in their sacred Zethu hieroglyphs.
+- Ch'alish P'ilam writes concepts, not spellings: almost everyone knows its 24 core glyphs, scribes and priests read running text, and the common hand runs in columns of two.
+- The Kì'ì'chek lexicon names the new months, days, metals and the smith's craft.
+- Kì'ì'chek has usable expressions for all 921 core concepts and worked everyday grammar, keeping its established names and vocabulary and telling glottal catches from ritual pitch.
+- Ch'alish P'ilam has compact working signs and elaborate pictorial ceremonial forms, with shared readings, limited occupational literacy and wild fig inner-bark paper.
+- Kì'ì'chek and Kì'ìch'chik names and pronunciations are standardized.
+- Khazari words and names are respelled to sound like the stone-tongue they evoke, house and hold names are written in two dashed parts (_Dalk-thumár_), and several names change, among them _Hulabat_ and _Hudakal_.
+- The Khazari pages carry a phrasebook, a gate-cry, a forge oath, a maker's mark, a toast and the words over a tomb, each with its pronunciation and meaning.
+- Senali, Tarveni and Vedyari words and names are respelled closer to the speech they evoke, and many characters, lineages, places and Janpodas are renamed in each.
+- Khelathi names write _ch_ for _tj_ (_Chaq'ur_, _Chelsur_), the longest names are shorter, and Khelathi gains numerals, ten everyday verbs and the words of the sacred river hunt.
+- Vilari asks, commands and exclaims with words of its own (_eza_, _areza_, _vez_, _voza_, _aia_), reports speech with _vethor_, "says", and ends third-person verbs in _-zor_.
+- The pronunciation guide covers vowel _y_, long vowels, doubled consonants, _ph_ and the vowel pairs _ie_, _uo_, _ae_, _ao_ and _ui_, and Vilari is stressed by its rule.
+- Vilari gains some ninety words, among them the senses, the passions and four kinds of love, and its grammar page sets out plurals, present forms, time words and the modal verbs.
+- Vilari has words for "perhaps", "truth" and "truly" (_zikai_, _varelza_, _varlai_), and the Morning Call and the Second Reading turn on _zikai_, the word that marks a thing as only alleged.
+- The setting lists the core words every human language covers, and Vilari, Tantsou, Áelendi and Élavendri have a word for each; Provenzal and Tarveni share Vilari's.
+- Áelendi borrows from Senali alone and its everyday words are its own; Élavendri takes some Vilari words for furniture, tableware, dress and steel; Senali gains its words for teaching and wisdom.
+- The Grukar converse by body language and scent, their grunts and bellows only lend emphasis, they keep no names or script, and only the Grukar-Sha learn to speak human tongues.
+- Vedyari's word endings are shown as they are written (_-oka_, _-ona_, _-uta_, _-ru_, _-ija_), and the station names are spelled _Karmija_, _Danhija_, _Sentija_ and _Ritrija_.
+- The language pages give each tongue's words, sources and sound rules without sound-change step tables.
+- The Osetakona Language has its own words and names.
+- Taruzeli’s sound palette follows Pronouncing Thalorna.
+- Nyáluban follows the guide's stress rule, with an acute for a different stressed syllable, writes its pitch with the guide's tone marks only where a word needs it, and tells readable spelling apart from optional performance directions.
+- Nyáluban has no writing tradition of its own, and written versions of its oral works are foreign transcriptions.
+- The unwritten Tokchili tongue has a language page with a full everyday vocabulary.
+- Osket and Sovidur say plain _o_ and _u_, so their words, names and verse no longer carry _ö_ or _ü_.
+- Where plain spelling made two Osket or Sovidur words alike, one word of each pair has a new spelling.
+- Sovidur's vowel harmony has one front vowel, _e_, and its words keep their endings.
+- Senali and Provenzal write double _e_ without a diaeresis, and Senali has six vowels.
+- K'ich'chik names are not gendered: any name suits anyone, and the language page lists whole names built from a primary, a secondary and an optional third element.
+- The master of the High Draw is spelled Danurpala, and the academy masters of Danurkot Janpoda are Danuracharyas.
+- Names with no vowel or a hard ending are respelled so they can be said, among them _Svartbrandur_ and _Velgrimur_, and the pages of the renamed characters, places and titles move with them.
+- Pronouncing Thalorna is one short, friendly guide that reads every tongue the same way, with an everyday comparison and the exact IPA for every sound.
+- Stress follows one rule everywhere, and a caron or circumflex on a long vowel marks a rising or falling tone.
+- Names and words use _ai_, _ei_ and _oi_ for /aɪ/, /eɪ/ and /ɔɪ/.
+- Four Semaron guides name their own tongue in the restriction on foreign catch spellings.
+- Vilari's period marks pauses within sentences as well as at their ends.
+- Senali's language page gives one rule for joining two stems in a compound, and the way back is spelled _vatteneleesì_ in the lexicon, The Lament of Haulonna and The Asking.
+- Khelathi-zethu, the temple script, has about four hundred and seventy picture-signs, in right-to-left lines or top-down columns, with royal names in a corded oval.
+- Qalezu, the everyday Khelathi alphabet, writes only consonants, right to left; the settled desert courts write in it, and the Dunhara and the desert tribes keep no writing.
+- Tharavarkon and Thurarth are varieties of the Thuravark runes, and Okhatha-zethu and Merazan of Qalezu.
+- The K'otsel cord records are described knot by knot, Kaliharans keep their knowledge by memory through the Vaarthari skill, and the Ithari's stone marks are no script.
+- Spelling pages show how roman Vilari, Khazari, Nordmal and Khelathi are set in Semaron, Pirzath, Thuravark and Qalezu, each script's page shows words in it, and each says how a scribe marks stress.
+- Khelathi inscriptions can be written sign by sign in Zethu on any page, and Khelathi names such as Meqes can be written in Semaron, which writes its missing _q_ as _k_.
+- The Áelendan write their own tongue in the Senali hand and carve in their old runes, the Élavendri write in Semaron, and ancient texts in the region are Áelendi.
+- The Veldikko, the Senali hand, is written right to left.
+- Thuravark and Qalezu write the letters they lack with their nearest letter, and every script writes ë as e.
+- The Shuqash Language has its own words and names.
+- The Senali say their own enclaves' names in their own sounds: Ethalosse is _Etalosse_ and Serenthale is _Serentale_ in Senali, and The Asking names the stone court that way.
+- The Senali language page explains word order, wearing, relations and how to proof a passage.
+- Senali words for "in" and for qualities follow its sound rules, as _roselo_ "in the morning" and _pattenersa_ "a coming back", in the dictionary and the verse.
+- Senali has one word each for "knee" and "a lie"; _kippel_ means a trick, a deception done rather than said.
+- Senali verse marks a rising voice with a caron and a falling one with a circumflex, on its long vowels, the way the pronunciation guide reads them, and the Veldikko script draws each pitch the same way.
+- The Orzara geography map labels the Clearance in plain English.
+- Tellumi, Taruzeli and Osket originals and the Tantsou and Kalihari word lists are written in lowercase, as every tongue whose script has no capitals is.
+- The Helonik and Taruzeli stress examples are said the way each language's stress rule says, and the Áelendi note keeps its stress on the first syllable throughout.
+- The Kaliharan stem _thari-_, "what came before", is written without an acute.
+- Tarveni stress falls by the spelling guide's rule, as Vilari's does, with an acute where a word leaves it.
+- Okharik's sound notes agree that it has the rasping _kh_.
+- Tantsou words and names drop their accent marks, and the Tantsou page sets out the tongue's twenty opening consonants and eighteen finals.
+- A few Tantsou names are respelled to match their roots: chaos is _hwen_ (_Hwenlei_, _Hwenzhwo_, _Genhwen_), the boar is _zhin_ (_Zhinho_), and the slave caste is the _Nwitsou_.
+- Tantsou gains words for lightning, a hand and an account, so _Lanei_, _Tsaihwo_, _Wandwo_, _Wansou Zhuo_ and _Wantou_ read as the words they are built from.
+- _Dou Chou_ is glossed as the Record of the Road.
+- Some Tantsou given names change, and the moon goddess is _Youbwi_.
+- Tantsou and Jenchai keep records, literature and letters on handscrolls, with Teng Chou written in vertical columns read from right to left.
+- Qalezu marks a verse-unit end with a high middle dot, distinct from the ordinary period and comma.
+- Vilari, Provenzal, Tarveni, Élavendri, Valtari and Varokhi text is shown in the Semaron script, Nordmal in Thuravark runes, Khazari in Pirzath, and Khelathi, Atárzadi, Dunhari and Nyáluban in Qalezu.
+- The Teyumi Language has its own words and names.
+- Vedyari _chenta_ (chisel) and _chentak_ (torn open) are respelled, so neither is a whole Sanskrit or Hindi word; the Vedyaran verse that uses them reads the new forms.
+- The Vedyari language page and the Vedyakshara script page agree that about one noble in six can read, and the sound notes name _f_ and _ts_.
+- The six Vedyari names that opened on "The" are listed without it, and the verb for dying is _daush-_.
+- Vedyari names that held a vowel _r_ are spelled with _ri_ for easier pronunciation, as in Pritimaja Kayadara and Driksharana Manrishti.
+- The Vedyari language page describes only the sounds its spelling writes.
+- Teng Chou and Veldikko text is set in its own typeface.
+- Senali and Áelendi text is shown in the Veldikko script, running right to left.
+- Pronouncing Thalorna spells every sound one way: two vowels side by side are both said unless they form a listed group.
+- The vowel groups are _ai_, _au_, _ei_, _oi_ and _ou_, with the held _aa_, _ii_ and _uu_; a tongue lists a further group only for a sound these cannot write.
+- A diaeresis appears only to split a group, so _kau_ rhymes with _cow_ and _kaü_ is KA-oo, and a grave marks the short English vowels.
+- Eilwithi follows the same standard as every other tongue, its English-derived words included.
+- Senali _rellì_, _tìrke_, _hìlpe_, _nìmme_ and _seltì_, Nordmal _skolva_ and Eilwithi _skai_, _wiin_ and Hildwiin are new spellings.
+- A _y_ is never a vowel: words that used one now write _i_, and Senali writes its front vowel _ì_, as in _leesì_, _Elvìrinte_ and _Ithros_.
+- Varokhi full names join the clan with _ira_, as in Athalwa ira Vithrúnd wur Eichengrund.
+- Pronouncing Thalorna explains the closing glides _iy_ and _uy_, and how a _y_ before a vowel starts the next syllable.
+
+**Literature and verse**
+
+- The Embassy from Dúnavarre to Tantsou carries its accent in its title.
+- Nets from Both Shores and Pale Lamps on the Crown Road no longer have the party meet people the adventure does not cast, and Pale Lamps casts the Keeper of the Dead of the Vardain.
+- Eilwìth and Kalipsa adventures read more cleanly: the Thordimalon is named where the Order first appears, and place names mid-sentence take a lower-case "the".
+- The Games Season at the Sanctuary is a new adventure for the Helionis guide.
+- On the morning the Games open, the herald chosen to speak the truce words is found dead at the heralds' altar, and the arbiters must name the guilty before the Games close.
+- The Truce Camps of the March is ready to run from the Bizarian League guide: everyone the party meets is written and linked.
+- Its hooks name the kind of character each suits, and its hidden truths are set out one by one for the referee.
+- The Valdris Caravan is a new adventure for the Bizarian League guide: a House Valdris shipment has vanished in Ravenswood.
+- The party rides the road with the old teamster whose route it was before the house answers for the loss at an arbitrator's table.
+- Ravenswood, the Shadowstalker and Órashkar Naulakit link to it.
+- The three Dunhara adventures list their people, linked to their notes, and the Dunhara Adventurer's Guide names The Spring Before the Banner as the Amradad campaign.
+- Three new Dunhara adventures: a grain train stranded between two chieftains' escorts outside Gharzadez, with the kinless raiding at night and a reason why one chieftain's caravans always get through.
+- A beaten clan brings a widow to the Stone of Ranaz to ask the Warrior's Circle to hold Shadezan Kamruz to its oath, at the very season-turn when the Circle needs him to lead it.
+- A caravan comes into Tahrodan with every bale under one fire-temple's seal, and the governor, the priests and the High Shekhul each want to know what lies under the silk.
+- Gharzadez, Delmavad, Parzavad, the Mirror Sea, the Stone of Ranaz, Tahrodan, Valmakhend and the Great Fire-Temple link to the adventures set there.
+- The Okharis, Bethua and Nyáluba guides introduce the people at the center of each land's year: the silent Oracle, the grain quarrel and the Lubemo's war.
+- Every way into play in the five Xerathia guides now names the place or person it starts from.
+- Nine new Xerathia adventures. The first is the night before the Measure's reading at the Great Temple of Uqa'a, when the old Reader is too sick to go down the stair and the number proclaimed at dawn is in doubt.
+- A Khelathi envoy rides from Zarhanis to the Magara folds to name a price for their horsemen, while the Captain of the Host counts forty horses fewer than the registers show.
+- The Overseer of the Granaries finds the capital crediting the smallest upper-river selat with grain it never sent, and hires a party to follow it back.
+- Bethua's Metrissa hires strangers to settle a grain count that her two councils each argue from.
+- A tunnel-well in Bethua's dry interior has stopped running, and the Overseer of the Waters hires a party to learn whether the collapse was an accident while the village below it watches its barley brown.
+- A Bethuan caravan stands at Hasembe Camp with no riders for the eastern stages of the Marches Road, and the headman of the Hasembe wants a party to take the escort before the Jackals sell it one.
+- The Dorumbe tribute is late to the Bethuan posts, and a party must find the stolen herd, starting at the new Thumbel Camp, before the circle decides.
+- In the Lubemo's war, a party stands witness at the reading of a dry channel at the new Dry Reach, and at the Ékunda spring the two warring clans water their herds on separate days.
+- The places these adventures are set in link to them, and most of the people a party meets in the Bethuan, Marches and Savannah adventures have notes with stat blocks and gear.
+- The people and creatures a party meets in three older adventures, The House of Sealed Mouths, The Unwritten Vault and The Hearth Without Light, are listed with their adventures and have notes with stat blocks and gear.
+- The people and creatures a party meets in the three Central Rainforests adventures are listed with their adventures and have notes with stat blocks and gear.
+- The adventures are Hands That Never Stop Turning, The Hush at the Heart of the Wood and The Unseen King of the Spotted Court.
+- A new Jenchai Adventurer's Guide introduces the Nine Mountains, the poor court, the eight houses and the contest for the vacant office of Teng Ja.
+- Three new Jenchai adventures: a sealed letter crossing Muwojai's ferry, a bidding for the north's spears in rice, and a Tantsou prefect held by the raiders of Rinjai.
+- A campaign frame, The Vacant Blade, runs the contest from the first frost to the Dawn Rite on Zojai.
+- The Jenchai gazetteer gains an Introduction and a People section, and the sites and towns the adventures use link to them.
+- A new Tantsou adventure, A Filing in the New Reign, has the Dúnavarre embassy waiting in its compound at Zhowen to file the papers that bring it before the Speaker.
+- Two clerks of the chancellery come to its gate for the papers.
+- The Tantsou Adventurer's Guide, the Dúnavarre embassy campaign, Zhowen, the Prince of Doulwen and the embassy's Sergeant-at-Arms link to it.
+- The embassy's ambassador now has a stat block, and the chancellery clerk and the bridge officer a party meets in Zhowen have notes with stat blocks and gear.
+- Tantsou's six tales, records and verse works are finished and no longer marked as drafts.
+- In The Petition with Every Seal, the Jade Sovereign stamps the petition with her own seal, not the Jade Seal, which Youbwi keeps.
+- Velanthia has three playable adventures, Coin for the Ford, The Gatehouse at Theodburg and The Last Train over Karvogora, and a campaign frame, The Harvest Pay, that links them; each comes with its cast of people and offices.
+- Tarvénia's six tales and verse works are finished and no longer marked as drafts.
+- In The Adept and the Hail, the hail finds the adept's own field once for each lie he told, as Beruzta's reckoning says.
+- Kalipsa has a campaign of its own, The Spring Sitting of 720, about the election that ends the Harbormaster's term, the lost Norodari hulls and the tonnage levy, linked from the Kalipsa guide.
+- The Tantsou and Jenchai Adventurer's Guides open with a short poem in the voice of each land, the Jenchai one a three-line counted verse.
+- The Buried Water and the Calling at Vomek keep their English, followed by Sovidur originals in four-beat lines, with the star-song's refrain, the children's answers and the dovaq's refusal given whole in both tongues.
+- The Recitation of the Breaking, the Song of the Lost Town and the Coming Down keep their English, followed by Tellumi originals composed as verse in those forms, with the Delkoshekh's telling given whole in both tongues.
+- The Bizarian hymn, lament, sayings, borderers' song and telling of the Five Defects keep their English, each beside a Bizarian original in the tongue's own forms.
+- The hymn signs its cantor's name down the margin, and the borderers' song runs in long lines of fifteen syllables.
+- Six Élavendri works are restored in their English, from the Hálvireth line to the Lay of the Tree Line, each followed stanza for stanza by an original composed and rhymed in Élavendri.
+- The Élavendri word list gains the words those originals use, and several garbled meanings now read correctly.
+- The Eilwithi ballad, tale, lament, play and carol keep their English, and each is sung or told again in Eilwithi in its own ballad stanza, couplets, songs and carol, with the Semaron script beside the roman.
+- The Walking of the Line is set in its seventeen cantos, and its Vilari is sung in the six-beat line of the imperial epic.
+- Linked names in parallel verse remain readable in their own language alongside the surrounding prose.
+- The Hvarn have six works, among them their roll of the dead on the upper shelf of Jnanadvar, the rope-sayings, and a Drover who crossed alone.
+- The Osket of the Grazian wall have five works, from a hearth's count of its road's dead to an old case two hearths still argue at the cols.
+- The Kì'ìch'chik city-states have five works, from the Count of the Suns at the Binding of the Serpent to a captor's and captive's word-dance from Kul'taq'an.
+- Each people's pages point to its works and quote the lines everyone knows.
+- The Bethuans have six works, from the temple girls' hymn of the World-Weaver's loom to a tunnel-digger's deathbed testimony and the galley crews' Vigil song.
+- Kalihara has six works said as its households, custodians, holders of record and quays say them, from the first account a child hears to the tale Ilovanu tells a newcomer.
+- The Tantsou have six works in their imperial forms: a new-year reading, a district annal, a household's account to its dead, a hearth tale, a soldiers' song and a last record.
+- Each culture's page and Adventurer's Guide point to its works and quote the lines everyone knows.
+- The Dunhari tell five works of their own, among them an ode of an empty camp, a poet's weighing of a forged line, and the Lament of Dervun.
+- The Nyáluba gain two memory-songs, a recital of the six Daughters of the Lion, and three fire stories told at night.
+- The Okhariks chant a creation hymn and an Ashborn war-hymn beside their Okharik originals, and keep four tellings for their festivals.
+- The Taruzelians have six works of their own, from the breakwater roll and a captain's voyage tale to the veterans' song of the Shoals.
+- Each people's culture note and Adventurer's Guide now points to its great works, the songs, lays, sayings, plays and tales it lives by, with a sentence on why each matters.
+- Their prose quotes the lines everyone knows, word for word and linked to the work: an oath in a Nordmen hall, a Khazari master's saying, a Vedyari ferryman's vow, a Helionite herald's asking.
+- Five Helionite works are restored in their English, each followed stanza for stanza by an original composed in Helonik.
+- The Helonik originals are in measured verse: the rhapsodes' six-beat line, the four-beat choral odes and the sayings of the schools.
+- The Unreceived shows the summaries of its scenes between the odes again.
+- The Helonik word list gains the words those originals use, among them the verb for swearing an oath.
+- The seven Khazari works and the Hulabat fragment follow their English with a Khazari original in Pirzath and Roman, stanza for stanza.
+- The songs, tales and inscriptions pair their established English with recomposed Khelathi, a steady drinking refrain, and matching quotations.
+- The thirteen songs, tales and poems of Viléria and Taruzel, from The Walking of the Line to The Honey Owed Under the Water, read as finished works, without a draft notice.
+- The veterans’ song belongs to the Fleet Review night, the Walking of the Line’s introduction matches its rendering, and finished linked works lose stale draft notices.
+- The Nordlands sagas, songs and recitations, the Asguardian Pantheon and Faith of Thrunvald extracts, and Nágengir pair alliterative Nordmal originals with their English translations, with matching runic and Roman readings.
+- Storald of Draskborg, the Vuldgeldra and Skipskreld tell their prose in English and give Nordmal beside the verse they quote.
+- The Swearing Under the Baobab sets a Nyáluban original beside its English, in the griot's four-beat call and the gathered answer.
+- The song's extracts in the culture, Lion Totem and Tribal Nation notes, and the griots' Stone Tongue recital, carry the same Nyáluban.
+- Six Provénzian works follow their English with a Provenzal original in the Semaron script and Roman, stanza for stanza, with its own rhymes and refrains.
+- Native and roman verse readings keep their pauses, and questions and reported speech follow each tongue's own idioms.
+- A place that an adventure or campaign is set in now lists that scenario under See Also, so the link works from the place as well as from the scenario.
+- The Lament of Haulonna sets its Senali original in Veldikko beside a Roman reading and its English translation.
+- _The Seven Towers_ and _Guest-Right_ pair alliterative Senali originals with their English translations and matching native-script readings.
+- _The Gathering on the End_ adds the Senali originals of its four speeches beside their English, with matching native-script readings.
+- _The Long Watchers' Sayings_ adds the Senali original of every saying beside its English, with matching native-script readings.
+- _The Asking_ adds the Senali original of all nine turnings beside its rhymed English translation, with matching native-script readings.
+- _The Praise of the One Who Stays_ adds its Senali original beside the English, with a matching native-script reading.
+- Senali verse displays its rising, falling and emphasis marks.
+- Poems tagged with a meter or a rhyme scheme state it in a sentence beside the poem.
+- The Walking of the Line is set in two columns, Vilari in Semaron beside the translation, with every fifth line numbered.
+- Tantsou has a campaign, A Door That Has Never Existed, and the Tantsou Adventurer's Guide leads into it.
+- The Roll at the Thresholds, The Song of the Lower End and The Verses of the Thórgila Fair follow their English with a Tarveni original in Semaron and Roman, stanza for stanza.
+- The Verses of the Thórgila Fair keep the duel's rules, themes and results, and the Roll keeps the struck name's silent place.
+- The Reading at the Weighing sets the temple's litany beside its Roman reading and English translation, with the Khelathi wordbook recording its account and ritual vocabulary.
+- The Khelathi culture page pairs the Meqes memorial with an unpointed Roman transcription and the six-line Qalezu Asking.
+- _The Suit of the Scribe and the Builder_ presents the performed Khelathi play in numbered parallel Qalezu, English and Roman readings.
+- _The Stela of Kuz'Uqa at Zel-Halzi_ adds the unpointed Roman transcription, preserving blank rows and later hands.
+- _The Instruction of Khelayu_ pairs its maxims, pupil errors, teacher corrections and two-hand colophon with a parallel reading.
+- _The Tale of Gezerker_ pairs its full court tale, the twelve true and proclaimed readings, and the final Asking with Qalezu and Roman Khelathi readings.
+- _The Hymn of the Sun-Lord_ pairs an unpointed sacred-hand transcription with its Qalezu graffito, preserving the held divine-name rest.
+- Qe'aret's four-line Weighing passage has parallel Qalezu, English and Roman readings.
+- The Varokhi lays, charms, lament and tally are restored in their English and followed, stanza for stanza, by originals composed in Varokhi, written in Semaron and Roman.
+- The Vedyara songs, recitations and tellings set Vedyari originals beside the English, in counted measures of their own: the ferry oath, the Borrowed Lamp's refrain and the Measuring Cord's catechism among them.
+- Names first introduced in verse link to their notes or carry typed name markers, which name each name's language, with the verse language where its origin is unknown.
+- The Morning Call, The Evening Songs and The Song of the Gold Band set their Vilari originals beside the English translations, line for line, with the refrains, names and the four words of the manual kept.
+- Three Vilérian songs sing their numbers in Vilari words, and The Morning Call's introduction quotes its refrain exactly.
+- Zerathia has a campaign frame, The Flood and the Throne, that ties its flood, throne, tribute and grain adventures together.
+- Six Xerathian adventures follow the standard adventure layout: overview, hooks, scenes and aftermath.
+
+**Characters**
+
+- The harbor watch commander Gnirthann Veturdomur keeps the watch at the Knalthstead harbor, and his hooks and the captain Hvalgmil Svaltharuk's waters follow him there.
+- Ten heroes and knaves of Chendrapur, Karvashion, Danurkot, Kostaros, Nesthiros and Bizaris, among them the courtesan Sunati Jayavarda, the chandler Vishvakhila Ratnadasa, the bodyguard Darmapalda Vimuktan and the mercenary Fileze Stenikot, now each have a short description.
+- Their plot hooks name their own situations in place of stock adventure titles, with what only the game master should know kept in a secret block.
+- Ten people of Krisamar, Thálassos, Bizaris and Órashion, among them the priest Bazia Lokios, the healer Fodios Rores, the innkeeper Agélara Stetes and the shipwright Trufios Veghekos, each have a short description.
+- Their plot hooks name their own situations in place of stock adventure titles.
+- Each person's private matters sit in referee-only sections, and the priests, officers and guilds around them match the faiths and offices of the Bizarian League.
+- Ten characters of Bizaria, Helionis and Nordheim, among them the caravan guard Ághrazur Pirgikot, the marine Habidon Ghanides, the harbor watchman Gnirthann Veturdomur and the judge-priest Dumares Rafiros, now each have a short description.
+- All ten have plot hooks that name their own situations in place of stock adventure titles.
+- What only the game master should know is kept in a titled secret block.
+- Twenty-eight tradespeople, soldiers and cooks of Helionis, Nordheim, Thornhaven and Bizaria, among them the tentmaker Ánevira Tabires, the embalmer Ghéranira Rafiros, the longshoreman Knurvthann Hafringur and the timberwright Morzáhr Zilakit, each have a short description.
+- The astrologers, priests, scholars, tradespeople, players, courtiers and officers of the Khelathi cities of Amqelu-Legez, Anlagh-Zetun, Galezkara, Gar-Qeztu and Khelzuret carry a short description and hooks drawn from their homes.
+- What only the referee should know is kept out of what players read.
+- People of Malagna, Nordheim, Norgaad, Targud and Vithgard, among them the tentmaker Glirvrinna Snarvumak, the singer Ralthira Drekanótt, the bodyguard Thraldorv Vornheim and the innkeepers Hvalgvir Veturdomur and Thilmselda Drekanótt, each have a short description.
+- The woodcutter Kralmil Veturdomur and the skald Knilthann Skraldumak are among them.
+- Each carries plot hooks that name their own situations in place of stock adventure titles.
+- Each person's private matters sit in referee-only sections, and the guilds, councils and offices that the Nordlands do not have are replaced by the hersvaldar, landvordar, hovs and circles they do.
+- Several people and houses named in these notes take Nordmal names, among them the seid of Norgaad, now Tvarninda, and the wandering skald who travels with her, now Ralthvir.
+- The tradespeople, farmers, seamen, soldiers, servants and clergy of Ardalis, Dúrgalis, Herthema, Kávrenath, Lezkora, Nebralis, Ornetho, Thórgila, Thornhill Manor, Torvaleth and Valthari carry a short description, and what only the referee should know is kept out of what players read.
+- The soldiers, priests, merchants, cooks, performers, seamen, scribes and Companions of Vedyara's towns, from Chendrapur and Rajepur to Vyalendra, Suryagarha and the Barren Country, carry a short description and hooks drawn from their homes.
+- Four Vedyari characters carry new names: Danvika Ratnisen, Pavandi Balarnaya, Chandreli Jairavalsi and Podmavoli Danurkirti.
+- Sixteen tradespeople and workers of Vristwald and the Nordlands, at Dunkelwald, Falkholt, Frithhaven, Grimholt, Skathburg, Thornhaven, Dvalgheim, Kraldstead, Knalthstead, Nalthmark, Raltholm and Skraldborg, each have a short description.
+- Their hooks are drawn from their own villages and trades in place of stock adventure titles.
+- Fourteen tradespeople and heroes of the Nordlands, Vedyara and Midhalion, among them the woodcutter Hnarvinda Iseldur, the archer Ilthvir Bletholl, the farm laborer Nulthinda Eldskari and the litigant Knulthvir Stormrót, each have a short description.
+- Their plot hooks carry titles that name their own situations in place of stock adventure titles.
+- Thirteen characters of Vedyara, Kalihara, the Nordlands and the Empire of Au'Khelathu, among them the miner Shilabir Vidsamondal, the woodcrafter Tamura Tejanand, the locksmith Ziprahu Igu'Maathu and the pilot Zekhemet Gul'Zekhenu, each have a short description.
+- Twelve Vristwald tradespeople and warriors at Falkenstein, Thornhaven and Waldburg carry hooks drawn from their own villages and trades, in place of stock adventure titles, and each has a short description.
+- The Vilérian heartland’s remaining unpeopled settlements gain residents with local work, wants and adventure hooks. Unfinished profiles gain homes and complete dossiers, while concealed dealings stay in private blocks and Hiltheris Tholmaris remains a historical figure.
+- Taruzel’s city, guild, village and hill leaders and the Shoals Brotherhood’s Caller have playable profiles with local wants, relationships and hooks.
+- Danashu Kumuni’s record includes his Confederation office.
+- GMs gain profiles for Vilérian and Elissaran office holders, with their work, wants, concealed dealings and local hooks, plus the current Dukran, the Unpaid Fort’s commander and the Imperial Tarkelos’s recorded treasury office.
+- The Crimson Ledger’s collective principals gain legitimate trade profiles, with their criminal identities kept in GM material.
+- An elder of Vorgald's council joins the hold's people, with hooks for a party the council has questions for.
+- The Gray Tide's page says what it is quarreling over now, and the Koldmere Moot's page gives its history.
+- The Bond Syndicates name the syndic's office, and Kalipsa's lantern-keeper and village elders hold offices of the city-state.
+- The twelve towns of the Helionite hinterland, eight Bizarian towns and the cities of Kostaros and Krusteikhos each list someone a party can meet there, ready to drop into play.
+- They are a wall-warden for the twelve hinterland towns, a caravan-master for the steppe-road towns, a grain patron of Kostaros and a water-warden for the Karvashion caravan towns.
+- The others are the toll warden of Tolzur, a bell-founder of Bruzash, the bailiff of Siderash and a cellar master of Oinelena.
+- Selvazhikon Zigakit lives in Krusteikhos, Karvashena Halikot oversees an adit at Zalvarion, and the March garrison soldier draws his posting at Parzhenar.
+- The Bujalur dovaq Bujalqiimod, the camp head Bujalyitboq and his wife Evodlun, the Gorenur dovaq Gorenyemok and the white-beard Khuvanghakhiq are written.
+- Bujalur riders and camp heads, Gorenur raiders and weavers, a horse-dealer and a soldier of the Eastern March are ready to drop into play.
+- The Velvet Hand Agent, a companion, tutor or maid placed in a Kalidrian household, and the Vezhnur Outrider, a rider of the holds who scouts the pass road above Vezhrelion, are written as ready characters with hooks for the referee.
+- The Velvet Hand and Vezhrelion notes link to them.
+- Dunhara's seventeen folk have homes, roles that the Kingdom or the Tribes keep, and private dealings that a referee can use at the table.
+- Aravdán the Stargazer, High Shekhul at Amradad, is a person to meet, and the temple, the Council and the faith name him by link.
+- Dunhara's heroes and tradespeople carry hooks drawn from their own lives and towns, in place of stock adventure titles.
+- Amradad's Shebarader and the governors of Shebarakhend and Tahrodan, and the Dunhara Tribes' Speaker of the Council, are written as people with wants, relationships and hooks.
+- Melkhur, Vahrun Marzuvan and Mehrava are written up for the Weighing-Place and the Pale Floor, with what only the Game Master knows kept in secret blocks.
+- The tribal chieftains, the Keeper of the Basin at Kherzulakhem and the Holder of the Oasis at Vazhmavad hold the offices of their bodies.
+- Rosharan Barmandan answers to the master shipwrights of the coast, and her patron Yesera Parivan is an officer of the Amradi court who charts the Kingdom's coast.
+- The five Nyáluba paramounts, the Convener, the senior griot of the Long Pact and the Ékunda and Fénjara chieftains are people, each with a want, a seat and hooks.
+- The Nyáluba Tribal Nation's ranks describe the outcast, the dependent, the kinsman and the elder in Nyáluba terms, and the forest-edge peoples' notes link the Sengala.
+- The King of Okharis, the Oracle, the Captain of the Host and the Warden of the Flame are people, as are the Master of the Market at Kaljekor and all ten village chieftains.
+- The Metrissa, Matriarch Aselia, the Hégissa of Oshira, the Dómissa of Sehela and a Fleet warrant-captain are people with wants, seats and hooks.
+- Dame Torad Taravren, Loris Taravel and Sir Arren Thábavel of the Dúnavarre embassy come with adventure hooks and gear, so the Tantsou adventures can use them as full characters.
+- Wogen Henzhwo's page keeps his aims and the confederation's weak point in secrets for the Game Master.
+- Wojai Doja, Zenjai Tsuiwo, Tsuijai Rezo and Wejai Rowo, the four independent Dauzhwo of Jenchai, have notes with their wants in the contest for the vacant Teng Ja.
+- Jenchai's court has people: Emperor Weileng, his father the Retired Emperor, and the child heir Zija, with his mother Rewei as regent and his late father Henwo.
+- The lords of Shuiwojai, Rinjai and Muwojai are characters, each with a want in the contest for the vacant office of Teng Ja.
+- Each domain's lord opens from his own domain page, and the Jurthati name list gains the Retired Emperor's vow name.
+- The escort captain at Kwisen has a note with a stat block.
+- The headman of Hachai, the Jaunou magistrate, the Mou terrace keeper and the Weichai Leigen carry their gear.
+- The rebel general Tuija Wengyan and the warlord Wogen Henzhwo have full stat blocks.
+- The Tantsou war junk captain is at home in Wongsen.
+- The Tantsou court has its people: the young Emperor Tengrau, the Retired Emperor, the Caste-Registrar who counsels the Emperor, and the Governor who holds Zhowen.
+- The four Princes of Tantsou are named and written: Rinzho of Wongsen, Chengzho of Doulwen, Hozho of Mwonou and Tuizho of Kwozheng, each linked from his province.
+- The towns and villages of the Mwonou Uplands have people to meet: the district registrar of Jenshou, a Leigen of Weichai, the magistrate of Jaunou and the scholar who greets travelers at Kwisen.
+- The soldier Weng Hen Rau Chai of Tengmou and the keeper of the Third Terrace at Zhengnou are also there to meet.
+- The merchant, the Warden of the Foreign Quarter, the tablet-seller, the Shwonong factor and the funeral-goods shopkeeper of Wongsen have named notes with stat blocks.
+- Velanthia's towns and landings gain residents: a granary-keeper, a miller, an infirmarian, a harper, a barge-master, a fur-buyer, an armorer, a broker and the Hosts' gate officers.
+- A pass-market agent counts the southbound wagons, a rain-wife reads the foothill sky, and a river-village headman keeps the law between two collectors.
+- The Grukar frontier has six human characters, four of Velanthia and two of Skathwald: a fort warden, a healer, a river-trader, a Host scout, a fur hunter and a raid survivor.
+- Velanthia's three river princes, Zhitovod Dobrovodich, Milogor Yarogorich and Krodogor Brevogorich, have their own pages: what each wants, what he carries and what a party can do for him.
+- The atamans of the Tarvál, Sevret and Khorad Hosts, Volkar Kodogorich, Sovidan Volketich and Belukan Kelodov, have pages showing what each Host wants from the prince it serves and what its ataman will trade.
+- The starbrat of the great granary at Zhitavesh and the Master of the Houses of the Rivers are named, each with what they want of the princes and what they answer for.
+- The captain of the Brevavesh forts, the port-warden of Brelavesh, the keeper of the princely granary and the reeve of the Tveskavesh pass market are people, linked from the towns they serve.
+- Lords, seers, wardens and craftspeople of the conclaves have their own pages, with crafts, life stories and hooks for play; what the conclaves conceal is marked for the GM.
+- GM-only notes, including the three Keepers of the conclaves, reach the GM in a new GM Journals compendium that the site and book omit.
+- Game masters have new private GM Actors and GM Items compendiums, with ready-to-use actors for six elders of two Khazari holds and the holds they serve; the GM Journals compendium holds their notes.
+- Asturath's king holds his crown as an office, the Ólvestran Cell has a commander a referee can run, and Nebralo Ozkuregi is a Twinblade knight.
+- Two dozen Tarvénian townsfolk and travelers have new descriptions of how they look, and a few hooks and descriptions no longer give away their answers.
+- A bard of the House of Hálvireth and the retired head of the House of Véldarin join Élavendre's people, and several characters no longer give away their secrets on the public page.
+- Kalipsa's people are written: the two candidates for Harbormaster, the city's officers, an arbitrator, a pilot, the lantern-keeper, a captain, a docker, a broker and the South Shore's village elders.
+- Élavendre's three Senali enclaves have their leaders, lords and elders.
+- Shadezan Kamruz's present age is corrected to forty-eight.
+- Each member of the embassy to Tantsou has an appearance.
+- The Dryad, the Hangman, the Rooted Chief and the named dead of Blackkiln Priory, the Greilevels and the Crown Road say what they do in a fight.
+- Kenwin Highmore, Edwald Dunmore and Godrun Winli are written out in full.
+- The war-chief of the nine fords and the healer of Nethermoot Hollow now have Peshtar names, Gorlen and Brodet, and the war-chief is at home in the hollow.
+- Gerolt Sarne, Godrik Stonibi, Keeper Leofwald and the Reeve of Wenlorne are listed among the people rather than the creatures.
+- Tarvenan beings whose notes state a hair style or face shape now carry it in their look and portraits.
+- Nordheimn and Vylarian beings whose notes state a hair style, face shape, nose or mouth now carry it in their look and portraits, such as Tvarninda the Seid of Norgaad, Krildthann Shieldbearer and Rilthorv Runaskald.
+- Beings whose notes state a face shape, hair style, nose or mouth now carry it in their look and portraits, for the Heir of Brevavesh and for Vedyari such as Devanur Vasavesha, Piyadi Viranat and Shilabir Vidsamondal.
+- Rosharan Barmandan's Present paragraph no longer states an age that disagrees with her birth date.
+- Lámbira Pédhinion is now called the Hound of Bethura.
+- The Khelâthu halzi'a now show archetypes that match their work: cleric, trader or woodsman beside their existing archetypes, in place of unlisted labels.
+- Tázitha of House Khalithon and the Okharis chieftains Mbeleth Órungi, Mbika Pánawe and Nyora Lémberi show the courtier archetype alone, without a commoner label beside it.
+- The Bestiary gains seven creatures to meet and overcome: a sea terror that holds ships still in the island channels, a horse that waits at river fords, and a skeleton set to guard a tomb door.
+- Another is a lion-bodied guardian that asks a question at its gate.
+- The others are a bull-headed hunter of cut passages, a giant building a wall across a northern valley, and a shrine statue that strikes thieves.
+- The Bestiary gains a small household creature of the old farms of Tarvénia and Provénzia that does a farm's work unseen at night and turns on a household that slights it.
+- The Bestiary gains three more creatures to meet and overcome: an old oak that keeps a dryad's grove in the frontier woods, and a hornless drake that rides the spring flood down a Tantsou river and breaks its dikes.
+- The third is a giant bird of the Dunhara Desert that carries off one beast at a time from the tribes' herds.
+- Several Senali hooks have changed: a path that wanders, herons that stand still in their channel, a hunter's hut stripped by a storm, and a reed weaver's work.
+- The Senali of Kankul, Kushi Ishbal and Osetakona describe their eyes and hair in American spelling.
+- The Forest of No Road and its two named places have characters ready for the Game Master, each with a want, a secret and three ways into a story.
+- Revothar Baremzator, the circuit priest of Polthara, is a finished note, and his plague hook is a natural fever blamed on Taruzelian traders.
+- Vedyara gains twenty Heroes and Knaves across its kingdoms, guide-peoples, ports and roads, among them Shikhalaya's Maharava, an Osket guide-mother, Chendrapur's Outcaste fleet commander and a runaway making for the sea.
+- Sixteen more Vedyari folk are written in full, with homes across the region, among them shipmasters at the river mouth and the indigo port, a Bhumipali king's unpaid jewel, a Hvarn-sheltered explorer and the high priestess of Jnanasura at Suryagarha.
+- The southern waste of Kì'ìch'chik gains five creatures of its own in the Bestiary, among them the hairless packs that always number one more than the party they follow.
+- Thirty-six people named across Kì'ìch'chik's notes, from the northern coasts to the southern frontier, have pages of their own.
+- The northern peoples of Kì'ìch'chik gain Heroes and Knaves of their own: chiefs, healers, captains, keepers and troublemakers a party can meet, hire, cross or follow, from the Cedar coast to the turquoise canyons.
+- Pritarika Padmadiksha is a Sabhasadaka of Suvargeri and her mother is named Shrimeti.
+- The warrior-monks of the Bizarian church of Lizelas in Bokhenon Hodikot's note are now the Munzhar Itrinion, the Hearth-Fire Monks, so they are no longer mistaken for Nartun's Order of the Sacred Flame.
+- Daran Véldarin's lieutenant is named Keilith, with the same private letter and part in the investigation.
+- Eilwìth’s townsfolk have livelihoods, loyalties and adventures rooted in their towns, with Nordmal household guards at Stormveil.
+- The Dúnavarre embassy’s public profiles keep its members’ concealed loyalties, debts and private motives hidden from players.
+- Branalenis Barkalas and Lothona Harlanis live at the port of Delalara, Ailema Keramyes and Xenokos Bardas in Alessar, and Koremdanis and Mirene name Orzara as the Empire's capital; Alessa is the inland heartland, neither a port nor a capital city.
+- The Jenchai court's appearance lists show only bodily marks, with swords, cords, rings and caps left to each person's description.
+- The people in the Jenchai adventures carry game statistics: attributes, skills and gear.
+- Every Jenchai and Tantsou character template in those adventures offers at least three ways in, and each template's adventure hook opens with the adventure's name.
+- The seven Tellumi princes, the Keeper of the Unconsuming Flame, two steppe chiefs and twelve desert folk are now full characters, each with a home, allegiances, plot hooks and a referee's secret.
+- Thalura, Thirye and Megeti live in Galezkara, Legiret in Khelunu and Zanut in Amqelu-Legez, and their plot hooks are set there.
+- Thirty-four of Midhalión's minor folk, from the Nokaran of Orzara's City Watch to the magistrates and moneylenders of Bazunel, now have full write-ups with homes, allegiances, plot hooks and secrets for the GM.
+- Viléria's four provincial governors, the legion commander at Dolvar and the governor of Alessa's secretary each have their own page, with a public dossier, hooks and a referee's secret.
+- Midhalión's watchmen, priests and alchemist now draw their hooks and secrets from their own towns, and Jiraman Ashuruni is a _shudarum_, a Taruzelian singer of war songs.
+- The tradesfolk, soldiers and townsfolk of Viléria and Taruzel each have their own work, town, troubles and adventure hooks, in place of stock stories shared between them.
+- Public summaries, ages and service histories agree across biographies; embassy officers and supporting rivals have usable profiles, with private motives and evidence kept secret.
+- Nartun's Holy Mother, its king, a high priest pressing for the king's judgment, the Master of the Order of the Sacred Flame, a prior, and a lay baron of the temple forests are written in full.
+- In Orzara, the High Flame-Warden of the Black Flame and the Árdavan keeper of the Temple of the Twelve stand on either side of the quarrel over the Forge-Lord's niche.
+- The three men spoken of to succeed the old Orzas of Viléria are people: the Grain House's brother, the Senate's choice; a legate the Imperial Guard prefers; and a poor, devout Varkalenis, the old houses' man.
+- Each has rivals, creditors and patrons among Orzara's powers, a secret about what his claim is costing, and plot hooks for play.
+- The old Orzas of Viléria has a page of his own: failing, heirless, out of money, and still able to proscribe a house or sell it a title.
+- Orzara's powers are people: the Grain House, the throne's banker, the debt broker, the imperial treasurer, the landlord of the Warrens, the tax-farmer of Hilen, the shipping house, the Master of the Irons, the veterans' tribune and the Khelathi factor.
+- Each names the others as rivals, creditors or patrons, with secrets and plot hooks for play.
+- Élavendre gains a Death-Speaker, a Tradition Keeper, a Warden captain, a Bardic master, a grove-elder, a crown guide, a goldsmith and a Senalo.
+- The crown's sheriff, castellan, reeves and beacon keepers, and the lone Warden at the Fen Door, are people with their own pages.
+- Élavendre's existing characters live in named towns, hold the standing their home's ladder gives, and carry hooks drawn from local trouble.
+- Zolta Thelvaris now carries her mail habergeon, gambeson tunic, broadsword and round shield.
+- Halvra Senavel lists her wax tablet, and Godwald Storli his staff.
+- Áleren’s calling and Shadezan’s family history have consistent timelines, and Luvetha’s profile distinguishes public belief from its secrets.
+- The swordmaster who challenges Koremdanis Barkratis is Weja the Unbound, of Jenchai.
+- Snurvthann Veturdomur has a portrait of his own and no longer shares Hliskthann Veturdomur's.
+- The Koserur, Oroqidur and Qibudur people and the Koserur wells carry Sovidur names in place of the Dunhari-style ones they had.
+- The Princes of Tantsou, the young Emperor, the Governor of Zhowen, the registry officers and the Leigen of Weichai, among others, carry game statistics: attributes and skills.
+- Chengzho's first adventure hook opens with the adventure's name.
+- The Emperor, the Retired Emperor, the four Princes, the Caste-Registrar and the Governor of Zhowen have ages, builds and gear, and both Emperors wear the Zhazho look.
+- Wengzhwo Zhoja has a note of his own, and Tuija Wengyan and Wogen Henzhwo have homes, ages, occupations and gear.
+- A funeral-goods shopkeeper and a copyist of Zhowen and a ferryman's son of Jaunou have notes with ages, builds, gear, hooks and secrets for the Game Master.
+- Taruzel's powers are people a party can meet: the heads of its five merchant houses, the Arch-Consul, the keeper of the treasury, a Free Captain, and two keepers of the veterans' halls.
+- Each comes with a full dossier, their patrons, rivals and creditors among the others, and plot hooks drawn from the coast's debts, guild quarrels and the veterans' anger.
+- Alethra, Zolta and Eldira take the house names Ornetis, Thelvaris and Garrundeta.
+- Bison, moose, coyote, sea otter, macaw, wild turkey, caiman, anaconda, river dolphin and manatee join the Bestiary as animals of the Kì'ìch'chik continent.
+- Tarvénia's High King, its three kings and the heads of its town councils are people with their own pages.
+- Tarvénia gains an Eskári elder, a Toravar Áelendan, a hermit, a mendicant, a mercenary captain, a shipmaster and a Valthari councilor.
+- Tarvénia's existing characters live in a town, hold the standing their home's ladder gives, and carry hooks drawn from local trouble.
+- Nine Tarvenan people join the cast: a company captain, a court clerk, a shipmaster, a factor, two highland elders, the Reeve of Threskon, the Keeper of the High Hall and the Warden of the Plateau Gate.
+- Vandarik carries his 31 pence.
+- The officers of the Danvar, Tevran, Tarmex, Tolvan and the Vilérian military now carry Vilari given names in place of Roman ones.
+- Lersais's succession hook turns on the Gar-Au's nephew, not on a failing son.
+- Meqes XVI, the reigning Gar-Au, is a full person with her office, her home in Galezkara, her age, her want and her plot hooks.
+- The Capital Selat's Halzi'a and the heads of the Upper River, Border and Delta Selatu are written as characters, among them the Overseer of the Granaries, the Commander of the Marches and the Overseer of the Sea-Gate.
+- Every selat has a named Halzi'a living at its seat, of the ruling house where its notes name one, so each seat has someone to meet.
+- The necropolis city, the burial-fields, the temple-estate city, the sacred island and the tomb-workers' village of the Capital Selat each have a resident.
+
+**Rules and items**
+
+- The Heart of Dirikri and the Second Voice show their own icons in Foundry.
+- Provénzia gains its storied relics as items: the Maul of Gashang in the Blood Hills, the silver reliquary lost in Ménavar Abbey, and the Royal Loremaster's Temporal Compass.
+- Thalorna defines its own gear: armour and clothing, containers, miscellaneous gear, weapons, projectiles, concoctions, diseases, poisons and toxins, and the trauma conditions.
+- Seafaring has reference notes for the rigs, grades, crews, hull measures, building time and cost, and the conversion of merchant ships for war.
+- A Travel at Sea note gives the odds of each day's distance under sail and oar, in leagues and miles.
+- Seafaring Traditions sets side by side the warships, trading hulls and building methods of Au'Khelathu, Aureldia, the Nordlands, Tantsou, Vedyara and the Vilérian Empire.
+- A mixed rig, square sails with at least one triangular or battened sail, loses no days to the wind at any grade.
+- A new Junks reference page says what makes a hull a junk and names the seven hulls of Tantsou's yards, from the Wongri ocean junk to the Shouwou tower ship, with the Jari war junk that Jenchai builds too.
+- The Wongri (Ocean Junk), Kantong (Sand Ship) and Haimou (Tribute Barge) of Tantsou have vessel pages in four sizes each, with their dimensions, crews, costs and days' passage.
+- Tantsou's war vessels (the Tinmou, Twenmou and Shouwou) and the Jari war junk that Tantsou and Jenchai both build have vessel pages in three or four sizes each, with their dimensions, crews, costs and a day's passage.
+- The vessels of the Northern Seas and Tantsou are actors a Game Master can drop on a scene.
+- Adventures, characters, lore and guides call the person who runs the game the Game Master, and secret blocks read "What the Game Master knows".
+- The Dunhara lands have two unique relics: the iron crown of Vahrun Marzuvan and the king's signet of the Dry Stair, each with where it lies and who wants it.
+- The nine Áelendan spirit skills each say what standing with that spirit is used for and what it asks of the one who holds it: Gildand, Kiltas, Korsand, Óssenda, Sálenda, Tena, the Uron Tekhi, Timel and Urnel.
+- Iceshield (Zefaris's Mantle) is described as protection against heat and fire, matching Pirethos's Hearth, which guards against cold.
+- Ch'um Ts'ena, the Speaking of the Day, describes the Itsani priesthood's magic: workings spoken only on days the calendar opens to a god, paid for in blood from the city's ledger.
+- Each of the ten Itsani rituals now describes its working, when in the calendar it can be spoken and what it costs in blood.
+- Eight of the Khazrin's relics are written for play: the Eye of Velok, the prince's chain and banner-staff of Zargandur, Shirvan's first tablet and lineage lamp, the standards of Oroqid, Sunhemai's last tablet and the shield of Revunai.
+- The Kì'ìch'chik continent gains its gear: blades, copper, harpoons, sleds, pipes and cords, plus a Tq'an Book, a stela and a ledger.
+- Kì'ìch'chik has its own money: cacao beans and jade in the city-states, shell-bead strands on the Bead Coast and copper in the north, with the bean, the jade bead and the strand as cash items.
+- Coin prices use Vilérian denominations, and the Imperial Diadem reflects the Senate’s greater authority under weak emperors and lesser authority under strong ones.
+- Viléria's everyday gear is written: Vilérian Steel, the veteran's pension token and citizenship diptych, senatorial rings, the diadem and racing-faction rings.
+- Viléria's guarded things join them: the treasury's strongroom keys, the Kervaron passage-gift, Nartun's anointing oil, the heralds' cipher-tablets and the Sekran's Standing Writ.
+- Taruzel's traders and captains carry factors' seals, striking-writs, League warrants, Kudumel credit-tallies, Free Captains' charts, and ash-amulets of the Two Fires, and the quays whisper of a Khelathi bond nobody there has seen.
+- Three one-of-a-kind items are written for play: the Old Coal of Bralvik, the lost eagle of the Twelfth and the rostral beaks of Tamzir Shoals.
+- The Zemor Hodhis incantation catalogue introduces the six currents and Kentra, with its complete lists ready to use.
+- The Kharessa, the Bethuan unarmed art, and the Path of Breath, Koremdanis Barkratis's sword discipline, are combat skills, with their techniques and maneuvers described.
+- The Nordmen's four ships of the northern seas have their own pages, one for each size: the Hafthresk open-sea trader, the Strandarv coastal and fjord trader, the Vredgnum bulk carrier and the Ormthresk longship.
+- Each ship has its dimensions, capacity, crew, cost, build time and the odds of each day's distance under sail, and under oar for the two that row.
+- Nordmal lists the four ship names among its words.
+- Xerathia has five unique relics: the Purple Veil of Bethua, the First Ember at Zarhanis, the Scales of Kaljekor, the Warden's Brand at Vuthraka and the Spear of Ishuara.
+
+**Game Master notes**
+
+- The undead north has its ruler and his city: the Sovereign and Nuuvakoldi, the city of the council.
+- Twelve Dreadlords have Game Master notes, each with the fragment they carry, the Host they command and hooks for the table: five Senali, three Khazari and four Tantsou champions. The four who have fallen have notes too.
+
+**Miscellaneous**
+
+- Midhalión’s references lead to the named people, places and institutions.
+- Confidential investigations, concealed debts, the Fleet Review ambush and Kentra’s hidden metaphysics now appear with GM material.
+- Eilwìth’s haunted roads, forest bargains and frontier disputes have complete adventures with linked casts, choices and consequences. Kalipsa’s lost hulls, locked spring and storm-exposed carving offer three adventures, and both regional guides lead directly into play.
+- "Go" is spelled correctly again throughout the setting's prose and verse.
+- Pages for places, faiths, orders and spirits known by a native name are titled in English, with every other name listed by its language beneath the title.
+
 ## 0.2.1
 
 ### Patch Changes
