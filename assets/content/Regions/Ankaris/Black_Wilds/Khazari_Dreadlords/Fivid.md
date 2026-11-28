@@ -56,7 +56,7 @@ Her hunger is to destroy all life. She cannot refuse the Sovereign.
 
 ### Strengths
 
-She commands her host and, through the Harrowers (_Gazadir_) and the empty ones (_Mankir_) beneath her, directs it. She holds the knowledge of the council's records from before the Wall.
+She commands her host and, through the Harrowers (_Gazadir_) and the empty ones (_Mankir_) beneath her, directs it. She holds the knowledge of the council's records from before the Wall. She keeps the dead's prophecy in written form, the verses that have taken form around [[being-shouzhiwengmei|Shou Zhiwengmei]]'s sight.
 
 ### Weaknesses
 
@@ -74,3 +74,4 @@ Her command rests on the fragment in her bracelet and ends when it is removed. T
 1. **The bracelet.** A party that learns which wrist wears the bracelet holds the one way to end her command, and has to reach her through her Host to use it.
 2. **What the archive knew.** The council's records passed to the Sovereign with her, so any secret the council kept before the Wall is no secret to the north.
 3. **The expedition that failed.** A party lost in the north tells her Host what it knew, and any plan, password or cipher it carried is hers to act on.
+4. **The written prophecy.** The dead's prophecy exists in writing in her keeping, and a written copy is something the living can take.

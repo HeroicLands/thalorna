@@ -59,7 +59,7 @@ A fragment in a living person's keeping slowly kills the person in mind and body
 :::
 
 :::secret {title="Everything the dead knew"}
-Whenever anyone becomes undead, all of their knowledge goes to their master, and what matters travels up the chain to him. Every death near the horde carries something to him, and each of the four human champions who became Dreadlords carried the secrets of the realm. He knows where the white artifact lies, how it is protected, and the passwords and ciphers in use when the last person who knew them died. He knows both prophecies through [[being-shouzhiwengmei|Shou Zhiwengmei]], every step that was then known toward the White Prophecy, and how to prevent it. What he knows is as old as that last death, and information that has changed since is information he lacks.
+Whenever anyone becomes undead, all of their knowledge goes to their master, and what matters travels up the chain to him. Every death near the horde carries something to him, and each of the four human champions who became Dreadlords carried the secrets of the realm. He knows where the white artifact lies, how it is protected, and the passwords and ciphers in use when the last person who knew them died. Through [[being-shouzhiwengmei|Shou Zhiwengmei]] he knows the White Prophecy, most of the court of Tantsou's own prophecies, every step that was then known toward the White Prophecy, and how to prevent it. The dead's own prophecy has taken form around her sight. What he knows is as old as that last death, and information that has changed since is information he lacks.
 :::
 
 ## Psyche
