@@ -868,9 +868,12 @@ error. The chosen face must support the chosen mapping.
 | Senali (`sina`)   | `veldikko`, `veldikko`                |                                                            |
 | Áelendi (`aele`)  | `veldikko-aelendi`, `veldikko`        |                                                            |
 
-Tantsou and Jurthati are written in Teng Chou. No mapping note exists for that
-script, so those two tongues state no `writtenIn`, and a run marked with their
-`lang=` alone is tagged, in roman, in the page's font. A language that states none behaves so.
+Tantsou and Jurthati are written in Teng Chou. Tantsou has the encoding
+`tanttengchouenc` and Jurthati has `jurttengchouenc`; each writes any encoded
+passage, a verse included, from its own lexicon. Neither language states
+`writtenIn`, so a run marked with `lang=tant` or `lang=jurt` alone is tagged, in
+roman, in the page's font. Foreign names and anything the lexicon
+does not hold go through the literal encoding `zxxtengchouenc`.
 
 Nyáluban has no writing tradition of its own and no default `writtenIn`. Present
 an oral work as a transcription tagged `lang=nyal`, without `.nativefont`,
@@ -1407,9 +1410,19 @@ Zethu signs can be entered through the Emacs input method
 typed code points do not bypass the language or logographic writing checks.
 
 Teng Chou is also logographic: one character per morpheme, in Tantsou one
-syllable, shared by Tantsou and Jurthati. It has no mapping note in this
-repository, so it is written as native code points when a note needs a
-character.
+syllable, shared by Tantsou and Jurthati. `Tantsou_Teng_Chou_Encoding.md`
+(`tanttengchouenc`) writes Tantsou the way the Zethu encoding writes Khelathi:
+a root resolves from its own `native` writing in the Tantsou lexicon, a
+compound from its `built` roots set side by side with no endings, and a word
+with no writing is an error at the word. A verse pairs its English block with a
+roman Tantsou block carrying `lang=tant enc=tanttengchouenc`. A foreign name is
+written through `zxxtengchouenc` with `⟦…⟧` glyph codes.
+`Jurthati_Teng_Chou_Encoding.md` (`jurttengchouenc`) writes Jurthati the same
+way, except that a particle, an ending or a word with no character is written in
+the syllable signs of the face, which sit lighter and smaller beside the
+characters, and a verse carries `lang=jurt enc=jurttengchouenc`. A Jurthati word
+with no writing is an error at the word: one whose syllable the signs lack, or an
+entry whose senses take different characters and is not split.
 
 ## 14. Typing natively
 

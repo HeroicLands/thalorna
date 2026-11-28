@@ -25,549 +25,1266 @@ data:
     - {name: Kin, holds: "Family and kin."}
   grammar: {verbs: {invariant: true}}
   words:
-    - {form: ho, class: "n", field: "Sky, land and the elements", gloss: "fire", concept: fire}
+    - form: ho
+      class: "n"
+      field: "Sky, land and the elements"
+      gloss: "fire"
+      concept: fire
+      native: [{text: 󱀀, enc: tanttengchouenc}]
     - form: jing
       class: n
       field: Sky, land and the elements
       gloss: metal, gold
       concept: metal
-    - {form: mou, class: n, field: "Sky, land and the elements", gloss: wood, concept: wood}
+      native: [{text: 󱀁, enc: tanttengchouenc}]
+    - form: mou
+      class: n
+      field: "Sky, land and the elements"
+      gloss: wood
+      concept: wood
+      native: [{text: 󱀂, enc: tanttengchouenc}]
     - form: shou
       class: n
       field: Sky, land and the elements
       gloss: water, river
       concept: [water, river]
+      native: [{text: 󱀃, enc: tanttengchouenc}]
     - form: tou
       class: n
       field: Sky, land and the elements
       gloss: earth, soil
       concept: [earth, soil]
-    - {form: weng, class: n, field: "Sky, land and the elements", gloss: wind, concept: wind}
+      native: [{text: 󱀄, enc: tanttengchouenc}]
+    - form: weng
+      class: n
+      field: "Sky, land and the elements"
+      gloss: wind
+      concept: wind
+      native: [{text: 󱀅, enc: tanttengchouenc}]
     - form: chai
       class: n
       field: Sky, land and the elements
       gloss: mountain, peak, place
       concept: [mountain, place-noun]
-    - {form: yan, class: n, field: "Sky, land and the elements", gloss: cloud, concept: cloud}
-    - {form: zhi, class: n, field: "Sky, land and the elements", gloss: star, concept: star}
+      native: [{text: 󱀆, enc: tanttengchouenc}]
+    - form: yan
+      class: n
+      field: "Sky, land and the elements"
+      gloss: cloud
+      concept: cloud
+      native: [{text: 󱀇, enc: tanttengchouenc}]
+    - form: zhi
+      class: n
+      field: "Sky, land and the elements"
+      gloss: star
+      concept: star
+      native: [{text: 󱀈, enc: tanttengchouenc}]
     - form: you
       class: n
       field: Sky, land and the elements
       gloss: moon, month
       concept: [moon, month]
+      native: [{text: 󱀉, enc: tanttengchouenc}]
     - form: lwo
       class: n
       field: Sky, land and the elements
       gloss: flower, lotus
       concept: flower
+      native: [{text: 󱀊, enc: tanttengchouenc}]
     - form: nou
       class: n
       field: Sky, land and the elements
       gloss: field, garden
       concept: field
+      native: [{text: 󱀋, enc: tanttengchouenc}]
     - form: wong
       class: n
       field: Sky, land and the elements
       gloss: sea, ocean
       concept: [sea, ocean]
-    - {form: zhen, class: n, field: "Sky, land and the elements", gloss: snow, concept: snow}
-    - {form: chwen, class: "n", field: "Sky, land and the elements", gloss: "frost"}
-    - {form: rau, class: n, field: "Sky, land and the elements", gloss: thunder, concept: thunder}
+      native: [{text: 󱀌, enc: tanttengchouenc}]
+    - form: zhen
+      class: n
+      field: "Sky, land and the elements"
+      gloss: snow
+      concept: snow
+      native: [{text: 󱀍, enc: tanttengchouenc}]
+    - form: chwen
+      class: "n"
+      field: "Sky, land and the elements"
+      gloss: "frost"
+      native: [{text: 󱀎, enc: tanttengchouenc}]
+    - form: rau
+      class: n
+      field: "Sky, land and the elements"
+      gloss: thunder
+      concept: thunder
+      native: [{text: 󱀏, enc: tanttengchouenc}]
     - form: la
       class: n
       field: Sky, land and the elements
       gloss: lightning
       concept: lightning
-    - {form: tui, class: "n", field: "Sky, land and the elements", gloss: "iron"}
-    - {form: wei, class: "n", field: "Sky, land and the elements", gloss: "jade"}
+      native: [{text: 󱀐, enc: tanttengchouenc}]
+    - form: tui
+      class: "n"
+      field: "Sky, land and the elements"
+      gloss: "iron"
+      native: [{text: 󱀑, enc: tanttengchouenc}]
+    - form: wei
+      class: "n"
+      field: "Sky, land and the elements"
+      gloss: "jade"
+      native: [{text: 󱀒, enc: tanttengchouenc}]
     - form: teng
       class: n
       field: Sky, land and the elements
       gloss: heaven, the sky; celestial
       concept: sky
-    - {form: tan, class: adj, field: "Sky, land and the elements", gloss: "celestial, of heaven"}
-    - {form: mwo, class: adj, field: Color and number, gloss: "green", concept: green}
+      native: [{text: 󱀓, enc: tanttengchouenc}]
+    - form: tan
+      class: adj
+      field: "Sky, land and the elements"
+      gloss: "celestial, of heaven"
+      native: [{text: 󱀔, enc: tanttengchouenc}]
+    - form: mwo
+      class: adj
+      field: Color and number
+      gloss: "green"
+      concept: green
+      native: [{text: 󱀕, enc: tanttengchouenc}]
     - form: zhou
       class: adj
       field: Color and number
       gloss: "blue, azure; flowing"
       concept: blue
-    - {form: rin, class: adj, field: Color and number, gloss: "red, vermilion", concept: red}
-    - {form: bwi, class: adj, field: Color and number, gloss: "white, silver", concept: white}
+      native: [{text: 󱀖, enc: tanttengchouenc}]
+    - form: rin
+      class: adj
+      field: Color and number
+      gloss: "red, vermilion"
+      concept: red
+      native: [{text: 󱀗, enc: tanttengchouenc}]
+    - form: bwi
+      class: adj
+      field: Color and number
+      gloss: "white, silver"
+      concept: white
+      native: [{text: 󱀘, enc: tanttengchouenc}]
     - form: ha
       class: adj
       field: Color and number
       gloss: dark, black, hidden; shadow
       concept: [black, dark]
+      native: [{text: 󱀙, enc: tanttengchouenc}]
     - form: leng
       class: adj
       field: Color and number
       gloss: bright, radiant; dawn
       concept: bright
-    - {form: jen, class: num, field: Color and number, gloss: "nine", concept: nine}
-    - {form: chi, class: num, field: Color and number, gloss: "five", concept: five}
-    - {form: wai, class: num, field: Color and number, gloss: "ten", concept: ten}
-    - {form: rong, class: num, field: Color and number, gloss: "ten thousand, a myriad"}
-    - {form: chen, class: "n", field: "People, rank and office", gloss: "emperor, king"}
-    - {form: zhwo, class: "n", field: "People, rank and office", gloss: "lord, sovereign"}
+      native: [{text: 󱀚, enc: tanttengchouenc}]
+    - form: jen
+      class: num
+      field: Color and number
+      gloss: "nine"
+      concept: nine
+      native: [{text: 󱀛, enc: tanttengchouenc}]
+    - form: chi
+      class: num
+      field: Color and number
+      gloss: "five"
+      concept: five
+      native: [{text: 󱀜, enc: tanttengchouenc}]
+    - form: wai
+      class: num
+      field: Color and number
+      gloss: "ten"
+      concept: ten
+      native: [{text: 󱀝, enc: tanttengchouenc}]
+    - form: rong
+      class: num
+      field: Color and number
+      gloss: "ten thousand, a myriad"
+      native: [{text: 󱀞, enc: tanttengchouenc}]
+    - form: chen
+      class: "n"
+      field: "People, rank and office"
+      gloss: "emperor, king"
+      native: [{text: 󱀟, enc: tanttengchouenc}]
+    - form: zhwo
+      class: "n"
+      field: "People, rank and office"
+      gloss: "lord, sovereign"
+      native: [{text: 󱀠, enc: tanttengchouenc}]
     - form: nei
       class: n
       field: People, rank and office
       gloss: sovereign, ruler
       concept: ruler
-    - {form: gwi, class: "n", field: "People, rank and office", gloss: "official, minister"}
+      native: [{text: 󱀡, enc: tanttengchouenc}]
+    - form: gwi
+      class: "n"
+      field: "People, rank and office"
+      gloss: "official, minister"
+      native: [{text: 󱀢, enc: tanttengchouenc}]
     - form: gen
       class: n
       field: People, rank and office
       gloss: master, teacher
       concept: [master, teacher]
-    - {form: chei, class: "n", field: "People, rank and office", gloss: "scholar, sage"}
-    - {form: yai, class: "n", field: "People, rank and office", gloss: "healer, physician"}
+      native: [{text: 󱀣, enc: tanttengchouenc}]
+    - form: chei
+      class: "n"
+      field: "People, rank and office"
+      gloss: "scholar, sage"
+      native: [{text: 󱀥, enc: tanttengchouenc}]
+    - form: yai
+      class: "n"
+      field: "People, rank and office"
+      gloss: "healer, physician"
+      native: [{text: 󱀦, enc: tanttengchouenc}]
     - form: zhei
       class: "n"
       field: "People, rank and office"
       gloss: "son, child"
       concept: [son, child]
+      native: [{text: 󱀧, enc: tanttengchouenc}]
     - form: nong
       class: n
       field: People, rank and office
       gloss: person, folk
       concept: person
-    - {form: nwi, class: adj, field: "People, rank and office", gloss: "bound, enslaved"}
+      native: [{text: 󱀨, enc: tanttengchouenc}]
+    - form: nwi
+      class: adj
+      field: "People, rank and office"
+      gloss: "bound, enslaved"
+      native: [{text: 󱀩, enc: tanttengchouenc}]
     - form: tsou
       class: n
       field: People, rank and office
       gloss: tribe, group, people
       concept: [people, group, tribe]
+      native: [{text: 󱀪, enc: tanttengchouenc}]
     - form: zhau
       class: n
       field: People, rank and office
       gloss: house, clan, family
       concept: [family, clan]
+      native: [{text: 󱀫, enc: tanttengchouenc}]
     - form: ken
       class: "n"
       field: "People, rank and office"
       gloss: "hearth, household"
       concept: hearth
-    - {form: shwo, class: "n", field: "People, rank and office", gloss: "trade"}
-    - {form: ja, class: "n", field: "People, rank and office", gloss: "blade"}
-    - {form: hwo, class: "n", field: "People, rank and office", gloss: "hand", concept: hand}
+      native: [{text: 󱀬, enc: tanttengchouenc}]
+    - form: shwo
+      class: "n"
+      field: "People, rank and office"
+      gloss: "trade"
+      native: [{text: 󱀭, enc: tanttengchouenc}]
+    - form: ja
+      class: "n"
+      field: "People, rank and office"
+      gloss: "blade"
+      native: [{text: 󱀮, enc: tanttengchouenc}]
+    - form: hwo
+      class: "n"
+      field: "People, rank and office"
+      gloss: "hand"
+      concept: hand
+      native: [{text: 󱀯, enc: tanttengchouenc}]
     - form: wen
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "center, middle"
+      native: [{text: 󱀰, enc: tanttengchouenc}]
     - form: wou
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "court, palace, hall"
+      native: [{text: 󱀱, enc: tanttengchouenc}]
     - form: wo
       class: adj
       field: "Heaven, law and the order of things"
       gloss: "divine, sacred; a warrior, soldier"
+      native: [{text: 󱀲, enc: tanttengchouenc}]
     - form: lei
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "breath, spirit"
       concept: breath
+      native: [{text: 󱀳, enc: tanttengchouenc}]
     - form: sei
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "bureau, office, ministry"
+      native: [{text: 󱀴, enc: tanttengchouenc}]
     - form: lou
       class: n
       field: Heaven, law and the order of things
       gloss: law, rule
       concept: [law, rule]
+      native: [{text: 󱀵, enc: tanttengchouenc}]
     - form: dou
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "path, road, journey"
+      native: [{text: 󱀶, enc: tanttengchouenc}]
     - form: hou
       class: n
       field: Heaven, law and the order of things
       gloss: balance, harmony, calm; peace; a condition of calm without fighting
       concept: peace
+      native: [{text: 󱀷, enc: tanttengchouenc}]
     - form: tsai
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "creation, craft"
+      native: [{text: 󱀸, enc: tanttengchouenc}]
     - form: hwen
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "chaos, disorder"
+      native: [{text: 󱀹, enc: tanttengchouenc}]
     - form: sing
       class: n
       field: Heaven, law and the order of things
       gloss: death
       concept: death
+      native: [{text: 󱀺, enc: tanttengchouenc}]
     - form: zha
       class: n
       field: Heaven, law and the order of things
       gloss: life, birth
       concept: [birth, life]
-    - {form: nwo, class: "n", field: "Heaven, law and the order of things", gloss: "decay, rot"}
+      native: [{text: 󱀻, enc: tanttengchouenc}]
+    - form: nwo
+      class: "n"
+      field: "Heaven, law and the order of things"
+      gloss: "decay, rot"
+      native: [{text: 󱀼, enc: tanttengchouenc}]
     - form: fa
       class: n
       field: Heaven, law and the order of things
       gloss: wealth, fortune
       concept: wealth
+      native: [{text: 󱀽, enc: tanttengchouenc}]
     - form: chou
       class: n
       field: Heaven, law and the order of things
       gloss: knowledge, lore, record
       concept: knowledge
+      native: [{text: 󱀾, enc: tanttengchouenc}]
     - form: dwo
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "sorcery, magic"
+      native: [{text: 󱀿, enc: tanttengchouenc}]
     - form: rwi
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "ritual, ceremony, dance"
-    - {form: jwi, class: "n", field: "Heaven, law and the order of things", gloss: "festival"}
+      native: [{text: 󱁀, enc: tanttengchouenc}]
+    - form: jwi
+      class: "n"
+      field: "Heaven, law and the order of things"
+      gloss: "festival"
+      native: [{text: 󱁁, enc: tanttengchouenc}]
     - form: tsei
       class: n
       field: Heaven, law and the order of things
       gloss: self, own; as a reflexive object, tseng tsei hing means I see myself, and shei nong tsei hing means that person sees themself. In each clause the self is the subject of that clause
       concept: self
+      native: [{text: 󱁂, enc: tanttengchouenc}]
     - form: wan
       class: n
       field: Heaven, law and the order of things
       gloss: account, reckoning, tally; the numerical count or measured amount shown by a tally
       concept: [number, amount]
+      native: [{text: 󱁃, enc: tanttengchouenc}]
     - form: nye
       class: n
       field: Heaven, law and the order of things
       gloss: year
       concept: year
+      native: [{text: 󱁄, enc: tanttengchouenc}]
     - form: mei
       class: n
       field: Heaven, law and the order of things
       gloss: dream
       concept: dream
+      native: [{text: 󱁅, enc: tanttengchouenc}]
     - form: "hwenlei"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "the primordial chaos of the Unclassified"
+      built: [hwen, lei]
     - form: "leichei"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: '"Spirit-Wisdom": the daily meditative movement that realigns the body with its classification'
+      built: [lei, chei]
     - form: "rwising"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "state-ordered ritual suicide, imposed as a punishment"
+      built: [rwi, sing]
     - form: "tengwo"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "the Mandate of Heaven, the cosmic appointment by which the Emperor rules"
+      built: [teng, wo]
     - form: "wolei"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "spirit, the element the celestial bureaus govern collectively"
+      built: [wo, lei]
     - form: "tseising"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: '"Self-death": ritual suicide performed to atone for dishonor or to protest'
+      built: [tsei, sing]
     - form: "zhaulou"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "the Caste Laws, which fix every caste's rights, duties and restrictions"
-    - {form: zho, class: "n", field: Beasts, gloss: "dragon"}
-    - {form: hen, class: "n", field: Beasts, gloss: "tiger"}
-    - {form: zhai, class: n, field: Beasts, gloss: "bird, phoenix, crane", concept: bird}
-    - {form: gwo, class: "n", field: Beasts, gloss: "tortoise"}
-    - {form: sou, class: "n", field: Beasts, gloss: "serpent"}
-    - {form: mai, class: "n", field: Beasts, gloss: "horse"}
-    - {form: bei, class: "n", field: Beasts, gloss: "ape"}
-    - {form: zhin, class: "n", field: Beasts, gloss: "boar"}
-    - {form: yo, class: "n", field: Beasts, gloss: "demon, fiend"}
-    - {form: jei, class: "n", field: Beasts, gloss: "a horned beast of good omen"}
+      built: [zhau, lou]
+    - form: zho
+      class: "n"
+      field: Beasts
+      gloss: "dragon"
+      native: [{text: 󱁆, enc: tanttengchouenc}]
+    - form: hen
+      class: "n"
+      field: Beasts
+      gloss: "tiger"
+      native: [{text: 󱁇, enc: tanttengchouenc}]
+    - form: zhai
+      class: n
+      field: Beasts
+      gloss: "bird, phoenix, crane"
+      concept: bird
+      native: [{text: 󱁈, enc: tanttengchouenc}]
+    - form: gwo
+      class: "n"
+      field: Beasts
+      gloss: "tortoise"
+      native: [{text: 󱁉, enc: tanttengchouenc}]
+    - form: sou
+      class: "n"
+      field: Beasts
+      gloss: "serpent"
+      native: [{text: 󱁊, enc: tanttengchouenc}]
+    - form: mai
+      class: "n"
+      field: Beasts
+      gloss: "horse"
+      native: [{text: 󱁋, enc: tanttengchouenc}]
+    - form: bei
+      class: "n"
+      field: Beasts
+      gloss: "ape"
+      native: [{text: 󱁌, enc: tanttengchouenc}]
+    - form: zhin
+      class: "n"
+      field: Beasts
+      gloss: "boar"
+      native: [{text: 󱁍, enc: tanttengchouenc}]
+    - form: yo
+      class: "n"
+      field: Beasts
+      gloss: "demon, fiend"
+      native: [{text: 󱁎, enc: tanttengchouenc}]
+    - form: jei
+      class: "n"
+      field: Beasts
+      gloss: "a horned beast of good omen"
+      native: [{text: 󱁏, enc: tanttengchouenc}]
     - form: cheng
       class: v
       field: Doing and describing
       gloss: to rise, to ascend
       concept: rise
+      native: [{text: 󱁐, enc: tanttengchouenc}]
     - form: jong
       class: v
       field: Doing and describing
       gloss: to fall, to descend
       concept: fall
+      native: [{text: 󱁑, enc: tanttengchouenc}]
     - form: chyau
       class: v
       field: Doing and describing
       gloss: to freeze; winter
       concept: freeze
+      native: [{text: 󱁒, enc: tanttengchouenc}]
     - form: wa
       class: v
       field: Doing and describing
       gloss: to answer, to echo
       concept: answer
+      native: [{text: 󱁓, enc: tanttengchouenc}]
     - form: dau
       class: adj
       field: Doing and describing
       gloss: great, supreme; large in physical size, with repetition expressing a very great or huge size
       concept: big
+      native: [{text: 󱁔, enc: tanttengchouenc}]
     - form: kwo
       class: adj
       field: Doing and describing
       gloss: old, ancient, eternal
       concept: old-object
+      native: [{text: 󱁕, enc: tanttengchouenc}]
     - form: shwi
       class: adj
       field: Doing and describing
       gloss: new, lesser, small
       concept: [small, new]
+      native: [{text: 󱁖, enc: tanttengchouenc}]
     - form: "woja"
       class: "n"
       field: "People, rank and office"
       gloss: '"Sacred blade": the ceremonial dagger of a Tseising, often a family heirloom'
+      built: [wo, ja]
     - form: hing
       class: v
       field: Senses and passions
       gloss: to see, to look; to look deliberately; to watch by continuing to look at a person, thing or event; as a call for attention, look
       concept: [see-verb, look, watch, expression-look]
+      native: [{text: 󱁗, enc: tanttengchouenc}]
     - form: jye
       class: "n"
       field: "Senses and passions"
       gloss: "sight, view; what is seen"
       concept: see-noun
+      native: [{text: 󱁘, enc: tanttengchouenc}]
     - form: ten
       class: v
       field: Senses and passions
       gloss: to hear, to listen; to listen deliberately as well as hear; as a call for attention, listen
       concept: [hear-verb, listen, expression-listen]
+      native: [{text: 󱁙, enc: tanttengchouenc}]
     - form: yong
       class: n
       field: Senses and passions
       gloss: sound, voice; a voice as well as other audible sound
       concept: [hear-noun, voice]
-    - {form: sin, class: "v", field: "Senses and passions", gloss: "to smell", concept: smell-verb}
+      native: [{text: 󱁚, enc: tanttengchouenc}]
+    - form: sin
+      class: "v"
+      field: "Senses and passions"
+      gloss: "to smell"
+      concept: smell-verb
+      native: [{text: 󱁛, enc: tanttengchouenc}]
     - form: fai
       class: "n"
       field: "Senses and passions"
       gloss: "smell, scent, odor"
       concept: smell-noun
+      native: [{text: 󱁜, enc: tanttengchouenc}]
     - form: tsye
       class: "v"
       field: "Senses and passions"
       gloss: "to taste"
       concept: taste-verb
+      native: [{text: 󱁝, enc: tanttengchouenc}]
     - form: rwo
       class: "n"
       field: "Senses and passions"
       gloss: "taste, flavor"
       concept: taste-noun
+      native: [{text: 󱁞, enc: tanttengchouenc}]
     - form: gai
       class: "v"
       field: "Senses and passions"
       gloss: "to touch, to feel with the hand"
       concept: touch-verb
-    - {form: hau, class: "n", field: "The body", gloss: "head", concept: head}
-    - {form: sau, class: "n", field: "The body", gloss: "hair of the head", concept: hair}
-    - {form: lan, class: "n", field: "The body", gloss: "face", concept: face}
-    - {form: ching, class: "n", field: "The body", gloss: "eye", concept: eye}
-    - {form: lwi, class: "n", field: "The body", gloss: "ear", concept: ear}
-    - {form: fong, class: "n", field: "The body", gloss: "nose", concept: nose}
-    - {form: tsong, class: "n", field: "The body", gloss: "mouth", concept: mouth}
-    - {form: ga, class: "n", field: "The body", gloss: "tooth", concept: tooth}
-    - {form: lye, class: "n", field: "The body", gloss: "tongue", concept: tongue}
-    - {form: beng, class: n, field: The body, gloss: "neck, throat", concept: [neck, throat]}
-    - {form: kong, class: "n", field: "The body", gloss: "shoulder", concept: shoulder}
-    - {form: bin, class: "n", field: "The body", gloss: "arm", concept: arm}
-    - {form: ting, class: "n", field: "The body", gloss: "finger", concept: finger}
-    - {form: hong, class: "n", field: "The body", gloss: "chest, breast-bone", concept: chest}
-    - {form: nen, class: "n", field: "The body", gloss: "breast", concept: breast}
-    - {form: tsen, class: "n", field: "The body", gloss: "heart; seat of feeling", concept: heart}
-    - {form: twi, class: "n", field: "The body", gloss: "belly", concept: belly}
-    - {form: shai, class: "n", field: "The body", gloss: "back", concept: back}
-    - {form: kwen, class: "n", field: "The body", gloss: "hip", concept: hip}
-    - {form: jo, class: "n", field: "The body", gloss: "leg", concept: leg}
-    - {form: dai, class: "n", field: "The body", gloss: "foot", concept: foot}
-    - {form: lo, class: "n", field: "The body", gloss: "skin, hide", concept: skin}
-    - {form: ko, class: "n", field: "The body", gloss: "bone", concept: bone}
-    - {form: chwi, class: "n", field: "The body", gloss: "blood", concept: blood}
-    - {form: mwen, class: "n", field: "The body", gloss: "flesh, meat", concept: flesh}
-    - {form: ta, class: "n", field: "Needs and common things", gloss: "food, meal", concept: food}
-    - {form: sho, class: "v", field: "Needs and common things", gloss: "to eat", concept: eat}
-    - {form: sa, class: "n", field: "Needs and common things", gloss: "drink", concept: drink-noun}
+      native: [{text: 󱁟, enc: tanttengchouenc}]
+    - form: hau
+      class: "n"
+      field: "The body"
+      gloss: "head"
+      concept: head
+      native: [{text: 󱁣, enc: tanttengchouenc}]
+    - form: sau
+      class: "n"
+      field: "The body"
+      gloss: "hair of the head"
+      concept: hair
+      native: [{text: 󱁤, enc: tanttengchouenc}]
+    - form: lan
+      class: "n"
+      field: "The body"
+      gloss: "face"
+      concept: face
+      native: [{text: 󱁥, enc: tanttengchouenc}]
+    - form: ching
+      class: "n"
+      field: "The body"
+      gloss: "eye"
+      concept: eye
+      native: [{text: 󱁦, enc: tanttengchouenc}]
+    - form: lwi
+      class: "n"
+      field: "The body"
+      gloss: "ear"
+      concept: ear
+      native: [{text: 󱁧, enc: tanttengchouenc}]
+    - form: fong
+      class: "n"
+      field: "The body"
+      gloss: "nose"
+      concept: nose
+      native: [{text: 󱁨, enc: tanttengchouenc}]
+    - form: tsong
+      class: "n"
+      field: "The body"
+      gloss: "mouth"
+      concept: mouth
+      native: [{text: 󱁩, enc: tanttengchouenc}]
+    - form: ga
+      class: "n"
+      field: "The body"
+      gloss: "tooth"
+      concept: tooth
+      native: [{text: 󱁪, enc: tanttengchouenc}]
+    - form: lye
+      class: "n"
+      field: "The body"
+      gloss: "tongue"
+      concept: tongue
+      native: [{text: 󱁫, enc: tanttengchouenc}]
+    - form: beng
+      class: n
+      field: The body
+      gloss: "neck, throat"
+      concept: [neck, throat]
+      native: [{text: 󱁬, enc: tanttengchouenc}]
+    - form: kong
+      class: "n"
+      field: "The body"
+      gloss: "shoulder"
+      concept: shoulder
+      native: [{text: 󱁭, enc: tanttengchouenc}]
+    - form: bin
+      class: "n"
+      field: "The body"
+      gloss: "arm"
+      concept: arm
+      native: [{text: 󱁮, enc: tanttengchouenc}]
+    - form: ting
+      class: "n"
+      field: "The body"
+      gloss: "finger"
+      concept: finger
+      native: [{text: 󱁰, enc: tanttengchouenc}]
+    - form: hong
+      class: "n"
+      field: "The body"
+      gloss: "chest, breast-bone"
+      concept: chest
+      native: [{text: 󱁱, enc: tanttengchouenc}]
+    - form: nen
+      class: "n"
+      field: "The body"
+      gloss: "breast"
+      concept: breast
+      native: [{text: 󱁲, enc: tanttengchouenc}]
+    - form: tsen
+      class: "n"
+      field: "The body"
+      gloss: "heart; seat of feeling"
+      concept: heart
+      native: [{text: 󱁠, enc: tanttengchouenc}]
+    - form: twi
+      class: "n"
+      field: "The body"
+      gloss: "belly"
+      concept: belly
+      native: [{text: 󱁳, enc: tanttengchouenc}]
+    - form: shai
+      class: "n"
+      field: "The body"
+      gloss: "back"
+      concept: back
+      native: [{text: 󱁴, enc: tanttengchouenc}]
+    - form: kwen
+      class: "n"
+      field: "The body"
+      gloss: "hip"
+      concept: hip
+      native: [{text: 󱁵, enc: tanttengchouenc}]
+    - form: jo
+      class: "n"
+      field: "The body"
+      gloss: "leg"
+      concept: leg
+      native: [{text: 󱁶, enc: tanttengchouenc}]
+    - form: dai
+      class: "n"
+      field: "The body"
+      gloss: "foot"
+      concept: foot
+      native: [{text: 󱁷, enc: tanttengchouenc}]
+    - form: lo
+      class: "n"
+      field: "The body"
+      gloss: "skin, hide"
+      concept: skin
+      native: [{text: 󱁸, enc: tanttengchouenc}]
+    - form: ko
+      class: "n"
+      field: "The body"
+      gloss: "bone"
+      concept: bone
+      native: [{text: 󱁹, enc: tanttengchouenc}]
+    - form: chwi
+      class: "n"
+      field: "The body"
+      gloss: "blood"
+      concept: blood
+      native: [{text: 󱁺, enc: tanttengchouenc}]
+    - form: mwen
+      class: "n"
+      field: "The body"
+      gloss: "flesh, meat"
+      concept: flesh
+      native: [{text: 󱁻, enc: tanttengchouenc}]
+    - form: ta
+      class: "n"
+      field: "Needs and common things"
+      gloss: "food, meal"
+      concept: food
+      native: [{text: 󱁿, enc: tanttengchouenc}]
+    - form: sho
+      class: "v"
+      field: "Needs and common things"
+      gloss: "to eat"
+      concept: eat
+      native: [{text: 󱁾, enc: tanttengchouenc}]
+    - form: sa
+      class: "n"
+      field: "Needs and common things"
+      gloss: "drink"
+      concept: drink-noun
+      native: [{text: 󱂁, enc: tanttengchouenc}]
     - form: hwi
       class: "v"
       field: "Needs and common things"
       gloss: "to drink"
       concept: drink-verb
+      native: [{text: 󱂀, enc: tanttengchouenc}]
     - form: fou
       class: "v"
       field: "Needs and common things"
       gloss: "to breathe"
       concept: breathe
+      native: [{text: 󱂂, enc: tanttengchouenc}]
     - form: min
       class: "v"
       field: "Needs and common things"
       gloss: "to sleep"
       concept: sleep-verb
-    - {form: lyau, class: "n", field: "Needs and common things", gloss: "urine", concept: urine}
+      native: [{text: 󱂃, enc: tanttengchouenc}]
+    - form: lyau
+      class: "n"
+      field: "Needs and common things"
+      gloss: "urine"
+      concept: urine
+      native: [{text: 󱂄, enc: tanttengchouenc}]
     - form: bou
       class: "n"
       field: "Needs and common things"
       gloss: "dung, excrement"
       concept: dung
+      native: [{text: 󱂅, enc: tanttengchouenc}]
     - form: jin
       class: "n"
       field: "Needs and common things"
       gloss: "warmth; warm"
       concept: warmth
-    - {form: gan, class: "n", field: "Needs and common things", gloss: "table", concept: table}
-    - {form: tong, class: "n", field: "Needs and common things", gloss: "floor", concept: floor}
-    - {form: zheng, class: "n", field: "Needs and common things", gloss: "wall", concept: wall}
-    - {form: zhwen, class: "n", field: "Needs and common things", gloss: "roof", concept: roof}
+      native: [{text: 󱂆, enc: tanttengchouenc}]
+    - form: gan
+      class: "n"
+      field: "Needs and common things"
+      gloss: "table"
+      concept: table
+      native: [{text: 󱂇, enc: tanttengchouenc}]
+    - form: tong
+      class: "n"
+      field: "Needs and common things"
+      gloss: "floor"
+      concept: floor
+      native: [{text: 󱂈, enc: tanttengchouenc}]
+    - form: zheng
+      class: "n"
+      field: "Needs and common things"
+      gloss: "wall"
+      concept: wall
+      native: [{text: 󱂉, enc: tanttengchouenc}]
+    - form: zhwen
+      class: "n"
+      field: "Needs and common things"
+      gloss: "roof"
+      concept: roof
+      native: [{text: 󱂊, enc: tanttengchouenc}]
     - form: zhong
       class: "n"
       field: "Needs and common things"
       gloss: "house, home, abode"
       concept: abode
+      native: [{text: 󱂋, enc: tanttengchouenc}]
     - form: sen
       class: n
       field: Needs and common things
       gloss: door, gate
       concept: [door, gate]
+      native: [{text: 󱂌, enc: tanttengchouenc}]
     - form: kin
       class: "n"
       field: "Needs and common things"
       gloss: "lock; to lock"
       concept: lock
-    - {form: ling, class: "n", field: "Needs and common things", gloss: "cup", concept: cup}
-    - {form: gwou, class: "n", field: "Needs and common things", gloss: "bowl", concept: bowl}
-    - {form: rai, class: "n", field: "Needs and common things", gloss: "spoon", concept: spoon}
-    - {form: ban, class: "n", field: "Needs and common things", gloss: "pot", concept: pot}
-    - {form: shen, class: "n", field: "Needs and common things", gloss: "cloth", concept: cloth}
-    - {form: tsi, class: "num", field: "Color and number", gloss: "one", concept: one}
-    - {form: len, class: "num", field: "Color and number", gloss: "two", concept: two}
-    - {form: tau, class: "num", field: "Color and number", gloss: "three", concept: three}
-    - {form: fei, class: "num", field: "Color and number", gloss: "four", concept: four}
-    - {form: jou, class: "num", field: "Color and number", gloss: "six", concept: six}
-    - {form: tai, class: "num", field: "Color and number", gloss: "seven", concept: seven}
-    - {form: mo, class: "num", field: "Color and number", gloss: "eight", concept: eight}
-    - {form: gou, class: "num", field: "Color and number", gloss: "hundred", concept: hundred}
-    - {form: keng, class: "num", field: "Color and number", gloss: "thousand", concept: thousand}
-    - {form: tsan, class: "num", field: "Color and number", gloss: "half", concept: half}
+      native: [{text: 󱂍, enc: tanttengchouenc}]
+    - form: ling
+      class: "n"
+      field: "Needs and common things"
+      gloss: "cup"
+      concept: cup
+      native: [{text: 󱂎, enc: tanttengchouenc}]
+    - form: gwou
+      class: "n"
+      field: "Needs and common things"
+      gloss: "bowl"
+      concept: bowl
+      native: [{text: 󱂏, enc: tanttengchouenc}]
+    - form: rai
+      class: "n"
+      field: "Needs and common things"
+      gloss: "spoon"
+      concept: spoon
+      native: [{text: 󱂐, enc: tanttengchouenc}]
+    - form: ban
+      class: "n"
+      field: "Needs and common things"
+      gloss: "pot"
+      concept: pot
+      native: [{text: 󱂑, enc: tanttengchouenc}]
+    - form: shen
+      class: "n"
+      field: "Needs and common things"
+      gloss: "cloth"
+      concept: cloth
+      native: [{text: 󱂒, enc: tanttengchouenc}]
+    - form: tsi
+      class: "num"
+      field: "Color and number"
+      gloss: "one"
+      concept: one
+      native: [{text: 󱂓, enc: tanttengchouenc}]
+    - form: len
+      class: "num"
+      field: "Color and number"
+      gloss: "two"
+      concept: two
+      native: [{text: 󱂔, enc: tanttengchouenc}]
+    - form: tau
+      class: "num"
+      field: "Color and number"
+      gloss: "three"
+      concept: three
+      native: [{text: 󱂕, enc: tanttengchouenc}]
+    - form: fei
+      class: "num"
+      field: "Color and number"
+      gloss: "four"
+      concept: four
+      native: [{text: 󱂖, enc: tanttengchouenc}]
+    - form: jou
+      class: "num"
+      field: "Color and number"
+      gloss: "six"
+      concept: six
+      native: [{text: 󱂗, enc: tanttengchouenc}]
+    - form: tai
+      class: "num"
+      field: "Color and number"
+      gloss: "seven"
+      concept: seven
+      native: [{text: 󱂘, enc: tanttengchouenc}]
+    - form: mo
+      class: "num"
+      field: "Color and number"
+      gloss: "eight"
+      concept: eight
+      native: [{text: 󱂙, enc: tanttengchouenc}]
+    - form: gou
+      class: "num"
+      field: "Color and number"
+      gloss: "hundred"
+      concept: hundred
+      native: [{text: 󱂚, enc: tanttengchouenc}]
+    - form: keng
+      class: "num"
+      field: "Color and number"
+      gloss: "thousand"
+      concept: thousand
+      native: [{text: 󱂛, enc: tanttengchouenc}]
+    - form: tsan
+      class: "num"
+      field: "Color and number"
+      gloss: "half"
+      concept: half
+      native: [{text: 󱂝, enc: tanttengchouenc}]
     - form: chong
       class: adj
       field: Color and number
       gloss: many, much
       concept: [many, much]
+      native: [{text: 󱂞, enc: tanttengchouenc}]
     - form: bo
       class: adj
       field: Color and number
       gloss: few, little
       concept: [few, little-quantity]
+      native: [{text: 󱂟, enc: tanttengchouenc}]
     - form: mong
       class: "adj"
       field: "Color and number"
       gloss: "none, nothing; not"
       concept: none
-    - {form: jau, class: "adj", field: "Color and number", gloss: "yellow", concept: yellow}
+      native: [{text: 󱂠, enc: tanttengchouenc}]
+    - form: jau
+      class: "adj"
+      field: "Color and number"
+      gloss: "yellow"
+      concept: yellow
+      native: [{text: 󱂡, enc: tanttengchouenc}]
     - form: kwi
       class: "adj"
       field: "Color and number"
       gloss: "gray, ash-colored"
       concept: grey
-    - {form: jan, class: "adj", field: "Color and number", gloss: "brown", concept: brown}
-    - {form: na, class: "n", field: "Kin", gloss: "mother", concept: mother}
-    - {form: to, class: "n", field: "Kin", gloss: "father", concept: father}
-    - {form: dong, class: "n", field: "Kin", gloss: "brother", concept: brother}
-    - {form: nin, class: "n", field: "Kin", gloss: "sister", concept: sister}
+      native: [{text: 󱂢, enc: tanttengchouenc}]
+    - form: jan
+      class: "adj"
+      field: "Color and number"
+      gloss: "brown"
+      concept: brown
+      native: [{text: 󱂣, enc: tanttengchouenc}]
+    - form: na
+      class: "n"
+      field: "Kin"
+      gloss: "mother"
+      concept: mother
+      native: [{text: 󱂤, enc: tanttengchouenc}]
+    - form: to
+      class: "n"
+      field: "Kin"
+      gloss: "father"
+      concept: father
+      native: [{text: 󱂥, enc: tanttengchouenc}]
+    - form: dong
+      class: "n"
+      field: "Kin"
+      gloss: "brother"
+      concept: brother
+      native: [{text: 󱂦, enc: tanttengchouenc}]
+    - form: nin
+      class: "n"
+      field: "Kin"
+      gloss: "sister"
+      concept: sister
+      native: [{text: 󱂧, enc: tanttengchouenc}]
     - form: dei
       class: v
       field: Doing and describing
       gloss: to be; to exist, as well as to be
       concept: [be, exist]
-    - {form: kai, class: "v", field: "Doing and describing", gloss: "to have", concept: have}
-    - {form: rou, class: "v", field: "Doing and describing", gloss: "to go", concept: go}
-    - {form: nau, class: "v", field: "Doing and describing", gloss: "to come", concept: come}
-    - {form: zhan, class: "v", field: "Doing and describing", gloss: "to give", concept: give}
-    - {form: dwi, class: "v", field: "Doing and describing", gloss: "to take", concept: take}
-    - {form: shau, class: "v", field: "Doing and describing", gloss: "to make", concept: make}
-    - {form: tsyau, class: "v", field: "Doing and describing", gloss: "to do", concept: do}
-    - {form: ya, class: "v", field: "Doing and describing", gloss: "to say", concept: say}
+      native: [{text: 󱂨, enc: tanttengchouenc}]
+    - form: kai
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to have"
+      concept: have
+      native: [{text: 󱂩, enc: tanttengchouenc}]
+    - form: rou
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to go"
+      concept: go
+      native: [{text: 󱂪, enc: tanttengchouenc}]
+    - form: nau
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to come"
+      concept: come
+      native: [{text: 󱂫, enc: tanttengchouenc}]
+    - form: zhan
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to give"
+      concept: give
+      native: [{text: 󱂬, enc: tanttengchouenc}]
+    - form: dwi
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to take"
+      concept: take
+      native: [{text: 󱂭, enc: tanttengchouenc}]
+    - form: shau
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to make"
+      concept: make
+      native: [{text: 󱂮, enc: tanttengchouenc}]
+    - form: tsyau
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to do"
+      concept: do
+      native: [{text: 󱂯, enc: tanttengchouenc}]
+    - form: ya
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to say"
+      concept: say
+      native: [{text: 󱂰, enc: tanttengchouenc}]
     - form: tswen
       class: "v"
       field: "Doing and describing"
       gloss: "to speak, to talk"
       concept: speak
-    - {form: tsing, class: "v", field: "Doing and describing", gloss: "to know", concept: know}
-    - {form: sai, class: "v", field: "Doing and describing", gloss: "to think", concept: think}
+      native: [{text: 󱂱, enc: tanttengchouenc}]
+    - form: tsing
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to know"
+      concept: know
+      native: [{text: 󱂲, enc: tanttengchouenc}]
+    - form: sai
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to think"
+      concept: think
+      native: [{text: 󱂳, enc: tanttengchouenc}]
     - form: yei
       class: v
       field: Doing and describing
       gloss: to want, to desire
       concept: [want, wish-verb]
+      native: [{text: 󱁢, enc: tanttengchouenc}]
     - form: shan
       class: v
       field: Doing and describing
       gloss: to live; to be alive
       concept: [live, alive]
-    - {form: fen, class: "v", field: "Doing and describing", gloss: "to die", concept: die}
-    - {form: twen, class: "v", field: "Doing and describing", gloss: "to walk", concept: walk}
-    - {form: rwen, class: "v", field: "Doing and describing", gloss: "to run", concept: run}
-    - {form: den, class: "v", field: "Doing and describing", gloss: "to sit", concept: sit}
-    - {form: gye, class: "v", field: "Doing and describing", gloss: "to stand", concept: stand}
+      native: [{text: 󱂴, enc: tanttengchouenc}]
+    - form: fen
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to die"
+      concept: die
+      native: [{text: 󱂵, enc: tanttengchouenc}]
+    - form: twen
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to walk"
+      concept: walk
+      native: [{text: 󱂶, enc: tanttengchouenc}]
+    - form: rwen
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to run"
+      concept: run
+      native: [{text: 󱂷, enc: tanttengchouenc}]
+    - form: den
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to sit"
+      concept: sit
+      native: [{text: 󱂸, enc: tanttengchouenc}]
+    - form: gye
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to stand"
+      concept: stand
+      native: [{text: 󱂹, enc: tanttengchouenc}]
     - form: tye
       class: "v"
       field: "Doing and describing"
       gloss: "to lie down"
       concept: lie-down
-    - {form: gwin, class: "v", field: "Doing and describing", gloss: "to hold", concept: hold}
+      native: [{text: 󱂺, enc: tanttengchouenc}]
+    - form: gwin
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to hold"
+      concept: hold
+      native: [{text: 󱂻, enc: tanttengchouenc}]
     - form: hai
       class: v
       field: Doing and describing
       gloss: to bring, to carry
       concept: [bring, carry]
+      native: [{text: 󱂼, enc: tanttengchouenc}]
     - form: ra
       class: "v"
       field: "Doing and describing"
       gloss: "to put, to set down"
       concept: put
-    - {form: zhing, class: "v", field: "Doing and describing", gloss: "to find", concept: find}
-    - {form: shin, class: "v", field: "Doing and describing", gloss: "to lose", concept: lose}
-    - {form: ka, class: "v", field: "Doing and describing", gloss: "to open", concept: open}
+      native: [{text: 󱂽, enc: tanttengchouenc}]
+    - form: zhing
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to find"
+      concept: find
+      native: [{text: 󱂾, enc: tanttengchouenc}]
+    - form: shin
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to lose"
+      concept: lose
+      native: [{text: 󱂿, enc: tanttengchouenc}]
+    - form: ka
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to open"
+      concept: open
+      native: [{text: 󱃀, enc: tanttengchouenc}]
     - form: seng
       class: "v"
       field: "Doing and describing"
       gloss: "to close, to shut"
       concept: close
-    - {form: chau, class: "v", field: "Doing and describing", gloss: "to begin", concept: begin}
+      native: [{text: 󱃁, enc: tanttengchouenc}]
+    - form: chau
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to begin"
+      concept: begin
+      native: [{text: 󱃂, enc: tanttengchouenc}]
     - form: lwen
       class: "v"
       field: "Doing and describing"
       gloss: "to end, to finish"
       concept: end
-    - {form: hin, class: "n", field: "Senses and passions", gloss: "love, to cherish"}
-    - {form: jeng, class: "n", field: "The body", gloss: "joint, knot; where a limb bends"}
-    - {form: mi, class: n, field: Kin, gloss: woman; female, concept: woman}
-    - {form: chan, class: n, field: Kin, gloss: man; male, concept: man}
+      native: [{text: 󱃃, enc: tanttengchouenc}]
+    - form: hin
+      class: "n"
+      field: "Senses and passions"
+      gloss: "love, to cherish"
+      native: [{text: 󱁡, enc: tanttengchouenc}]
+    - form: jeng
+      class: "n"
+      field: "The body"
+      gloss: "joint, knot; where a limb bends"
+      native: [{text: 󱁯, enc: tanttengchouenc}]
+    - form: mi
+      class: n
+      field: Kin
+      gloss: woman; female
+      concept: woman
+      native: [{text: 󱁼, enc: tanttengchouenc}]
+    - form: chan
+      class: n
+      field: Kin
+      gloss: man; male
+      concept: man
+      native: [{text: 󱁽, enc: tanttengchouenc}]
     - form: chwo
       class: num
       field: Color and number
       gloss: rank, place in order
       concept: rank
-    - {form: si, class: "n", field: "Needs and common things", gloss: "pearl"}
-    - {form: do, class: "n", field: "Needs and common things", gloss: "pine"}
-    - {form: ri, class: "n", field: "Needs and common things", gloss: "sail"}
-    - {form: ma, class: "n", field: "Needs and common things", gloss: "song"}
-    - {form: da, class: "n", field: "Needs and common things", gloss: "feather"}
-    - {form: rei, class: "n", field: "Needs and common things", gloss: "dew"}
-    - {form: di, class: "n", field: "Needs and common things", gloss: "drum"}
-    - {form: tei, class: "n", field: "Needs and common things", gloss: "ink"}
-    - {form: go, class: "n", field: "Needs and common things", gloss: "gourd"}
-    - {form: ti, class: "n", field: "Needs and common things", gloss: "bell"}
-    - {form: ro, class: "n", field: "Needs and common things", gloss: "reed"}
-    - {form: ni, class: "n", field: "Needs and common things", gloss: "willow"}
-    - {form: ba, class: "n", field: "Needs and common things", gloss: "plum"}
-    - {form: li, class: "n", field: "Needs and common things", gloss: "silk"}
-    - {form: "no", class: "n", field: "Needs and common things", gloss: "honey"}
-    - {form: ran, class: "n", field: "Needs and common things", gloss: "lacquer"}
-    - {form: shi, class: "n", field: "Needs and common things", gloss: "comb"}
+      native: [{text: 󱂜, enc: tanttengchouenc}]
+    - form: si
+      class: "n"
+      field: "Needs and common things"
+      gloss: "pearl"
+      native: [{text: 󱃄, enc: tanttengchouenc}]
+    - form: do
+      class: "n"
+      field: "Needs and common things"
+      gloss: "pine"
+      native: [{text: 󱃅, enc: tanttengchouenc}]
+    - form: ri
+      class: "n"
+      field: "Needs and common things"
+      gloss: "sail"
+      native: [{text: 󱃆, enc: tanttengchouenc}]
+    - form: ma
+      class: "n"
+      field: "Needs and common things"
+      gloss: "song"
+      native: [{text: 󱃇, enc: tanttengchouenc}]
+    - form: da
+      class: "n"
+      field: "Needs and common things"
+      gloss: "feather"
+      native: [{text: 󱃈, enc: tanttengchouenc}]
+    - form: rei
+      class: "n"
+      field: "Needs and common things"
+      gloss: "dew"
+      native: [{text: 󱃉, enc: tanttengchouenc}]
+    - form: di
+      class: "n"
+      field: "Needs and common things"
+      gloss: "drum"
+      native: [{text: 󱃊, enc: tanttengchouenc}]
+    - form: tei
+      class: "n"
+      field: "Needs and common things"
+      gloss: "ink"
+      native: [{text: 󱃋, enc: tanttengchouenc}]
+    - form: go
+      class: "n"
+      field: "Needs and common things"
+      gloss: "gourd"
+      native: [{text: 󱃌, enc: tanttengchouenc}]
+    - form: ti
+      class: "n"
+      field: "Needs and common things"
+      gloss: "bell"
+      native: [{text: 󱃍, enc: tanttengchouenc}]
+    - form: ro
+      class: "n"
+      field: "Needs and common things"
+      gloss: "reed"
+      native: [{text: 󱃎, enc: tanttengchouenc}]
+    - form: ni
+      class: "n"
+      field: "Needs and common things"
+      gloss: "willow"
+      native: [{text: 󱃏, enc: tanttengchouenc}]
+    - form: ba
+      class: "n"
+      field: "Needs and common things"
+      gloss: "plum"
+      native: [{text: 󱃐, enc: tanttengchouenc}]
+    - form: li
+      class: "n"
+      field: "Needs and common things"
+      gloss: "silk"
+      native: [{text: 󱃑, enc: tanttengchouenc}]
+    - form: "no"
+      class: "n"
+      field: "Needs and common things"
+      gloss: "honey"
+      native: [{text: 󱃒, enc: tanttengchouenc}]
+    - form: ran
+      class: "n"
+      field: "Needs and common things"
+      gloss: "lacquer"
+      native: [{text: 󱃓, enc: tanttengchouenc}]
+    - form: shi
+      class: "n"
+      field: "Needs and common things"
+      gloss: "comb"
+      native: [{text: 󱃔, enc: tanttengchouenc}]
     - form: wongri
       class: "n"
       field: "Needs and common things"
@@ -6014,14 +6731,14 @@ data:
     - {forms: {skill-tantsoulng: chwen, skill-jurthatlng: chen}, gloss: frost}
     - {forms: {skill-tantsoulng: rau, skill-jurthatlng: rou}, gloss: thunder}
     - {forms: {skill-tantsoulng: la, skill-jurthatlng: ra}, gloss: lightning}
-    - {forms: {skill-tantsoulng: tui, skill-jurthatlng: tswi}, gloss: iron}
+    - {forms: {skill-tantsoulng: tui, skill-jurthatlng: tsui}, gloss: iron}
     - {forms: {skill-tantsoulng: wei, skill-jurthatlng: wei}, gloss: jade}
     - {forms: {skill-tantsoulng: teng, skill-jurthatlng: te}, gloss: "heaven, the sky; celestial"}
     - {forms: {skill-tantsoulng: tan, skill-jurthatlng: tan}, gloss: "celestial, of heaven"}
     - {forms: {skill-tantsoulng: mwo, skill-jurthatlng: mu}, gloss: green}
     - {forms: {skill-tantsoulng: zhou, skill-jurthatlng: zu}, gloss: "blue, azure; flowing"}
     - {forms: {skill-tantsoulng: rin, skill-jurthatlng: rin}, gloss: "red, vermilion"}
-    - {forms: {skill-tantsoulng: bwi, skill-jurthatlng: bwi}, gloss: "white, silver"}
+    - {forms: {skill-tantsoulng: bwi, skill-jurthatlng: bui}, gloss: "white, silver"}
     - {forms: {skill-tantsoulng: ha, skill-jurthatlng: ha}, gloss: "dark, black, hidden; shadow"}
     - {forms: {skill-tantsoulng: leng, skill-jurthatlng: re}, gloss: "bright, radiant; dawn"}
     - {forms: {skill-tantsoulng: jen, skill-jurthatlng: jen}, gloss: nine}
@@ -6031,7 +6748,7 @@ data:
     - {forms: {skill-tantsoulng: chen, skill-jurthatlng: chen}, gloss: "emperor, king"}
     - {forms: {skill-tantsoulng: zhwo, skill-jurthatlng: zo}, gloss: "lord, sovereign"}
     - {forms: {skill-tantsoulng: nei, skill-jurthatlng: nei}, gloss: "sovereign, ruler"}
-    - {forms: {skill-tantsoulng: gwi, skill-jurthatlng: gwi}, gloss: "official, minister"}
+    - {forms: {skill-tantsoulng: gwi, skill-jurthatlng: gui}, gloss: "official, minister"}
     - {forms: {skill-tantsoulng: gen, skill-jurthatlng: gen}, gloss: "master, teacher"}
     - {forms: {skill-tantsoulng: chei, skill-jurthatlng: chei}, gloss: "scholar, sage"}
     - {forms: {skill-tantsoulng: yai, skill-jurthatlng: yai}, gloss: "healer, physician"}
@@ -6061,8 +6778,8 @@ data:
     - {forms: {skill-tantsoulng: fa, skill-jurthatlng: fa}, gloss: "wealth, fortune"}
     - {forms: {skill-tantsoulng: chou, skill-jurthatlng: chu}, gloss: "knowledge, lore, record"}
     - {forms: {skill-tantsoulng: dwo, skill-jurthatlng: do}, gloss: "sorcery, magic"}
-    - {forms: {skill-tantsoulng: rwi, skill-jurthatlng: rwi}, gloss: "ritual, ceremony, dance"}
-    - {forms: {skill-tantsoulng: jwi, skill-jurthatlng: jwi}, gloss: festival}
+    - {forms: {skill-tantsoulng: rwi, skill-jurthatlng: rui}, gloss: "ritual, ceremony, dance"}
+    - {forms: {skill-tantsoulng: jwi, skill-jurthatlng: jui}, gloss: festival}
     - {forms: {skill-tantsoulng: tsei, skill-jurthatlng: tsei}, gloss: "self, own"}
     - {forms: {skill-tantsoulng: wan, skill-jurthatlng: wan}, gloss: "account, reckoning"}
     - {forms: {skill-tantsoulng: nye, skill-jurthatlng: ne}, gloss: year}
@@ -6083,7 +6800,7 @@ data:
     - {forms: {skill-tantsoulng: wa, skill-jurthatlng: wa}, gloss: "to answer, to echo"}
     - {forms: {skill-tantsoulng: dau, skill-jurthatlng: dou}, gloss: "great, supreme"}
     - {forms: {skill-tantsoulng: kwo, skill-jurthatlng: ko}, gloss: "old, ancient, eternal"}
-    - {forms: {skill-tantsoulng: shwi, skill-jurthatlng: shwi}, gloss: "new, lesser, small"}
+    - {forms: {skill-tantsoulng: shwi, skill-jurthatlng: shui}, gloss: "new, lesser, small"}
     - {forms: {skill-tantsoulng: hing, skill-jurthatlng: hi}, gloss: "to see, to look"}
     - {forms: {skill-tantsoulng: jye, skill-jurthatlng: je}, gloss: "sight, view; what is seen"}
     - {forms: {skill-tantsoulng: ten, skill-jurthatlng: ten}, gloss: "to hear, to listen"}
@@ -6098,7 +6815,7 @@ data:
     - {forms: {skill-tantsoulng: sau, skill-jurthatlng: sou}, gloss: "hair of the head"}
     - {forms: {skill-tantsoulng: lan, skill-jurthatlng: ran}, gloss: "face"}
     - {forms: {skill-tantsoulng: ching, skill-jurthatlng: chi}, gloss: "eye"}
-    - {forms: {skill-tantsoulng: lwi, skill-jurthatlng: rwi}, gloss: "ear"}
+    - {forms: {skill-tantsoulng: lwi, skill-jurthatlng: rui}, gloss: "ear"}
     - {forms: {skill-tantsoulng: fong, skill-jurthatlng: fo}, gloss: "nose"}
     - {forms: {skill-tantsoulng: tsong, skill-jurthatlng: tso}, gloss: "mouth"}
     - {forms: {skill-tantsoulng: ga, skill-jurthatlng: ga}, gloss: "tooth"}
@@ -6117,12 +6834,12 @@ data:
     - {forms: {skill-tantsoulng: dai, skill-jurthatlng: dai}, gloss: "foot"}
     - {forms: {skill-tantsoulng: lo, skill-jurthatlng: ro}, gloss: "skin, hide"}
     - {forms: {skill-tantsoulng: ko, skill-jurthatlng: ko}, gloss: "bone"}
-    - {forms: {skill-tantsoulng: chwi, skill-jurthatlng: chwi}, gloss: "blood"}
+    - {forms: {skill-tantsoulng: chwi, skill-jurthatlng: chui}, gloss: "blood"}
     - {forms: {skill-tantsoulng: mwen, skill-jurthatlng: men}, gloss: "flesh, meat"}
     - {forms: {skill-tantsoulng: ta, skill-jurthatlng: ta}, gloss: "food, meal"}
     - {forms: {skill-tantsoulng: sho, skill-jurthatlng: sho}, gloss: "to eat"}
     - {forms: {skill-tantsoulng: sa, skill-jurthatlng: sa}, gloss: "drink"}
-    - {forms: {skill-tantsoulng: hwi, skill-jurthatlng: fwi}, gloss: "to drink"}
+    - {forms: {skill-tantsoulng: hwi, skill-jurthatlng: fui}, gloss: "to drink"}
     - {forms: {skill-tantsoulng: fou, skill-jurthatlng: fu}, gloss: "to breathe"}
     - {forms: {skill-tantsoulng: min, skill-jurthatlng: min}, gloss: "to sleep"}
     - {forms: {skill-tantsoulng: lyau, skill-jurthatlng: ro}, gloss: "urine"}
@@ -6154,7 +6871,7 @@ data:
     - {forms: {skill-tantsoulng: bo, skill-jurthatlng: bo}, gloss: "few, little"}
     - {forms: {skill-tantsoulng: mong, skill-jurthatlng: mo}, gloss: "none, nothing; not"}
     - {forms: {skill-tantsoulng: jau, skill-jurthatlng: jou}, gloss: "yellow"}
-    - {forms: {skill-tantsoulng: kwi, skill-jurthatlng: kwi}, gloss: "gray, ash-colored"}
+    - {forms: {skill-tantsoulng: kwi, skill-jurthatlng: kui}, gloss: "gray, ash-colored"}
     - {forms: {skill-tantsoulng: jan, skill-jurthatlng: jan}, gloss: "brown"}
     - {forms: {skill-tantsoulng: na, skill-jurthatlng: na}, gloss: "mother"}
     - {forms: {skill-tantsoulng: to, skill-jurthatlng: to}, gloss: "father"}
@@ -6165,7 +6882,7 @@ data:
     - {forms: {skill-tantsoulng: rou, skill-jurthatlng: ru}, gloss: "to go"}
     - {forms: {skill-tantsoulng: nau, skill-jurthatlng: nou}, gloss: "to come"}
     - {forms: {skill-tantsoulng: zhan, skill-jurthatlng: zan}, gloss: "to give"}
-    - {forms: {skill-tantsoulng: dwi, skill-jurthatlng: dwi}, gloss: "to take"}
+    - {forms: {skill-tantsoulng: dwi, skill-jurthatlng: dui}, gloss: "to take"}
     - {forms: {skill-tantsoulng: shau, skill-jurthatlng: shou}, gloss: "to make"}
     - {forms: {skill-tantsoulng: tsyau, skill-jurthatlng: tso}, gloss: "to do"}
     - {forms: {skill-tantsoulng: ya, skill-jurthatlng: ya}, gloss: "to say"}

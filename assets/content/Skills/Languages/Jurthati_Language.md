@@ -31,51 +31,66 @@ data:
       gloss: "a mountain, an island or a place; the compound form of _chai_"
       attaches: "added"
       examples: ["jen > jenjai, the Nine Mountains"]
+      native: [{text: 󲀞󲀁, enc: jurttengchouenc}]
     - form: "-ju"
       gloss: "water, a river or a spring, the compound form of _shu_; and a record or a body of lore, the compound form of _chu_"
       attaches: "added"
       examples: ["beshe > besheju, the records of the salt"]
+      native: [{text: 󲀠, enc: jurttengchouenc}]
     - form: "-jei"
       gloss: "a scholar or a sage; the compound form of _chei_"
       attaches: "added"
       examples: ["tan > tanjei, a celestial scholar"]
+      native: [{text: 󲀡󲀁, enc: jurttengchouenc}]
     - form: "-zi"
       gloss: "a death; the compound form of _si_"
       attaches: "added"
       examples: ["rui > ruizi, the ritual death"]
-    - {form: "-bu", gloss: "balance, harmony; the compound form of _fu_", attaches: "added"}
+      native: [{text: 󲀚, enc: jurttengchouenc}]
+    - form: "-bu"
+      gloss: "balance, harmony; the compound form of _fu_"
+      attaches: "added"
+      native: [{text: 󲁂, enc: jurttengchouenc}]
     - form: "-zu"
       gloss: "a tribe, a people or a caste; the compound form of _tsu_"
       attaches: "added"
       examples: ["nu > nuzu, the bound folk"]
+      native: [{text: 󲀛, enc: jurttengchouenc}]
     - form: "-dan"
       gloss: "the honorific form of a verb, said of the act of one above the speaker; the compound form of _tan_"
       attaches: "added"
       examples: ["wa > wadan, my lord answers"]
+      native: [{text: 󲀰󲁖, enc: jurttengchouenc}]
     - form: "-nu"
       gloss: "the humble form of a verb, said of the speaker's own act, set as a bound man's act"
       attaches: "added"
       examples: ["wa > wanu, I humbly answer"]
+      native: [{text: 󲀷, enc: jurttengchouenc}]
     - form: "-re"
       gloss: "the polite form, said to a listener owed courtesy, as to one who is bright"
       attaches: "added"
       examples: ["wadan > wadanre"]
+      native: [{text: 󲁐, enc: jurttengchouenc}]
     - form: "-wu"
       gloss: "the witnessed form, said before a third person of standing, as in a hall"
       attaches: "added"
       examples: ["wadanre > wadanrewu"]
+      native: [{text: 󲁓, enc: jurttengchouenc}]
     - form: "-nou"
       gloss: "a count of people, set on a number"
       attaches: "added"
       examples: ["wen > wenno, five people"]
+      native: [{text: 󲀹󲀂, enc: jurttengchouenc}]
     - form: "-ja"
       gloss: "a count of long things: blades, spears, roads, rivers"
       attaches: "added"
       examples: ["jen > jenja, nine blades"]
+      native: [{text: 󲀞, enc: jurttengchouenc}]
     - form: "-yu"
       gloss: "a count of round things: coins, bowls, moons, shields"
       attaches: "added"
       examples: ["wai > waiyu, ten coins"]
+      native: [{text: 󲁋, enc: jurttengchouenc}]
   words:
     - form: ho
       class: n
@@ -106,6 +121,7 @@ data:
       gloss: water, river
       concept: [water, river]
       source: {kind: inherited}
+      native: [{text: 󱀃, enc: jurttengchouenc}]
     - form: tsu
       class: n
       field: Land, sea and sky
@@ -118,18 +134,21 @@ data:
       gloss: wind
       source: {kind: inherited}
       concept: wind
+      native: [{text: 󱀅, enc: jurttengchouenc}]
     - form: chai
       class: n
       field: Land, sea and sky
       gloss: mountain, peak; an island
       source: {kind: inherited}
       concept: mountain
+      native: [{text: 󱀆, enc: jurttengchouenc}]
     - form: yan
       class: n
       field: Land, sea and sky
       gloss: cloud
       source: {kind: inherited}
       concept: cloud
+      native: [{text: 󱀇, enc: jurttengchouenc}]
     - form: zi
       class: n
       field: Land, sea and sky
@@ -142,6 +161,7 @@ data:
       gloss: moon, month
       source: {kind: inherited}
       concept: [moon, month]
+      native: [{text: 󱀉, enc: jurttengchouenc}]
     - form: ro
       class: n
       field: Land, sea and sky
@@ -186,14 +206,26 @@ data:
       field: "Land, sea and sky"
       gloss: "iron"
       source: {kind: inherited}
-    - {form: wei, class: "n", field: "Land, sea and sky", gloss: "jade", source: {kind: inherited}}
+      native: [{text: 󱀑, enc: jurttengchouenc}]
+    - form: wei
+      class: "n"
+      field: "Land, sea and sky"
+      gloss: "jade"
+      source: {kind: inherited}
+      native: [{text: 󱀒, enc: jurttengchouenc}]
     - form: te
       class: n
       field: Land, sea and sky
       gloss: heaven, the sky
       source: {kind: inherited}
       concept: sky
-    - {form: beshe, class: "n", field: "Land, sea and sky", gloss: "salt", source: {kind: coined}}
+      native: [{text: 󱀓, enc: jurttengchouenc}]
+    - form: beshe
+      class: "n"
+      field: "Land, sea and sky"
+      gloss: "salt"
+      source: {kind: coined}
+      native: [{text: 󲁃󲀗, enc: jurttengchouenc}]
     - form: hoju
       class: "n"
       field: "Land, sea and sky"
@@ -217,7 +249,7 @@ data:
       field: "Land, sea and sky"
       gloss: "the Nine Mountains; the islanders' everyday short name for their land"
       source: {kind: coined}
-      built: [jen, "-jai"]
+      native: [{text: 󱀛󱀆, enc: jurttengchouenc}]
     - form: teyan
       class: "n"
       field: "Land, sea and sky"
@@ -230,6 +262,7 @@ data:
       gloss: "one"
       source: {kind: island}
       concept: one
+      native: [{text: 󱂓, enc: jurttengchouenc}]
     - form: wen
       class: num
       field: Number and color
@@ -242,41 +275,48 @@ data:
       gloss: "nine"
       source: {kind: inherited}
       concept: nine
+      native: [{text: 󱀛, enc: jurttengchouenc}]
     - form: wai
       class: num
       field: Number and color
       gloss: "ten"
       source: {kind: inherited}
       concept: ten
+      native: [{text: 󱀝, enc: jurttengchouenc}]
     - form: tan
       class: adj
       field: Number and color
       gloss: "celestial, of heaven"
       source: {kind: inherited}
+      native: [{text: 󱀔, enc: jurttengchouenc}]
     - form: zu
       class: adj
       field: Number and color
       gloss: "blue, azure; flowing"
       concept: blue
       source: {kind: inherited}
+      native: [{text: 󱀖, enc: jurttengchouenc}]
     - form: rin
       class: adj
       field: Number and color
       gloss: "red, vermilion"
       concept: red
       source: {kind: inherited}
+      native: [{text: 󱀗, enc: jurttengchouenc}]
     - form: bui
       class: adj
       field: Number and color
       gloss: "white, silver"
       concept: white
       source: {kind: inherited}
+      native: [{text: 󱀘, enc: jurttengchouenc}]
     - form: ha
       class: adj
       field: Number and color
       gloss: dark, black, hidden
       concept: [black, dark]
       source: {kind: inherited}
+      native: [{text: 󱀙, enc: jurttengchouenc}]
     - form: re
       class: adj
       field: Number and color
@@ -292,6 +332,7 @@ data:
       gloss: great, supreme
       source: {kind: inherited}
       concept: big
+      native: [{text: 󱁔, enc: jurttengchouenc}]
     - form: ko
       class: adj
       field: Number and color
@@ -304,6 +345,7 @@ data:
       gloss: lesser, small, new
       source: {kind: inherited}
       concept: [small, new]
+      native: [{text: 󱁖, enc: jurttengchouenc}]
     - form: chen
       class: "n"
       field: "Rank, house and office"
@@ -321,38 +363,45 @@ data:
       gloss: sovereign, ruler
       source: {kind: inherited}
       concept: ruler
+      native: [{text: 󱀡, enc: jurttengchouenc}]
     - form: gui
       class: "n"
       field: "Rank, house and office"
       gloss: "official, minister"
       source: {kind: inherited}
+      native: [{text: 󱀢, enc: jurttengchouenc}]
     - form: gen
       class: n
       field: Rank, house and office
       gloss: master, teacher
       source: {kind: inherited}
       concept: [master, teacher]
+      native: [{text: 󱀣, enc: jurttengchouenc}]
     - form: wuo
       class: "n"
       field: "Rank, house and office"
       gloss: "warrior, retainer"
       source: {kind: inherited}
+      native: [{text: 󱀤, enc: jurttengchouenc}]
     - form: chei
       class: "n"
       field: "Rank, house and office"
       gloss: "scholar, sage"
       source: {kind: inherited}
+      native: [{text: 󱀥, enc: jurttengchouenc}]
     - form: yai
       class: "n"
       field: "Rank, house and office"
       gloss: "healer, physician"
       source: {kind: inherited}
+      native: [{text: 󱀦, enc: jurttengchouenc}]
     - form: zei
       class: "n"
       field: "Rank, house and office"
       gloss: "son, child"
       concept: [son, child]
       source: {kind: inherited}
+      native: [{text: 󱀧, enc: jurttengchouenc}]
     - form: nou
       class: n
       field: Rank, house and office
@@ -365,6 +414,7 @@ data:
       gloss: house, clan, family
       source: {kind: inherited}
       concept: [family, clan]
+      native: [{text: 󱀫, enc: jurttengchouenc}]
     - form: ken
       class: "n"
       field: "Rank, house and office"
@@ -381,6 +431,7 @@ data:
       field: "Rank, house and office"
       gloss: "blade"
       source: {kind: inherited}
+      native: [{text: 󱀮, enc: jurttengchouenc}]
     - form: dozo
       class: "n"
       field: "Rank, house and office"
@@ -410,7 +461,7 @@ data:
       field: "Rank, house and office"
       gloss: "a celestial scholar; the native reading of _Tanchei_"
       source: {kind: coined}
-      built: [tan, "-jei"]
+      native: [{text: 󱀔󱀥, enc: jurttengchouenc}]
     - form: wobu
       class: "n"
       field: "Rank, house and office"
@@ -464,6 +515,7 @@ data:
       field: "Rites, honor and court"
       gloss: "bureau, office"
       source: {kind: inherited}
+      native: [{text: 󱀴, enc: jurttengchouenc}]
     - form: ru
       class: n
       field: Rites, honor and court
@@ -475,6 +527,7 @@ data:
       field: "Rites, honor and court"
       gloss: "path, road"
       source: {kind: inherited}
+      native: [{text: 󱀶, enc: jurttengchouenc}]
     - form: fu
       class: n
       field: Rites, honor and court
@@ -486,6 +539,7 @@ data:
       field: "Rites, honor and court"
       gloss: "craft, making"
       source: {kind: inherited}
+      native: [{text: 󱀸, enc: jurttengchouenc}]
     - form: hen
       class: "n"
       field: "Rites, honor and court"
@@ -503,23 +557,27 @@ data:
       gloss: life, birth
       source: {kind: inherited}
       concept: [birth, life]
+      native: [{text: 󱀻, enc: jurttengchouenc}]
     - form: "nuo"
       class: "n"
       field: "Rites, honor and court"
       gloss: "decay, rot"
       source: {kind: inherited}
+      native: [{text: 󱀼, enc: jurttengchouenc}]
     - form: fa
       class: n
       field: Rites, honor and court
       gloss: fortune, wealth
       source: {kind: inherited}
       concept: wealth
+      native: [{text: 󱀽, enc: jurttengchouenc}]
     - form: chu
       class: n
       field: Rites, honor and court
       gloss: record, lore
       source: {kind: inherited}
       concept: knowledge
+      native: [{text: 󱀾, enc: jurttengchouenc}]
     - form: wan
       class: n
       field: Rites, honor and court
@@ -545,6 +603,7 @@ data:
       field: "Rites, honor and court"
       gloss: "sorcery"
       source: {kind: inherited}
+      native: [{text: 󱀿, enc: jurttengchouenc}]
     - form: rui
       class: "n"
       field: "Rites, honor and court"
@@ -556,6 +615,7 @@ data:
       field: "Rites, honor and court"
       gloss: "festival"
       source: {kind: inherited}
+      native: [{text: 󱁁, enc: jurttengchouenc}]
     - form: ne
       class: n
       field: Rites, honor and court
@@ -570,6 +630,7 @@ data:
       gloss: dream
       source: {kind: inherited}
       concept: dream
+      native: [{text: 󱁅, enc: jurttengchouenc}]
     - form: ruizi
       class: "n"
       field: "Rites, honor and court"
@@ -581,15 +642,32 @@ data:
       field: "Rites, honor and court"
       gloss: "court speech, the prestige speech of the Emperor's household"
       source: {kind: island}
+      native: [{text: 󲀉󲁔󲁖, enc: jurttengchouenc}]
     - form: zai
       class: n
       field: Beasts
       gloss: bird, phoenix, crane
       source: {kind: inherited}
       concept: bird
-    - {form: su, class: "n", field: Beasts, gloss: "serpent", source: {kind: inherited}}
-    - {form: mai, class: "n", field: Beasts, gloss: "horse", source: {kind: inherited}}
-    - {form: bei, class: "n", field: Beasts, gloss: "ape", source: {kind: inherited}}
+      native: [{text: 󱁈, enc: jurttengchouenc}]
+    - form: su
+      class: "n"
+      field: Beasts
+      gloss: "serpent"
+      source: {kind: inherited}
+      native: [{text: 󱁊, enc: jurttengchouenc}]
+    - form: mai
+      class: "n"
+      field: Beasts
+      gloss: "horse"
+      source: {kind: inherited}
+      native: [{text: 󱁋, enc: jurttengchouenc}]
+    - form: bei
+      class: "n"
+      field: Beasts
+      gloss: "ape"
+      source: {kind: inherited}
+      native: [{text: 󱁌, enc: jurttengchouenc}]
     - form: yo
       class: n
       field: Beasts
@@ -613,29 +691,44 @@ data:
       field: Speaking
       gloss: [of; binds a word to the one after it, cup, sail, silk]
       source: {kind: island}
+      native: [{text: 󲁎, enc: jurttengchouenc}]
     - form: bo
       class: part
       field: Speaking
       gloss: ["closes a question", "few, little"]
       concept: few
       source: {kind: island}
+      native: [{text: 󲁄, enc: jurttengchouenc}]
     - form: ku
       class: part
       field: Speaking
       gloss: "marks the doer of the act"
       source: {kind: island}
+      native: [{text: 󲀇, enc: jurttengchouenc}]
     - form: un
       class: part
       field: Speaking
       gloss: "marks the thing the act is done to"
       source: {kind: coined}
-    - {form: reme, class: part, field: Speaking, gloss: "at, in, on", source: {kind: coined}}
-    - {form: dari, class: part, field: Speaking, gloss: "from, out of", source: {kind: coined}}
+      native: [{text: 󲀂󲁖, enc: jurttengchouenc}]
+    - form: reme
+      class: part
+      field: Speaking
+      gloss: "at, in, on"
+      source: {kind: coined}
+      native: [{text: 󲁐󲁈, enc: jurttengchouenc}]
+    - form: dari
+      class: part
+      field: Speaking
+      gloss: "from, out of"
+      source: {kind: coined}
+      native: [{text: 󲀰󲁎, enc: jurttengchouenc}]
     - form: kobei
       class: pron
       field: Speaking
       gloss: "this unworthy one: I, in the humble tier"
       source: {kind: island}
+      native: [{text: 󲀉󲁃󲀁, enc: jurttengchouenc}]
     - form: tsei
       class: pron
       field: Speaking
@@ -644,12 +737,14 @@ data:
         - Tsei ku tsei un hi means I see myself; shei nou ku tsei un hi means that person sees themself. The object self refers back to the subject of its clause
       source: {kind: inherited}
       concept: [i, self]
+      native: [{text: 󱁂, enc: jurttengchouenc}]
     - form: wa
       class: v
       field: Speaking
       gloss: to answer, to echo
       source: {kind: inherited}
       concept: answer
+      native: [{text: 󱁓, enc: jurttengchouenc}]
     - form: che
       class: v
       field: Speaking
@@ -674,8 +769,18 @@ data:
         - to join; to connect things or come together. This separate verb is inherited from mainland cho; the other stated meanings retain their established use
       concept: freeze
       source: {kind: inherited}
-    - {form: wone, class: v, field: Speaking, gloss: "to serve a lord", source: {kind: coined}}
-    - {form: zine, class: v, field: Speaking, gloss: "to grant a name", source: {kind: coined}}
+    - form: wone
+      class: v
+      field: Speaking
+      gloss: "to serve a lord"
+      source: {kind: coined}
+      native: [{text: 󲁕󲀸, enc: jurttengchouenc}]
+    - form: zine
+      class: v
+      field: Speaking
+      gloss: "to grant a name"
+      source: {kind: coined}
+      native: [{text: 󲀚󲀸, enc: jurttengchouenc}]
     - form: wanu
       class: v
       field: The honorific grid
@@ -1314,6 +1419,7 @@ data:
         - to watch by continuing to look at a person, thing or event; this sustained viewing use is shared with mainland hing. Tsei ku zei un hi means I watch the child in this use
       source: {kind: inherited}
       concept: [see-verb, look, watch, expression-look]
+      native: [{text: 󱁗, enc: jurttengchouenc}]
     - form: ten
       class: v
       field: Senses and passions
@@ -1326,36 +1432,42 @@ data:
       gloss: "to smell"
       source: {kind: inherited}
       concept: smell-verb
+      native: [{text: 󱁛, enc: jurttengchouenc}]
     - form: fai
       class: "n"
       field: "Senses and passions"
       gloss: "smell, scent, odor"
       source: {kind: inherited}
       concept: smell-noun
+      native: [{text: 󱁜, enc: jurttengchouenc}]
     - form: tse
       class: "v"
       field: "Senses and passions"
       gloss: "to taste"
       source: {kind: inherited}
       concept: taste-verb
+      native: [{text: 󱁝, enc: jurttengchouenc}]
     - form: gai
       class: "v"
       field: "Senses and passions"
       gloss: "to touch, to feel with the hand"
       source: {kind: inherited}
       concept: touch-verb
+      native: [{text: 󱁟, enc: jurttengchouenc}]
     - form: hou
       class: "n"
       field: "The body"
       gloss: "head"
       source: {kind: inherited}
       concept: head
+      native: [{text: 󱁣, enc: jurttengchouenc}]
     - form: sou
       class: "n"
       field: "The body"
       gloss: "hair of the head"
       source: {kind: inherited}
       concept: hair
+      native: [{text: 󱁤, enc: jurttengchouenc}]
     - form: ran
       class: "n"
       field: "The body"
@@ -1368,6 +1480,7 @@ data:
       gloss: "eye"
       source: {kind: inherited}
       concept: eye
+      native: [{text: 󱁦, enc: jurttengchouenc}]
     - form: fo
       class: n
       field: The body
@@ -1388,6 +1501,7 @@ data:
       gloss: "tooth"
       source: {kind: inherited}
       concept: tooth
+      native: [{text: 󱁪, enc: jurttengchouenc}]
     - form: be
       class: n
       field: The body
@@ -1402,6 +1516,7 @@ data:
       gloss: "arm"
       source: {kind: inherited}
       concept: arm
+      native: [{text: 󱁮, enc: jurttengchouenc}]
     - form: ti
       class: "n"
       field: "The body"
@@ -1414,6 +1529,7 @@ data:
       gloss: "breast"
       source: {kind: inherited}
       concept: breast
+      native: [{text: 󱁲, enc: jurttengchouenc}]
     - form: tsen
       class: n
       field: The body
@@ -1432,18 +1548,21 @@ data:
       gloss: "back"
       source: {kind: inherited}
       concept: back
+      native: [{text: 󱁴, enc: jurttengchouenc}]
     - form: dai
       class: "n"
       field: "The body"
       gloss: "foot"
       source: {kind: inherited}
       concept: foot
+      native: [{text: 󱁷, enc: jurttengchouenc}]
     - form: chui
       class: "n"
       field: "The body"
       gloss: "blood"
       source: {kind: inherited}
       concept: blood
+      native: [{text: 󱁺, enc: jurttengchouenc}]
     - form: men
       class: n
       field: The body
@@ -1458,78 +1577,91 @@ data:
       gloss: "food, meal"
       source: {kind: inherited}
       concept: food
+      native: [{text: 󱁿, enc: jurttengchouenc}]
     - form: sa
       class: "n"
       field: "Needs and common things"
       gloss: "drink"
       source: {kind: inherited}
       concept: drink-noun
+      native: [{text: 󱂁, enc: jurttengchouenc}]
     - form: fui
       class: "v"
       field: "Needs and common things"
       gloss: "to drink"
       source: {kind: inherited}
       concept: drink-verb
+      native: [{text: 󱂀, enc: jurttengchouenc}]
     - form: min
       class: "v"
       field: "Needs and common things"
       gloss: "to sleep"
       source: {kind: inherited}
       concept: sleep-verb
+      native: [{text: 󱂃, enc: jurttengchouenc}]
     - form: bu
       class: "n"
       field: "Needs and common things"
       gloss: "dung, excrement"
       source: {kind: inherited}
       concept: dung
+      native: [{text: 󱂅, enc: jurttengchouenc}]
     - form: jin
       class: "n"
       field: "Needs and common things"
       gloss: "warmth; warm"
       source: {kind: inherited}
       concept: warmth
+      native: [{text: 󱂆, enc: jurttengchouenc}]
     - form: gan
       class: "n"
       field: "Needs and common things"
       gloss: "table"
       source: {kind: inherited}
       concept: table
+      native: [{text: 󱂇, enc: jurttengchouenc}]
     - form: ze
       class: "n"
       field: "Needs and common things"
       gloss: "wall"
       source: {kind: inherited}
       concept: wall
+      native: [{text: 󱂉, enc: jurttengchouenc}]
     - form: sen
       class: n
       field: Needs and common things
       gloss: door, gate
       source: {kind: inherited}
       concept: [door, gate]
+      native: [{text: 󱂌, enc: jurttengchouenc}]
     - form: kin
       class: "n"
       field: "Needs and common things"
       gloss: "lock; to lock"
       source: {kind: inherited}
       concept: lock
+      native: [{text: 󱂍, enc: jurttengchouenc}]
     - form: rai
       class: "n"
       field: "Needs and common things"
       gloss: "spoon"
       source: {kind: inherited}
       concept: spoon
+      native: [{text: 󱂐, enc: jurttengchouenc}]
     - form: ban
       class: "n"
       field: "Needs and common things"
       gloss: "pot"
       source: {kind: inherited}
       concept: pot
+      native: [{text: 󱂑, enc: jurttengchouenc}]
     - form: shen
       class: "n"
       field: "Needs and common things"
       gloss: "cloth"
       source: {kind: inherited}
       concept: cloth
+      native: [{text: 󱂒, enc: jurttengchouenc}]
     - form: ren
       class: num
       field: Number and color
@@ -1542,24 +1674,28 @@ data:
       gloss: "three"
       source: {kind: inherited}
       concept: three
+      native: [{text: 󱂕, enc: jurttengchouenc}]
     - form: fei
       class: "num"
       field: "Number and color"
       gloss: "four"
       source: {kind: inherited}
       concept: four
+      native: [{text: 󱂖, enc: jurttengchouenc}]
     - form: ju
       class: "num"
       field: "Number and color"
       gloss: "six"
       source: {kind: inherited}
       concept: six
+      native: [{text: 󱂗, enc: jurttengchouenc}]
     - form: tai
       class: "num"
       field: "Number and color"
       gloss: "seven"
       source: {kind: inherited}
       concept: seven
+      native: [{text: 󱂘, enc: jurttengchouenc}]
     - form: mo
       class: "num"
       field: "Number and color"
@@ -1572,167 +1708,195 @@ data:
       gloss: "hundred"
       source: {kind: inherited}
       concept: hundred
+      native: [{text: 󱂚, enc: jurttengchouenc}]
     - form: ke
       class: "num"
       field: "Number and color"
       gloss: "thousand"
       source: {kind: inherited}
       concept: thousand
+      native: [{text: 󱂛, enc: jurttengchouenc}]
     - form: tsan
       class: "num"
       field: "Number and color"
       gloss: "half"
       source: {kind: inherited}
       concept: half
+      native: [{text: 󱂝, enc: jurttengchouenc}]
     - form: jou
       class: "adj"
       field: "Number and color"
       gloss: "yellow"
       source: {kind: inherited}
       concept: yellow
+      native: [{text: 󱂡, enc: jurttengchouenc}]
     - form: kui
       class: "adj"
       field: "Number and color"
       gloss: "gray, ash-colored"
       source: {kind: inherited}
       concept: grey
+      native: [{text: 󱂢, enc: jurttengchouenc}]
     - form: jan
       class: "adj"
       field: "Number and color"
       gloss: "brown"
       source: {kind: inherited}
       concept: brown
+      native: [{text: 󱂣, enc: jurttengchouenc}]
     - form: na
       class: "n"
       field: "Rank, house and office"
       gloss: "mother"
       source: {kind: inherited}
       concept: mother
+      native: [{text: 󱂤, enc: jurttengchouenc}]
     - form: nin
       class: "n"
       field: "Rank, house and office"
       gloss: "sister"
       source: {kind: inherited}
       concept: sister
+      native: [{text: 󱂧, enc: jurttengchouenc}]
     - form: dei
       class: v
       field: Speaking
       gloss: to be
       source: {kind: inherited}
       concept: [be, exist]
+      native: [{text: 󱂨, enc: jurttengchouenc}]
     - form: kai
       class: "v"
       field: "Speaking"
       gloss: "to have"
       source: {kind: inherited}
       concept: have
+      native: [{text: 󱂩, enc: jurttengchouenc}]
     - form: zan
       class: "v"
       field: "Speaking"
       gloss: "to give"
       source: {kind: inherited}
       concept: give
+      native: [{text: 󱂬, enc: jurttengchouenc}]
     - form: dui
       class: "v"
       field: "Speaking"
       gloss: "to take"
       source: {kind: inherited}
       concept: take
+      native: [{text: 󱂭, enc: jurttengchouenc}]
     - form: shou
       class: "v"
       field: "Speaking"
       gloss: "to make"
       source: {kind: inherited}
       concept: make
+      native: [{text: 󱂮, enc: jurttengchouenc}]
     - form: ya
       class: "v"
       field: "Speaking"
       gloss: "to say"
       source: {kind: inherited}
       concept: say
+      native: [{text: 󱂰, enc: jurttengchouenc}]
     - form: tsi
       class: "v"
       field: "Speaking"
       gloss: "to know"
       source: {kind: inherited}
       concept: know
+      native: [{text: 󱂲, enc: jurttengchouenc}]
     - form: sai
       class: "v"
       field: "Speaking"
       gloss: "to think"
       source: {kind: inherited}
       concept: think
+      native: [{text: 󱂳, enc: jurttengchouenc}]
     - form: yei
       class: v
       field: Speaking
       gloss: to want, to desire
       source: {kind: inherited}
       concept: [want, wish-verb]
+      native: [{text: 󱁢, enc: jurttengchouenc}]
     - form: shan
       class: v
       field: Speaking
       gloss: to live
       source: {kind: inherited}
       concept: [live, alive]
+      native: [{text: 󱂴, enc: jurttengchouenc}]
     - form: fen
       class: "v"
       field: "Speaking"
       gloss: "to die"
       source: {kind: inherited}
       concept: die
+      native: [{text: 󱂵, enc: jurttengchouenc}]
     - form: den
       class: "v"
       field: "Speaking"
       gloss: "to sit"
       source: {kind: inherited}
       concept: sit
+      native: [{text: 󱂸, enc: jurttengchouenc}]
     - form: ki
       class: "v"
       field: "Speaking"
       gloss: "to stand"
       source: {kind: inherited}
       concept: stand
+      native: [{text: 󱂹, enc: jurttengchouenc}]
     - form: yen
       class: "v"
       field: "Speaking"
       gloss: "to lie down"
       source: {kind: inherited}
       concept: lie-down
+      native: [{text: 󱂺, enc: jurttengchouenc}]
     - form: hai
       class: v
       field: Speaking
       gloss: to bring, to carry
       source: {kind: inherited}
       concept: [bring, carry]
+      native: [{text: 󱂼, enc: jurttengchouenc}]
     - form: shin
       class: "v"
       field: "Speaking"
       gloss: "to lose"
       source: {kind: inherited}
       concept: lose
+      native: [{text: 󱂿, enc: jurttengchouenc}]
     - form: ka
       class: "v"
       field: "Speaking"
       gloss: "to open"
       source: {kind: inherited}
       concept: open
+      native: [{text: 󱃀, enc: jurttengchouenc}]
     - form: se
       class: "v"
       field: "Speaking"
       gloss: "to close, to shut"
       source: {kind: inherited}
       concept: close
+      native: [{text: 󱃁, enc: jurttengchouenc}]
     - form: chou
       class: "v"
       field: "Speaking"
       gloss: "to begin"
       source: {kind: inherited}
       concept: begin
+      native: [{text: 󱃂, enc: jurttengchouenc}]
     - form: hin
       class: "n"
       field: "Senses and passions"
       gloss: "love, to cherish"
       source: {kind: inherited}
+      native: [{text: 󱁡, enc: jurttengchouenc}]
     - form: mi
       class: n
       field: Rank, house and office
@@ -1747,31 +1911,37 @@ data:
       gloss: man; male
       source: {kind: inherited}
       concept: man
+      native: [{text: 󱁽, enc: jurttengchouenc}]
     - form: ma
       class: "n"
       field: "Needs and common things"
       gloss: "song"
       source: {kind: inherited}
+      native: [{text: 󱃇, enc: jurttengchouenc}]
     - form: da
       class: "n"
       field: "Needs and common things"
       gloss: "feather"
       source: {kind: inherited}
+      native: [{text: 󱃈, enc: jurttengchouenc}]
     - form: di
       class: "n"
       field: "Needs and common things"
       gloss: "drum"
       source: {kind: inherited}
+      native: [{text: 󱃊, enc: jurttengchouenc}]
     - form: tei
       class: "n"
       field: "Needs and common things"
       gloss: "ink"
       source: {kind: inherited}
+      native: [{text: 󱃋, enc: jurttengchouenc}]
     - form: go
       class: "n"
       field: "Needs and common things"
       gloss: "gourd"
       source: {kind: inherited}
+      native: [{text: 󱃌, enc: jurttengchouenc}]
     - form: ni
       class: n
       field: Needs and common things
@@ -1784,6 +1954,7 @@ data:
       field: "Needs and common things"
       gloss: "plum"
       source: {kind: inherited}
+      native: [{text: 󱃐, enc: jurttengchouenc}]
     - form: shi
       class: n
       field: Needs and common things
@@ -1812,12 +1983,14 @@ data:
       gloss: ["envy", "shutters"]
       source: {kind: coined}
       concept: [envy, shutters]
+      native: [{text: 󲀺󲀜󲁖, enc: jurttengchouenc}]
     - form: rezen
       class: "n"
       field: "Senses and passions"
       gloss: ["hope", "window"]
       source: {kind: coined}
       concept: [hope, window]
+      native: [{text: 󲁐󲀜󲁖, enc: jurttengchouenc}]
     - form: yeirou
       class: "n"
       field: "Senses and passions"
@@ -2145,41 +2318,48 @@ data:
       gloss: joy; felt delight and happiness
       source: {kind: inherited, language: skill-tantsoulng, form: hei}
       concept: [joy, happiness]
+      native: [{text: 󲀼󲀁, enc: jurttengchouenc}]
     - form: han
       class: n
       field: The body
       gloss: pain; physical hurting and, in compounds of the heart, emotional distress
       source: {kind: inherited, language: skill-tantsoulng, form: han}
       concept: pain
+      native: [{text: 󲀺󲁖, enc: jurttengchouenc}]
     - form: he
       class: adj
       field: Rites, honor and court
       gloss: true; real; corresponding to what actually is
       source: {kind: inherited, language: skill-tantsoulng, form: heng}
       concept: ["true", real]
+      native: [{text: 󲀼, enc: jurttengchouenc}]
     - form: rayo
       class: adj
       field: Rank, house and office
       gloss: good; favorable or ethically right in the context named
       source: {kind: coined}
       concept: [good, right-ethical]
+      native: [{text: 󲁍󲁌, enc: jurttengchouenc}]
     - form: rano
       class: adj
       field: Rank, house and office
       gloss: bad; harmful or ethically wrong in the context named
       source: {kind: coined}
       concept: [bad, wrong-ethical]
+      native: [{text: 󲁍󲀹, enc: jurttengchouenc}]
     - form: rino
       class: n
       field: Rites, honor and court
       gloss: association; company; a bond between people
       source: {kind: coined}
+      native: [{text: 󲁎󲀹, enc: jurttengchouenc}]
     - form: meno
       class: n
       field: Speaking
       gloss: occasion; a particular moment or instance
       source: {kind: coined}
       concept: moment
+      native: [{text: 󲁈󲀹, enc: jurttengchouenc}]
     - form: ye
       class: n
       field: Rites, honor and court
@@ -2190,30 +2370,35 @@ data:
       field: Rites, honor and court
       gloss: ability; capacity to perform an act
       source: {kind: inherited, language: skill-tantsoulng, form: yui}
+      native: [{text: 󲁋󲀁, enc: jurttengchouenc}]
     - form: jumo
       class: n
       field: Rites, honor and court
       gloss: thing; an object, matter or affair
       source: {kind: coined}
       concept: thing
+      native: [{text: 󲀠󲁉, enc: jurttengchouenc}]
     - form: jeno
       class: n
       field: Rites, honor and court
       gloss: cause; reason that explains an event
       source: {kind: coined}
       concept: [cause, reason]
+      native: [{text: 󲀡󲀹, enc: jurttengchouenc}]
     - form: jayo
       class: n
       field: Rites, honor and court
       gloss: intention; an aim deliberately held; a deliberate aim or an intended act, named as the intention itself
       source: {kind: coined}
       concept: purpose
+      native: [{text: 󲀞󲁌, enc: jurttengchouenc}]
     - form: chin
       class: n
       field: Senses and passions
       gloss: fear; apprehension of danger
       source: {kind: inherited, language: skill-tantsoulng, form: chin}
       concept: fear
+      native: [{text: 󲀬󲁖, enc: jurttengchouenc}]
     - form: de
       class: n
       field: Senses and passions
@@ -2222,80 +2407,95 @@ data:
         - shame; felt dishonor or humiliation. This separate reading is inherited from mainland deng; the other stated meanings retain their established use
       source: {kind: inherited, language: skill-tantsoulng, form: dye}
       concept: [sadness, shame]
+      native: [{text: 󲀳, enc: jurttengchouenc}]
     - form: dun
       class: n
       field: Senses and passions
       gloss: anger; angry feeling
       source: {kind: coined}
       concept: anger
+      native: [{text: 󲀲󲁖, enc: jurttengchouenc}]
     - form: din
       class: n
       field: Senses and passions
       gloss: hatred; lasting hostile feeling
       source: {kind: inherited, language: skill-tantsoulng, form: din}
       concept: hatred
+      native: [{text: 󲀱󲁖, enc: jurttengchouenc}]
     - form: deno
       class: n
       field: Rites, honor and court
       gloss: concern; caring attention to another's welfare
       source: {kind: coined}
+      native: [{text: 󲀳󲀹, enc: jurttengchouenc}]
     - form: reno
       class: n
       field: Rites, honor and court
       gloss: part; portion of a whole
       source: {kind: coined}
       concept: part
+      native: [{text: 󲁐󲀹, enc: jurttengchouenc}]
     - form: rendo
       class: n
       field: Rites, honor and court
       gloss: limit; boundary or point beyond which something does not extend
       source: {kind: coined}
+      native: [{text: 󲁐󲁖󲀴, enc: jurttengchouenc}]
     - form: rimo
       class: n
       field: Speaking
       gloss: side; a direction or aspect relative to something
       source: {kind: coined}
       concept: direction
+      native: [{text: 󲁎󲁉, enc: jurttengchouenc}]
     - form: mou
       class: n
       field: Rites, honor and court
       gloss: body; the physical body of a living being
       source: {kind: inherited, language: skill-tantsoulng, form: mau}
+      native: [{text: 󲁉󲀂, enc: jurttengchouenc}]
     - form: mui
       class: adj
       field: Speaking
       gloss: empty; containing none of the thing in question
       source: {kind: inherited, language: skill-tantsoulng, form: mwi}
+      native: [{text: 󲁇󲀁, enc: jurttengchouenc}]
     - form: me
       class: adj
       field: Speaking
       gloss: full; filled to capacity
       source: {kind: inherited, language: skill-tantsoulng, form: mye}
+      native: [{text: 󲁈, enc: jurttengchouenc}]
     - form: meru
       class: n
       field: Rites, honor and court
       gloss: outside; exterior
       source: {kind: coined}
+      native: [{text: 󲁈󲁏, enc: jurttengchouenc}]
     - form: miyo
       class: n
       field: Rites, honor and court
       gloss: weight; heaviness
       source: {kind: coined}
+      native: [{text: 󲁆󲁌, enc: jurttengchouenc}]
     - form: nai
       class: n
       field: Rites, honor and court
       gloss: upper part; region above
       source: {kind: inherited, language: skill-tantsoulng, form: nai}
+      native: [{text: 󲀵󲀁, enc: jurttengchouenc}]
     - form: nan
       class: n
       field: Rites, honor and court
       gloss: lower part; region below
       source: {kind: inherited, language: skill-tantsoulng, form: nan}
+      native: [{text: 󲀵󲁖, enc: jurttengchouenc}]
     - form: nun
       class: n
       field: Rites, honor and court
       gloss: point; a particular spot or position
       source: {kind: inherited, language: skill-tantsoulng, form: nwen}
+      native: [{text: 󲀷󲁖, enc: jurttengchouenc}]
     - form: ben
       class: v
       field: Speaking
@@ -2304,99 +2504,116 @@ data:
         - to remain; to stay as or where one is. This separate verb is inherited from mainland buen; the other stated meanings retain their established use
       source: {kind: inherited, language: skill-tantsoulng, form: ben}
       concept: [remain, need-verb]
+      native: [{text: 󲁃󲁖, enc: jurttengchouenc}]
     - form: bi
       class: v
       field: Speaking
       gloss: to stop; to cease an act or motion; as an urgent request, stop
       source: {kind: inherited, language: skill-tantsoulng, form: bing}
       concept: [stop, expression-stop]
+      native: [{text: 󲁁, enc: jurttengchouenc}]
     - form: bome
       class: v
       field: Speaking
       gloss: to wait; to stay while expecting someone or something; as a request, wait
       source: {kind: coined}
       concept: [wait, expression-wait]
+      native: [{text: 󲁄󲁈, enc: jurttengchouenc}]
     - form: beyo
       class: v
       field: Speaking
       gloss: to help; to assist another in doing or enduring something; as an urgent request, help
       source: {kind: coined}
       concept: [help, expression-help]
+      native: [{text: 󲁃󲁌, enc: jurttengchouenc}]
     - form: gi
       class: v
       field: Speaking
       gloss: to keep; to preserve or maintain
       source: {kind: inherited, language: skill-tantsoulng, form: gi}
+      native: [{text: 󲀋, enc: jurttengchouenc}]
     - form: gei
       class: v
       field: Speaking
       gloss: to seek; to search for someone or something
       source: {kind: inherited, language: skill-tantsoulng, form: gei}
       concept: search
+      native: [{text: 󲀍󲀁, enc: jurttengchouenc}]
     - form: ge
       class: n
       field: Rank, house and office
       gloss: command; an instruction that someone is to obey
       source: {kind: inherited, language: skill-tantsoulng, form: geng}
       concept: command-noun
+      native: [{text: 󲀍, enc: jurttengchouenc}]
     - form: gino
       class: n
       field: Rites, honor and court
       gloss: value; worth in use or exchange
       source: {kind: coined}
+      native: [{text: 󲀋󲀹, enc: jurttengchouenc}]
     - form: gono
       class: adj
       field: Senses and passions
       gloss: hard; resistant to pressure or bending
       source: {kind: coined}
       concept: hard-texture
+      native: [{text: 󲀎󲀹, enc: jurttengchouenc}]
     - form: geno
       class: adj
       field: Senses and passions
       gloss: soft; yielding to pressure
       source: {kind: coined}
       concept: soft
+      native: [{text: 󲀍󲀹, enc: jurttengchouenc}]
     - form: gayo
       class: adj
       field: Speaking
       gloss: quick; fast in movement or in carrying out an act
       source: {kind: coined}
       concept: fast
+      native: [{text: 󲀊󲁌, enc: jurttengchouenc}]
     - form: keyo
       class: adj
       field: Speaking
       gloss: slow; taking much time to move or act
       source: {kind: coined}
       concept: slow
+      native: [{text: 󲀈󲁌, enc: jurttengchouenc}]
     - form: kou
       class: adj
       field: Speaking
       gloss: long; extending far in space or time
       source: {kind: inherited, language: skill-tantsoulng, form: kau}
       concept: long
+      native: [{text: 󲀉󲀂, enc: jurttengchouenc}]
     - form: kuno
       class: adj
       field: Speaking
       gloss: short; extending little in space or time
       source: {kind: coined}
       concept: short
+      native: [{text: 󲀇󲀹, enc: jurttengchouenc}]
     - form: kan
       class: adj
       field: Speaking
       gloss: wide; broad from side to side
       source: {kind: inherited, language: skill-tantsoulng, form: kan}
       concept: wide
+      native: [{text: 󲀅󲁖, enc: jurttengchouenc}]
     - form: kino
       class: adj
       field: Speaking
       gloss: narrow; restricted from side to side
       source: {kind: coined}
       concept: narrow
+      native: [{text: 󲀆󲀹, enc: jurttengchouenc}]
     - form: kayo
       class: n
       field: Rites, honor and court
       gloss: strength; physical power or capacity to exert force
       source: {kind: coined}
+      native: [{text: 󲀅󲁌, enc: jurttengchouenc}]
     - form: fi
       class: adj
       field: The body
@@ -2421,6 +2638,7 @@ data:
       gloss: to grow; to increase in size or develop with life
       source: {kind: inherited, language: skill-tantsoulng, form: fan}
       concept: grow
+      native: [{text: 󲀾󲁖, enc: jurttengchouenc}]
     - form: fino
       class: v
       field: Speaking
@@ -2433,137 +2651,161 @@ data:
       gloss: to happen; to occur
       source: {kind: inherited, language: skill-tantsoulng, form: fwen}
       concept: happen
+      native: [{text: 󲀿󲁖, enc: jurttengchouenc}]
     - form: fayo
       class: v
       field: Speaking
       gloss: to trade; to exchange goods or services
       source: {kind: coined}
       concept: trade
+      native: [{text: 󲀾󲁌, enc: jurttengchouenc}]
     - form: kero
       class: v
       field: Speaking
       gloss: to separate; to part or release one thing from another
       source: {kind: coined}
+      native: [{text: 󲀈󲁑, enc: jurttengchouenc}]
     - form: yamo
       class: n
       field: Rites, honor and court
       gloss: shape; form or outward configuration
       source: {kind: coined}
+      native: [{text: 󲁊󲁉, enc: jurttengchouenc}]
     - form: suno
       class: n
       field: Rites, honor and court
       gloss: fatigue; bodily weariness after effort or loss of rest
       source: {kind: coined}
+      native: [{text: 󲀑󲀹, enc: jurttengchouenc}]
     - form: gou
       class: n
       field: Land, sea and sky
       gloss: stone; rock, the hard mineral material
       source: {kind: inherited, language: skill-tantsoulng, form: gau}
       concept: [stone, rock]
+      native: [{text: 󲀎󲀂, enc: jurttengchouenc}]
     - form: bino
       class: n
       field: Rites, honor and court
       gloss: grain; a small discrete particle or speck
       source: {kind: coined}
+      native: [{text: 󲁁󲀹, enc: jurttengchouenc}]
     - form: seyo
       class: n
       field: Rites, honor and court
       gloss: fiber; a slender strand, including a textile thread
       source: {kind: coined}
+      native: [{text: 󲀒󲁌, enc: jurttengchouenc}]
     - form: sha
       class: n
       field: Land, sea and sky
       gloss: sun; the sun seen in the sky
       source: {kind: inherited, language: skill-tantsoulng, form: sha}
       concept: sun
+      native: [{text: 󲀔, enc: jurttengchouenc}]
     - form: shun
       class: n
       field: Land, sea and sky
       gloss: plant; a living thing that grows rooted in the ground
       source: {kind: inherited, language: skill-tantsoulng, form: shwen}
       concept: plant
+      native: [{text: 󲀖󲁖, enc: jurttengchouenc}]
     - form: sono
       class: n
       field: Land, sea and sky
       gloss: animal; beast, an animal other than a person in ordinary usage
       source: {kind: coined}
       concept: [animal, beast]
+      native: [{text: 󲀓󲀹, enc: jurttengchouenc}]
     - form: tin
       class: v
       field: Speaking
       gloss: to strike; to hit with a blow
       source: {kind: inherited, language: skill-tantsoulng, form: tin}
       concept: hit
+      native: [{text: 󲀤󲁖, enc: jurttengchouenc}]
     - form: teyo
       class: v
       field: Speaking
       gloss: to change; to turn into a different state or form
       source: {kind: coined}
       concept: change-verb
+      native: [{text: 󲀥󲁌, enc: jurttengchouenc}]
     - form: cha
       class: v
       field: Speaking
       gloss: to send; to cause a person or thing to go to a destination
       source: {kind: inherited, language: skill-tantsoulng, form: cha}
+      native: [{text: 󲀫, enc: jurttengchouenc}]
     - form: she
       class: pron
       field: Speaking
       gloss: you; the person or persons addressed
       source: {kind: inherited, language: skill-tantsoulng, form: shye}
       concept: you-reference
+      native: [{text: 󲀗, enc: jurttengchouenc}]
     - form: weya
       class: dem
       field: Speaking
       gloss: this; these, the near or currently indicated referent
       source: {kind: coined}
       concept: [this, these]
+      native: [{text: 󲁔󲁊, enc: jurttengchouenc}]
     - form: shei
       class: dem
       field: Speaking
       gloss: that; those, a farther or previously indicated referent
       source: {kind: inherited, language: skill-tantsoulng, form: shei}
       concept: [that, those]
+      native: [{text: 󲀗󲀁, enc: jurttengchouenc}]
     - form: sheno
       class: adj
       field: Speaking
       gloss: other; additional or distinct from the person or thing in question
       source: {kind: coined}
       concept: other
+      native: [{text: 󲀗󲀹, enc: jurttengchouenc}]
     - form: shoyo
       class: adj
       field: Speaking
       gloss: different; unlike in identity, form or quality
       source: {kind: coined}
       concept: different
+      native: [{text: 󲀘󲁌, enc: jurttengchouenc}]
     - form: shayo
       class: adj
       field: Speaking
       gloss: same; identical in identity or in the respect being compared
       source: {kind: coined}
       concept: same
+      native: [{text: 󲀔󲁌, enc: jurttengchouenc}]
     - form: so
       class: adj
       field: Number and color
       gloss: whole; all, the complete thing or the entire relevant set
       source: {kind: inherited, language: skill-tantsoulng, form: so}
       concept: [whole, all]
+      native: [{text: 󲀓, enc: jurttengchouenc}]
     - form: sui
       class: adj
       field: Number and color
       gloss: more; greater in quantity or degree. Ren tsure sui nou means more people than two, with ren as the count being exceeded and nou as the persons counted
       source: {kind: inherited, language: skill-tantsoulng, form: swi}
       concept: more
+      native: [{text: 󲀑󲀁, enc: jurttengchouenc}]
     - form: tsume
       class: part
       field: Speaking
       gloss: "to; toward. The destination precedes this word: zo tsume means toward the house"
       source: {kind: coined}
+      native: [{text: 󲀨󲁈, enc: jurttengchouenc}]
     - form: tsure
       class: part
       field: Speaking
       gloss: "than; compared with. The comparison standard precedes this word: ren tsure sui nou means more people than two"
       source: {kind: coined}
       concept: than
+      native: [{text: 󲀨󲁐, enc: jurttengchouenc}]
     - form: win
       class: part
       field: Speaking
@@ -2587,24 +2829,28 @@ data:
       gloss: or; marking alternatives
       source: {kind: inherited, language: skill-tantsoulng, form: tsa}
       concept: or
+      native: [{text: 󲀧, enc: jurttengchouenc}]
     - form: tsou
       class: conj
       field: Speaking
       gloss: but; however; nevertheless, connecting a contrast or maintaining a course despite a contrary circumstance. Yan ri shu ku jo; tsou tsei ku du reme ben means rain falls; nevertheless I remain on the road
       source: {kind: inherited, language: skill-tantsoulng, form: tsau}
       concept: [but, however, nevertheless]
+      native: [{text: 󲀪󲀂, enc: jurttengchouenc}]
     - form: tsome
       class: conj
       field: Speaking
       gloss: because; after the cause clause. Yan ri shu ku jo tsome nou ku zo reme ben means because rain falls, people stay home
       source: {kind: coined}
       concept: because
+      native: [{text: 󲀪󲁈, enc: jurttengchouenc}]
     - form: shome
       class: conj
       field: Speaking
       gloss: if; after the condition. Yan ri shu ku jo shome nou ku zo reme ben means if rain falls, people stay home
       source: {kind: coined}
       concept: if
+      native: [{text: 󲀘󲁈, enc: jurttengchouenc}]
     - form: tsin
       class: pron
       field: Speaking
@@ -2619,34 +2865,40 @@ data:
       gloss: some; an unspecified nonzero portion or number
       source: {kind: inherited, language: skill-tantsoulng, form: wau}
       concept: some
+      native: [{text: 󲁕󲀂, enc: jurttengchouenc}]
     - form: bou
       class: call
       field: Speaking
       gloss: yes; affirmation of a question or acceptance of a proposal
       source: {kind: inherited, language: skill-tantsoulng, form: bau}
       concept: yes
+      native: [{text: 󲁄󲀂, enc: jurttengchouenc}]
     - form: heno
       class: n
       field: Rites, honor and court
       gloss: possibility; a chance that an event can occur, independent of anyone's ability or permission
       source: {kind: coined}
+      native: [{text: 󲀼󲀹, enc: jurttengchouenc}]
     - form: jun
       class: n
       field: Rites, honor and court
       gloss: duty; obligation to perform an act
       source: {kind: coined}
+      native: [{text: 󲀠󲁖, enc: jurttengchouenc}]
     - form: buno
       class: adj
       field: Rites, honor and court
       gloss: false; untrue; unreal when describing an apparent thing that does not exist
       source: {kind: coined}
       concept: ["false", unreal]
+      native: [{text: 󲁂󲀹, enc: jurttengchouenc}]
     - form: gin
       class: adj
       field: Rites, honor and court
       gloss: natural; arising through the ordinary workings of living things or the physical world
       source: {kind: inherited, language: skill-tantsoulng, form: gin}
       concept: natural
+      native: [{text: 󲀋󲁖, enc: jurttengchouenc}]
     - form: mou ri je
       class: n
       field: Senses and passions
