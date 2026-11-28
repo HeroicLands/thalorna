@@ -28,12 +28,12 @@ Here nobody says no. A thing is only not yet sealed.
 teng tou kwo chwo shau, chwo shau mong lwen./
 tsi tsi tsou tsei chwo kai, tsi tsi chwo tsei sei kai./
 kwo gwi tei ra, shwi gwi tei dwi,/
-fei gou nye, dou sei chou tsi nye mong shin./
+fei gou nye, dou zhong chou tsi nye mong shin./
 rong ho zheng chai rwen./
 tsi tsi sen zhau mou, tsi tsi gan wan,/
 wan kwolei gwin, zhan dwi shwi nye hai./
-wan mong kai nau, teng tou mong dei./
-tsi nong mong dei mong ya. mong lwen dei.
+wan mong kai nau, teng tou nau mong lwen./
+mong yei ya nong mong dei. mong lwen dei.
 :::
 
 The [[affiliation-tantsouempr|Empire of Tantsou]] is the oldest continuously governed state in the world, a realm of river basins, terraced hills and crowded cities in the far east of [[place-ankrscntnnt|Ankaris]], with some 120 million people on its rolls. It holds that the cosmos was made by sorting, that the sorting is unfinished, and that every person's work is to keep the sorted world apart from the unsorted. Its Emperor is the Son of Heaven, holder of the [[lore-mandatehvn|Mandate of Heaven]], who reigns from the capital of [[place-zhowen|Zhowen]]; its gods are a celestial bureaucracy that the imperial bureaucracy mirrors; and its people live in eight castes that fix their trade, dress, marriage and the name, if any, they may bear. To the frontier clerk you are a document that arrived without a filing number.
